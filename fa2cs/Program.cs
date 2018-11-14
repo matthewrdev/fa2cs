@@ -7,15 +7,10 @@ namespace fa2cs
 {
     class MainClass
     {
+        public const string FontAwesomeIconsFileName = "FontAwesomeIcons.cs";
+
         public static async Task Main(string[] args)
         {
-            if (args.Length == 0)
-            {
-                throw new InvalidOperationException("Please provide a file to output");
-            }
-
-            var outputFile = args[0];
-
             var downloader = new FontAwesomeDownloader();
             var writer = new CodeWriter();
 
@@ -23,7 +18,7 @@ namespace fa2cs
 
             var code = writer.Write(result);
 
-            var outputFilePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), outputFile);
+            var outputFilePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), FontAwesomeIconsFileName);
 
             File.WriteAllText(outputFilePath, code);
 

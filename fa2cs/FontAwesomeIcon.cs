@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using fa2cs.Helpers;
 using QuickType;
@@ -7,6 +8,11 @@ namespace fa2cs
 {
     public class FontAwesomeIcon
     {
+        public static readonly IReadOnlyDictionary<string, string> DotNetNameMap = new Dictionary<string, string>()
+        {
+            { "500px", "FiveHundredPX"},
+        };
+
         public FontAwesomeIcon(Datum datum)
         {
             var attr = datum.Attributes;
@@ -28,15 +34,20 @@ namespace fa2cs
         {
             get
             {
-                var split = Name.Split('-');
-
-                string name = "";
-                foreach (var s in split)
+                if (DotNetNameMap.ContainsKey(Name))
                 {
-                    name += StringHelper.FirstCharToUpper(s);
+                    return DotNetNameMap[Name];
                 }
 
-                return name;
+                var split = Name.Split('-');
+
+                string dotNetName = "";
+                foreach (var s in split)
+                {
+                    dotNetName += StringHelper.FirstCharToUpper(s);
+                }
+
+                return dotNetName;
             }
         }
 

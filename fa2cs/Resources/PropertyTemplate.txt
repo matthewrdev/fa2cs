@@ -1,5 +1,5 @@
 ﻿        /// <summary>
-        /// Unicode string for fa-$name$.
+        /// fa-$name$ unicode value.
         /// <para/>
         /// This icon supports the following styles: $styles$
         /// <para/>
