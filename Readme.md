@@ -49,6 +49,8 @@ Voila! All done!
 
 `FontAwesomeIcons.cs` is one file that will rarely change... Is an entire package dependency really necessary for one file? 🤔
 
+If you think it is, please raise an issue against this repository.
+
 # Credits
 
  * [Font Awesome](https://fontawesome.com/): The amazing Font Awesome icon set.
