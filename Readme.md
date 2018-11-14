@@ -7,13 +7,13 @@ Use FontAwesome To C# to replace confusing and arcane unicode strings with a cle
 This:
 
 ```
-submitButton.Text = "/uf00c";
+submitButton.Text = "/uf00c"; // Huh? What icon is this? What font is it from? 😭
 ```
 
 Becomes this:
 
 ```
-submitButton.Text = FontAwesome.FontAwesomeIcons.Check;
+submitButton.Text = FontAwesome.FontAwesomeIcons.Check; // Obviously a check/tick icon! 😊👍
 ```
 
 # Using FontAwesome To C#
@@ -45,3 +45,4 @@ Voila! All done!
 
  * [Font Awesome](https://fontawesome.com/): The amazing Font Awesome icon set.
  * [HtmlAgility Pack](https://html-agility-pack.net/): Used for crawling www.fontawesome.com 🙈
+ * [QuickType](https://quicktype.io/): Used to generate a C# model to consume https://fontawesome.com/cheatsheet.
