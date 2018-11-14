@@ -1,8 +1,12 @@
-# About FontAwesome To C#
+# About
 
-FontAwesome To C# (fa2cs) creates a C# file, [FontAwesomeIcons.cs](FontAwesomeIcons.cs), that contains string constants for all FontAwesome icon codes.
+FontAwesome To C# creates a C# file that contains string constants for all FontAwesome icon codes.
 
-Use FontAwesome To C# to replace confusing and arcane unicode strings with a clean and descriptive property assignment for more readable and maintainable code.
+**[Get FontAwesomeIcons.cs here](FontAwesomeIcons.cs)**
+
+# Benefits
+
+Use FontAwesome To C# to replace confusing and arcane unicode strings with a clean and descriptive property assignment.
 
 This:
 
@@ -16,9 +20,13 @@ Becomes this:
 submitButton.Text = FontAwesome.FontAwesomeIcons.Check; // Obviously a check/tick icon! 😊👍
 ```
 
+The end result is cleaner, more readable and more maintainable code.
+
 # Using FontAwesome To C#
 
-It's super easy to use FontAwesome To C#... Simply download [FontAwesomeIcons.cs](FontAwesomeIcons.cs) and place it into your project:
+It's super easy to use FontAwesome To C#. 
+
+Simply download [FontAwesomeIcons.cs](FontAwesomeIcons.cs) and place it into your project:
 
 ![Placing FontAwesomeIcons.cs inside a C# project](img/usage.png)
 
