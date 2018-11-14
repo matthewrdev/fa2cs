@@ -21,14 +21,14 @@ namespace fa2cs
             Unicode = attr.Unicode;
             Url = "https://fontawesome.com/icons/" + attr.Id;
             Styles = attr.Styles?.ToList() ?? new List<Style>();
-            PaidStyles = attr.Membership?.Pro?.ToList() ?? new List<Style>();
+            Membership = attr.Membership;
         }
 
         public string Name { get; }
         public string Unicode { get; }
         public string Url { get; }
         public List<Style> Styles { get; }
-        public List<Style> PaidStyles { get; }
+        public Membership Membership { get; }
 
         public string DotNetName
         {
@@ -57,12 +57,11 @@ namespace fa2cs
             {
                 List<Style> all = new List<Style>();
                 all.AddRange(Styles);
-                all.AddRange(PaidStyles);
                 var distinct = all.Distinct().ToList();
 
                 distinct.Sort();
 
-                var styles = distinct.Select(d => d.ToString() + (PaidStyles.Contains(d) ? " (Pro)" : ""));
+                var styles = distinct.Select(d => d.ToString() + ((Membership.Pro.Contains(d) && !Membership.Free.Contains(d)) ? " (Pro)" : ""));
 
                 return string.Join(", ", styles);
             }

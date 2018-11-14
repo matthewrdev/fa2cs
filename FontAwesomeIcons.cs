@@ -14,7 +14,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-500px unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/500px
         /// </summary>
@@ -32,7 +32,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-accessible-icon unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/accessible-icon
         /// </summary>
@@ -41,7 +41,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-accusoft unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/accusoft
         /// </summary>
@@ -59,7 +59,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-acquisitions-incorporated unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/acquisitions-incorporated
         /// </summary>
@@ -68,7 +68,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ad unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ad
         /// </summary>
@@ -77,7 +77,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-address-book unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/address-book
         /// </summary>
@@ -86,7 +86,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-address-card unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/address-card
         /// </summary>
@@ -95,7 +95,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-adjust unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/adjust
         /// </summary>
@@ -104,7 +104,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-adn unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/adn
         /// </summary>
@@ -113,7 +113,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-adversal unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/adversal
         /// </summary>
@@ -122,7 +122,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-affiliatetheme unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/affiliatetheme
         /// </summary>
@@ -131,7 +131,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-air-freshener unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/air-freshener
         /// </summary>
@@ -149,7 +149,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-algolia unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/algolia
         /// </summary>
@@ -167,7 +167,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-align-center unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/align-center
         /// </summary>
@@ -176,7 +176,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-align-justify unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/align-justify
         /// </summary>
@@ -185,7 +185,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-align-left unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/align-left
         /// </summary>
@@ -194,7 +194,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-align-right unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/align-right
         /// </summary>
@@ -203,7 +203,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-alipay unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/alipay
         /// </summary>
@@ -212,7 +212,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-allergies unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/allergies
         /// </summary>
@@ -221,7 +221,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-amazon unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/amazon
         /// </summary>
@@ -230,7 +230,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-amazon-pay unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/amazon-pay
         /// </summary>
@@ -239,7 +239,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ambulance unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ambulance
         /// </summary>
@@ -248,7 +248,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-american-sign-language-interpreting unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/american-sign-language-interpreting
         /// </summary>
@@ -257,7 +257,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-amilia unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/amilia
         /// </summary>
@@ -275,7 +275,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-anchor unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/anchor
         /// </summary>
@@ -284,7 +284,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-android unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/android
         /// </summary>
@@ -293,7 +293,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-angellist unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/angellist
         /// </summary>
@@ -302,7 +302,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-angle-double-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/angle-double-down
         /// </summary>
@@ -311,7 +311,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-angle-double-left unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/angle-double-left
         /// </summary>
@@ -320,7 +320,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-angle-double-right unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/angle-double-right
         /// </summary>
@@ -329,7 +329,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-angle-double-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/angle-double-up
         /// </summary>
@@ -338,7 +338,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-angle-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/angle-down
         /// </summary>
@@ -347,7 +347,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-angle-left unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/angle-left
         /// </summary>
@@ -356,7 +356,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-angle-right unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/angle-right
         /// </summary>
@@ -365,7 +365,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-angle-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/angle-up
         /// </summary>
@@ -374,7 +374,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-angry unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/angry
         /// </summary>
@@ -383,7 +383,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-angrycreative unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/angrycreative
         /// </summary>
@@ -392,7 +392,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-angular unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/angular
         /// </summary>
@@ -401,7 +401,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ankh unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ankh
         /// </summary>
@@ -410,7 +410,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-app-store unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/app-store
         /// </summary>
@@ -419,7 +419,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-app-store-ios unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/app-store-ios
         /// </summary>
@@ -428,7 +428,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-apper unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/apper
         /// </summary>
@@ -437,7 +437,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-apple unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/apple
         /// </summary>
@@ -446,7 +446,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-apple-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/apple-alt
         /// </summary>
@@ -464,7 +464,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-apple-pay unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/apple-pay
         /// </summary>
@@ -473,7 +473,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-archive unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/archive
         /// </summary>
@@ -482,7 +482,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-archway unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/archway
         /// </summary>
@@ -491,7 +491,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-arrow-alt-circle-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-alt-circle-down
         /// </summary>
@@ -500,7 +500,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-arrow-alt-circle-left unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-alt-circle-left
         /// </summary>
@@ -509,7 +509,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-arrow-alt-circle-right unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-alt-circle-right
         /// </summary>
@@ -518,7 +518,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-arrow-alt-circle-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-alt-circle-up
         /// </summary>
@@ -671,7 +671,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-arrow-circle-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-circle-down
         /// </summary>
@@ -680,7 +680,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-arrow-circle-left unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-circle-left
         /// </summary>
@@ -689,7 +689,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-arrow-circle-right unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-circle-right
         /// </summary>
@@ -698,7 +698,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-arrow-circle-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-circle-up
         /// </summary>
@@ -707,7 +707,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-arrow-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down
         /// </summary>
@@ -752,7 +752,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-arrow-left unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-left
         /// </summary>
@@ -761,7 +761,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-arrow-right unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-right
         /// </summary>
@@ -842,7 +842,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-arrow-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up
         /// </summary>
@@ -860,7 +860,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-arrows-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-alt
         /// </summary>
@@ -869,7 +869,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-arrows-alt-h unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-alt-h
         /// </summary>
@@ -878,7 +878,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-arrows-alt-v unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-alt-v
         /// </summary>
@@ -905,7 +905,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-assistive-listening-systems unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/assistive-listening-systems
         /// </summary>
@@ -914,7 +914,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-asterisk unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/asterisk
         /// </summary>
@@ -923,7 +923,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-asymmetrik unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/asymmetrik
         /// </summary>
@@ -932,7 +932,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-at unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/at
         /// </summary>
@@ -941,7 +941,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-atlas unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/atlas
         /// </summary>
@@ -950,7 +950,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-atom unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/atom
         /// </summary>
@@ -968,7 +968,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-audible unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/audible
         /// </summary>
@@ -977,7 +977,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-audio-description unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/audio-description
         /// </summary>
@@ -986,7 +986,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-autoprefixer unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/autoprefixer
         /// </summary>
@@ -995,7 +995,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-avianex unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/avianex
         /// </summary>
@@ -1004,7 +1004,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-aviato unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/aviato
         /// </summary>
@@ -1013,7 +1013,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-award unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/award
         /// </summary>
@@ -1022,7 +1022,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-aws unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/aws
         /// </summary>
@@ -1058,7 +1058,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-backspace unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/backspace
         /// </summary>
@@ -1067,7 +1067,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-backward unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/backward
         /// </summary>
@@ -1121,7 +1121,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-balance-scale unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/balance-scale
         /// </summary>
@@ -1166,7 +1166,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ban unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ban
         /// </summary>
@@ -1175,7 +1175,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-band-aid unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/band-aid
         /// </summary>
@@ -1184,7 +1184,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bandcamp unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/bandcamp
         /// </summary>
@@ -1193,7 +1193,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-barcode unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/barcode
         /// </summary>
@@ -1229,7 +1229,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bars unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bars
         /// </summary>
@@ -1247,7 +1247,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-baseball-ball unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/baseball-ball
         /// </summary>
@@ -1256,7 +1256,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-basketball-ball unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/basketball-ball
         /// </summary>
@@ -1283,7 +1283,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bath unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bath
         /// </summary>
@@ -1301,7 +1301,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-battery-empty unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/battery-empty
         /// </summary>
@@ -1310,7 +1310,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-battery-full unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/battery-full
         /// </summary>
@@ -1319,7 +1319,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-battery-half unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/battery-half
         /// </summary>
@@ -1328,7 +1328,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-battery-quarter unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/battery-quarter
         /// </summary>
@@ -1346,7 +1346,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-battery-three-quarters unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/battery-three-quarters
         /// </summary>
@@ -1355,7 +1355,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bed unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bed
         /// </summary>
@@ -1364,7 +1364,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-beer unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/beer
         /// </summary>
@@ -1373,7 +1373,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-behance unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/behance
         /// </summary>
@@ -1382,7 +1382,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-behance-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/behance-square
         /// </summary>
@@ -1391,7 +1391,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bell unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bell
         /// </summary>
@@ -1418,7 +1418,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bell-slash unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bell-slash
         /// </summary>
@@ -1427,7 +1427,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bezier-curve unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bezier-curve
         /// </summary>
@@ -1436,7 +1436,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bible unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bible
         /// </summary>
@@ -1445,7 +1445,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bicycle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bicycle
         /// </summary>
@@ -1454,7 +1454,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bimobject unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/bimobject
         /// </summary>
@@ -1463,7 +1463,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-binoculars unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/binoculars
         /// </summary>
@@ -1472,7 +1472,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-birthday-cake unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/birthday-cake
         /// </summary>
@@ -1481,7 +1481,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bitbucket unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/bitbucket
         /// </summary>
@@ -1490,7 +1490,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bitcoin unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/bitcoin
         /// </summary>
@@ -1499,7 +1499,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bity unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/bity
         /// </summary>
@@ -1508,7 +1508,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-black-tie unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/black-tie
         /// </summary>
@@ -1517,7 +1517,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-blackberry unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/blackberry
         /// </summary>
@@ -1535,7 +1535,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-blender unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/blender
         /// </summary>
@@ -1544,7 +1544,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-blender-phone unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/blender-phone
         /// </summary>
@@ -1553,7 +1553,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-blind unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/blind
         /// </summary>
@@ -1562,7 +1562,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-blogger unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/blogger
         /// </summary>
@@ -1571,7 +1571,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-blogger-b unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/blogger-b
         /// </summary>
@@ -1580,7 +1580,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bluetooth unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/bluetooth
         /// </summary>
@@ -1589,7 +1589,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bluetooth-b unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/bluetooth-b
         /// </summary>
@@ -1598,7 +1598,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bold unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bold
         /// </summary>
@@ -1607,7 +1607,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bolt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bolt
         /// </summary>
@@ -1616,7 +1616,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bomb unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bomb
         /// </summary>
@@ -1625,7 +1625,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bone unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bone
         /// </summary>
@@ -1643,7 +1643,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bong unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bong
         /// </summary>
@@ -1652,7 +1652,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-book unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/book
         /// </summary>
@@ -1670,7 +1670,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-book-dead unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/book-dead
         /// </summary>
@@ -1688,7 +1688,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-book-open unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/book-open
         /// </summary>
@@ -1697,7 +1697,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-book-reader unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/book-reader
         /// </summary>
@@ -1715,7 +1715,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bookmark unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bookmark
         /// </summary>
@@ -1751,7 +1751,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bowling-ball unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bowling-ball
         /// </summary>
@@ -1769,7 +1769,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-box unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/box
         /// </summary>
@@ -1832,7 +1832,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-box-open unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/box-open
         /// </summary>
@@ -1859,7 +1859,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-boxes unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/boxes
         /// </summary>
@@ -1886,7 +1886,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-braille unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/braille
         /// </summary>
@@ -1895,7 +1895,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-brain unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/brain
         /// </summary>
@@ -1904,7 +1904,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-briefcase unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/briefcase
         /// </summary>
@@ -1913,7 +1913,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-briefcase-medical unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/briefcase-medical
         /// </summary>
@@ -1922,7 +1922,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-broadcast-tower unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/broadcast-tower
         /// </summary>
@@ -1931,7 +1931,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-broom unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/broom
         /// </summary>
@@ -1949,7 +1949,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-brush unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/brush
         /// </summary>
@@ -1958,7 +1958,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-btc unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/btc
         /// </summary>
@@ -1967,7 +1967,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bug unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bug
         /// </summary>
@@ -1976,7 +1976,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-building unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/building
         /// </summary>
@@ -1985,7 +1985,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bullhorn unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bullhorn
         /// </summary>
@@ -1994,7 +1994,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bullseye unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bullseye
         /// </summary>
@@ -2021,7 +2021,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-burn unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/burn
         /// </summary>
@@ -2030,7 +2030,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-buromobelexperte unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/buromobelexperte
         /// </summary>
@@ -2039,7 +2039,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bus unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bus
         /// </summary>
@@ -2048,7 +2048,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-bus-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/bus-alt
         /// </summary>
@@ -2066,7 +2066,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-business-time unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/business-time
         /// </summary>
@@ -2075,7 +2075,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-buysellads unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/buysellads
         /// </summary>
@@ -2093,7 +2093,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-calculator unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/calculator
         /// </summary>
@@ -2111,7 +2111,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-calendar unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/calendar
         /// </summary>
@@ -2120,7 +2120,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-calendar-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-alt
         /// </summary>
@@ -2129,7 +2129,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-calendar-check unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-check
         /// </summary>
@@ -2156,7 +2156,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-calendar-minus unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-minus
         /// </summary>
@@ -2165,7 +2165,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-calendar-plus unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-plus
         /// </summary>
@@ -2183,7 +2183,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-calendar-times unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-times
         /// </summary>
@@ -2192,7 +2192,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-camera unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/camera
         /// </summary>
@@ -2210,7 +2210,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-camera-retro unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/camera-retro
         /// </summary>
@@ -2228,7 +2228,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-campground unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/campground
         /// </summary>
@@ -2255,7 +2255,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cannabis unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cannabis
         /// </summary>
@@ -2264,7 +2264,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-capsules unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/capsules
         /// </summary>
@@ -2273,7 +2273,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-car unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/car
         /// </summary>
@@ -2282,7 +2282,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-car-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/car-alt
         /// </summary>
@@ -2291,7 +2291,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-car-battery unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/car-battery
         /// </summary>
@@ -2309,7 +2309,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-car-crash unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/car-crash
         /// </summary>
@@ -2336,7 +2336,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-car-side unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/car-side
         /// </summary>
@@ -2399,7 +2399,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-caret-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/caret-down
         /// </summary>
@@ -2408,7 +2408,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-caret-left unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/caret-left
         /// </summary>
@@ -2417,7 +2417,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-caret-right unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/caret-right
         /// </summary>
@@ -2426,7 +2426,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-caret-square-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/caret-square-down
         /// </summary>
@@ -2435,7 +2435,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-caret-square-left unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/caret-square-left
         /// </summary>
@@ -2444,7 +2444,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-caret-square-right unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/caret-square-right
         /// </summary>
@@ -2453,7 +2453,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-caret-square-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/caret-square-up
         /// </summary>
@@ -2462,7 +2462,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-caret-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/caret-up
         /// </summary>
@@ -2471,7 +2471,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cart-arrow-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cart-arrow-down
         /// </summary>
@@ -2480,7 +2480,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cart-plus unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cart-plus
         /// </summary>
@@ -2489,7 +2489,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cat unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cat
         /// </summary>
@@ -2507,7 +2507,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cc-amazon-pay unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/cc-amazon-pay
         /// </summary>
@@ -2516,7 +2516,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cc-amex unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/cc-amex
         /// </summary>
@@ -2525,7 +2525,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cc-apple-pay unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/cc-apple-pay
         /// </summary>
@@ -2534,7 +2534,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cc-diners-club unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/cc-diners-club
         /// </summary>
@@ -2543,7 +2543,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cc-discover unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/cc-discover
         /// </summary>
@@ -2552,7 +2552,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cc-jcb unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/cc-jcb
         /// </summary>
@@ -2561,7 +2561,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cc-mastercard unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/cc-mastercard
         /// </summary>
@@ -2570,7 +2570,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cc-paypal unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/cc-paypal
         /// </summary>
@@ -2579,7 +2579,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cc-stripe unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/cc-stripe
         /// </summary>
@@ -2588,7 +2588,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cc-visa unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/cc-visa
         /// </summary>
@@ -2597,7 +2597,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-centercode unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/centercode
         /// </summary>
@@ -2606,7 +2606,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-certificate unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/certificate
         /// </summary>
@@ -2615,7 +2615,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chair unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chair
         /// </summary>
@@ -2633,7 +2633,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chalkboard unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chalkboard
         /// </summary>
@@ -2642,7 +2642,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chalkboard-teacher unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chalkboard-teacher
         /// </summary>
@@ -2651,7 +2651,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-charging-station unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/charging-station
         /// </summary>
@@ -2660,7 +2660,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chart-area unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chart-area
         /// </summary>
@@ -2669,7 +2669,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chart-bar unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chart-bar
         /// </summary>
@@ -2678,7 +2678,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chart-line unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chart-line
         /// </summary>
@@ -2696,7 +2696,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chart-pie unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chart-pie
         /// </summary>
@@ -2714,7 +2714,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-check unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/check
         /// </summary>
@@ -2723,7 +2723,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-check-circle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/check-circle
         /// </summary>
@@ -2732,7 +2732,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-check-double unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/check-double
         /// </summary>
@@ -2741,7 +2741,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-check-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/check-square
         /// </summary>
@@ -2750,7 +2750,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chess unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chess
         /// </summary>
@@ -2759,7 +2759,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chess-bishop unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chess-bishop
         /// </summary>
@@ -2777,7 +2777,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chess-board unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chess-board
         /// </summary>
@@ -2804,7 +2804,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chess-king unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chess-king
         /// </summary>
@@ -2822,7 +2822,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chess-knight unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chess-knight
         /// </summary>
@@ -2840,7 +2840,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chess-pawn unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chess-pawn
         /// </summary>
@@ -2858,7 +2858,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chess-queen unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chess-queen
         /// </summary>
@@ -2876,7 +2876,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chess-rook unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chess-rook
         /// </summary>
@@ -2894,7 +2894,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chevron-circle-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chevron-circle-down
         /// </summary>
@@ -2903,7 +2903,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chevron-circle-left unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chevron-circle-left
         /// </summary>
@@ -2912,7 +2912,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chevron-circle-right unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chevron-circle-right
         /// </summary>
@@ -2921,7 +2921,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chevron-circle-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chevron-circle-up
         /// </summary>
@@ -2966,7 +2966,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chevron-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chevron-down
         /// </summary>
@@ -2975,7 +2975,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chevron-left unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chevron-left
         /// </summary>
@@ -2984,7 +2984,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chevron-right unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chevron-right
         /// </summary>
@@ -3029,7 +3029,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chevron-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/chevron-up
         /// </summary>
@@ -3038,7 +3038,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-child unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/child
         /// </summary>
@@ -3047,7 +3047,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-chrome unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/chrome
         /// </summary>
@@ -3056,7 +3056,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-church unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/church
         /// </summary>
@@ -3065,7 +3065,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-circle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/circle
         /// </summary>
@@ -3074,7 +3074,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-circle-notch unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/circle-notch
         /// </summary>
@@ -3083,7 +3083,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-city unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/city
         /// </summary>
@@ -3101,7 +3101,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-clipboard unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/clipboard
         /// </summary>
@@ -3110,7 +3110,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-clipboard-check unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/clipboard-check
         /// </summary>
@@ -3119,7 +3119,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-clipboard-list unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/clipboard-list
         /// </summary>
@@ -3146,7 +3146,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-clock unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/clock
         /// </summary>
@@ -3155,7 +3155,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-clone unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/clone
         /// </summary>
@@ -3164,7 +3164,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-closed-captioning unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/closed-captioning
         /// </summary>
@@ -3173,7 +3173,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cloud unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cloud
         /// </summary>
@@ -3191,7 +3191,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cloud-download-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-download-alt
         /// </summary>
@@ -3227,7 +3227,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cloud-meatball unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-meatball
         /// </summary>
@@ -3236,7 +3236,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cloud-moon unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-moon
         /// </summary>
@@ -3245,7 +3245,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cloud-moon-rain unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-moon-rain
         /// </summary>
@@ -3254,7 +3254,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cloud-rain unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-rain
         /// </summary>
@@ -3281,7 +3281,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cloud-showers-heavy unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-showers-heavy
         /// </summary>
@@ -3308,7 +3308,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cloud-sun unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-sun
         /// </summary>
@@ -3317,7 +3317,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cloud-sun-rain unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-sun-rain
         /// </summary>
@@ -3335,7 +3335,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cloud-upload-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-upload-alt
         /// </summary>
@@ -3371,7 +3371,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cloudscale unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/cloudscale
         /// </summary>
@@ -3380,7 +3380,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cloudsmith unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/cloudsmith
         /// </summary>
@@ -3389,7 +3389,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cloudversify unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/cloudversify
         /// </summary>
@@ -3407,7 +3407,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cocktail unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cocktail
         /// </summary>
@@ -3416,7 +3416,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-code unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/code
         /// </summary>
@@ -3425,7 +3425,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-code-branch unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/code-branch
         /// </summary>
@@ -3452,7 +3452,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-codepen unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/codepen
         /// </summary>
@@ -3461,7 +3461,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-codiepie unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/codiepie
         /// </summary>
@@ -3470,7 +3470,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-coffee unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/coffee
         /// </summary>
@@ -3497,7 +3497,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cog unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cog
         /// </summary>
@@ -3506,7 +3506,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cogs unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cogs
         /// </summary>
@@ -3515,7 +3515,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-coins unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/coins
         /// </summary>
@@ -3524,7 +3524,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-columns unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/columns
         /// </summary>
@@ -3533,7 +3533,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-comment unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/comment
         /// </summary>
@@ -3542,7 +3542,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-comment-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/comment-alt
         /// </summary>
@@ -3659,7 +3659,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-comment-dollar unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/comment-dollar
         /// </summary>
@@ -3668,7 +3668,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-comment-dots unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/comment-dots
         /// </summary>
@@ -3722,7 +3722,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-comment-slash unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/comment-slash
         /// </summary>
@@ -3749,7 +3749,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-comments unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/comments
         /// </summary>
@@ -3776,7 +3776,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-comments-dollar unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/comments-dollar
         /// </summary>
@@ -3785,7 +3785,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-compact-disc unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/compact-disc
         /// </summary>
@@ -3794,7 +3794,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-compass unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/compass
         /// </summary>
@@ -3812,7 +3812,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-compress unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/compress
         /// </summary>
@@ -3839,7 +3839,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-concierge-bell unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/concierge-bell
         /// </summary>
@@ -3848,7 +3848,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-connectdevelop unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/connectdevelop
         /// </summary>
@@ -3866,7 +3866,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-contao unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/contao
         /// </summary>
@@ -3893,7 +3893,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cookie unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cookie
         /// </summary>
@@ -3902,7 +3902,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cookie-bite unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cookie-bite
         /// </summary>
@@ -3911,7 +3911,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-copy unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/copy
         /// </summary>
@@ -3920,7 +3920,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-copyright unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/copyright
         /// </summary>
@@ -3938,7 +3938,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-couch unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/couch
         /// </summary>
@@ -3956,7 +3956,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cpanel unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/cpanel
         /// </summary>
@@ -3965,7 +3965,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-creative-commons unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons
         /// </summary>
@@ -3974,7 +3974,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-creative-commons-by unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-by
         /// </summary>
@@ -3983,7 +3983,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-creative-commons-nc unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-nc
         /// </summary>
@@ -3992,7 +3992,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-creative-commons-nc-eu unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-nc-eu
         /// </summary>
@@ -4001,7 +4001,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-creative-commons-nc-jp unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-nc-jp
         /// </summary>
@@ -4010,7 +4010,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-creative-commons-nd unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-nd
         /// </summary>
@@ -4019,7 +4019,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-creative-commons-pd unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-pd
         /// </summary>
@@ -4028,7 +4028,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-creative-commons-pd-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-pd-alt
         /// </summary>
@@ -4037,7 +4037,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-creative-commons-remix unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-remix
         /// </summary>
@@ -4046,7 +4046,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-creative-commons-sa unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-sa
         /// </summary>
@@ -4055,7 +4055,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-creative-commons-sampling unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-sampling
         /// </summary>
@@ -4064,7 +4064,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-creative-commons-sampling-plus unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-sampling-plus
         /// </summary>
@@ -4073,7 +4073,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-creative-commons-share unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-share
         /// </summary>
@@ -4082,7 +4082,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-creative-commons-zero unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-zero
         /// </summary>
@@ -4091,7 +4091,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-credit-card unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/credit-card
         /// </summary>
@@ -4127,7 +4127,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-critical-role unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/critical-role
         /// </summary>
@@ -4136,7 +4136,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-crop unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/crop
         /// </summary>
@@ -4145,7 +4145,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-crop-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/crop-alt
         /// </summary>
@@ -4154,7 +4154,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cross unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cross
         /// </summary>
@@ -4163,7 +4163,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-crosshairs unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/crosshairs
         /// </summary>
@@ -4172,7 +4172,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-crow unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/crow
         /// </summary>
@@ -4181,7 +4181,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-crown unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/crown
         /// </summary>
@@ -4190,7 +4190,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-css3 unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/css3
         /// </summary>
@@ -4199,7 +4199,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-css3-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/css3-alt
         /// </summary>
@@ -4208,7 +4208,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cube unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cube
         /// </summary>
@@ -4217,7 +4217,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cubes unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cubes
         /// </summary>
@@ -4235,7 +4235,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cut unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/cut
         /// </summary>
@@ -4244,7 +4244,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-cuttlefish unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/cuttlefish
         /// </summary>
@@ -4253,7 +4253,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-d-and-d unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/d-and-d
         /// </summary>
@@ -4262,7 +4262,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-d-and-d-beyond unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/d-and-d-beyond
         /// </summary>
@@ -4280,7 +4280,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dashcube unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/dashcube
         /// </summary>
@@ -4289,7 +4289,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-database unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/database
         /// </summary>
@@ -4298,7 +4298,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-deaf unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/deaf
         /// </summary>
@@ -4307,7 +4307,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-delicious unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/delicious
         /// </summary>
@@ -4316,7 +4316,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-democrat unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/democrat
         /// </summary>
@@ -4325,7 +4325,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-deploydog unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/deploydog
         /// </summary>
@@ -4334,7 +4334,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-deskpro unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/deskpro
         /// </summary>
@@ -4343,7 +4343,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-desktop unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/desktop
         /// </summary>
@@ -4361,7 +4361,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dev unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/dev
         /// </summary>
@@ -4370,7 +4370,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-deviantart unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/deviantart
         /// </summary>
@@ -4388,7 +4388,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dharmachakra unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dharmachakra
         /// </summary>
@@ -4397,7 +4397,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-diagnoses unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/diagnoses
         /// </summary>
@@ -4415,7 +4415,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dice unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dice
         /// </summary>
@@ -4442,7 +4442,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dice-d20 unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dice-d20
         /// </summary>
@@ -4460,7 +4460,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dice-d6 unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dice-d6
         /// </summary>
@@ -4478,7 +4478,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dice-five unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dice-five
         /// </summary>
@@ -4487,7 +4487,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dice-four unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dice-four
         /// </summary>
@@ -4496,7 +4496,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dice-one unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dice-one
         /// </summary>
@@ -4505,7 +4505,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dice-six unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dice-six
         /// </summary>
@@ -4514,7 +4514,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dice-three unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dice-three
         /// </summary>
@@ -4523,7 +4523,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dice-two unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dice-two
         /// </summary>
@@ -4532,7 +4532,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-digg unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/digg
         /// </summary>
@@ -4541,7 +4541,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-digital-ocean unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/digital-ocean
         /// </summary>
@@ -4550,7 +4550,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-digital-tachograph unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/digital-tachograph
         /// </summary>
@@ -4568,7 +4568,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-directions unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/directions
         /// </summary>
@@ -4577,7 +4577,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-discord unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/discord
         /// </summary>
@@ -4586,7 +4586,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-discourse unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/discourse
         /// </summary>
@@ -4595,7 +4595,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-divide unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/divide
         /// </summary>
@@ -4604,7 +4604,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dizzy unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dizzy
         /// </summary>
@@ -4613,7 +4613,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dna unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dna
         /// </summary>
@@ -4631,7 +4631,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dochub unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/dochub
         /// </summary>
@@ -4640,7 +4640,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-docker unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/docker
         /// </summary>
@@ -4649,7 +4649,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dog unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dog
         /// </summary>
@@ -4667,7 +4667,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dollar-sign unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dollar-sign
         /// </summary>
@@ -4676,7 +4676,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dolly unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dolly
         /// </summary>
@@ -4694,7 +4694,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dolly-flatbed unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dolly-flatbed
         /// </summary>
@@ -4721,7 +4721,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-donate unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/donate
         /// </summary>
@@ -4730,7 +4730,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-door-closed unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/door-closed
         /// </summary>
@@ -4739,7 +4739,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-door-open unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/door-open
         /// </summary>
@@ -4748,7 +4748,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dot-circle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dot-circle
         /// </summary>
@@ -4757,7 +4757,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dove unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dove
         /// </summary>
@@ -4766,7 +4766,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-download unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/download
         /// </summary>
@@ -4775,7 +4775,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-draft2digital unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/draft2digital
         /// </summary>
@@ -4784,7 +4784,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-drafting-compass unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/drafting-compass
         /// </summary>
@@ -4793,7 +4793,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dragon unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dragon
         /// </summary>
@@ -4811,7 +4811,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-draw-polygon unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/draw-polygon
         /// </summary>
@@ -4829,7 +4829,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dribbble unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/dribbble
         /// </summary>
@@ -4838,7 +4838,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dribbble-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/dribbble-square
         /// </summary>
@@ -4847,7 +4847,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dropbox unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/dropbox
         /// </summary>
@@ -4856,7 +4856,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-drum unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/drum
         /// </summary>
@@ -4865,7 +4865,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-drum-steelpan unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/drum-steelpan
         /// </summary>
@@ -4883,7 +4883,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-drumstick-bite unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/drumstick-bite
         /// </summary>
@@ -4892,7 +4892,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-drupal unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/drupal
         /// </summary>
@@ -4910,7 +4910,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dumbbell unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dumbbell
         /// </summary>
@@ -4919,7 +4919,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dungeon unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/dungeon
         /// </summary>
@@ -4928,7 +4928,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-dyalog unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/dyalog
         /// </summary>
@@ -4946,7 +4946,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-earlybirds unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/earlybirds
         /// </summary>
@@ -4955,7 +4955,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ebay unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/ebay
         /// </summary>
@@ -4982,7 +4982,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-edge unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/edge
         /// </summary>
@@ -4991,7 +4991,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-edit unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/edit
         /// </summary>
@@ -5000,7 +5000,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-eject unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/eject
         /// </summary>
@@ -5009,7 +5009,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-elementor unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/elementor
         /// </summary>
@@ -5027,7 +5027,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ellipsis-h unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ellipsis-h
         /// </summary>
@@ -5045,7 +5045,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ellipsis-v unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ellipsis-v
         /// </summary>
@@ -5063,7 +5063,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ello unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/ello
         /// </summary>
@@ -5072,7 +5072,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ember unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/ember
         /// </summary>
@@ -5081,7 +5081,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-empire unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/empire
         /// </summary>
@@ -5108,7 +5108,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-envelope unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/envelope
         /// </summary>
@@ -5117,7 +5117,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-envelope-open unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/envelope-open
         /// </summary>
@@ -5135,7 +5135,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-envelope-open-text unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/envelope-open-text
         /// </summary>
@@ -5144,7 +5144,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-envelope-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/envelope-square
         /// </summary>
@@ -5153,7 +5153,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-envira unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/envira
         /// </summary>
@@ -5162,7 +5162,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-equals unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/equals
         /// </summary>
@@ -5171,7 +5171,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-eraser unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/eraser
         /// </summary>
@@ -5180,7 +5180,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-erlang unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/erlang
         /// </summary>
@@ -5189,7 +5189,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ethereum unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/ethereum
         /// </summary>
@@ -5198,7 +5198,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-etsy unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/etsy
         /// </summary>
@@ -5207,7 +5207,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-euro-sign unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/euro-sign
         /// </summary>
@@ -5225,7 +5225,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-exchange-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/exchange-alt
         /// </summary>
@@ -5234,7 +5234,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-exclamation unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/exclamation
         /// </summary>
@@ -5243,7 +5243,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-exclamation-circle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/exclamation-circle
         /// </summary>
@@ -5261,7 +5261,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-exclamation-triangle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/exclamation-triangle
         /// </summary>
@@ -5270,7 +5270,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-expand unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/expand
         /// </summary>
@@ -5297,7 +5297,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-expand-arrows-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/expand-arrows-alt
         /// </summary>
@@ -5315,7 +5315,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-expeditedssl unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/expeditedssl
         /// </summary>
@@ -5333,7 +5333,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-external-link-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/external-link-alt
         /// </summary>
@@ -5351,7 +5351,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-external-link-square-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/external-link-square-alt
         /// </summary>
@@ -5360,7 +5360,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-eye unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/eye
         /// </summary>
@@ -5369,7 +5369,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-eye-dropper unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/eye-dropper
         /// </summary>
@@ -5387,7 +5387,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-eye-slash unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/eye-slash
         /// </summary>
@@ -5396,7 +5396,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-facebook unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/facebook
         /// </summary>
@@ -5405,7 +5405,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-facebook-f unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/facebook-f
         /// </summary>
@@ -5414,7 +5414,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-facebook-messenger unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/facebook-messenger
         /// </summary>
@@ -5423,7 +5423,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-facebook-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/facebook-square
         /// </summary>
@@ -5432,7 +5432,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fantasy-flight-games unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/fantasy-flight-games
         /// </summary>
@@ -5441,7 +5441,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fast-backward unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/fast-backward
         /// </summary>
@@ -5450,7 +5450,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fast-forward unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/fast-forward
         /// </summary>
@@ -5459,7 +5459,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fax unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/fax
         /// </summary>
@@ -5468,7 +5468,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-feather unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/feather
         /// </summary>
@@ -5477,7 +5477,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-feather-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/feather-alt
         /// </summary>
@@ -5486,7 +5486,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-female unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/female
         /// </summary>
@@ -5504,7 +5504,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fighter-jet unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/fighter-jet
         /// </summary>
@@ -5513,7 +5513,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file
         /// </summary>
@@ -5522,7 +5522,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-alt
         /// </summary>
@@ -5531,7 +5531,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-archive unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-archive
         /// </summary>
@@ -5540,7 +5540,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-audio unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-audio
         /// </summary>
@@ -5585,7 +5585,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-code unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-code
         /// </summary>
@@ -5594,7 +5594,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-contract unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-contract
         /// </summary>
@@ -5603,7 +5603,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-csv unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-csv
         /// </summary>
@@ -5612,7 +5612,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-download unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-download
         /// </summary>
@@ -5630,7 +5630,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-excel unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-excel
         /// </summary>
@@ -5648,7 +5648,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-export unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-export
         /// </summary>
@@ -5657,7 +5657,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-image unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-image
         /// </summary>
@@ -5666,7 +5666,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-import unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-import
         /// </summary>
@@ -5675,7 +5675,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-invoice unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-invoice
         /// </summary>
@@ -5684,7 +5684,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-invoice-dollar unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-invoice-dollar
         /// </summary>
@@ -5693,7 +5693,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-medical unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-medical
         /// </summary>
@@ -5702,7 +5702,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-medical-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-medical-alt
         /// </summary>
@@ -5720,7 +5720,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-pdf unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-pdf
         /// </summary>
@@ -5738,7 +5738,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-powerpoint unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-powerpoint
         /// </summary>
@@ -5747,7 +5747,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-prescription unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-prescription
         /// </summary>
@@ -5756,7 +5756,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-signature unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-signature
         /// </summary>
@@ -5783,7 +5783,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-upload unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-upload
         /// </summary>
@@ -5801,7 +5801,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-video unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-video
         /// </summary>
@@ -5810,7 +5810,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-file-word unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/file-word
         /// </summary>
@@ -5819,7 +5819,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fill unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/fill
         /// </summary>
@@ -5828,7 +5828,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fill-drip unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/fill-drip
         /// </summary>
@@ -5837,7 +5837,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-film unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/film
         /// </summary>
@@ -5855,7 +5855,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-filter unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/filter
         /// </summary>
@@ -5864,7 +5864,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fingerprint unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/fingerprint
         /// </summary>
@@ -5873,7 +5873,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fire unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/fire
         /// </summary>
@@ -5882,7 +5882,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fire-extinguisher unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/fire-extinguisher
         /// </summary>
@@ -5900,7 +5900,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-firefox unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/firefox
         /// </summary>
@@ -5909,7 +5909,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-first-aid unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/first-aid
         /// </summary>
@@ -5918,7 +5918,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-first-order unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/first-order
         /// </summary>
@@ -5927,7 +5927,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-first-order-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/first-order-alt
         /// </summary>
@@ -5936,7 +5936,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-firstdraft unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/firstdraft
         /// </summary>
@@ -5945,7 +5945,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fish unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/fish
         /// </summary>
@@ -5954,7 +5954,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fist-raised unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/fist-raised
         /// </summary>
@@ -5963,7 +5963,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-flag unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/flag
         /// </summary>
@@ -5981,7 +5981,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-flag-checkered unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/flag-checkered
         /// </summary>
@@ -5990,7 +5990,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-flag-usa unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/flag-usa
         /// </summary>
@@ -6008,7 +6008,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-flask unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/flask
         /// </summary>
@@ -6035,7 +6035,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-flickr unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/flickr
         /// </summary>
@@ -6044,7 +6044,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-flipboard unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/flipboard
         /// </summary>
@@ -6053,7 +6053,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-flushed unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/flushed
         /// </summary>
@@ -6062,7 +6062,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fly unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/fly
         /// </summary>
@@ -6080,7 +6080,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-folder unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/folder
         /// </summary>
@@ -6089,7 +6089,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-folder-minus unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/folder-minus
         /// </summary>
@@ -6098,7 +6098,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-folder-open unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/folder-open
         /// </summary>
@@ -6107,7 +6107,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-folder-plus unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/folder-plus
         /// </summary>
@@ -6134,7 +6134,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-font unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/font
         /// </summary>
@@ -6143,7 +6143,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-font-awesome unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/font-awesome
         /// </summary>
@@ -6152,7 +6152,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-font-awesome-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/font-awesome-alt
         /// </summary>
@@ -6161,7 +6161,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-font-awesome-flag unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/font-awesome-flag
         /// </summary>
@@ -6170,7 +6170,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fonticons unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/fonticons
         /// </summary>
@@ -6179,7 +6179,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fonticons-fi unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/fonticons-fi
         /// </summary>
@@ -6188,7 +6188,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-football-ball unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/football-ball
         /// </summary>
@@ -6215,7 +6215,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fort-awesome unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/fort-awesome
         /// </summary>
@@ -6224,7 +6224,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fort-awesome-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/fort-awesome-alt
         /// </summary>
@@ -6233,7 +6233,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-forumbee unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/forumbee
         /// </summary>
@@ -6242,7 +6242,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-forward unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/forward
         /// </summary>
@@ -6251,7 +6251,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-foursquare unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/foursquare
         /// </summary>
@@ -6269,7 +6269,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-free-code-camp unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/free-code-camp
         /// </summary>
@@ -6278,7 +6278,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-freebsd unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/freebsd
         /// </summary>
@@ -6287,7 +6287,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-frog unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/frog
         /// </summary>
@@ -6296,7 +6296,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-frown unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/frown
         /// </summary>
@@ -6305,7 +6305,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-frown-open unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/frown-open
         /// </summary>
@@ -6314,7 +6314,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-fulcrum unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/fulcrum
         /// </summary>
@@ -6332,7 +6332,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-funnel-dollar unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/funnel-dollar
         /// </summary>
@@ -6341,7 +6341,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-futbol unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/futbol
         /// </summary>
@@ -6350,7 +6350,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-galactic-republic unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/galactic-republic
         /// </summary>
@@ -6359,7 +6359,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-galactic-senate unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/galactic-senate
         /// </summary>
@@ -6368,7 +6368,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-gamepad unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/gamepad
         /// </summary>
@@ -6377,7 +6377,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-gas-pump unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/gas-pump
         /// </summary>
@@ -6395,7 +6395,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-gavel unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/gavel
         /// </summary>
@@ -6404,7 +6404,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-gem unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/gem
         /// </summary>
@@ -6413,7 +6413,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-genderless unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/genderless
         /// </summary>
@@ -6422,7 +6422,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-get-pocket unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/get-pocket
         /// </summary>
@@ -6431,7 +6431,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-gg unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/gg
         /// </summary>
@@ -6440,7 +6440,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-gg-circle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/gg-circle
         /// </summary>
@@ -6449,7 +6449,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ghost unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ghost
         /// </summary>
@@ -6458,7 +6458,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-gift unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/gift
         /// </summary>
@@ -6476,7 +6476,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-git unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/git
         /// </summary>
@@ -6485,7 +6485,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-git-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/git-square
         /// </summary>
@@ -6494,7 +6494,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-github unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/github
         /// </summary>
@@ -6503,7 +6503,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-github-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/github-alt
         /// </summary>
@@ -6512,7 +6512,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-github-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/github-square
         /// </summary>
@@ -6521,7 +6521,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-gitkraken unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/gitkraken
         /// </summary>
@@ -6530,7 +6530,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-gitlab unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/gitlab
         /// </summary>
@@ -6539,7 +6539,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-gitter unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/gitter
         /// </summary>
@@ -6548,7 +6548,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-glass-martini unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/glass-martini
         /// </summary>
@@ -6557,7 +6557,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-glass-martini-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/glass-martini-alt
         /// </summary>
@@ -6566,7 +6566,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-glasses unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/glasses
         /// </summary>
@@ -6584,7 +6584,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-glide unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/glide
         /// </summary>
@@ -6593,7 +6593,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-glide-g unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/glide-g
         /// </summary>
@@ -6602,7 +6602,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-globe unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/globe
         /// </summary>
@@ -6611,7 +6611,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-globe-africa unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/globe-africa
         /// </summary>
@@ -6620,7 +6620,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-globe-americas unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/globe-americas
         /// </summary>
@@ -6629,7 +6629,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-globe-asia unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/globe-asia
         /// </summary>
@@ -6647,7 +6647,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-gofore unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/gofore
         /// </summary>
@@ -6656,7 +6656,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-golf-ball unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/golf-ball
         /// </summary>
@@ -6674,7 +6674,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-goodreads unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/goodreads
         /// </summary>
@@ -6683,7 +6683,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-goodreads-g unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/goodreads-g
         /// </summary>
@@ -6692,7 +6692,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-google unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/google
         /// </summary>
@@ -6701,7 +6701,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-google-drive unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/google-drive
         /// </summary>
@@ -6710,7 +6710,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-google-play unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/google-play
         /// </summary>
@@ -6719,7 +6719,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-google-plus unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/google-plus
         /// </summary>
@@ -6728,7 +6728,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-google-plus-g unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/google-plus-g
         /// </summary>
@@ -6737,7 +6737,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-google-plus-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/google-plus-square
         /// </summary>
@@ -6746,7 +6746,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-google-wallet unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/google-wallet
         /// </summary>
@@ -6755,7 +6755,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-gopuram unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/gopuram
         /// </summary>
@@ -6764,7 +6764,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-graduation-cap unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/graduation-cap
         /// </summary>
@@ -6773,7 +6773,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-gratipay unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/gratipay
         /// </summary>
@@ -6782,7 +6782,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grav unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/grav
         /// </summary>
@@ -6791,7 +6791,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-greater-than unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/greater-than
         /// </summary>
@@ -6800,7 +6800,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-greater-than-equal unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/greater-than-equal
         /// </summary>
@@ -6809,7 +6809,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grimace unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grimace
         /// </summary>
@@ -6818,7 +6818,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grin unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grin
         /// </summary>
@@ -6827,7 +6827,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grin-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grin-alt
         /// </summary>
@@ -6836,7 +6836,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grin-beam unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grin-beam
         /// </summary>
@@ -6845,7 +6845,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grin-beam-sweat unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grin-beam-sweat
         /// </summary>
@@ -6854,7 +6854,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grin-hearts unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grin-hearts
         /// </summary>
@@ -6863,7 +6863,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grin-squint unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grin-squint
         /// </summary>
@@ -6872,7 +6872,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grin-squint-tears unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grin-squint-tears
         /// </summary>
@@ -6881,7 +6881,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grin-stars unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grin-stars
         /// </summary>
@@ -6890,7 +6890,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grin-tears unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grin-tears
         /// </summary>
@@ -6899,7 +6899,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grin-tongue unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grin-tongue
         /// </summary>
@@ -6908,7 +6908,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grin-tongue-squint unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grin-tongue-squint
         /// </summary>
@@ -6917,7 +6917,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grin-tongue-wink unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grin-tongue-wink
         /// </summary>
@@ -6926,7 +6926,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grin-wink unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grin-wink
         /// </summary>
@@ -6935,7 +6935,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grip-horizontal unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grip-horizontal
         /// </summary>
@@ -6944,7 +6944,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grip-vertical unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/grip-vertical
         /// </summary>
@@ -6953,7 +6953,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-gripfire unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/gripfire
         /// </summary>
@@ -6962,7 +6962,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-grunt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/grunt
         /// </summary>
@@ -6971,7 +6971,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-gulp unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/gulp
         /// </summary>
@@ -6980,7 +6980,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-h-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/h-square
         /// </summary>
@@ -7016,7 +7016,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hacker-news unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/hacker-news
         /// </summary>
@@ -7025,7 +7025,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hacker-news-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/hacker-news-square
         /// </summary>
@@ -7034,7 +7034,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hackerrank unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/hackerrank
         /// </summary>
@@ -7043,7 +7043,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hammer unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hammer
         /// </summary>
@@ -7061,7 +7061,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hamsa unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hamsa
         /// </summary>
@@ -7079,7 +7079,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hand-holding unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hand-holding
         /// </summary>
@@ -7097,7 +7097,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hand-holding-heart unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hand-holding-heart
         /// </summary>
@@ -7124,7 +7124,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hand-holding-usd unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hand-holding-usd
         /// </summary>
@@ -7142,7 +7142,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hand-lizard unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hand-lizard
         /// </summary>
@@ -7151,7 +7151,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hand-paper unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hand-paper
         /// </summary>
@@ -7160,7 +7160,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hand-peace unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hand-peace
         /// </summary>
@@ -7169,7 +7169,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hand-point-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hand-point-down
         /// </summary>
@@ -7178,7 +7178,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hand-point-left unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hand-point-left
         /// </summary>
@@ -7187,7 +7187,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hand-point-right unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hand-point-right
         /// </summary>
@@ -7196,7 +7196,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hand-point-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hand-point-up
         /// </summary>
@@ -7205,7 +7205,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hand-pointer unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hand-pointer
         /// </summary>
@@ -7223,7 +7223,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hand-rock unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hand-rock
         /// </summary>
@@ -7232,7 +7232,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hand-scissors unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hand-scissors
         /// </summary>
@@ -7241,7 +7241,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hand-spock unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hand-spock
         /// </summary>
@@ -7250,7 +7250,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hands unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hands
         /// </summary>
@@ -7268,7 +7268,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hands-helping unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hands-helping
         /// </summary>
@@ -7286,7 +7286,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-handshake unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/handshake
         /// </summary>
@@ -7304,7 +7304,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hanukiah unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hanukiah
         /// </summary>
@@ -7313,7 +7313,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hashtag unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hashtag
         /// </summary>
@@ -7331,7 +7331,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hat-wizard unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hat-wizard
         /// </summary>
@@ -7340,7 +7340,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-haykal unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/haykal
         /// </summary>
@@ -7349,7 +7349,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hdd unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hdd
         /// </summary>
@@ -7376,7 +7376,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-heading unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/heading
         /// </summary>
@@ -7385,7 +7385,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-headphones unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/headphones
         /// </summary>
@@ -7394,7 +7394,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-headphones-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/headphones-alt
         /// </summary>
@@ -7403,7 +7403,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-headset unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/headset
         /// </summary>
@@ -7412,7 +7412,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-heart unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/heart
         /// </summary>
@@ -7448,7 +7448,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-heartbeat unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/heartbeat
         /// </summary>
@@ -7457,7 +7457,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-helicopter unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/helicopter
         /// </summary>
@@ -7484,7 +7484,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-highlighter unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/highlighter
         /// </summary>
@@ -7493,7 +7493,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hiking unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hiking
         /// </summary>
@@ -7502,7 +7502,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hippo unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hippo
         /// </summary>
@@ -7511,7 +7511,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hips unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/hips
         /// </summary>
@@ -7520,7 +7520,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hire-a-helper unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/hire-a-helper
         /// </summary>
@@ -7529,7 +7529,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-history unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/history
         /// </summary>
@@ -7547,7 +7547,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hockey-puck unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hockey-puck
         /// </summary>
@@ -7565,7 +7565,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-home unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/home
         /// </summary>
@@ -7592,7 +7592,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hooli unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/hooli
         /// </summary>
@@ -7601,7 +7601,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hornbill unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/hornbill
         /// </summary>
@@ -7610,7 +7610,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-horse unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/horse
         /// </summary>
@@ -7619,7 +7619,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hospital unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hospital
         /// </summary>
@@ -7628,7 +7628,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hospital-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hospital-alt
         /// </summary>
@@ -7637,7 +7637,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hospital-symbol unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hospital-symbol
         /// </summary>
@@ -7646,7 +7646,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hot-tub unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hot-tub
         /// </summary>
@@ -7655,7 +7655,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hotel unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hotel
         /// </summary>
@@ -7664,7 +7664,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hotjar unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/hotjar
         /// </summary>
@@ -7673,7 +7673,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hourglass unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hourglass
         /// </summary>
@@ -7682,7 +7682,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hourglass-end unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hourglass-end
         /// </summary>
@@ -7691,7 +7691,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hourglass-half unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hourglass-half
         /// </summary>
@@ -7700,7 +7700,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hourglass-start unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hourglass-start
         /// </summary>
@@ -7709,7 +7709,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-house-damage unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/house-damage
         /// </summary>
@@ -7727,7 +7727,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-houzz unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/houzz
         /// </summary>
@@ -7736,7 +7736,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hryvnia unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/hryvnia
         /// </summary>
@@ -7745,7 +7745,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-html5 unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/html5
         /// </summary>
@@ -7754,7 +7754,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hubspot unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/hubspot
         /// </summary>
@@ -7781,7 +7781,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-i-cursor unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/i-cursor
         /// </summary>
@@ -7790,7 +7790,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-id-badge unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/id-badge
         /// </summary>
@@ -7799,7 +7799,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-id-card unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/id-card
         /// </summary>
@@ -7808,7 +7808,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-id-card-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/id-card-alt
         /// </summary>
@@ -7817,7 +7817,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-image unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/image
         /// </summary>
@@ -7826,7 +7826,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-images unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/images
         /// </summary>
@@ -7835,7 +7835,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-imdb unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/imdb
         /// </summary>
@@ -7844,7 +7844,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-inbox unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/inbox
         /// </summary>
@@ -7871,7 +7871,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-indent unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/indent
         /// </summary>
@@ -7880,7 +7880,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-industry unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/industry
         /// </summary>
@@ -7898,7 +7898,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-infinity unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/infinity
         /// </summary>
@@ -7907,7 +7907,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-info unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/info
         /// </summary>
@@ -7916,7 +7916,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-info-circle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/info-circle
         /// </summary>
@@ -7943,7 +7943,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-instagram unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/instagram
         /// </summary>
@@ -7961,7 +7961,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-internet-explorer unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/internet-explorer
         /// </summary>
@@ -7988,7 +7988,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ioxhost unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/ioxhost
         /// </summary>
@@ -7997,7 +7997,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-italic unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/italic
         /// </summary>
@@ -8006,7 +8006,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-itunes unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/itunes
         /// </summary>
@@ -8015,7 +8015,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-itunes-note unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/itunes-note
         /// </summary>
@@ -8033,7 +8033,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-java unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/java
         /// </summary>
@@ -8042,7 +8042,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-jedi unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/jedi
         /// </summary>
@@ -8051,7 +8051,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-jedi-order unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/jedi-order
         /// </summary>
@@ -8060,7 +8060,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-jenkins unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/jenkins
         /// </summary>
@@ -8069,7 +8069,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-joget unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/joget
         /// </summary>
@@ -8078,7 +8078,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-joint unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/joint
         /// </summary>
@@ -8087,7 +8087,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-joomla unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/joomla
         /// </summary>
@@ -8096,7 +8096,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-journal-whills unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/journal-whills
         /// </summary>
@@ -8105,7 +8105,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-js unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/js
         /// </summary>
@@ -8114,7 +8114,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-js-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/js-square
         /// </summary>
@@ -8123,7 +8123,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-jsfiddle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/jsfiddle
         /// </summary>
@@ -8132,7 +8132,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-kaaba unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/kaaba
         /// </summary>
@@ -8141,7 +8141,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-kaggle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/kaggle
         /// </summary>
@@ -8150,7 +8150,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-key unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/key
         /// </summary>
@@ -8168,7 +8168,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-keybase unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/keybase
         /// </summary>
@@ -8177,7 +8177,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-keyboard unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/keyboard
         /// </summary>
@@ -8186,7 +8186,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-keycdn unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/keycdn
         /// </summary>
@@ -8204,7 +8204,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-khanda unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/khanda
         /// </summary>
@@ -8213,7 +8213,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-kickstarter unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/kickstarter
         /// </summary>
@@ -8222,7 +8222,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-kickstarter-k unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/kickstarter-k
         /// </summary>
@@ -8240,7 +8240,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-kiss unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/kiss
         /// </summary>
@@ -8249,7 +8249,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-kiss-beam unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/kiss-beam
         /// </summary>
@@ -8258,7 +8258,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-kiss-wink-heart unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/kiss-wink-heart
         /// </summary>
@@ -8276,7 +8276,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-kiwi-bird unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/kiwi-bird
         /// </summary>
@@ -8294,7 +8294,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-korvue unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/korvue
         /// </summary>
@@ -8321,7 +8321,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-landmark unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/landmark
         /// </summary>
@@ -8339,7 +8339,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-language unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/language
         /// </summary>
@@ -8348,7 +8348,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-laptop unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/laptop
         /// </summary>
@@ -8357,7 +8357,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-laptop-code unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/laptop-code
         /// </summary>
@@ -8366,7 +8366,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-laravel unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/laravel
         /// </summary>
@@ -8375,7 +8375,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-lastfm unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/lastfm
         /// </summary>
@@ -8384,7 +8384,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-lastfm-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/lastfm-square
         /// </summary>
@@ -8393,7 +8393,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-laugh unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/laugh
         /// </summary>
@@ -8402,7 +8402,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-laugh-beam unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/laugh-beam
         /// </summary>
@@ -8411,7 +8411,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-laugh-squint unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/laugh-squint
         /// </summary>
@@ -8420,7 +8420,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-laugh-wink unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/laugh-wink
         /// </summary>
@@ -8429,7 +8429,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-layer-group unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/layer-group
         /// </summary>
@@ -8456,7 +8456,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-leaf unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/leaf
         /// </summary>
@@ -8492,7 +8492,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-leanpub unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/leanpub
         /// </summary>
@@ -8501,7 +8501,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-lemon unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/lemon
         /// </summary>
@@ -8510,7 +8510,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-less unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/less
         /// </summary>
@@ -8519,7 +8519,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-less-than unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/less-than
         /// </summary>
@@ -8528,7 +8528,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-less-than-equal unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/less-than-equal
         /// </summary>
@@ -8546,7 +8546,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-level-down-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/level-down-alt
         /// </summary>
@@ -8564,7 +8564,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-level-up-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/level-up-alt
         /// </summary>
@@ -8573,7 +8573,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-life-ring unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/life-ring
         /// </summary>
@@ -8582,7 +8582,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-lightbulb unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/lightbulb
         /// </summary>
@@ -8627,7 +8627,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-line unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/line
         /// </summary>
@@ -8636,7 +8636,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-link unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/link
         /// </summary>
@@ -8645,7 +8645,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-linkedin unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/linkedin
         /// </summary>
@@ -8654,7 +8654,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-linkedin-in unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/linkedin-in
         /// </summary>
@@ -8663,7 +8663,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-linode unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/linode
         /// </summary>
@@ -8672,7 +8672,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-linux unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/linux
         /// </summary>
@@ -8690,7 +8690,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-lira-sign unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/lira-sign
         /// </summary>
@@ -8699,7 +8699,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-list unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/list
         /// </summary>
@@ -8708,7 +8708,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-list-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/list-alt
         /// </summary>
@@ -8717,7 +8717,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-list-ol unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/list-ol
         /// </summary>
@@ -8726,7 +8726,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-list-ul unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/list-ul
         /// </summary>
@@ -8744,7 +8744,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-location-arrow unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/location-arrow
         /// </summary>
@@ -8771,7 +8771,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-lock unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/lock
         /// </summary>
@@ -8789,7 +8789,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-lock-open unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/lock-open
         /// </summary>
@@ -8807,7 +8807,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-long-arrow-alt-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/long-arrow-alt-down
         /// </summary>
@@ -8816,7 +8816,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-long-arrow-alt-left unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/long-arrow-alt-left
         /// </summary>
@@ -8825,7 +8825,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-long-arrow-alt-right unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/long-arrow-alt-right
         /// </summary>
@@ -8834,7 +8834,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-long-arrow-alt-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/long-arrow-alt-up
         /// </summary>
@@ -8888,7 +8888,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-low-vision unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/low-vision
         /// </summary>
@@ -8906,7 +8906,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-luggage-cart unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/luggage-cart
         /// </summary>
@@ -8924,7 +8924,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-lyft unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/lyft
         /// </summary>
@@ -8942,7 +8942,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-magento unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/magento
         /// </summary>
@@ -8951,7 +8951,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-magic unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/magic
         /// </summary>
@@ -8960,7 +8960,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-magnet unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/magnet
         /// </summary>
@@ -8969,7 +8969,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mail-bulk unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/mail-bulk
         /// </summary>
@@ -8978,7 +8978,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mailchimp unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/mailchimp
         /// </summary>
@@ -8987,7 +8987,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-male unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/male
         /// </summary>
@@ -8996,7 +8996,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mandalorian unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/mandalorian
         /// </summary>
@@ -9014,7 +9014,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-map unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/map
         /// </summary>
@@ -9023,7 +9023,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-map-marked unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/map-marked
         /// </summary>
@@ -9032,7 +9032,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-map-marked-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/map-marked-alt
         /// </summary>
@@ -9041,7 +9041,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-map-marker unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/map-marker
         /// </summary>
@@ -9050,7 +9050,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-map-marker-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/map-marker-alt
         /// </summary>
@@ -9149,7 +9149,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-map-pin unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/map-pin
         /// </summary>
@@ -9158,7 +9158,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-map-signs unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/map-signs
         /// </summary>
@@ -9167,7 +9167,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-markdown unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/markdown
         /// </summary>
@@ -9176,7 +9176,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-marker unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/marker
         /// </summary>
@@ -9185,7 +9185,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mars unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/mars
         /// </summary>
@@ -9194,7 +9194,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mars-double unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/mars-double
         /// </summary>
@@ -9203,7 +9203,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mars-stroke unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/mars-stroke
         /// </summary>
@@ -9212,7 +9212,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mars-stroke-h unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/mars-stroke-h
         /// </summary>
@@ -9221,7 +9221,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mars-stroke-v unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/mars-stroke-v
         /// </summary>
@@ -9230,7 +9230,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mask unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/mask
         /// </summary>
@@ -9239,7 +9239,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mastodon unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/mastodon
         /// </summary>
@@ -9248,7 +9248,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-maxcdn unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/maxcdn
         /// </summary>
@@ -9257,7 +9257,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-medal unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/medal
         /// </summary>
@@ -9266,7 +9266,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-medapps unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/medapps
         /// </summary>
@@ -9275,7 +9275,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-medium unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/medium
         /// </summary>
@@ -9284,7 +9284,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-medium-m unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/medium-m
         /// </summary>
@@ -9293,7 +9293,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-medkit unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/medkit
         /// </summary>
@@ -9302,7 +9302,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-medrt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/medrt
         /// </summary>
@@ -9311,7 +9311,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-meetup unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/meetup
         /// </summary>
@@ -9329,7 +9329,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-megaport unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/megaport
         /// </summary>
@@ -9338,7 +9338,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-meh unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/meh
         /// </summary>
@@ -9347,7 +9347,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-meh-blank unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/meh-blank
         /// </summary>
@@ -9356,7 +9356,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-meh-rolling-eyes unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/meh-rolling-eyes
         /// </summary>
@@ -9365,7 +9365,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-memory unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/memory
         /// </summary>
@@ -9374,7 +9374,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-menorah unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/menorah
         /// </summary>
@@ -9383,7 +9383,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mercury unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/mercury
         /// </summary>
@@ -9392,7 +9392,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-meteor unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/meteor
         /// </summary>
@@ -9401,7 +9401,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-microchip unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/microchip
         /// </summary>
@@ -9410,7 +9410,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-microphone unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/microphone
         /// </summary>
@@ -9419,7 +9419,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-microphone-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/microphone-alt
         /// </summary>
@@ -9428,7 +9428,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-microphone-alt-slash unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/microphone-alt-slash
         /// </summary>
@@ -9437,7 +9437,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-microphone-slash unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/microphone-slash
         /// </summary>
@@ -9446,7 +9446,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-microscope unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/microscope
         /// </summary>
@@ -9455,7 +9455,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-microsoft unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/microsoft
         /// </summary>
@@ -9473,7 +9473,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-minus unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/minus
         /// </summary>
@@ -9482,7 +9482,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-minus-circle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/minus-circle
         /// </summary>
@@ -9509,7 +9509,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-minus-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/minus-square
         /// </summary>
@@ -9518,7 +9518,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mix unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/mix
         /// </summary>
@@ -9527,7 +9527,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mixcloud unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/mixcloud
         /// </summary>
@@ -9536,7 +9536,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mizuni unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/mizuni
         /// </summary>
@@ -9545,7 +9545,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mobile unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/mobile
         /// </summary>
@@ -9554,7 +9554,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mobile-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/mobile-alt
         /// </summary>
@@ -9581,7 +9581,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-modx unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/modx
         /// </summary>
@@ -9590,7 +9590,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-monero unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/monero
         /// </summary>
@@ -9599,7 +9599,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-money-bill unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/money-bill
         /// </summary>
@@ -9608,7 +9608,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-money-bill-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/money-bill-alt
         /// </summary>
@@ -9617,7 +9617,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-money-bill-wave unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/money-bill-wave
         /// </summary>
@@ -9626,7 +9626,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-money-bill-wave-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/money-bill-wave-alt
         /// </summary>
@@ -9635,7 +9635,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-money-check unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/money-check
         /// </summary>
@@ -9644,7 +9644,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-money-check-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/money-check-alt
         /// </summary>
@@ -9671,7 +9671,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-monument unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/monument
         /// </summary>
@@ -9680,7 +9680,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-moon unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/moon
         /// </summary>
@@ -9707,7 +9707,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mortar-pestle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/mortar-pestle
         /// </summary>
@@ -9716,7 +9716,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mosque unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/mosque
         /// </summary>
@@ -9725,7 +9725,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-motorcycle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/motorcycle
         /// </summary>
@@ -9734,7 +9734,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mountain unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/mountain
         /// </summary>
@@ -9752,7 +9752,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-mouse-pointer unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/mouse-pointer
         /// </summary>
@@ -9761,7 +9761,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-music unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/music
         /// </summary>
@@ -9770,7 +9770,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-napster unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/napster
         /// </summary>
@@ -9788,7 +9788,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-neos unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/neos
         /// </summary>
@@ -9797,7 +9797,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-network-wired unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/network-wired
         /// </summary>
@@ -9806,7 +9806,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-neuter unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/neuter
         /// </summary>
@@ -9815,7 +9815,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-newspaper unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/newspaper
         /// </summary>
@@ -9824,7 +9824,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-nimblr unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/nimblr
         /// </summary>
@@ -9833,7 +9833,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-nintendo-switch unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/nintendo-switch
         /// </summary>
@@ -9842,7 +9842,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-node unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/node
         /// </summary>
@@ -9851,7 +9851,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-node-js unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/node-js
         /// </summary>
@@ -9860,7 +9860,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-not-equal unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/not-equal
         /// </summary>
@@ -9869,7 +9869,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-notes-medical unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/notes-medical
         /// </summary>
@@ -9878,7 +9878,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-npm unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/npm
         /// </summary>
@@ -9887,7 +9887,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ns8 unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/ns8
         /// </summary>
@@ -9896,7 +9896,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-nutritionix unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/nutritionix
         /// </summary>
@@ -9905,7 +9905,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-object-group unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/object-group
         /// </summary>
@@ -9914,7 +9914,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-object-ungroup unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/object-ungroup
         /// </summary>
@@ -9932,7 +9932,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-odnoklassniki unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/odnoklassniki
         /// </summary>
@@ -9941,7 +9941,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-odnoklassniki-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/odnoklassniki-square
         /// </summary>
@@ -9950,7 +9950,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-oil-can unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/oil-can
         /// </summary>
@@ -9968,7 +9968,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-old-republic unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/old-republic
         /// </summary>
@@ -9977,7 +9977,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-om unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/om
         /// </summary>
@@ -9995,7 +9995,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-opencart unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/opencart
         /// </summary>
@@ -10004,7 +10004,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-openid unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/openid
         /// </summary>
@@ -10013,7 +10013,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-opera unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/opera
         /// </summary>
@@ -10022,7 +10022,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-optin-monster unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/optin-monster
         /// </summary>
@@ -10031,7 +10031,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-osi unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/osi
         /// </summary>
@@ -10040,7 +10040,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-otter unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/otter
         /// </summary>
@@ -10049,7 +10049,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-outdent unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/outdent
         /// </summary>
@@ -10058,7 +10058,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-page4 unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/page4
         /// </summary>
@@ -10067,7 +10067,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pagelines unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/pagelines
         /// </summary>
@@ -10076,7 +10076,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-paint-brush unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/paint-brush
         /// </summary>
@@ -10094,7 +10094,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-paint-roller unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/paint-roller
         /// </summary>
@@ -10103,7 +10103,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-palette unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/palette
         /// </summary>
@@ -10112,7 +10112,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-palfed unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/palfed
         /// </summary>
@@ -10121,7 +10121,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pallet unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/pallet
         /// </summary>
@@ -10139,7 +10139,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-paper-plane unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/paper-plane
         /// </summary>
@@ -10148,7 +10148,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-paperclip unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/paperclip
         /// </summary>
@@ -10157,7 +10157,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-parachute-box unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/parachute-box
         /// </summary>
@@ -10166,7 +10166,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-paragraph unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/paragraph
         /// </summary>
@@ -10175,7 +10175,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-parking unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/parking
         /// </summary>
@@ -10211,7 +10211,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-passport unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/passport
         /// </summary>
@@ -10220,7 +10220,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pastafarianism unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/pastafarianism
         /// </summary>
@@ -10229,7 +10229,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-paste unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/paste
         /// </summary>
@@ -10238,7 +10238,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-patreon unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/patreon
         /// </summary>
@@ -10247,7 +10247,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pause unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/pause
         /// </summary>
@@ -10256,7 +10256,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pause-circle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/pause-circle
         /// </summary>
@@ -10265,7 +10265,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-paw unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/paw
         /// </summary>
@@ -10292,7 +10292,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-paypal unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/paypal
         /// </summary>
@@ -10301,7 +10301,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-peace unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/peace
         /// </summary>
@@ -10319,7 +10319,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pen unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/pen
         /// </summary>
@@ -10328,7 +10328,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pen-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/pen-alt
         /// </summary>
@@ -10337,7 +10337,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pen-fancy unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/pen-fancy
         /// </summary>
@@ -10346,7 +10346,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pen-nib unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/pen-nib
         /// </summary>
@@ -10355,7 +10355,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pen-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/pen-square
         /// </summary>
@@ -10373,7 +10373,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pencil-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/pencil-alt
         /// </summary>
@@ -10391,7 +10391,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pencil-ruler unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/pencil-ruler
         /// </summary>
@@ -10409,7 +10409,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-penny-arcade unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/penny-arcade
         /// </summary>
@@ -10418,7 +10418,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-people-carry unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/people-carry
         /// </summary>
@@ -10427,7 +10427,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-percent unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/percent
         /// </summary>
@@ -10436,7 +10436,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-percentage unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/percentage
         /// </summary>
@@ -10445,7 +10445,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-periscope unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/periscope
         /// </summary>
@@ -10454,7 +10454,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-person-booth unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/person-booth
         /// </summary>
@@ -10499,7 +10499,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-phabricator unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/phabricator
         /// </summary>
@@ -10508,7 +10508,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-phoenix-framework unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/phoenix-framework
         /// </summary>
@@ -10517,7 +10517,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-phoenix-squadron unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/phoenix-squadron
         /// </summary>
@@ -10526,7 +10526,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-phone unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/phone
         /// </summary>
@@ -10553,7 +10553,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-phone-slash unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/phone-slash
         /// </summary>
@@ -10562,7 +10562,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-phone-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/phone-square
         /// </summary>
@@ -10571,7 +10571,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-phone-volume unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/phone-volume
         /// </summary>
@@ -10580,7 +10580,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-php unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/php
         /// </summary>
@@ -10607,7 +10607,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pied-piper unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/pied-piper
         /// </summary>
@@ -10616,7 +10616,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pied-piper-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/pied-piper-alt
         /// </summary>
@@ -10625,7 +10625,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pied-piper-hat unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/pied-piper-hat
         /// </summary>
@@ -10634,7 +10634,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pied-piper-pp unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/pied-piper-pp
         /// </summary>
@@ -10652,7 +10652,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-piggy-bank unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/piggy-bank
         /// </summary>
@@ -10661,7 +10661,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pills unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/pills
         /// </summary>
@@ -10670,7 +10670,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pinterest unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/pinterest
         /// </summary>
@@ -10679,7 +10679,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pinterest-p unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/pinterest-p
         /// </summary>
@@ -10688,7 +10688,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pinterest-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/pinterest-square
         /// </summary>
@@ -10697,7 +10697,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-place-of-worship unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/place-of-worship
         /// </summary>
@@ -10706,7 +10706,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-plane unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/plane
         /// </summary>
@@ -10724,7 +10724,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-plane-arrival unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/plane-arrival
         /// </summary>
@@ -10733,7 +10733,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-plane-departure unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/plane-departure
         /// </summary>
@@ -10742,7 +10742,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-play unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/play
         /// </summary>
@@ -10751,7 +10751,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-play-circle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/play-circle
         /// </summary>
@@ -10760,7 +10760,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-playstation unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/playstation
         /// </summary>
@@ -10769,7 +10769,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-plug unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/plug
         /// </summary>
@@ -10778,7 +10778,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-plus unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/plus
         /// </summary>
@@ -10787,7 +10787,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-plus-circle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/plus-circle
         /// </summary>
@@ -10814,7 +10814,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-plus-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/plus-square
         /// </summary>
@@ -10823,7 +10823,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-podcast unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/podcast
         /// </summary>
@@ -10850,7 +10850,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-poll unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/poll
         /// </summary>
@@ -10859,7 +10859,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-poll-h unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/poll-h
         /// </summary>
@@ -10877,7 +10877,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-poo unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/poo
         /// </summary>
@@ -10886,7 +10886,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-poo-storm unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/poo-storm
         /// </summary>
@@ -10895,7 +10895,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-poop unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/poop
         /// </summary>
@@ -10904,7 +10904,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-portrait unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/portrait
         /// </summary>
@@ -10913,7 +10913,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pound-sign unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/pound-sign
         /// </summary>
@@ -10922,7 +10922,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-power-off unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/power-off
         /// </summary>
@@ -10931,7 +10931,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pray unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/pray
         /// </summary>
@@ -10940,7 +10940,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-praying-hands unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/praying-hands
         /// </summary>
@@ -10949,7 +10949,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-prescription unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/prescription
         /// </summary>
@@ -10958,7 +10958,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-prescription-bottle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/prescription-bottle
         /// </summary>
@@ -10967,7 +10967,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-prescription-bottle-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/prescription-bottle-alt
         /// </summary>
@@ -10985,7 +10985,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-print unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/print
         /// </summary>
@@ -11003,7 +11003,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-procedures unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/procedures
         /// </summary>
@@ -11012,7 +11012,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-product-hunt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/product-hunt
         /// </summary>
@@ -11021,7 +11021,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-project-diagram unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/project-diagram
         /// </summary>
@@ -11039,7 +11039,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-pushed unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/pushed
         /// </summary>
@@ -11048,7 +11048,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-puzzle-piece unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/puzzle-piece
         /// </summary>
@@ -11057,7 +11057,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-python unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/python
         /// </summary>
@@ -11066,7 +11066,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-qq unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/qq
         /// </summary>
@@ -11075,7 +11075,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-qrcode unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/qrcode
         /// </summary>
@@ -11084,7 +11084,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-question unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/question
         /// </summary>
@@ -11093,7 +11093,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-question-circle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/question-circle
         /// </summary>
@@ -11111,7 +11111,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-quidditch unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/quidditch
         /// </summary>
@@ -11120,7 +11120,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-quinscape unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/quinscape
         /// </summary>
@@ -11129,7 +11129,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-quora unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/quora
         /// </summary>
@@ -11138,7 +11138,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-quote-left unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/quote-left
         /// </summary>
@@ -11147,7 +11147,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-quote-right unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/quote-right
         /// </summary>
@@ -11156,7 +11156,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-quran unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/quran
         /// </summary>
@@ -11165,7 +11165,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-r-project unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/r-project
         /// </summary>
@@ -11201,7 +11201,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-rainbow unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/rainbow
         /// </summary>
@@ -11237,7 +11237,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-random unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/random
         /// </summary>
@@ -11246,7 +11246,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ravelry unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/ravelry
         /// </summary>
@@ -11255,7 +11255,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-react unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/react
         /// </summary>
@@ -11264,7 +11264,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-reacteurope unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/reacteurope
         /// </summary>
@@ -11273,7 +11273,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-readme unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/readme
         /// </summary>
@@ -11282,7 +11282,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-rebel unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/rebel
         /// </summary>
@@ -11291,7 +11291,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-receipt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/receipt
         /// </summary>
@@ -11327,7 +11327,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-recycle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/recycle
         /// </summary>
@@ -11336,7 +11336,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-red-river unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/red-river
         /// </summary>
@@ -11345,7 +11345,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-reddit unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/reddit
         /// </summary>
@@ -11354,7 +11354,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-reddit-alien unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/reddit-alien
         /// </summary>
@@ -11363,7 +11363,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-reddit-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/reddit-square
         /// </summary>
@@ -11372,7 +11372,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-redo unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/redo
         /// </summary>
@@ -11381,7 +11381,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-redo-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/redo-alt
         /// </summary>
@@ -11390,7 +11390,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-registered unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/registered
         /// </summary>
@@ -11399,7 +11399,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-renren unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/renren
         /// </summary>
@@ -11444,7 +11444,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-reply unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/reply
         /// </summary>
@@ -11453,7 +11453,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-reply-all unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/reply-all
         /// </summary>
@@ -11462,7 +11462,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-replyd unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/replyd
         /// </summary>
@@ -11471,7 +11471,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-republican unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/republican
         /// </summary>
@@ -11480,7 +11480,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-researchgate unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/researchgate
         /// </summary>
@@ -11489,7 +11489,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-resolving unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/resolving
         /// </summary>
@@ -11498,7 +11498,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-retweet unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/retweet
         /// </summary>
@@ -11516,7 +11516,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-rev unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/rev
         /// </summary>
@@ -11525,7 +11525,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ribbon unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ribbon
         /// </summary>
@@ -11534,7 +11534,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ring unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ring
         /// </summary>
@@ -11543,7 +11543,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-road unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/road
         /// </summary>
@@ -11552,7 +11552,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-robot unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/robot
         /// </summary>
@@ -11561,7 +11561,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-rocket unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/rocket
         /// </summary>
@@ -11570,7 +11570,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-rocketchat unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/rocketchat
         /// </summary>
@@ -11579,7 +11579,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-rockrms unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/rockrms
         /// </summary>
@@ -11588,7 +11588,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-route unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/route
         /// </summary>
@@ -11615,7 +11615,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-rss unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/rss
         /// </summary>
@@ -11624,7 +11624,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-rss-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/rss-square
         /// </summary>
@@ -11633,7 +11633,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ruble-sign unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ruble-sign
         /// </summary>
@@ -11642,7 +11642,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ruler unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ruler
         /// </summary>
@@ -11651,7 +11651,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ruler-combined unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ruler-combined
         /// </summary>
@@ -11660,7 +11660,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ruler-horizontal unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ruler-horizontal
         /// </summary>
@@ -11678,7 +11678,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ruler-vertical unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ruler-vertical
         /// </summary>
@@ -11687,7 +11687,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-running unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/running
         /// </summary>
@@ -11696,7 +11696,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-rupee-sign unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/rupee-sign
         /// </summary>
@@ -11705,7 +11705,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sad-cry unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sad-cry
         /// </summary>
@@ -11714,7 +11714,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sad-tear unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sad-tear
         /// </summary>
@@ -11723,7 +11723,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-safari unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/safari
         /// </summary>
@@ -11732,7 +11732,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sass unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/sass
         /// </summary>
@@ -11741,7 +11741,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-save unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/save
         /// </summary>
@@ -11804,7 +11804,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-schlix unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/schlix
         /// </summary>
@@ -11813,7 +11813,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-school unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/school
         /// </summary>
@@ -11822,7 +11822,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-screwdriver unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/screwdriver
         /// </summary>
@@ -11831,7 +11831,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-scribd unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/scribd
         /// </summary>
@@ -11840,7 +11840,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-scroll unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/scroll
         /// </summary>
@@ -11876,7 +11876,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-search unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/search
         /// </summary>
@@ -11885,7 +11885,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-search-dollar unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/search-dollar
         /// </summary>
@@ -11894,7 +11894,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-search-location unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/search-location
         /// </summary>
@@ -11903,7 +11903,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-search-minus unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/search-minus
         /// </summary>
@@ -11912,7 +11912,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-search-plus unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/search-plus
         /// </summary>
@@ -11921,7 +11921,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-searchengin unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/searchengin
         /// </summary>
@@ -11930,7 +11930,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-seedling unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/seedling
         /// </summary>
@@ -11939,7 +11939,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sellcast unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/sellcast
         /// </summary>
@@ -11948,7 +11948,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sellsy unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/sellsy
         /// </summary>
@@ -11957,7 +11957,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-server unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/server
         /// </summary>
@@ -11966,7 +11966,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-servicestack unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/servicestack
         /// </summary>
@@ -11975,7 +11975,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-shapes unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/shapes
         /// </summary>
@@ -11984,7 +11984,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-share unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/share
         /// </summary>
@@ -12002,7 +12002,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-share-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/share-alt
         /// </summary>
@@ -12011,7 +12011,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-share-alt-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/share-alt-square
         /// </summary>
@@ -12020,7 +12020,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-share-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/share-square
         /// </summary>
@@ -12038,7 +12038,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-shekel-sign unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/shekel-sign
         /// </summary>
@@ -12056,7 +12056,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-shield-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/shield-alt
         /// </summary>
@@ -12083,7 +12083,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ship unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ship
         /// </summary>
@@ -12092,7 +12092,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-shipping-fast unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/shipping-fast
         /// </summary>
@@ -12110,7 +12110,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-shirtsinbulk unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/shirtsinbulk
         /// </summary>
@@ -12119,7 +12119,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-shoe-prints unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/shoe-prints
         /// </summary>
@@ -12128,7 +12128,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-shopping-bag unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/shopping-bag
         /// </summary>
@@ -12137,7 +12137,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-shopping-basket unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/shopping-basket
         /// </summary>
@@ -12146,7 +12146,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-shopping-cart unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/shopping-cart
         /// </summary>
@@ -12155,7 +12155,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-shopware unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/shopware
         /// </summary>
@@ -12173,7 +12173,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-shower unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/shower
         /// </summary>
@@ -12191,7 +12191,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-shuttle-van unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/shuttle-van
         /// </summary>
@@ -12218,7 +12218,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sign unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sign
         /// </summary>
@@ -12236,7 +12236,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sign-in-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sign-in-alt
         /// </summary>
@@ -12245,7 +12245,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sign-language unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sign-language
         /// </summary>
@@ -12263,7 +12263,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sign-out-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sign-out-alt
         /// </summary>
@@ -12272,7 +12272,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-signal unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/signal
         /// </summary>
@@ -12371,7 +12371,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-signature unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/signature
         /// </summary>
@@ -12380,7 +12380,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-simplybuilt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/simplybuilt
         /// </summary>
@@ -12389,7 +12389,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sistrix unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/sistrix
         /// </summary>
@@ -12398,7 +12398,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sitemap unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sitemap
         /// </summary>
@@ -12407,7 +12407,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sith unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/sith
         /// </summary>
@@ -12425,7 +12425,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-skull unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/skull
         /// </summary>
@@ -12434,7 +12434,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-skull-crossbones unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/skull-crossbones
         /// </summary>
@@ -12443,7 +12443,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-skyatlas unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/skyatlas
         /// </summary>
@@ -12452,7 +12452,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-skype unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/skype
         /// </summary>
@@ -12461,7 +12461,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-slack unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/slack
         /// </summary>
@@ -12470,7 +12470,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-slack-hash unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/slack-hash
         /// </summary>
@@ -12479,7 +12479,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-slash unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/slash
         /// </summary>
@@ -12488,7 +12488,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sliders-h unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sliders-h
         /// </summary>
@@ -12524,7 +12524,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-slideshare unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/slideshare
         /// </summary>
@@ -12533,7 +12533,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-smile unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/smile
         /// </summary>
@@ -12542,7 +12542,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-smile-beam unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/smile-beam
         /// </summary>
@@ -12560,7 +12560,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-smile-wink unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/smile-wink
         /// </summary>
@@ -12569,7 +12569,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-smog unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/smog
         /// </summary>
@@ -12587,7 +12587,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-smoking unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/smoking
         /// </summary>
@@ -12596,7 +12596,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-smoking-ban unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/smoking-ban
         /// </summary>
@@ -12614,7 +12614,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-snapchat unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/snapchat
         /// </summary>
@@ -12623,7 +12623,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-snapchat-ghost unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/snapchat-ghost
         /// </summary>
@@ -12632,7 +12632,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-snapchat-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/snapchat-square
         /// </summary>
@@ -12650,7 +12650,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-snowflake unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/snowflake
         /// </summary>
@@ -12659,7 +12659,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-socks unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/socks
         /// </summary>
@@ -12668,7 +12668,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-solar-panel unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/solar-panel
         /// </summary>
@@ -12677,7 +12677,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sort unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sort
         /// </summary>
@@ -12686,7 +12686,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sort-alpha-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sort-alpha-down
         /// </summary>
@@ -12695,7 +12695,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sort-alpha-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sort-alpha-up
         /// </summary>
@@ -12704,7 +12704,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sort-amount-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sort-amount-down
         /// </summary>
@@ -12713,7 +12713,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sort-amount-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sort-amount-up
         /// </summary>
@@ -12722,7 +12722,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sort-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sort-down
         /// </summary>
@@ -12731,7 +12731,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sort-numeric-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sort-numeric-down
         /// </summary>
@@ -12740,7 +12740,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sort-numeric-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sort-numeric-up
         /// </summary>
@@ -12749,7 +12749,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sort-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sort-up
         /// </summary>
@@ -12758,7 +12758,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-soundcloud unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/soundcloud
         /// </summary>
@@ -12767,7 +12767,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-spa unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/spa
         /// </summary>
@@ -12776,7 +12776,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-space-shuttle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/space-shuttle
         /// </summary>
@@ -12794,7 +12794,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-speakap unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/speakap
         /// </summary>
@@ -12803,7 +12803,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-spider unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/spider
         /// </summary>
@@ -12830,7 +12830,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-spinner unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/spinner
         /// </summary>
@@ -12848,7 +12848,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-splotch unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/splotch
         /// </summary>
@@ -12857,7 +12857,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-spotify unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/spotify
         /// </summary>
@@ -12866,7 +12866,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-spray-can unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/spray-can
         /// </summary>
@@ -12875,7 +12875,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/square
         /// </summary>
@@ -12884,7 +12884,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-square-full unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/square-full
         /// </summary>
@@ -12902,7 +12902,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-square-root-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/square-root-alt
         /// </summary>
@@ -12911,7 +12911,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-squarespace unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/squarespace
         /// </summary>
@@ -12929,7 +12929,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-stack-exchange unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/stack-exchange
         /// </summary>
@@ -12938,7 +12938,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-stack-overflow unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/stack-overflow
         /// </summary>
@@ -12956,7 +12956,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-stamp unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/stamp
         /// </summary>
@@ -12965,7 +12965,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-star unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/star
         /// </summary>
@@ -12974,7 +12974,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-star-and-crescent unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/star-and-crescent
         /// </summary>
@@ -12992,7 +12992,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-star-half unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/star-half
         /// </summary>
@@ -13001,7 +13001,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-star-half-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/star-half-alt
         /// </summary>
@@ -13010,7 +13010,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-star-of-david unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/star-of-david
         /// </summary>
@@ -13019,7 +13019,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-star-of-life unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/star-of-life
         /// </summary>
@@ -13037,7 +13037,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-staylinked unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/staylinked
         /// </summary>
@@ -13046,7 +13046,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-steam unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/steam
         /// </summary>
@@ -13055,7 +13055,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-steam-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/steam-square
         /// </summary>
@@ -13064,7 +13064,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-steam-symbol unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/steam-symbol
         /// </summary>
@@ -13082,7 +13082,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-step-backward unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/step-backward
         /// </summary>
@@ -13091,7 +13091,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-step-forward unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/step-forward
         /// </summary>
@@ -13100,7 +13100,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-stethoscope unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/stethoscope
         /// </summary>
@@ -13109,7 +13109,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sticker-mule unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/sticker-mule
         /// </summary>
@@ -13118,7 +13118,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sticky-note unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sticky-note
         /// </summary>
@@ -13136,7 +13136,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-stop unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/stop
         /// </summary>
@@ -13145,7 +13145,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-stop-circle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/stop-circle
         /// </summary>
@@ -13154,7 +13154,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-stopwatch unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/stopwatch
         /// </summary>
@@ -13163,7 +13163,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-store unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/store
         /// </summary>
@@ -13172,7 +13172,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-store-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/store-alt
         /// </summary>
@@ -13181,7 +13181,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-strava unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/strava
         /// </summary>
@@ -13190,7 +13190,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-stream unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/stream
         /// </summary>
@@ -13199,7 +13199,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-street-view unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/street-view
         /// </summary>
@@ -13208,7 +13208,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-strikethrough unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/strikethrough
         /// </summary>
@@ -13217,7 +13217,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-stripe unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/stripe
         /// </summary>
@@ -13226,7 +13226,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-stripe-s unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/stripe-s
         /// </summary>
@@ -13235,7 +13235,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-stroopwafel unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/stroopwafel
         /// </summary>
@@ -13244,7 +13244,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-studiovinari unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/studiovinari
         /// </summary>
@@ -13253,7 +13253,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-stumbleupon unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/stumbleupon
         /// </summary>
@@ -13262,7 +13262,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-stumbleupon-circle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/stumbleupon-circle
         /// </summary>
@@ -13271,7 +13271,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-subscript unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/subscript
         /// </summary>
@@ -13280,7 +13280,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-subway unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/subway
         /// </summary>
@@ -13289,7 +13289,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-suitcase unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/suitcase
         /// </summary>
@@ -13298,7 +13298,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-suitcase-rolling unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/suitcase-rolling
         /// </summary>
@@ -13307,7 +13307,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sun unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sun
         /// </summary>
@@ -13361,7 +13361,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-superpowers unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/superpowers
         /// </summary>
@@ -13370,7 +13370,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-superscript unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/superscript
         /// </summary>
@@ -13379,7 +13379,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-supple unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/supple
         /// </summary>
@@ -13388,7 +13388,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-surprise unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/surprise
         /// </summary>
@@ -13397,7 +13397,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-swatchbook unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/swatchbook
         /// </summary>
@@ -13406,7 +13406,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-swimmer unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/swimmer
         /// </summary>
@@ -13415,7 +13415,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-swimming-pool unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/swimming-pool
         /// </summary>
@@ -13442,7 +13442,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-synagogue unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/synagogue
         /// </summary>
@@ -13451,7 +13451,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sync unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sync
         /// </summary>
@@ -13460,7 +13460,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-sync-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/sync-alt
         /// </summary>
@@ -13469,7 +13469,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-syringe unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/syringe
         /// </summary>
@@ -13478,7 +13478,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-table unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/table
         /// </summary>
@@ -13487,7 +13487,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-table-tennis unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/table-tennis
         /// </summary>
@@ -13496,7 +13496,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tablet unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tablet
         /// </summary>
@@ -13505,7 +13505,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tablet-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tablet-alt
         /// </summary>
@@ -13541,7 +13541,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tablets unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tablets
         /// </summary>
@@ -13559,7 +13559,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tachometer-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tachometer-alt
         /// </summary>
@@ -13658,7 +13658,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tag unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tag
         /// </summary>
@@ -13667,7 +13667,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tags unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tags
         /// </summary>
@@ -13685,7 +13685,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tape unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tape
         /// </summary>
@@ -13694,7 +13694,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tasks unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tasks
         /// </summary>
@@ -13703,7 +13703,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-taxi unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/taxi
         /// </summary>
@@ -13712,7 +13712,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-teamspeak unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/teamspeak
         /// </summary>
@@ -13721,7 +13721,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-teeth unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/teeth
         /// </summary>
@@ -13730,7 +13730,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-teeth-open unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/teeth-open
         /// </summary>
@@ -13739,7 +13739,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-telegram unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/telegram
         /// </summary>
@@ -13748,7 +13748,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-telegram-plane unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/telegram-plane
         /// </summary>
@@ -13766,7 +13766,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-temperature-high unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/temperature-high
         /// </summary>
@@ -13784,7 +13784,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-temperature-low unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/temperature-low
         /// </summary>
@@ -13793,7 +13793,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tencent-weibo unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/tencent-weibo
         /// </summary>
@@ -13811,7 +13811,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-terminal unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/terminal
         /// </summary>
@@ -13820,7 +13820,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-text-height unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/text-height
         /// </summary>
@@ -13829,7 +13829,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-text-width unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/text-width
         /// </summary>
@@ -13838,7 +13838,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-th unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/th
         /// </summary>
@@ -13847,7 +13847,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-th-large unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/th-large
         /// </summary>
@@ -13856,7 +13856,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-th-list unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/th-list
         /// </summary>
@@ -13865,7 +13865,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-the-red-yeti unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/the-red-yeti
         /// </summary>
@@ -13874,7 +13874,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-theater-masks unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/theater-masks
         /// </summary>
@@ -13883,7 +13883,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-themeco unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/themeco
         /// </summary>
@@ -13892,7 +13892,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-themeisle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/themeisle
         /// </summary>
@@ -13901,7 +13901,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-thermometer unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/thermometer
         /// </summary>
@@ -13910,7 +13910,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-thermometer-empty unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/thermometer-empty
         /// </summary>
@@ -13919,7 +13919,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-thermometer-full unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/thermometer-full
         /// </summary>
@@ -13928,7 +13928,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-thermometer-half unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/thermometer-half
         /// </summary>
@@ -13937,7 +13937,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-thermometer-quarter unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/thermometer-quarter
         /// </summary>
@@ -13946,7 +13946,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-thermometer-three-quarters unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/thermometer-three-quarters
         /// </summary>
@@ -13964,7 +13964,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-think-peaks unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/think-peaks
         /// </summary>
@@ -13973,7 +13973,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-thumbs-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/thumbs-down
         /// </summary>
@@ -13982,7 +13982,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-thumbs-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/thumbs-up
         /// </summary>
@@ -13991,7 +13991,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-thumbtack unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/thumbtack
         /// </summary>
@@ -14036,7 +14036,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ticket-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/ticket-alt
         /// </summary>
@@ -14054,7 +14054,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-times unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/times
         /// </summary>
@@ -14063,7 +14063,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-times-circle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/times-circle
         /// </summary>
@@ -14099,7 +14099,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tint unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tint
         /// </summary>
@@ -14108,7 +14108,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tint-slash unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tint-slash
         /// </summary>
@@ -14153,7 +14153,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tired unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tired
         /// </summary>
@@ -14162,7 +14162,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-toggle-off unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/toggle-off
         /// </summary>
@@ -14171,7 +14171,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-toggle-on unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/toggle-on
         /// </summary>
@@ -14180,7 +14180,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-toilet-paper unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/toilet-paper
         /// </summary>
@@ -14216,7 +14216,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-toolbox unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/toolbox
         /// </summary>
@@ -14225,7 +14225,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tooth unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tooth
         /// </summary>
@@ -14243,7 +14243,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-torah unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/torah
         /// </summary>
@@ -14252,7 +14252,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-torii-gate unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/torii-gate
         /// </summary>
@@ -14270,7 +14270,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tractor unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tractor
         /// </summary>
@@ -14279,7 +14279,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-trade-federation unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/trade-federation
         /// </summary>
@@ -14288,7 +14288,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-trademark unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/trademark
         /// </summary>
@@ -14306,7 +14306,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-traffic-light unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/traffic-light
         /// </summary>
@@ -14342,7 +14342,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-train unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/train
         /// </summary>
@@ -14351,7 +14351,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-transgender unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/transgender
         /// </summary>
@@ -14360,7 +14360,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-transgender-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/transgender-alt
         /// </summary>
@@ -14369,7 +14369,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-trash unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/trash
         /// </summary>
@@ -14378,7 +14378,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-trash-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/trash-alt
         /// </summary>
@@ -14396,7 +14396,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tree unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tree
         /// </summary>
@@ -14423,7 +14423,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-trello unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/trello
         /// </summary>
@@ -14441,7 +14441,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tripadvisor unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/tripadvisor
         /// </summary>
@@ -14450,7 +14450,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-trophy unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/trophy
         /// </summary>
@@ -14468,7 +14468,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-truck unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/truck
         /// </summary>
@@ -14495,7 +14495,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-truck-loading unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/truck-loading
         /// </summary>
@@ -14504,7 +14504,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-truck-monster unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/truck-monster
         /// </summary>
@@ -14513,7 +14513,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-truck-moving unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/truck-moving
         /// </summary>
@@ -14522,7 +14522,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-truck-pickup unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/truck-pickup
         /// </summary>
@@ -14540,7 +14540,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tshirt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tshirt
         /// </summary>
@@ -14549,7 +14549,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tty unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tty
         /// </summary>
@@ -14558,7 +14558,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tumblr unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/tumblr
         /// </summary>
@@ -14567,7 +14567,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tumblr-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/tumblr-square
         /// </summary>
@@ -14594,7 +14594,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-tv unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/tv
         /// </summary>
@@ -14612,7 +14612,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-twitch unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/twitch
         /// </summary>
@@ -14621,7 +14621,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-twitter unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/twitter
         /// </summary>
@@ -14630,7 +14630,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-twitter-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/twitter-square
         /// </summary>
@@ -14639,7 +14639,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-typo3 unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/typo3
         /// </summary>
@@ -14648,7 +14648,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-uber unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/uber
         /// </summary>
@@ -14657,7 +14657,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-uikit unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/uikit
         /// </summary>
@@ -14666,7 +14666,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-umbrella unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/umbrella
         /// </summary>
@@ -14675,7 +14675,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-umbrella-beach unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/umbrella-beach
         /// </summary>
@@ -14684,7 +14684,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-underline unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/underline
         /// </summary>
@@ -14693,7 +14693,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-undo unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/undo
         /// </summary>
@@ -14702,7 +14702,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-undo-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/undo-alt
         /// </summary>
@@ -14729,7 +14729,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-uniregistry unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/uniregistry
         /// </summary>
@@ -14738,7 +14738,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-universal-access unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/universal-access
         /// </summary>
@@ -14747,7 +14747,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-university unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/university
         /// </summary>
@@ -14756,7 +14756,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-unlink unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/unlink
         /// </summary>
@@ -14765,7 +14765,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-unlock unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/unlock
         /// </summary>
@@ -14774,7 +14774,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-unlock-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/unlock-alt
         /// </summary>
@@ -14783,7 +14783,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-untappd unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/untappd
         /// </summary>
@@ -14792,7 +14792,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-upload unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/upload
         /// </summary>
@@ -14801,7 +14801,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-usb unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/usb
         /// </summary>
@@ -14828,7 +14828,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user
         /// </summary>
@@ -14837,7 +14837,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-alt
         /// </summary>
@@ -14846,7 +14846,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-alt-slash unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-alt-slash
         /// </summary>
@@ -14855,7 +14855,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-astronaut unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-astronaut
         /// </summary>
@@ -14873,7 +14873,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-check unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-check
         /// </summary>
@@ -14882,7 +14882,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-circle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-circle
         /// </summary>
@@ -14891,7 +14891,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-clock unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-clock
         /// </summary>
@@ -14900,7 +14900,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-cog unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-cog
         /// </summary>
@@ -14918,7 +14918,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-edit unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-edit
         /// </summary>
@@ -14927,7 +14927,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-friends unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-friends
         /// </summary>
@@ -14936,7 +14936,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-graduate unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-graduate
         /// </summary>
@@ -14945,7 +14945,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-injured unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-injured
         /// </summary>
@@ -14954,7 +14954,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-lock unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-lock
         /// </summary>
@@ -14963,7 +14963,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-md unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-md
         /// </summary>
@@ -14972,7 +14972,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-minus unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-minus
         /// </summary>
@@ -14981,7 +14981,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-ninja unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-ninja
         /// </summary>
@@ -14990,7 +14990,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-plus unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-plus
         /// </summary>
@@ -14999,7 +14999,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-secret unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-secret
         /// </summary>
@@ -15008,7 +15008,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-shield unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-shield
         /// </summary>
@@ -15017,7 +15017,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-slash unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-slash
         /// </summary>
@@ -15026,7 +15026,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-tag unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-tag
         /// </summary>
@@ -15035,7 +15035,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-tie unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-tie
         /// </summary>
@@ -15044,7 +15044,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-user-times unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/user-times
         /// </summary>
@@ -15053,7 +15053,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-users unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/users
         /// </summary>
@@ -15071,7 +15071,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-users-cog unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/users-cog
         /// </summary>
@@ -15089,7 +15089,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-ussunnah unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/ussunnah
         /// </summary>
@@ -15116,7 +15116,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-utensil-spoon unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/utensil-spoon
         /// </summary>
@@ -15125,7 +15125,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-utensils unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/utensils
         /// </summary>
@@ -15143,7 +15143,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-vaadin unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/vaadin
         /// </summary>
@@ -15161,7 +15161,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-vector-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/vector-square
         /// </summary>
@@ -15170,7 +15170,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-venus unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/venus
         /// </summary>
@@ -15179,7 +15179,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-venus-double unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/venus-double
         /// </summary>
@@ -15188,7 +15188,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-venus-mars unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/venus-mars
         /// </summary>
@@ -15197,7 +15197,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-viacoin unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/viacoin
         /// </summary>
@@ -15206,7 +15206,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-viadeo unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/viadeo
         /// </summary>
@@ -15215,7 +15215,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-viadeo-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/viadeo-square
         /// </summary>
@@ -15224,7 +15224,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-vial unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/vial
         /// </summary>
@@ -15233,7 +15233,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-vials unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/vials
         /// </summary>
@@ -15242,7 +15242,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-viber unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/viber
         /// </summary>
@@ -15251,7 +15251,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-video unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/video
         /// </summary>
@@ -15269,7 +15269,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-video-slash unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/video-slash
         /// </summary>
@@ -15278,7 +15278,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-vihara unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/vihara
         /// </summary>
@@ -15287,7 +15287,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-vimeo unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/vimeo
         /// </summary>
@@ -15296,7 +15296,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-vimeo-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/vimeo-square
         /// </summary>
@@ -15305,7 +15305,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-vimeo-v unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/vimeo-v
         /// </summary>
@@ -15314,7 +15314,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-vine unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/vine
         /// </summary>
@@ -15323,7 +15323,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-vk unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/vk
         /// </summary>
@@ -15332,7 +15332,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-vnv unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/vnv
         /// </summary>
@@ -15350,7 +15350,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-volleyball-ball unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/volleyball-ball
         /// </summary>
@@ -15368,7 +15368,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-volume-down unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/volume-down
         /// </summary>
@@ -15377,7 +15377,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-volume-mute unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/volume-mute
         /// </summary>
@@ -15386,7 +15386,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-volume-off unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/volume-off
         /// </summary>
@@ -15404,7 +15404,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-volume-up unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/volume-up
         /// </summary>
@@ -15422,7 +15422,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-vote-yea unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/vote-yea
         /// </summary>
@@ -15431,7 +15431,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-vr-cardboard unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/vr-cardboard
         /// </summary>
@@ -15440,7 +15440,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-vuejs unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/vuejs
         /// </summary>
@@ -15449,7 +15449,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-walking unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/walking
         /// </summary>
@@ -15458,7 +15458,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wallet unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/wallet
         /// </summary>
@@ -15485,7 +15485,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-warehouse unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/warehouse
         /// </summary>
@@ -15521,7 +15521,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-water unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/water
         /// </summary>
@@ -15548,7 +15548,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-weebly unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/weebly
         /// </summary>
@@ -15557,7 +15557,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-weibo unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/weibo
         /// </summary>
@@ -15566,7 +15566,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-weight unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/weight
         /// </summary>
@@ -15575,7 +15575,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-weight-hanging unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/weight-hanging
         /// </summary>
@@ -15584,7 +15584,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-weixin unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/weixin
         /// </summary>
@@ -15602,7 +15602,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-whatsapp unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/whatsapp
         /// </summary>
@@ -15611,7 +15611,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-whatsapp-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/whatsapp-square
         /// </summary>
@@ -15629,7 +15629,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wheelchair unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/wheelchair
         /// </summary>
@@ -15647,7 +15647,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-whmcs unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/whmcs
         /// </summary>
@@ -15656,7 +15656,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wifi unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/wifi
         /// </summary>
@@ -15692,7 +15692,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wikipedia-w unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/wikipedia-w
         /// </summary>
@@ -15701,7 +15701,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wind unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/wind
         /// </summary>
@@ -15737,7 +15737,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-window-close unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/window-close
         /// </summary>
@@ -15746,7 +15746,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-window-maximize unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/window-maximize
         /// </summary>
@@ -15755,7 +15755,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-window-minimize unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/window-minimize
         /// </summary>
@@ -15764,7 +15764,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-window-restore unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular, Solid
         /// <para/>
         /// See https://fontawesome.com/icons/window-restore
         /// </summary>
@@ -15773,7 +15773,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-windows unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/windows
         /// </summary>
@@ -15791,7 +15791,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wine-bottle unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/wine-bottle
         /// </summary>
@@ -15800,7 +15800,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wine-glass unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/wine-glass
         /// </summary>
@@ -15809,7 +15809,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wine-glass-alt unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/wine-glass-alt
         /// </summary>
@@ -15818,7 +15818,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wix unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/wix
         /// </summary>
@@ -15827,7 +15827,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wizards-of-the-coast unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/wizards-of-the-coast
         /// </summary>
@@ -15836,7 +15836,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wolf-pack-battalion unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/wolf-pack-battalion
         /// </summary>
@@ -15845,7 +15845,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-won-sign unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/won-sign
         /// </summary>
@@ -15854,7 +15854,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wordpress unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/wordpress
         /// </summary>
@@ -15863,7 +15863,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wordpress-simple unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/wordpress-simple
         /// </summary>
@@ -15872,7 +15872,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wpbeginner unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/wpbeginner
         /// </summary>
@@ -15881,7 +15881,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wpexplorer unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/wpexplorer
         /// </summary>
@@ -15890,7 +15890,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wpforms unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/wpforms
         /// </summary>
@@ -15899,7 +15899,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wpressr unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/wpressr
         /// </summary>
@@ -15908,7 +15908,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-wrench unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/wrench
         /// </summary>
@@ -15917,7 +15917,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-x-ray unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/x-ray
         /// </summary>
@@ -15926,7 +15926,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-xbox unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/xbox
         /// </summary>
@@ -15935,7 +15935,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-xing unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/xing
         /// </summary>
@@ -15944,7 +15944,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-xing-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/xing-square
         /// </summary>
@@ -15953,7 +15953,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-y-combinator unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/y-combinator
         /// </summary>
@@ -15962,7 +15962,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-yahoo unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/yahoo
         /// </summary>
@@ -15971,7 +15971,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-yandex unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/yandex
         /// </summary>
@@ -15980,7 +15980,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-yandex-international unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/yandex-international
         /// </summary>
@@ -15989,7 +15989,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-yelp unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/yelp
         /// </summary>
@@ -15998,7 +15998,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-yen-sign unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/yen-sign
         /// </summary>
@@ -16007,7 +16007,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-yin-yang unicode value.
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid
         /// <para/>
         /// See https://fontawesome.com/icons/yin-yang
         /// </summary>
@@ -16016,7 +16016,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-yoast unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/yoast
         /// </summary>
@@ -16025,7 +16025,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-youtube unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/youtube
         /// </summary>
@@ -16034,7 +16034,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-youtube-square unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/youtube-square
         /// </summary>
@@ -16043,7 +16043,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-zhihu unicode value.
         /// <para/>
-        /// This icon supports the following styles: Brands (Pro)
+        /// This icon supports the following styles: Brands
         /// <para/>
         /// See https://fontawesome.com/icons/zhihu
         /// </summary>
