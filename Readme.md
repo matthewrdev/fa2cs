@@ -6,7 +6,7 @@ FontAwesome To C# creates a C# file that contains string constants for all FontA
 
 # Benefits
 
-Use FontAwesome To C# to replace confusing and arcane unicode strings with a clean and descriptive property assignment.
+Use FontAwesome To C# to replace confusing and arcane unicode strings with a clean and descriptive property.
 
 This:
 
