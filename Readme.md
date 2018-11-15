@@ -17,7 +17,7 @@ submitButton.Text = "/uf00c"; // Huh? What icon is this? What font is it from? �
 Becomes this:
 
 ```
-submitButton.Text = FontAwesome.FontAwesomeIcons.Check; // Obviously a check/tick icon! 😊👍
+submitButton.Text = FontAwesome.FontAwesomeIcons.Check; // Obviously a check icon from FontAwesome! 😊👍
 ```
 
 The end result is cleaner, more readable and more maintainable code.
