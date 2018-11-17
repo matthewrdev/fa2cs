@@ -9,8 +9,22 @@ namespace fa2cs
     {
         public const string FontAwesomeIconsFileName = "FontAwesomeIcons.cs";
 
+        public const string FontAwesomeIconsAssemblyFileName = "FontAwesome.IconCodes.dll";
+
+        public const string FontAwesomeIconsAssemblyDocsFileName = "FontAwesome.IconCodes.xml";
+
         public static async Task Main(string[] args)
         {
+            var outputPath = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
+            outputPath = Path.Combine(outputPath, "fa2cs");
+
+            if (Directory.Exists(outputPath))
+            {
+                Directory.Delete(outputPath, true);
+            }
+
+            Directory.CreateDirectory(outputPath);
+
             var downloader = new FontAwesomeDownloader();
             var writer = new CodeWriter();
 
@@ -18,11 +32,12 @@ namespace fa2cs
 
             var code = writer.Write(result);
 
-            var outputFilePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), FontAwesomeIconsFileName);
+            var codeFilePath = Path.Combine(outputPath, FontAwesomeIconsFileName);
 
-            File.WriteAllText(outputFilePath, code);
+            File.WriteAllText(codeFilePath, code);
+            AssemblyEmitter.EmitAssembly(code, outputPath);
 
-            OpenFileHelper.OpenAndSelect(outputFilePath);
+            OpenFileHelper.OpenAndSelect(outputPath);
         }
     }
 }
