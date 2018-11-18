@@ -41,7 +41,7 @@ var fileIcon = FontAwesome.FontAwesomeIcons.Alicorn;
 You can use an icon in XAML by:
 
  * Adding a namespace reference to `FontAwesome`: `xmlns:fontAwesome="clr-namespace:FontAwesome"`;
- * Referencing a icon using `x:Static`: `<Label Text="{x:Static fontAwesome:FontAwesomeIcons.Alicorn}" FontFamily=""/>`
+ * Referencing a icon using `x:Static`: `<Label Text="{x:Static fontAwesome:FontAwesomeIcons.Alicorn}"/>`
 
 Voila! All done!
 
