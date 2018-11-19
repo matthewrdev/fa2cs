@@ -24,7 +24,7 @@ The end result is cleaner, more readable and more maintainable code.
 
 # Using FontAwesome To C#
 
-It's super easy to use FontAwesome To C#. 
+It's super easy to use FontAwesome To C#.
 
 Simply download [FontAwesomeIcons.cs](FontAwesomeIcons.cs) and place it into your project:
 
@@ -45,14 +45,9 @@ You can use an icon in XAML by:
 
 Voila! All done!
 
-# Hey! Wheres my NuGet package?
-
-`FontAwesomeIcons.cs` is one file that will rarely change... Is an entire package dependency really necessary for one file? 🤔
-
-If you think it is, please raise an issue against this repository.
-
 # Credits
 
  * [Font Awesome](https://fontawesome.com/): The amazing Font Awesome icon set.
  * [HtmlAgility Pack](https://html-agility-pack.net/): Used for crawling www.fontawesome.com 🙈
  * [QuickType](https://quicktype.io/): Used to generate a C# model to consume https://fontawesome.com/cheatsheet.
+ * [Assembly Emitter](https://josephwoodward.co.uk/2016/12/in-memory-c-sharp-compilation-using-roslyn): Used to emit the FontAwesome.IconCodes assembly.

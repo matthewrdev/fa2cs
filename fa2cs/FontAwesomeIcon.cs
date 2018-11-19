@@ -66,6 +66,5 @@ namespace fa2cs
                 return string.Join(", ", styles);
             }
         }
-
     }
 }

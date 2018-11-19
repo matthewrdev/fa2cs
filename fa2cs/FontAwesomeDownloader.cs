@@ -8,15 +8,13 @@ namespace fa2cs
 {
     public class FontAwesomeDownloader
     {
-        public const string Endpoint = "https://fontawesome.com/cheatsheet";
-
-        public async Task<List<FontAwesomeIcon>> DownloadIconCodes()
+        public async Task<List<FontAwesomeIcon>> DownloadIconCodes(string endpoint)
         {
             var client = new HttpClient();
 
-            Console.WriteLine("Downloading: " + Endpoint);
+            Console.WriteLine("Downloading: " + endpoint);
 
-            var htmlContent = await client.GetStringAsync(Endpoint);
+            var htmlContent = await client.GetStringAsync(endpoint);
 
             var htmlDocument = new HtmlDocument();
             htmlDocument.LoadHtml(htmlContent);
@@ -62,7 +60,7 @@ namespace fa2cs
                 }
             }
 
-            Console.WriteLine("Discovered " + result.Count + " icons");
+            Console.WriteLine("Discovered " + result.Count + " icons from " + endpoint);
 
             return result;
         }

@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fa2cs", "fa2cs\fa2cs.csproj", "{48658728-4E68-418A-B1FF-7DF1B5A2D050}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{370D5946-12D8-4288-B7E9-A63211FDC7DE}"
+	ProjectSection(SolutionItems) = preProject
+		.nuspec = .nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86

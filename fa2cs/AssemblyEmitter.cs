@@ -19,14 +19,14 @@ namespace fa2cs
           MetadataReference.CreateFromFile(typeof(ValueTuple<>).GetTypeInfo().Assembly.Location)
       };
 
-        public static bool EmitAssembly(string code, 
+        public static bool EmitAssembly(List<string> sources, 
                                         string outputPath)
         {
-            SyntaxTree syntaxTree = CSharpSyntaxTree.ParseText(code, CSharpParseOptions.Default);
+            List<SyntaxTree> syntaxTrees = sources.Select(code => CSharpSyntaxTree.ParseText(code, CSharpParseOptions.Default)).ToList();
 
             Compilation compilation = CreateLibraryCompilation("FontAwesome.IconCodes")
                                       .AddReferences(_references)
-                                      .AddSyntaxTrees(syntaxTree);
+                                       .AddSyntaxTrees(syntaxTrees);
 
             var assemblyStream = new MemoryStream();
             var docsStream = new MemoryStream();
