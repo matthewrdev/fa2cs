@@ -6,7 +6,7 @@ FontAwesome To C# creates a C# file that contains string constants for all FontA
 
 # Benefits
 
-Use FontAwesome To C# to replace confusing and arcane unicode strings with a clean and descriptive property assignment.
+Use FontAwesome To C# to replace confusing and arcane unicode strings with a clean and descriptive property.
 
 This:
 
@@ -17,7 +17,7 @@ submitButton.Text = "/uf00c"; // Huh? What icon is this? What font is it from? �
 Becomes this:
 
 ```
-submitButton.Text = FontAwesome.FontAwesomeIcons.Check; // Obviously a check/tick icon! 😊👍
+submitButton.Text = FontAwesome.FontAwesomeIcons.Check; // Obviously a check icon from FontAwesome! 😊👍
 ```
 
 The end result is cleaner, more readable and more maintainable code.
@@ -41,7 +41,7 @@ var fileIcon = FontAwesome.FontAwesomeIcons.Alicorn;
 You can use an icon in XAML by:
 
  * Adding a namespace reference to `FontAwesome`: `xmlns:fontAwesome="clr-namespace:FontAwesome"`;
- * Referencing a icon using `x:Static`: `<Label Text="{x:Static fontAwesome:FontAwesomeIcons.Alicorn}" FontFamily=""/>`
+ * Referencing a icon using `x:Static`: `<Label Text="{x:Static fontAwesome:FontAwesomeIcons.Alicorn}"/>`
 
 Voila! All done!
 
