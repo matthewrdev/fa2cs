@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
 using HtmlAgilityPack;
@@ -19,18 +20,7 @@ namespace fa2cs
             var htmlDocument = new HtmlDocument();
             htmlDocument.LoadHtml(htmlContent);
 
-            var nodes = htmlDocument.DocumentNode.SelectNodes("//script[@data-prerender='keep']");
-
-            HtmlNode node = null;
-            foreach (var n in nodes)
-            {
-                if (n.InnerText.Contains("window.__inline_data__"))
-                {
-                    node = n;
-                    break;
-                }
-            }
-
+            var node = htmlDocument.DocumentNode.SelectNodes("//script[contains(text(),'window.__inline')]").SingleOrDefault();
             if (node == null)
             {
                 throw new Exception("Could not find json data to build font awesome codes");

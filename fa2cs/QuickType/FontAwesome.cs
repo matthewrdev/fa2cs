@@ -9,8 +9,6 @@
 namespace QuickType
 {
     using System;
-    using System.Collections.Generic;
-
     using System.Globalization;
     using Newtonsoft.Json;
     using Newtonsoft.Json.Converters;
@@ -127,7 +125,7 @@ namespace QuickType
 
     public enum Category { FontAwesome5ProEarlyAccess, FontAwesomePro };
 
-    public enum Style { Brands, Light, Regular, Solid };
+    public enum Style { Brands, Light, Regular, Solid, Duotone };
 
     public enum Currency { Usd };
 
@@ -219,6 +217,8 @@ namespace QuickType
                     return Style.Regular;
                 case "solid":
                     return Style.Solid;
+                case "duotone":
+                    return Style.Duotone;
             }
             throw new Exception("Cannot unmarshal type Style");
         }
