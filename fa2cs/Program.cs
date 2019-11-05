@@ -39,14 +39,6 @@ namespace fa2cs
 
             var code = codeWriter.Write(icons);
 
-            var codeFiles = new List<string>()
-            {
-                code,
-                ResourcesHelper.ReadResourceContent("AssemblyInfoTemplate.txt"),
-            };
-
-            AssemblyEmitter.EmitAssembly(codeFiles, outputPath);
-
             File.WriteAllText(Path.Combine(outputPath, "readme.txt"), ResourcesHelper.ReadResourceContent("readme.txt"));
             File.WriteAllText(Path.Combine(exportPath, "FontAwesomeIcons.cs"), code);
 

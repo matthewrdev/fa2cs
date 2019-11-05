@@ -1,23 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
+﻿using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using fa2cs.Helpers;
 using QuickType;
+
 namespace fa2cs
 {
+    [DebuggerDisplay("{Name} - {DotNetName}")]
     public class FontAwesomeIcon
     {
-        public static readonly IReadOnlyDictionary<string, string> DotNetNameMap = new Dictionary<string, string>()
-        {
-            { "500px", "FiveHundredPX"},
-        };
-
         public FontAwesomeIcon(Datum datum)
         {
             var attr = datum.Attributes;
 
             Name = attr.Id;
+            DotNetName = DotNetNameHelper.ToDotNetName(Name);
             Unicode = attr.Unicode;
             Url = "https://fontawesome.com/icons/" + attr.Id;
             Styles = attr.Styles?.ToList() ?? new List<Style>();
@@ -27,29 +24,9 @@ namespace fa2cs
         public string Name { get; }
         public string Unicode { get; }
         public string Url { get; }
-        public List<Style> Styles { get; }
+        public IReadOnlyList<Style> Styles { get; }
         public Membership Membership { get; }
-
-        public string DotNetName
-        {
-            get
-            {
-                if (DotNetNameMap.ContainsKey(Name))
-                {
-                    return DotNetNameMap[Name];
-                }
-
-                var split = Name.Split('-');
-
-                string dotNetName = "";
-                foreach (var s in split)
-                {
-                    dotNetName += StringHelper.FirstCharToUpper(s);
-                }
-
-                return dotNetName;
-            }
-        }
+        public string DotNetName { get; }
 
         public string StylesSummary
         {
