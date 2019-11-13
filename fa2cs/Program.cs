@@ -11,10 +11,6 @@ namespace fa2cs
     {
         public const string Endpoint = "https://fontawesome.com/cheatsheet";
 
-        public const string FontAwesomeIconsAssemblyFileName = "FontAwesome.IconCodes.dll";
-
-        public const string FontAwesomeIconsAssemblyDocsFileName = "FontAwesome.IconCodes.xml";
-
         public static async Task Main(string[] args)
         {
             var exportPath = AssemblyHelper.EntryAssemblyDirectory;
@@ -39,7 +35,6 @@ namespace fa2cs
 
             var code = codeWriter.Write(icons);
 
-            File.WriteAllText(Path.Combine(outputPath, "readme.txt"), ResourcesHelper.ReadResourceContent("readme.txt"));
             File.WriteAllText(Path.Combine(exportPath, "FontAwesomeIcons.cs"), code);
 
             OpenFileHelper.OpenAndSelect(exportPath);

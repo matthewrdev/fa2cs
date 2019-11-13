@@ -9,7 +9,7 @@ namespace fa2cs
 {
     public class FontAwesomeDownloader
     {
-        public async Task<List<FontAwesomeIcon>> DownloadIconCodes(string endpoint)
+        public async Task<IReadOnlyList<FontAwesomeIcon>> DownloadIconCodes(string endpoint)
         {
             using (var client = new HttpClient())
             {

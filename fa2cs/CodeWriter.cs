@@ -8,14 +8,14 @@ namespace fa2cs
     {
         const string indent = "    ";
 
-        public string Write(List<FontAwesomeIcon> icons)
+        public string Write(IEnumerable<FontAwesomeIcon> icons)
         {
             Console.Write("Generating C# code...");
 
             var classTemplate = ResourcesHelper.ReadResourceContent("ClassTemplate.txt");
             var propertyTemplate = ResourcesHelper.ReadResourceContent("PropertyTemplate.txt");
 
-            List<string> properties = new List<string>();
+            var properties = new List<string>();
 
             foreach (var icon in icons)
             {
