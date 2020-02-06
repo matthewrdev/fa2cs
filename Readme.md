@@ -4,9 +4,9 @@ FontAwesome To C# creates a C# file that contains string constants for all FontA
 
 **[Get FontAwesomeIcons.cs here](FontAwesomeIcons.cs)**
 
-# Now Available In MFractor
+# Now Available In MFractor!
 
-[MFractor](https://www.mfractor.com/), a productivity tool for Visual Studio Windows and Mac, can now generate a font glyph helper classes using any font asset.
+[MFractor](https://www.mfractor.com/), a productivity tool for Visual Studio Windows and Mac, can now generate a font glyph helper class for any font asset.
 
 [To learn more, please see our documentation on generating a glyph helper class for font assets.](https://docs.mfractor.com/fonts/generate-font-character-code-class/)
 
