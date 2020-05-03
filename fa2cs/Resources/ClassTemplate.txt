@@ -1,5 +1,9 @@
 ﻿using System;
+using Xamarin.Forms;
 
+[assembly: ExportFont("fa-brands-400.ttf", Alias = "FontAwesomeBrands")]
+[assembly: ExportFont("fa-regular-400.ttf", Alias = "FontAwesomeRegular")]
+[assembly: ExportFont("fa-solid-900.ttf", Alias = "FontAwesomeSolid")]
 namespace FontAwesome
 {
     /// <summary>
