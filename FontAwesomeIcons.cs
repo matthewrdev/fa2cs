@@ -138,6 +138,15 @@ namespace FontAwesome
         public const string Affiliatetheme = "\uf36b";
 
         /// <summary>
+        /// fa-air-conditioner unicode value ("\uf8f4").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/air-conditioner
+        /// </summary>
+        public const string AirConditioner = "\uf8f4";
+
+        /// <summary>
         /// fa-air-freshener unicode value ("\uf5d0").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -226,6 +235,24 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/alicorn
         /// </summary>
         public const string Alicorn = "\uf6b0";
+
+        /// <summary>
+        /// fa-alien unicode value ("\uf8f5").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/alien
+        /// </summary>
+        public const string Alien = "\uf8f5";
+
+        /// <summary>
+        /// fa-alien-monster unicode value ("\uf8f6").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/alien-monster
+        /// </summary>
+        public const string AlienMonster = "\uf8f6";
 
         /// <summary>
         /// fa-align-center unicode value ("\uf037").
@@ -1209,6 +1236,24 @@ namespace FontAwesome
         public const string Bacon = "\uf7e5";
 
         /// <summary>
+        /// fa-bacteria unicode value ("\uf959").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/bacteria
+        /// </summary>
+        public const string Bacteria = "\uf959";
+
+        /// <summary>
+        /// fa-bacterium unicode value ("\uf95a").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/bacterium
+        /// </summary>
+        public const string Bacterium = "\uf95a";
+
+        /// <summary>
         /// fa-badge unicode value ("\uf335").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -1270,6 +1315,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/bags-shopping
         /// </summary>
         public const string BagsShopping = "\uf847";
+
+        /// <summary>
+        /// fa-bahai unicode value ("\uf666").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/bahai
+        /// </summary>
+        public const string Bahai = "\uf666";
 
         /// <summary>
         /// fa-balance-scale unicode value ("\uf24e").
@@ -1542,6 +1596,33 @@ namespace FontAwesome
         public const string Bed = "\uf236";
 
         /// <summary>
+        /// fa-bed-alt unicode value ("\uf8f7").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/bed-alt
+        /// </summary>
+        public const string BedAlt = "\uf8f7";
+
+        /// <summary>
+        /// fa-bed-bunk unicode value ("\uf8f8").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/bed-bunk
+        /// </summary>
+        public const string BedBunk = "\uf8f8";
+
+        /// <summary>
+        /// fa-bed-empty unicode value ("\uf8f9").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/bed-empty
+        /// </summary>
+        public const string BedEmpty = "\uf8f9";
+
+        /// <summary>
         /// fa-beer unicode value ("\uf0fc").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -1585,6 +1666,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/bell-exclamation
         /// </summary>
         public const string BellExclamation = "\uf848";
+
+        /// <summary>
+        /// fa-bell-on unicode value ("\uf8fa").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/bell-on
+        /// </summary>
+        public const string BellOn = "\uf8fa";
 
         /// <summary>
         /// fa-bell-plus unicode value ("\uf849").
@@ -1801,6 +1891,33 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/blind
         /// </summary>
         public const string Blind = "\uf29d";
+
+        /// <summary>
+        /// fa-blinds unicode value ("\uf8fb").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/blinds
+        /// </summary>
+        public const string Blinds = "\uf8fb";
+
+        /// <summary>
+        /// fa-blinds-open unicode value ("\uf8fc").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/blinds-open
+        /// </summary>
+        public const string BlindsOpen = "\uf8fc";
+
+        /// <summary>
+        /// fa-blinds-raised unicode value ("\uf8fd").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/blinds-raised
+        /// </summary>
+        public const string BlindsRaised = "\uf8fd";
 
         /// <summary>
         /// fa-blog unicode value ("\uf781").
@@ -2251,6 +2368,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/box-open
         /// </summary>
         public const string BoxOpen = "\uf49e";
+
+        /// <summary>
+        /// fa-box-tissue unicode value ("\uf95b").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/box-tissue
+        /// </summary>
+        public const string BoxTissue = "\uf95b";
 
         /// <summary>
         /// fa-box-up unicode value ("\uf49f").
@@ -2748,6 +2874,15 @@ namespace FontAwesome
         public const string CameraAlt = "\uf332";
 
         /// <summary>
+        /// fa-camera-home unicode value ("\uf8fe").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/camera-home
+        /// </summary>
+        public const string CameraHome = "\uf8fe";
+
+        /// <summary>
         /// fa-camera-movie unicode value ("\uf8a9").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -2955,6 +3090,24 @@ namespace FontAwesome
         public const string CarWash = "\uf5e6";
 
         /// <summary>
+        /// fa-caravan unicode value ("\uf8ff").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/caravan
+        /// </summary>
+        public const string Caravan = "\uf8ff";
+
+        /// <summary>
+        /// fa-caravan-alt unicode value ("\uf900").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/caravan-alt
+        /// </summary>
+        public const string CaravanAlt = "\uf900";
+
+        /// <summary>
         /// fa-caret-circle-down unicode value ("\uf32d").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -3124,6 +3277,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/cat
         /// </summary>
         public const string Cat = "\uf6be";
+
+        /// <summary>
+        /// fa-cat-space unicode value ("\uf901").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/cat-space
+        /// </summary>
+        public const string CatSpace = "\uf901";
 
         /// <summary>
         /// fa-cauldron unicode value ("\uf6bf").
@@ -4224,6 +4386,15 @@ namespace FontAwesome
         public const string Coffee = "\uf0f4";
 
         /// <summary>
+        /// fa-coffee-pot unicode value ("\uf902").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/coffee-pot
+        /// </summary>
+        public const string CoffeePot = "\uf902";
+
+        /// <summary>
         /// fa-coffee-togo unicode value ("\uf6c5").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -4240,6 +4411,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/coffin
         /// </summary>
         public const string Coffin = "\uf6c6";
+
+        /// <summary>
+        /// fa-coffin-cross unicode value ("\uf951").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/coffin-cross
+        /// </summary>
+        public const string CoffinCross = "\uf951";
 
         /// <summary>
         /// fa-cog unicode value ("\uf013").
@@ -4285,6 +4465,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/columns
         /// </summary>
         public const string Columns = "\uf0db";
+
+        /// <summary>
+        /// fa-comet unicode value ("\uf903").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/comet
+        /// </summary>
+        public const string Comet = "\uf903";
 
         /// <summary>
         /// fa-comment unicode value ("\uf075").
@@ -4613,7 +4802,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-compress-alt unicode value ("\uf422").
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
         /// <para/>
         /// See https://fontawesome.com/icons/compress-alt
         /// </summary>
@@ -5169,6 +5358,15 @@ namespace FontAwesome
         public const string Dagger = "\uf6cb";
 
         /// <summary>
+        /// fa-dailymotion unicode value ("\uf952").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/dailymotion
+        /// </summary>
+        public const string Dailymotion = "\uf952";
+
+        /// <summary>
         /// fa-dashcube unicode value ("\uf210").
         /// <para/>
         /// This icon supports the following styles: Brands
@@ -5549,7 +5747,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-disease unicode value ("\uf7fa").
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
         /// <para/>
         /// See https://fontawesome.com/icons/disease
         /// </summary>
@@ -6350,7 +6548,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-expand-alt unicode value ("\uf424").
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
         /// <para/>
         /// See https://fontawesome.com/icons/expand-alt
         /// </summary>
@@ -6510,6 +6708,15 @@ namespace FontAwesome
         public const string Fan = "\uf863";
 
         /// <summary>
+        /// fa-fan-table unicode value ("\uf904").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/fan-table
+        /// </summary>
+        public const string FanTable = "\uf904";
+
+        /// <summary>
         /// fa-fantasy-flight-games unicode value ("\uf6dc").
         /// <para/>
         /// This icon supports the following styles: Brands
@@ -6544,6 +6751,24 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/fast-forward
         /// </summary>
         public const string FastForward = "\uf050";
+
+        /// <summary>
+        /// fa-faucet unicode value ("\uf905").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/faucet
+        /// </summary>
+        public const string Faucet = "\uf905";
+
+        /// <summary>
+        /// fa-faucet-drip unicode value ("\uf906").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/faucet-drip
+        /// </summary>
+        public const string FaucetDrip = "\uf906";
 
         /// <summary>
         /// fa-fax unicode value ("\uf1ac").
@@ -7068,6 +7293,15 @@ namespace FontAwesome
         public const string Firefox = "\uf269";
 
         /// <summary>
+        /// fa-firefox-browser unicode value ("\uf907").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/firefox-browser
+        /// </summary>
+        public const string FirefoxBrowser = "\uf907";
+
+        /// <summary>
         /// fa-fireplace unicode value ("\uf79a").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -7320,6 +7554,15 @@ namespace FontAwesome
         public const string Folder = "\uf07b";
 
         /// <summary>
+        /// fa-folder-download unicode value ("\uf953").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/folder-download
+        /// </summary>
+        public const string FolderDownload = "\uf953";
+
+        /// <summary>
         /// fa-folder-minus unicode value ("\uf65d").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -7363,6 +7606,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/folder-tree
         /// </summary>
         public const string FolderTree = "\uf802";
+
+        /// <summary>
+        /// fa-folder-upload unicode value ("\uf954").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/folder-upload
+        /// </summary>
+        public const string FolderUpload = "\uf954";
 
         /// <summary>
         /// fa-folders unicode value ("\uf660").
@@ -7635,6 +7887,15 @@ namespace FontAwesome
         public const string GalacticSenate = "\uf50d";
 
         /// <summary>
+        /// fa-galaxy unicode value ("\uf908").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/galaxy
+        /// </summary>
+        public const string Galaxy = "\uf908";
+
+        /// <summary>
         /// fa-game-board unicode value ("\uf867").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -7678,6 +7939,33 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/gamepad-alt
         /// </summary>
         public const string GamepadAlt = "\uf8bc";
+
+        /// <summary>
+        /// fa-garage unicode value ("\uf909").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/garage
+        /// </summary>
+        public const string Garage = "\uf909";
+
+        /// <summary>
+        /// fa-garage-car unicode value ("\uf90a").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/garage-car
+        /// </summary>
+        public const string GarageCar = "\uf90a";
+
+        /// <summary>
+        /// fa-garage-open unicode value ("\uf90b").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/garage-open
+        /// </summary>
+        public const string GarageOpen = "\uf90b";
 
         /// <summary>
         /// fa-gas-pump unicode value ("\uf52f").
@@ -8589,6 +8877,15 @@ namespace FontAwesome
         public const string HandHoldingMagic = "\uf6e5";
 
         /// <summary>
+        /// fa-hand-holding-medical unicode value ("\uf95c").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/hand-holding-medical
+        /// </summary>
+        public const string HandHoldingMedical = "\uf95c";
+
+        /// <summary>
         /// fa-hand-holding-seedling unicode value ("\uf4bf").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -8609,7 +8906,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hand-holding-water unicode value ("\uf4c1").
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
         /// <para/>
         /// See https://fontawesome.com/icons/hand-holding-water
         /// </summary>
@@ -8724,6 +9021,15 @@ namespace FontAwesome
         public const string HandScissors = "\uf257";
 
         /// <summary>
+        /// fa-hand-sparkles unicode value ("\uf95d").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/hand-sparkles
+        /// </summary>
+        public const string HandSparkles = "\uf95d";
+
+        /// <summary>
         /// fa-hand-spock unicode value ("\uf259").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular, Solid, Duotone (Pro)
@@ -8769,6 +9075,15 @@ namespace FontAwesome
         public const string HandsUsd = "\uf4c5";
 
         /// <summary>
+        /// fa-hands-wash unicode value ("\uf95e").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/hands-wash
+        /// </summary>
+        public const string HandsWash = "\uf95e";
+
+        /// <summary>
         /// fa-handshake unicode value ("\uf2b5").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular, Solid, Duotone (Pro)
@@ -8785,6 +9100,24 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/handshake-alt
         /// </summary>
         public const string HandshakeAlt = "\uf4c6";
+
+        /// <summary>
+        /// fa-handshake-alt-slash unicode value ("\uf95f").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/handshake-alt-slash
+        /// </summary>
+        public const string HandshakeAltSlash = "\uf95f";
+
+        /// <summary>
+        /// fa-handshake-slash unicode value ("\uf960").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/handshake-slash
+        /// </summary>
+        public const string HandshakeSlash = "\uf960";
 
         /// <summary>
         /// fa-hanukiah unicode value ("\uf6e6").
@@ -8877,15 +9210,6 @@ namespace FontAwesome
         public const string HatWizard = "\uf6e8";
 
         /// <summary>
-        /// fa-haykal unicode value ("\uf666").
-        /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
-        /// <para/>
-        /// See https://fontawesome.com/icons/haykal
-        /// </summary>
-        public const string Haykal = "\uf666";
-
-        /// <summary>
         /// fa-hdd unicode value ("\uf0a0").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular, Solid, Duotone (Pro)
@@ -8913,6 +9237,24 @@ namespace FontAwesome
         public const string HeadSideBrain = "\uf808";
 
         /// <summary>
+        /// fa-head-side-cough unicode value ("\uf961").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/head-side-cough
+        /// </summary>
+        public const string HeadSideCough = "\uf961";
+
+        /// <summary>
+        /// fa-head-side-cough-slash unicode value ("\uf962").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/head-side-cough-slash
+        /// </summary>
+        public const string HeadSideCoughSlash = "\uf962";
+
+        /// <summary>
         /// fa-head-side-headphones unicode value ("\uf8c2").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -8922,6 +9264,15 @@ namespace FontAwesome
         public const string HeadSideHeadphones = "\uf8c2";
 
         /// <summary>
+        /// fa-head-side-mask unicode value ("\uf963").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/head-side-mask
+        /// </summary>
+        public const string HeadSideMask = "\uf963";
+
+        /// <summary>
         /// fa-head-side-medical unicode value ("\uf809").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -8929,6 +9280,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/head-side-medical
         /// </summary>
         public const string HeadSideMedical = "\uf809";
+
+        /// <summary>
+        /// fa-head-side-virus unicode value ("\uf964").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/head-side-virus
+        /// </summary>
+        public const string HeadSideVirus = "\uf964";
 
         /// <summary>
         /// fa-head-vr unicode value ("\uf6ea").
@@ -9028,6 +9388,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/heartbeat
         /// </summary>
         public const string Heartbeat = "\uf21e";
+
+        /// <summary>
+        /// fa-heat unicode value ("\uf90c").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/heat
+        /// </summary>
+        public const string Heat = "\uf90c";
 
         /// <summary>
         /// fa-helicopter unicode value ("\uf533").
@@ -9284,7 +9653,7 @@ namespace FontAwesome
         /// <summary>
         /// fa-hospital-user unicode value ("\uf80d").
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
         /// <para/>
         /// See https://fontawesome.com/icons/hospital-user
         /// </summary>
@@ -9372,6 +9741,15 @@ namespace FontAwesome
         public const string HourglassStart = "\uf251";
 
         /// <summary>
+        /// fa-house unicode value ("\uf90d").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/house
+        /// </summary>
+        public const string House = "\uf90d";
+
+        /// <summary>
         /// fa-house-damage unicode value ("\uf6f1").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -9381,6 +9759,15 @@ namespace FontAwesome
         public const string HouseDamage = "\uf6f1";
 
         /// <summary>
+        /// fa-house-day unicode value ("\uf90e").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/house-day
+        /// </summary>
+        public const string HouseDay = "\uf90e";
+
+        /// <summary>
         /// fa-house-flood unicode value ("\uf74f").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -9388,6 +9775,51 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/house-flood
         /// </summary>
         public const string HouseFlood = "\uf74f";
+
+        /// <summary>
+        /// fa-house-leave unicode value ("\uf90f").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/house-leave
+        /// </summary>
+        public const string HouseLeave = "\uf90f";
+
+        /// <summary>
+        /// fa-house-night unicode value ("\uf910").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/house-night
+        /// </summary>
+        public const string HouseNight = "\uf910";
+
+        /// <summary>
+        /// fa-house-return unicode value ("\uf911").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/house-return
+        /// </summary>
+        public const string HouseReturn = "\uf911";
+
+        /// <summary>
+        /// fa-house-signal unicode value ("\uf912").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/house-signal
+        /// </summary>
+        public const string HouseSignal = "\uf912";
+
+        /// <summary>
+        /// fa-house-user unicode value ("\uf965").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/house-user
+        /// </summary>
+        public const string HouseUser = "\uf965";
 
         /// <summary>
         /// fa-houzz unicode value ("\uf27c").
@@ -9523,6 +9955,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/id-card-alt
         /// </summary>
         public const string IdCardAlt = "\uf47f";
+
+        /// <summary>
+        /// fa-ideal unicode value ("\uf913").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/ideal
+        /// </summary>
+        public const string Ideal = "\uf913";
 
         /// <summary>
         /// fa-igloo unicode value ("\uf7ae").
@@ -9676,6 +10117,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/instagram
         /// </summary>
         public const string Instagram = "\uf16d";
+
+        /// <summary>
+        /// fa-instagram-square unicode value ("\uf955").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/instagram-square
+        /// </summary>
+        public const string InstagramSquare = "\uf955";
 
         /// <summary>
         /// fa-integral unicode value ("\uf667").
@@ -10128,6 +10578,24 @@ namespace FontAwesome
         public const string Lamp = "\uf4ca";
 
         /// <summary>
+        /// fa-lamp-desk unicode value ("\uf914").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/lamp-desk
+        /// </summary>
+        public const string LampDesk = "\uf914";
+
+        /// <summary>
+        /// fa-lamp-floor unicode value ("\uf915").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/lamp-floor
+        /// </summary>
+        public const string LampFloor = "\uf915";
+
+        /// <summary>
         /// fa-landmark unicode value ("\uf66f").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -10171,6 +10639,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/laptop-code
         /// </summary>
         public const string LaptopCode = "\uf5fc";
+
+        /// <summary>
+        /// fa-laptop-house unicode value ("\uf966").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/laptop-house
+        /// </summary>
+        public const string LaptopHouse = "\uf966";
 
         /// <summary>
         /// fa-laptop-medical unicode value ("\uf812").
@@ -10405,6 +10882,42 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/life-ring
         /// </summary>
         public const string LifeRing = "\uf1cd";
+
+        /// <summary>
+        /// fa-light-ceiling unicode value ("\uf916").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/light-ceiling
+        /// </summary>
+        public const string LightCeiling = "\uf916";
+
+        /// <summary>
+        /// fa-light-switch unicode value ("\uf917").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/light-switch
+        /// </summary>
+        public const string LightSwitch = "\uf917";
+
+        /// <summary>
+        /// fa-light-switch-off unicode value ("\uf918").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/light-switch-off
+        /// </summary>
+        public const string LightSwitchOff = "\uf918";
+
+        /// <summary>
+        /// fa-light-switch-on unicode value ("\uf919").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/light-switch-on
+        /// </summary>
+        public const string LightSwitchOn = "\uf919";
 
         /// <summary>
         /// fa-lightbulb unicode value ("\uf0eb").
@@ -10778,11 +11291,20 @@ namespace FontAwesome
         /// <summary>
         /// fa-lungs unicode value ("\uf604").
         /// <para/>
-        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
         /// <para/>
         /// See https://fontawesome.com/icons/lungs
         /// </summary>
         public const string Lungs = "\uf604";
+
+        /// <summary>
+        /// fa-lungs-virus unicode value ("\uf967").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/lungs-virus
+        /// </summary>
+        public const string LungsVirus = "\uf967";
 
         /// <summary>
         /// fa-lyft unicode value ("\uf3c3").
@@ -11298,6 +11820,15 @@ namespace FontAwesome
         public const string Meteor = "\uf753";
 
         /// <summary>
+        /// fa-microblog unicode value ("\uf91a").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/microblog
+        /// </summary>
+        public const string Microblog = "\uf91a";
+
+        /// <summary>
         /// fa-microchip unicode value ("\uf2db").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -11368,6 +11899,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/microsoft
         /// </summary>
         public const string Microsoft = "\uf3ca";
+
+        /// <summary>
+        /// fa-microwave unicode value ("\uf91b").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/microwave
+        /// </summary>
+        public const string Microwave = "\uf91b";
 
         /// <summary>
         /// fa-mind-share unicode value ("\uf677").
@@ -11458,6 +11998,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/mixcloud
         /// </summary>
         public const string Mixcloud = "\uf289";
+
+        /// <summary>
+        /// fa-mixer unicode value ("\uf956").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/mixer
+        /// </summary>
+        public const string Mixer = "\uf956";
 
         /// <summary>
         /// fa-mizuni unicode value ("\uf3cc").
@@ -12099,6 +12648,24 @@ namespace FontAwesome
         public const string Outdent = "\uf03b";
 
         /// <summary>
+        /// fa-outlet unicode value ("\uf91c").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/outlet
+        /// </summary>
+        public const string Outlet = "\uf91c";
+
+        /// <summary>
+        /// fa-oven unicode value ("\uf91d").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/oven
+        /// </summary>
+        public const string Oven = "\uf91d";
+
+        /// <summary>
         /// fa-overline unicode value ("\uf876").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -12495,6 +13062,15 @@ namespace FontAwesome
         public const string PennyArcade = "\uf704";
 
         /// <summary>
+        /// fa-people-arrows unicode value ("\uf968").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/people-arrows
+        /// </summary>
+        public const string PeopleArrows = "\uf968";
+
+        /// <summary>
         /// fa-people-carry unicode value ("\uf4ce").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -12792,6 +13368,15 @@ namespace FontAwesome
         public const string PiedPiperPp = "\uf1a7";
 
         /// <summary>
+        /// fa-pied-piper-square unicode value ("\uf91e").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/pied-piper-square
+        /// </summary>
+        public const string PiedPiperSquare = "\uf91e";
+
+        /// <summary>
         /// fa-pig unicode value ("\uf706").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -12909,6 +13494,33 @@ namespace FontAwesome
         public const string PlaneDeparture = "\uf5b0";
 
         /// <summary>
+        /// fa-plane-slash unicode value ("\uf969").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/plane-slash
+        /// </summary>
+        public const string PlaneSlash = "\uf969";
+
+        /// <summary>
+        /// fa-planet-moon unicode value ("\uf91f").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/planet-moon
+        /// </summary>
+        public const string PlanetMoon = "\uf91f";
+
+        /// <summary>
+        /// fa-planet-ringed unicode value ("\uf920").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/planet-ringed
+        /// </summary>
+        public const string PlanetRinged = "\uf920";
+
+        /// <summary>
         /// fa-play unicode value ("\uf04b").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -13017,6 +13629,15 @@ namespace FontAwesome
         public const string PodiumStar = "\uf758";
 
         /// <summary>
+        /// fa-police-box unicode value ("\uf921").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/police-box
+        /// </summary>
+        public const string PoliceBox = "\uf921";
+
+        /// <summary>
         /// fa-poll unicode value ("\uf681").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -13078,6 +13699,24 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/popcorn
         /// </summary>
         public const string Popcorn = "\uf819";
+
+        /// <summary>
+        /// fa-portal-enter unicode value ("\uf922").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/portal-enter
+        /// </summary>
+        public const string PortalEnter = "\uf922";
+
+        /// <summary>
+        /// fa-portal-exit unicode value ("\uf923").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/portal-exit
+        /// </summary>
+        public const string PortalExit = "\uf923";
 
         /// <summary>
         /// fa-portrait unicode value ("\uf3e0").
@@ -13222,6 +13861,24 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/projector
         /// </summary>
         public const string Projector = "\uf8d6";
+
+        /// <summary>
+        /// fa-pump-medical unicode value ("\uf96a").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/pump-medical
+        /// </summary>
+        public const string PumpMedical = "\uf96a";
+
+        /// <summary>
+        /// fa-pump-soap unicode value ("\uf96b").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/pump-soap
+        /// </summary>
+        public const string PumpSoap = "\uf96b";
 
         /// <summary>
         /// fa-pumpkin unicode value ("\uf707").
@@ -13395,6 +14052,15 @@ namespace FontAwesome
         public const string Racquet = "\uf45a";
 
         /// <summary>
+        /// fa-radar unicode value ("\uf924").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/radar
+        /// </summary>
+        public const string Radar = "\uf924";
+
+        /// <summary>
         /// fa-radiation unicode value ("\uf7b9").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -13492,6 +14158,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/ravelry
         /// </summary>
         public const string Ravelry = "\uf2d9";
+
+        /// <summary>
+        /// fa-raygun unicode value ("\uf925").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/raygun
+        /// </summary>
+        public const string Raygun = "\uf925";
 
         /// <summary>
         /// fa-react unicode value ("\uf41b").
@@ -13645,6 +14320,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/redo-alt
         /// </summary>
         public const string RedoAlt = "\uf2f9";
+
+        /// <summary>
+        /// fa-refrigerator unicode value ("\uf926").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/refrigerator
+        /// </summary>
+        public const string Refrigerator = "\uf926";
 
         /// <summary>
         /// fa-registered unicode value ("\uf25d").
@@ -13852,6 +14536,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/rocket
         /// </summary>
         public const string Rocket = "\uf135";
+
+        /// <summary>
+        /// fa-rocket-launch unicode value ("\uf927").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/rocket-launch
+        /// </summary>
+        public const string RocketLaunch = "\uf927";
 
         /// <summary>
         /// fa-rocketchat unicode value ("\uf3e8").
@@ -14394,6 +15087,51 @@ namespace FontAwesome
         public const string SendBackward = "\uf87f";
 
         /// <summary>
+        /// fa-sensor unicode value ("\uf928").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/sensor
+        /// </summary>
+        public const string Sensor = "\uf928";
+
+        /// <summary>
+        /// fa-sensor-alert unicode value ("\uf929").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/sensor-alert
+        /// </summary>
+        public const string SensorAlert = "\uf929";
+
+        /// <summary>
+        /// fa-sensor-fire unicode value ("\uf92a").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/sensor-fire
+        /// </summary>
+        public const string SensorFire = "\uf92a";
+
+        /// <summary>
+        /// fa-sensor-on unicode value ("\uf92b").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/sensor-on
+        /// </summary>
+        public const string SensorOn = "\uf92b";
+
+        /// <summary>
+        /// fa-sensor-smoke unicode value ("\uf92c").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/sensor-smoke
+        /// </summary>
+        public const string SensorSmoke = "\uf92c";
+
+        /// <summary>
         /// fa-server unicode value ("\uf233").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -14520,6 +15258,15 @@ namespace FontAwesome
         public const string ShieldCross = "\uf712";
 
         /// <summary>
+        /// fa-shield-virus unicode value ("\uf96c").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/shield-virus
+        /// </summary>
+        public const string ShieldVirus = "\uf96c";
+
+        /// <summary>
         /// fa-ship unicode value ("\uf21a").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -14572,6 +15319,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/shoe-prints
         /// </summary>
         public const string ShoePrints = "\uf54b";
+
+        /// <summary>
+        /// fa-shopify unicode value ("\uf957").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/shopify
+        /// </summary>
+        public const string Shopify = "\uf957";
 
         /// <summary>
         /// fa-shopping-bag unicode value ("\uf290").
@@ -14869,6 +15625,33 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/simplybuilt
         /// </summary>
         public const string Simplybuilt = "\uf215";
+
+        /// <summary>
+        /// fa-sink unicode value ("\uf96d").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/sink
+        /// </summary>
+        public const string Sink = "\uf96d";
+
+        /// <summary>
+        /// fa-siren unicode value ("\uf92d").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/siren
+        /// </summary>
+        public const string Siren = "\uf92d";
+
+        /// <summary>
+        /// fa-siren-on unicode value ("\uf92e").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/siren-on
+        /// </summary>
+        public const string SirenOn = "\uf92e";
 
         /// <summary>
         /// fa-sistrix unicode value ("\uf3ee").
@@ -15285,6 +16068,15 @@ namespace FontAwesome
         public const string Snowplow = "\uf7d2";
 
         /// <summary>
+        /// fa-soap unicode value ("\uf96e").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/soap
+        /// </summary>
+        public const string Soap = "\uf96e";
+
+        /// <summary>
         /// fa-socks unicode value ("\uf696").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -15301,6 +16093,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/solar-panel
         /// </summary>
         public const string SolarPanel = "\uf5ba";
+
+        /// <summary>
+        /// fa-solar-system unicode value ("\uf92f").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/solar-system
+        /// </summary>
+        public const string SolarSystem = "\uf92f";
 
         /// <summary>
         /// fa-sort unicode value ("\uf0dc").
@@ -15391,6 +16192,33 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/sort-amount-up-alt
         /// </summary>
         public const string SortAmountUpAlt = "\uf885";
+
+        /// <summary>
+        /// fa-sort-circle unicode value ("\uf930").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/sort-circle
+        /// </summary>
+        public const string SortCircle = "\uf930";
+
+        /// <summary>
+        /// fa-sort-circle-down unicode value ("\uf931").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/sort-circle-down
+        /// </summary>
+        public const string SortCircleDown = "\uf931";
+
+        /// <summary>
+        /// fa-sort-circle-up unicode value ("\uf932").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/sort-circle-up
+        /// </summary>
+        public const string SortCircleUp = "\uf932";
 
         /// <summary>
         /// fa-sort-down unicode value ("\uf0dd").
@@ -15564,6 +16392,24 @@ namespace FontAwesome
         public const string SpaceShuttle = "\uf197";
 
         /// <summary>
+        /// fa-space-station-moon unicode value ("\uf933").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/space-station-moon
+        /// </summary>
+        public const string SpaceStationMoon = "\uf933";
+
+        /// <summary>
+        /// fa-space-station-moon-alt unicode value ("\uf934").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/space-station-moon-alt
+        /// </summary>
+        public const string SpaceStationMoonAlt = "\uf934";
+
+        /// <summary>
         /// fa-spade unicode value ("\uf2f4").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -15697,6 +16543,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/spray-can
         /// </summary>
         public const string SprayCan = "\uf5bd";
+
+        /// <summary>
+        /// fa-sprinkler unicode value ("\uf935").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/sprinkler
+        /// </summary>
+        public const string Sprinkler = "\uf935";
 
         /// <summary>
         /// fa-square unicode value ("\uf0c8").
@@ -15870,6 +16725,33 @@ namespace FontAwesome
         public const string StarOfLife = "\uf621";
 
         /// <summary>
+        /// fa-star-shooting unicode value ("\uf936").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/star-shooting
+        /// </summary>
+        public const string StarShooting = "\uf936";
+
+        /// <summary>
+        /// fa-starfighter unicode value ("\uf937").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/starfighter
+        /// </summary>
+        public const string Starfighter = "\uf937";
+
+        /// <summary>
+        /// fa-starfighter-alt unicode value ("\uf938").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/starfighter-alt
+        /// </summary>
+        public const string StarfighterAlt = "\uf938";
+
+        /// <summary>
         /// fa-stars unicode value ("\uf762").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -15877,6 +16759,24 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/stars
         /// </summary>
         public const string Stars = "\uf762";
+
+        /// <summary>
+        /// fa-starship unicode value ("\uf939").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/starship
+        /// </summary>
+        public const string Starship = "\uf939";
+
+        /// <summary>
+        /// fa-starship-freighter unicode value ("\uf93a").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/starship-freighter
+        /// </summary>
+        public const string StarshipFreighter = "\uf93a";
 
         /// <summary>
         /// fa-staylinked unicode value ("\uf3f5").
@@ -16023,6 +16923,15 @@ namespace FontAwesome
         public const string Stopwatch = "\uf2f2";
 
         /// <summary>
+        /// fa-stopwatch-20 unicode value ("\uf96f").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/stopwatch-20
+        /// </summary>
+        public const string Stopwatch20 = "\uf96f";
+
+        /// <summary>
         /// fa-store unicode value ("\uf54e").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -16039,6 +16948,24 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/store-alt
         /// </summary>
         public const string StoreAlt = "\uf54f";
+
+        /// <summary>
+        /// fa-store-alt-slash unicode value ("\uf970").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/store-alt-slash
+        /// </summary>
+        public const string StoreAltSlash = "\uf970";
+
+        /// <summary>
+        /// fa-store-slash unicode value ("\uf971").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/store-slash
+        /// </summary>
+        public const string StoreSlash = "\uf971";
 
         /// <summary>
         /// fa-strava unicode value ("\uf428").
@@ -16329,6 +17256,24 @@ namespace FontAwesome
         public const string Sword = "\uf71c";
 
         /// <summary>
+        /// fa-sword-laser unicode value ("\uf93b").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/sword-laser
+        /// </summary>
+        public const string SwordLaser = "\uf93b";
+
+        /// <summary>
+        /// fa-sword-laser-alt unicode value ("\uf93c").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/sword-laser-alt
+        /// </summary>
+        public const string SwordLaserAlt = "\uf93c";
+
+        /// <summary>
         /// fa-swords unicode value ("\uf71d").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -16336,6 +17281,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/swords
         /// </summary>
         public const string Swords = "\uf71d";
+
+        /// <summary>
+        /// fa-swords-laser unicode value ("\uf93d").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/swords-laser
+        /// </summary>
+        public const string SwordsLaser = "\uf93d";
 
         /// <summary>
         /// fa-symfony unicode value ("\uf83d").
@@ -16689,6 +17643,24 @@ namespace FontAwesome
         public const string TelegramPlane = "\uf3fe";
 
         /// <summary>
+        /// fa-telescope unicode value ("\uf93e").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/telescope
+        /// </summary>
+        public const string Telescope = "\uf93e";
+
+        /// <summary>
+        /// fa-temperature-down unicode value ("\uf93f").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/temperature-down
+        /// </summary>
+        public const string TemperatureDown = "\uf93f";
+
+        /// <summary>
         /// fa-temperature-frigid unicode value ("\uf768").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -16723,6 +17695,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/temperature-low
         /// </summary>
         public const string TemperatureLow = "\uf76b";
+
+        /// <summary>
+        /// fa-temperature-up unicode value ("\uf940").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/temperature-up
+        /// </summary>
+        public const string TemperatureUp = "\uf940";
 
         /// <summary>
         /// fa-tencent-weibo unicode value ("\uf1d5").
@@ -17166,6 +18147,15 @@ namespace FontAwesome
         public const string ToiletPaperAlt = "\uf71f";
 
         /// <summary>
+        /// fa-toilet-paper-slash unicode value ("\uf972").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/toilet-paper-slash
+        /// </summary>
+        public const string ToiletPaperSlash = "\uf972";
+
+        /// <summary>
         /// fa-tombstone unicode value ("\uf720").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -17319,6 +18309,15 @@ namespace FontAwesome
         public const string TrafficLightStop = "\uf63a";
 
         /// <summary>
+        /// fa-trailer unicode value ("\uf941").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/trailer
+        /// </summary>
+        public const string Trailer = "\uf941";
+
+        /// <summary>
         /// fa-train unicode value ("\uf238").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -17353,6 +18352,51 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/transgender-alt
         /// </summary>
         public const string TransgenderAlt = "\uf225";
+
+        /// <summary>
+        /// fa-transporter unicode value ("\uf942").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/transporter
+        /// </summary>
+        public const string Transporter = "\uf942";
+
+        /// <summary>
+        /// fa-transporter-1 unicode value ("\uf943").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/transporter-1
+        /// </summary>
+        public const string Transporter1 = "\uf943";
+
+        /// <summary>
+        /// fa-transporter-2 unicode value ("\uf944").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/transporter-2
+        /// </summary>
+        public const string Transporter2 = "\uf944";
+
+        /// <summary>
+        /// fa-transporter-3 unicode value ("\uf945").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/transporter-3
+        /// </summary>
+        public const string Transporter3 = "\uf945";
+
+        /// <summary>
+        /// fa-transporter-empty unicode value ("\uf946").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/transporter-empty
+        /// </summary>
+        public const string TransporterEmpty = "\uf946";
 
         /// <summary>
         /// fa-trash unicode value ("\uf1f8").
@@ -17787,6 +18831,24 @@ namespace FontAwesome
         public const string Ubuntu = "\uf7df";
 
         /// <summary>
+        /// fa-ufo unicode value ("\uf947").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/ufo
+        /// </summary>
+        public const string Ufo = "\uf947";
+
+        /// <summary>
+        /// fa-ufo-beam unicode value ("\uf948").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/ufo-beam
+        /// </summary>
+        public const string UfoBeam = "\uf948";
+
+        /// <summary>
         /// fa-uikit unicode value ("\uf403").
         /// <para/>
         /// This icon supports the following styles: Brands
@@ -17875,6 +18937,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/uniregistry
         /// </summary>
         public const string Uniregistry = "\uf404";
+
+        /// <summary>
+        /// fa-unity unicode value ("\uf949").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/unity
+        /// </summary>
+        public const string Unity = "\uf949";
 
         /// <summary>
         /// fa-universal-access unicode value ("\uf29a").
@@ -17992,6 +19063,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/user
         /// </summary>
         public const string User = "\uf007";
+
+        /// <summary>
+        /// fa-user-alien unicode value ("\uf94a").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/user-alien
+        /// </summary>
+        public const string UserAlien = "\uf94a";
 
         /// <summary>
         /// fa-user-alt unicode value ("\uf406").
@@ -18210,6 +19290,15 @@ namespace FontAwesome
         public const string UserPlus = "\uf234";
 
         /// <summary>
+        /// fa-user-robot unicode value ("\uf94b").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/user-robot
+        /// </summary>
+        public const string UserRobot = "\uf94b";
+
+        /// <summary>
         /// fa-user-secret unicode value ("\uf21b").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -18264,6 +19353,24 @@ namespace FontAwesome
         public const string UserTimes = "\uf235";
 
         /// <summary>
+        /// fa-user-unlock unicode value ("\uf958").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/user-unlock
+        /// </summary>
+        public const string UserUnlock = "\uf958";
+
+        /// <summary>
+        /// fa-user-visor unicode value ("\uf94c").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/user-visor
+        /// </summary>
+        public const string UserVisor = "\uf94c";
+
+        /// <summary>
         /// fa-users unicode value ("\uf0c0").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -18307,6 +19414,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/users-medical
         /// </summary>
         public const string UsersMedical = "\uf830";
+
+        /// <summary>
+        /// fa-users-slash unicode value ("\uf973").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/users-slash
+        /// </summary>
+        public const string UsersSlash = "\uf973";
 
         /// <summary>
         /// fa-usps unicode value ("\uf7e1").
@@ -18379,6 +19495,24 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/vaadin
         /// </summary>
         public const string Vaadin = "\uf408";
+
+        /// <summary>
+        /// fa-vacuum unicode value ("\uf94d").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/vacuum
+        /// </summary>
+        public const string Vacuum = "\uf94d";
+
+        /// <summary>
+        /// fa-vacuum-robot unicode value ("\uf94e").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/vacuum-robot
+        /// </summary>
+        public const string VacuumRobot = "\uf94e";
 
         /// <summary>
         /// fa-value-absolute unicode value ("\uf6a6").
@@ -18568,6 +19702,33 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/violin
         /// </summary>
         public const string Violin = "\uf8ed";
+
+        /// <summary>
+        /// fa-virus unicode value ("\uf974").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/virus
+        /// </summary>
+        public const string Virus = "\uf974";
+
+        /// <summary>
+        /// fa-virus-slash unicode value ("\uf975").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/virus-slash
+        /// </summary>
+        public const string VirusSlash = "\uf975";
+
+        /// <summary>
+        /// fa-viruses unicode value ("\uf976").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/viruses
+        /// </summary>
+        public const string Viruses = "\uf976";
 
         /// <summary>
         /// fa-vk unicode value ("\uf189").
@@ -19126,6 +20287,24 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/window-close
         /// </summary>
         public const string WindowClose = "\uf410";
+
+        /// <summary>
+        /// fa-window-frame unicode value ("\uf94f").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/window-frame
+        /// </summary>
+        public const string WindowFrame = "\uf94f";
+
+        /// <summary>
+        /// fa-window-frame-open unicode value ("\uf950").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/window-frame-open
+        /// </summary>
+        public const string WindowFrameOpen = "\uf950";
 
         /// <summary>
         /// fa-window-maximize unicode value ("\uf2d0").
