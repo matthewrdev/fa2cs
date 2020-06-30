@@ -4,12 +4,6 @@ FontAwesome To C# creates a C# file that contains string constants for all FontA
 
 **[Get FontAwesomeIcons.cs here](FontAwesomeIcons.cs)**
 
-# Now Available In MFractor!
-
-[MFractor](https://www.mfractor.com/), a productivity tool for Visual Studio Windows and Mac, can now generate a font glyph helper class for any font asset.
-
-[To learn more, please see our documentation on generating a glyph helper class for font assets.](https://docs.mfractor.com/fonts/generate-font-character-code-class/)
-
 # Benefits
 
 Use FontAwesome To C# to replace confusing and arcane unicode strings with a clean and descriptive property.
@@ -50,6 +44,10 @@ You can use an icon in XAML by:
  * Referencing a icon using `x:Static`: `<Label Text="{x:Static fontAwesome:FontAwesomeIcons.Alicorn}"/>`
 
 Voila! All done!
+
+# Using Material Design Icons?
+
+If you're using the Material Design icon set, [check out md2cs](https://github.com/matthewrdev/md2cs), a static class file containing string constants for all Material Design icon codes.
 
 # Credits
 
