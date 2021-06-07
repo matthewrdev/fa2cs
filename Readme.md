@@ -1,10 +1,8 @@
 # About
 
-**FontAwesome To C#** is a C# file containing string constants for all FontAwesome icon codes.
+**FontAwesome To C#** is a static C# class with string constants for all FontAwesome icon codes. 
 
 **[Get FontAwesomeIcons.cs here](FontAwesomeIcons.cs)**
-
-# Benefits
 
 Use FontAwesome To C# to replace confusing and arcane unicode strings with a clean and descriptive property.
 
