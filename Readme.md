@@ -1,6 +1,6 @@
 # About
 
-FontAwesome To C# creates a C# file that contains string constants for all FontAwesome icon codes.
+**FontAwesome To C#** is a C# file containing string constants for all FontAwesome icon codes.
 
 **[Get FontAwesomeIcons.cs here](FontAwesomeIcons.cs)**
 
@@ -24,7 +24,7 @@ The end result is cleaner, more readable and more maintainable code.
 
 # Using FontAwesome To C#
 
-It's super easy to use FontAwesome To C#.
+It's super easy to use FontAwesome To C#!
 
 Simply download [FontAwesomeIcons.cs](FontAwesomeIcons.cs) and place it into your project:
 
@@ -40,7 +40,7 @@ var fileIcon = FontAwesome.FontAwesomeIcons.Alicorn;
 
 You can use an icon in XAML by:
 
- * Adding a namespace reference to `FontAwesome`: `xmlns:fontAwesome="clr-namespace:FontAwesome"`;
+ * Adding a namespace reference to `FontAwesome`: `xmlns:fontAwesome="clr-namespace:FontAwesome"`
  * Referencing a icon using `x:Static`: `<Label Text="{x:Static fontAwesome:FontAwesomeIcons.Alicorn}"/>`
 
 Voila! All done!
