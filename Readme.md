@@ -33,13 +33,13 @@ Simply download [FontAwesomeIcons.cs](FontAwesomeIcons.cs) and place it into you
 You can use an icon in C# like:
 
 ```
-var fileIcon = FontAwesome.FontAwesomeIcons.Alicorn;
+var checkIcon = FontAwesome.FontAwesomeIcons.Check;
 ```
 
 You can use an icon in XAML by:
 
  * Adding a namespace reference to `FontAwesome`: `xmlns:fontAwesome="clr-namespace:FontAwesome"`
- * Referencing a icon using `x:Static`: `<Label Text="{x:Static fontAwesome:FontAwesomeIcons.Alicorn}"/>`
+ * Referencing a icon using `x:Static`: `<Label Text="{x:Static fontAwesome:FontAwesomeIcons.Check}"/>`
 
 Voila! All done!
 
