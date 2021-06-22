@@ -9,13 +9,15 @@ Use FontAwesome To C# to replace confusing and arcane unicode strings with a cle
 This:
 
 ```
-submitButton.Text = "/uf00c"; // Huh? What icon is this? What font is it from? 😭
+// Huh? What icon is this? What font is it from? 😭
+submitButton.Text = "/uf00c";
 ```
 
 Becomes this:
 
 ```
-submitButton.Text = FontAwesome.FontAwesomeIcons.Check; // Obviously a check icon from FontAwesome! 😊👍
+// Obviously a check icon from FontAwesome! 😊👍
+submitButton.Text = FontAwesome.FontAwesomeIcons.Check;
 ```
 
 The end result is cleaner, more readable and more maintainable code.
