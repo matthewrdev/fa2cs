@@ -30,11 +30,9 @@ The end result is cleaner, more readable and more maintainable code.
 
 It's super easy to use FontAwesome To C#!
 
-Simply download [FontAwesomeIcons.cs](FontAwesomeIcons.cs) and place it into your project:
+Simply download [FontAwesomeIcons.cs](FontAwesomeIcons.cs) and place it into your project.
 
-![Placing FontAwesomeIcons.cs inside a C# project](img/usage.png)
-
-**Ensure that you have added the FontAwesome font files into your projects!**
+**[Ensure that you have added the FontAwesome font files into your projects.](https://github.com/FortAwesome/Font-Awesome/tree/master/webfonts)**
 
 You can use an icon in C# like:
 
