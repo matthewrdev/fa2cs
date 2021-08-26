@@ -50,10 +50,3 @@ Voila! All done!
 # Using Material Design Icons?
 
 If you're using the Material Design icon set, [check out md2cs](https://github.com/matthewrdev/md2cs), a static class file containing string constants for all Material Design icon codes.
-
-# Credits
-
- * [Font Awesome](https://fontawesome.com/): The amazing Font Awesome icon set.
- * [HtmlAgility Pack](https://html-agility-pack.net/): Used for crawling www.fontawesome.com 🙈
- * [QuickType](https://quicktype.io/): Used to generate a C# model to consume https://fontawesome.com/cheatsheet.
- * [Assembly Emitter](https://josephwoodward.co.uk/2016/12/in-memory-c-sharp-compilation-using-roslyn): Used to emit the FontAwesome.IconCodes assembly.
