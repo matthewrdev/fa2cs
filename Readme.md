@@ -4,6 +4,10 @@
 
 **[Get FontAwesomeIcons.cs here](FontAwesomeIcons.cs)**
 
+**[Download the FontAwesome font assets here](https://github.com/FortAwesome/Font-Awesome/tree/master/webfonts)**
+
+# Benefits
+
 Use FontAwesome To C# to replace confusing and arcane unicode strings with a clean and descriptive property.
 
 This:
