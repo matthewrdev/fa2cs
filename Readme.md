@@ -2,7 +2,7 @@
 
 **FontAwesome To C#** is a static C# class with string constants for all FontAwesome icon codes. 
 
-**[Get FontAwesomeIcons.cs here](FontAwesomeIcons.cs)**
+**[Get FontAwesomeIcons.cs here](https://raw.githubusercontent.com/matthewrdev/fa2cs/master/FontAwesomeIcons.cs)**
 
 **[Download the FontAwesome font assets here](https://github.com/FortAwesome/Font-Awesome/tree/master/webfonts)**
 
