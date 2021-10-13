@@ -1,14 +1,6 @@
 # About
 
-**FontAwesome To C#** is a static C# class with string constants for all FontAwesome icon codes. 
-
-**[Get FontAwesomeIcons.cs here](https://raw.githubusercontent.com/matthewrdev/fa2cs/master/FontAwesomeIcons.cs)**
-
-**[Download the FontAwesome font assets here](https://github.com/FortAwesome/Font-Awesome/tree/master/webfonts)**
-
-# Benefits
-
-Use FontAwesome To C# to replace confusing and arcane unicode strings with a clean and descriptive property.
+Use `FontAwesomeIcons.cs` to replace confusing and arcane unicode strings with a clean and descriptive property.
 
 This:
 
@@ -25,6 +17,10 @@ submitButton.Text = FontAwesome.FontAwesomeIcons.Check;
 ```
 
 The end result is cleaner, more readable and more maintainable code.
+
+**[Get FontAwesomeIcons.cs here](https://raw.githubusercontent.com/matthewrdev/fa2cs/master/FontAwesomeIcons.cs)**
+
+**[Download the FontAwesome font assets here](https://github.com/FortAwesome/Font-Awesome/tree/master/webfonts)**
 
 # Using FontAwesome To C#
 
