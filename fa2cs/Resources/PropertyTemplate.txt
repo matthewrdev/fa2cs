@@ -3,6 +3,8 @@
         /// <para/>
         /// This icon supports the following styles: $styles$
         /// <para/>
+        /// Introduced in '$introduced_version$', Last Modified in '$last_modified_version$'.
+        /// <para/>
         /// See $link$
         /// </summary>
         public const string $dotnet_name$ = "\u$code$";
