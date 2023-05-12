@@ -1,4 +1,5 @@
 using System;
+using System.ComponentModel;
 
 namespace FontAwesome
 {
@@ -19,6 +20,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/0
         /// </summary>
+        [Description("0")]
         public const string Zero = "\u0030";
 
         /// <summary>
@@ -30,6 +32,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/1
         /// </summary>
+        [Description("1")]
         public const string One = "\u0031";
 
         /// <summary>
@@ -41,6 +44,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/2
         /// </summary>
+        [Description("2")]
         public const string Two = "\u0032";
 
         /// <summary>
@@ -52,6 +56,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/3
         /// </summary>
+        [Description("3")]
         public const string Three = "\u0033";
 
         /// <summary>
@@ -63,6 +68,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/4
         /// </summary>
+        [Description("4")]
         public const string Four = "\u0034";
 
         /// <summary>
@@ -74,6 +80,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/5
         /// </summary>
+        [Description("5")]
         public const string Five = "\u0035";
 
         /// <summary>
@@ -85,6 +92,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/6
         /// </summary>
+        [Description("6")]
         public const string Six = "\u0036";
 
         /// <summary>
@@ -96,6 +104,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/7
         /// </summary>
+        [Description("7")]
         public const string Seven = "\u0037";
 
         /// <summary>
@@ -107,6 +116,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/8
         /// </summary>
+        [Description("8")]
         public const string Eight = "\u0038";
 
         /// <summary>
@@ -118,6 +128,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/9
         /// </summary>
+        [Description("9")]
         public const string Nine = "\u0039";
 
         /// <summary>
@@ -129,6 +140,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/00
         /// </summary>
+        [Description("00")]
         public const string ZeroZero = "\ue467";
 
         /// <summary>
@@ -140,6 +152,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/360-degrees
         /// </summary>
+        [Description("360-degrees")]
         public const string ThreeHundred_And_SixtyDegrees = "\ue2dc";
 
         /// <summary>
@@ -151,6 +164,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/42-group
         /// </summary>
+        [Description("42-group")]
         public const string FortyTwoGroup = "\ue080";
 
         /// <summary>
@@ -162,6 +176,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/500px
         /// </summary>
+        [Description("500px")]
         public const string FiveHundredPX = "\uf26e";
 
         /// <summary>
@@ -173,6 +188,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/a
         /// </summary>
+        [Description("a")]
         public const string A = "\u0041";
 
         /// <summary>
@@ -184,6 +200,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/abacus
         /// </summary>
+        [Description("abacus")]
         public const string Abacus = "\uf640";
 
         /// <summary>
@@ -195,6 +212,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/accent-grave
         /// </summary>
+        [Description("accent-grave")]
         public const string AccentGrave = "\u0060";
 
         /// <summary>
@@ -206,6 +224,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/accessible-icon
         /// </summary>
+        [Description("accessible-icon")]
         public const string AccessibleIcon = "\uf368";
 
         /// <summary>
@@ -217,6 +236,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/accusoft
         /// </summary>
+        [Description("accusoft")]
         public const string Accusoft = "\uf369";
 
         /// <summary>
@@ -228,6 +248,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/acorn
         /// </summary>
+        [Description("acorn")]
         public const string Acorn = "\uf6ae";
 
         /// <summary>
@@ -239,6 +260,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/address-book
         /// </summary>
+        [Description("address-book")]
         public const string AddressBook = "\uf2b9";
 
         /// <summary>
@@ -250,6 +272,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/address-card
         /// </summary>
+        [Description("address-card")]
         public const string AddressCard = "\uf2bb";
 
         /// <summary>
@@ -261,6 +284,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/adn
         /// </summary>
+        [Description("adn")]
         public const string Adn = "\uf170";
 
         /// <summary>
@@ -272,6 +296,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/adversal
         /// </summary>
+        [Description("adversal")]
         public const string Adversal = "\uf36a";
 
         /// <summary>
@@ -283,6 +308,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/affiliatetheme
         /// </summary>
+        [Description("affiliatetheme")]
         public const string Affiliatetheme = "\uf36b";
 
         /// <summary>
@@ -294,6 +320,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/air-conditioner
         /// </summary>
+        [Description("air-conditioner")]
         public const string AirConditioner = "\uf8f4";
 
         /// <summary>
@@ -305,6 +332,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/airbnb
         /// </summary>
+        [Description("airbnb")]
         public const string Airbnb = "\uf834";
 
         /// <summary>
@@ -316,6 +344,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/airplay
         /// </summary>
+        [Description("airplay")]
         public const string Airplay = "\ue089";
 
         /// <summary>
@@ -327,6 +356,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/alarm-clock
         /// </summary>
+        [Description("alarm-clock")]
         public const string AlarmClock = "\uf34e";
 
         /// <summary>
@@ -338,6 +368,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/alarm-exclamation
         /// </summary>
+        [Description("alarm-exclamation")]
         public const string AlarmExclamation = "\uf843";
 
         /// <summary>
@@ -349,6 +380,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/alarm-plus
         /// </summary>
+        [Description("alarm-plus")]
         public const string AlarmPlus = "\uf844";
 
         /// <summary>
@@ -360,6 +392,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/alarm-snooze
         /// </summary>
+        [Description("alarm-snooze")]
         public const string AlarmSnooze = "\uf845";
 
         /// <summary>
@@ -371,6 +404,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/album
         /// </summary>
+        [Description("album")]
         public const string Album = "\uf89f";
 
         /// <summary>
@@ -382,6 +416,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/album-circle-plus
         /// </summary>
+        [Description("album-circle-plus")]
         public const string AlbumCirclePlus = "\ue48c";
 
         /// <summary>
@@ -393,6 +428,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/album-circle-user
         /// </summary>
+        [Description("album-circle-user")]
         public const string AlbumCircleUser = "\ue48d";
 
         /// <summary>
@@ -404,6 +440,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/album-collection
         /// </summary>
+        [Description("album-collection")]
         public const string AlbumCollection = "\uf8a0";
 
         /// <summary>
@@ -415,6 +452,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/album-collection-circle-plus
         /// </summary>
+        [Description("album-collection-circle-plus")]
         public const string AlbumCollectionCirclePlus = "\ue48e";
 
         /// <summary>
@@ -426,6 +464,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/album-collection-circle-user
         /// </summary>
+        [Description("album-collection-circle-user")]
         public const string AlbumCollectionCircleUser = "\ue48f";
 
         /// <summary>
@@ -437,6 +476,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/algolia
         /// </summary>
+        [Description("algolia")]
         public const string Algolia = "\uf36c";
 
         /// <summary>
@@ -448,6 +488,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/alicorn
         /// </summary>
+        [Description("alicorn")]
         public const string Alicorn = "\uf6b0";
 
         /// <summary>
@@ -459,6 +500,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/alien
         /// </summary>
+        [Description("alien")]
         public const string Alien = "\uf8f5";
 
         /// <summary>
@@ -470,6 +512,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/alien-8bit
         /// </summary>
+        [Description("alien-8bit")]
         public const string Alien8bit = "\uf8f6";
 
         /// <summary>
@@ -481,6 +524,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/align-center
         /// </summary>
+        [Description("align-center")]
         public const string AlignCenter = "\uf037";
 
         /// <summary>
@@ -492,6 +536,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/align-justify
         /// </summary>
+        [Description("align-justify")]
         public const string AlignJustify = "\uf039";
 
         /// <summary>
@@ -503,6 +548,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/align-left
         /// </summary>
+        [Description("align-left")]
         public const string AlignLeft = "\uf036";
 
         /// <summary>
@@ -514,6 +560,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/align-right
         /// </summary>
+        [Description("align-right")]
         public const string AlignRight = "\uf038";
 
         /// <summary>
@@ -525,6 +572,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/align-slash
         /// </summary>
+        [Description("align-slash")]
         public const string AlignSlash = "\uf846";
 
         /// <summary>
@@ -536,6 +584,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/alipay
         /// </summary>
+        [Description("alipay")]
         public const string Alipay = "\uf642";
 
         /// <summary>
@@ -547,6 +596,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/alt
         /// </summary>
+        [Description("alt")]
         public const string Alt = "\ue08a";
 
         /// <summary>
@@ -558,6 +608,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/amazon
         /// </summary>
+        [Description("amazon")]
         public const string Amazon = "\uf270";
 
         /// <summary>
@@ -569,6 +620,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/amazon-pay
         /// </summary>
+        [Description("amazon-pay")]
         public const string AmazonPay = "\uf42c";
 
         /// <summary>
@@ -580,6 +632,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/amilia
         /// </summary>
+        [Description("amilia")]
         public const string Amilia = "\uf36d";
 
         /// <summary>
@@ -591,6 +644,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/amp-guitar
         /// </summary>
+        [Description("amp-guitar")]
         public const string AmpGuitar = "\uf8a1";
 
         /// <summary>
@@ -602,6 +656,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ampersand
         /// </summary>
+        [Description("ampersand")]
         public const string Ampersand = "\u0026";
 
         /// <summary>
@@ -613,6 +668,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/anchor
         /// </summary>
+        [Description("anchor")]
         public const string Anchor = "\uf13d";
 
         /// <summary>
@@ -624,6 +680,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/anchor-circle-check
         /// </summary>
+        [Description("anchor-circle-check")]
         public const string AnchorCircleCheck = "\ue4aa";
 
         /// <summary>
@@ -635,6 +692,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/anchor-circle-exclamation
         /// </summary>
+        [Description("anchor-circle-exclamation")]
         public const string AnchorCircleExclamation = "\ue4ab";
 
         /// <summary>
@@ -646,6 +704,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/anchor-circle-xmark
         /// </summary>
+        [Description("anchor-circle-xmark")]
         public const string AnchorCircleXmark = "\ue4ac";
 
         /// <summary>
@@ -657,6 +716,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/anchor-lock
         /// </summary>
+        [Description("anchor-lock")]
         public const string AnchorLock = "\ue4ad";
 
         /// <summary>
@@ -668,6 +728,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/android
         /// </summary>
+        [Description("android")]
         public const string Android = "\uf17b";
 
         /// <summary>
@@ -679,6 +740,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/angel
         /// </summary>
+        [Description("angel")]
         public const string Angel = "\uf779";
 
         /// <summary>
@@ -690,6 +752,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/angellist
         /// </summary>
+        [Description("angellist")]
         public const string Angellist = "\uf209";
 
         /// <summary>
@@ -701,6 +764,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/angle
         /// </summary>
+        [Description("angle")]
         public const string Angle = "\ue08c";
 
         /// <summary>
@@ -712,6 +776,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/angle-90
         /// </summary>
+        [Description("angle-90")]
         public const string Angle90 = "\ue08d";
 
         /// <summary>
@@ -723,6 +788,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/angle-down
         /// </summary>
+        [Description("angle-down")]
         public const string AngleDown = "\uf107";
 
         /// <summary>
@@ -734,6 +800,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/angle-left
         /// </summary>
+        [Description("angle-left")]
         public const string AngleLeft = "\uf104";
 
         /// <summary>
@@ -745,6 +812,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/angle-right
         /// </summary>
+        [Description("angle-right")]
         public const string AngleRight = "\uf105";
 
         /// <summary>
@@ -756,6 +824,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/angle-up
         /// </summary>
+        [Description("angle-up")]
         public const string AngleUp = "\uf106";
 
         /// <summary>
@@ -767,6 +836,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/angles-down
         /// </summary>
+        [Description("angles-down")]
         public const string AnglesDown = "\uf103";
 
         /// <summary>
@@ -778,6 +848,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/angles-left
         /// </summary>
+        [Description("angles-left")]
         public const string AnglesLeft = "\uf100";
 
         /// <summary>
@@ -789,6 +860,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/angles-right
         /// </summary>
+        [Description("angles-right")]
         public const string AnglesRight = "\uf101";
 
         /// <summary>
@@ -800,6 +872,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/angles-up
         /// </summary>
+        [Description("angles-up")]
         public const string AnglesUp = "\uf102";
 
         /// <summary>
@@ -811,6 +884,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/angrycreative
         /// </summary>
+        [Description("angrycreative")]
         public const string Angrycreative = "\uf36e";
 
         /// <summary>
@@ -822,6 +896,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/angular
         /// </summary>
+        [Description("angular")]
         public const string Angular = "\uf420";
 
         /// <summary>
@@ -833,6 +908,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ankh
         /// </summary>
+        [Description("ankh")]
         public const string Ankh = "\uf644";
 
         /// <summary>
@@ -844,6 +920,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/apartment
         /// </summary>
+        [Description("apartment")]
         public const string Apartment = "\ue468";
 
         /// <summary>
@@ -855,6 +932,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/aperture
         /// </summary>
+        [Description("aperture")]
         public const string Aperture = "\ue2df";
 
         /// <summary>
@@ -866,6 +944,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/apostrophe
         /// </summary>
+        [Description("apostrophe")]
         public const string Apostrophe = "\u0027";
 
         /// <summary>
@@ -877,6 +956,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/app-store
         /// </summary>
+        [Description("app-store")]
         public const string AppStore = "\uf36f";
 
         /// <summary>
@@ -888,6 +968,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/app-store-ios
         /// </summary>
+        [Description("app-store-ios")]
         public const string AppStoreIos = "\uf370";
 
         /// <summary>
@@ -899,6 +980,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/apper
         /// </summary>
+        [Description("apper")]
         public const string Apper = "\uf371";
 
         /// <summary>
@@ -910,6 +992,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/apple
         /// </summary>
+        [Description("apple")]
         public const string Apple = "\uf179";
 
         /// <summary>
@@ -921,6 +1004,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/apple-core
         /// </summary>
+        [Description("apple-core")]
         public const string AppleCore = "\ue08f";
 
         /// <summary>
@@ -932,6 +1016,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/apple-pay
         /// </summary>
+        [Description("apple-pay")]
         public const string ApplePay = "\uf415";
 
         /// <summary>
@@ -943,6 +1028,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/apple-whole
         /// </summary>
+        [Description("apple-whole")]
         public const string AppleWhole = "\uf5d1";
 
         /// <summary>
@@ -954,6 +1040,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/archway
         /// </summary>
+        [Description("archway")]
         public const string Archway = "\uf557";
 
         /// <summary>
@@ -965,6 +1052,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down
         /// </summary>
+        [Description("arrow-down")]
         public const string ArrowDown = "\uf063";
 
         /// <summary>
@@ -976,6 +1064,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-1-9
         /// </summary>
+        [Description("arrow-down-1-9")]
         public const string ArrowDown19 = "\uf162";
 
         /// <summary>
@@ -987,6 +1076,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-9-1
         /// </summary>
+        [Description("arrow-down-9-1")]
         public const string ArrowDown91 = "\uf886";
 
         /// <summary>
@@ -998,6 +1088,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-a-z
         /// </summary>
+        [Description("arrow-down-a-z")]
         public const string ArrowDownAZ = "\uf15d";
 
         /// <summary>
@@ -1009,6 +1100,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-arrow-up
         /// </summary>
+        [Description("arrow-down-arrow-up")]
         public const string ArrowDownArrowUp = "\uf883";
 
         /// <summary>
@@ -1020,6 +1112,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-big-small
         /// </summary>
+        [Description("arrow-down-big-small")]
         public const string ArrowDownBigSmall = "\uf88c";
 
         /// <summary>
@@ -1031,6 +1124,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-from-dotted-line
         /// </summary>
+        [Description("arrow-down-from-dotted-line")]
         public const string ArrowDownFromDottedLine = "\ue090";
 
         /// <summary>
@@ -1042,6 +1136,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-from-line
         /// </summary>
+        [Description("arrow-down-from-line")]
         public const string ArrowDownFromLine = "\uf345";
 
         /// <summary>
@@ -1053,6 +1148,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-left
         /// </summary>
+        [Description("arrow-down-left")]
         public const string ArrowDownLeft = "\ue091";
 
         /// <summary>
@@ -1064,6 +1160,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-left-and-arrow-up-right-to-center
         /// </summary>
+        [Description("arrow-down-left-and-arrow-up-right-to-center")]
         public const string ArrowDownLeftAndArrowUpRightToCenter = "\ue092";
 
         /// <summary>
@@ -1075,6 +1172,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-long
         /// </summary>
+        [Description("arrow-down-long")]
         public const string ArrowDownLong = "\uf175";
 
         /// <summary>
@@ -1086,6 +1184,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-right
         /// </summary>
+        [Description("arrow-down-right")]
         public const string ArrowDownRight = "\ue093";
 
         /// <summary>
@@ -1097,6 +1196,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-short-wide
         /// </summary>
+        [Description("arrow-down-short-wide")]
         public const string ArrowDownShortWide = "\uf884";
 
         /// <summary>
@@ -1108,6 +1208,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-small-big
         /// </summary>
+        [Description("arrow-down-small-big")]
         public const string ArrowDownSmallBig = "\uf88d";
 
         /// <summary>
@@ -1119,6 +1220,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-square-triangle
         /// </summary>
+        [Description("arrow-down-square-triangle")]
         public const string ArrowDownSquareTriangle = "\uf889";
 
         /// <summary>
@@ -1130,6 +1232,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-to-arc
         /// </summary>
+        [Description("arrow-down-to-arc")]
         public const string ArrowDownToArc = "\ue4ae";
 
         /// <summary>
@@ -1141,6 +1244,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-to-bracket
         /// </summary>
+        [Description("arrow-down-to-bracket")]
         public const string ArrowDownToBracket = "\ue094";
 
         /// <summary>
@@ -1152,6 +1256,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-to-dotted-line
         /// </summary>
+        [Description("arrow-down-to-dotted-line")]
         public const string ArrowDownToDottedLine = "\ue095";
 
         /// <summary>
@@ -1163,6 +1268,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-to-line
         /// </summary>
+        [Description("arrow-down-to-line")]
         public const string ArrowDownToLine = "\uf33d";
 
         /// <summary>
@@ -1174,6 +1280,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-to-square
         /// </summary>
+        [Description("arrow-down-to-square")]
         public const string ArrowDownToSquare = "\ue096";
 
         /// <summary>
@@ -1185,6 +1292,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-triangle-square
         /// </summary>
+        [Description("arrow-down-triangle-square")]
         public const string ArrowDownTriangleSquare = "\uf888";
 
         /// <summary>
@@ -1196,6 +1304,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-up-across-line
         /// </summary>
+        [Description("arrow-down-up-across-line")]
         public const string ArrowDownUpAcrossLine = "\ue4af";
 
         /// <summary>
@@ -1207,6 +1316,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-up-lock
         /// </summary>
+        [Description("arrow-down-up-lock")]
         public const string ArrowDownUpLock = "\ue4b0";
 
         /// <summary>
@@ -1218,6 +1328,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-wide-short
         /// </summary>
+        [Description("arrow-down-wide-short")]
         public const string ArrowDownWideShort = "\uf160";
 
         /// <summary>
@@ -1229,6 +1340,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-down-z-a
         /// </summary>
+        [Description("arrow-down-z-a")]
         public const string ArrowDownZA = "\uf881";
 
         /// <summary>
@@ -1240,6 +1352,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-left
         /// </summary>
+        [Description("arrow-left")]
         public const string ArrowLeft = "\uf060";
 
         /// <summary>
@@ -1251,6 +1364,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-left-from-line
         /// </summary>
+        [Description("arrow-left-from-line")]
         public const string ArrowLeftFromLine = "\uf344";
 
         /// <summary>
@@ -1262,6 +1376,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-left-long
         /// </summary>
+        [Description("arrow-left-long")]
         public const string ArrowLeftLong = "\uf177";
 
         /// <summary>
@@ -1273,6 +1388,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-left-long-to-line
         /// </summary>
+        [Description("arrow-left-long-to-line")]
         public const string ArrowLeftLongToLine = "\ue3d4";
 
         /// <summary>
@@ -1284,6 +1400,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-left-to-line
         /// </summary>
+        [Description("arrow-left-to-line")]
         public const string ArrowLeftToLine = "\uf33e";
 
         /// <summary>
@@ -1295,6 +1412,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-pointer
         /// </summary>
+        [Description("arrow-pointer")]
         public const string ArrowPointer = "\uf245";
 
         /// <summary>
@@ -1306,6 +1424,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-progress
         /// </summary>
+        [Description("arrow-progress")]
         public const string ArrowProgress = "\ue5df";
 
         /// <summary>
@@ -1317,6 +1436,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-right
         /// </summary>
+        [Description("arrow-right")]
         public const string ArrowRight = "\uf061";
 
         /// <summary>
@@ -1328,6 +1448,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-right-arrow-left
         /// </summary>
+        [Description("arrow-right-arrow-left")]
         public const string ArrowRightArrowLeft = "\uf0ec";
 
         /// <summary>
@@ -1339,6 +1460,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-right-from-arc
         /// </summary>
+        [Description("arrow-right-from-arc")]
         public const string ArrowRightFromArc = "\ue4b1";
 
         /// <summary>
@@ -1350,6 +1472,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-right-from-bracket
         /// </summary>
+        [Description("arrow-right-from-bracket")]
         public const string ArrowRightFromBracket = "\uf08b";
 
         /// <summary>
@@ -1361,6 +1484,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-right-from-line
         /// </summary>
+        [Description("arrow-right-from-line")]
         public const string ArrowRightFromLine = "\uf343";
 
         /// <summary>
@@ -1372,6 +1496,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-right-long
         /// </summary>
+        [Description("arrow-right-long")]
         public const string ArrowRightLong = "\uf178";
 
         /// <summary>
@@ -1383,6 +1508,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-right-long-to-line
         /// </summary>
+        [Description("arrow-right-long-to-line")]
         public const string ArrowRightLongToLine = "\ue3d5";
 
         /// <summary>
@@ -1394,6 +1520,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-right-to-arc
         /// </summary>
+        [Description("arrow-right-to-arc")]
         public const string ArrowRightToArc = "\ue4b2";
 
         /// <summary>
@@ -1405,6 +1532,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-right-to-bracket
         /// </summary>
+        [Description("arrow-right-to-bracket")]
         public const string ArrowRightToBracket = "\uf090";
 
         /// <summary>
@@ -1416,6 +1544,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-right-to-city
         /// </summary>
+        [Description("arrow-right-to-city")]
         public const string ArrowRightToCity = "\ue4b3";
 
         /// <summary>
@@ -1427,6 +1556,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-right-to-line
         /// </summary>
+        [Description("arrow-right-to-line")]
         public const string ArrowRightToLine = "\uf340";
 
         /// <summary>
@@ -1438,6 +1568,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-rotate-left
         /// </summary>
+        [Description("arrow-rotate-left")]
         public const string ArrowRotateLeft = "\uf0e2";
 
         /// <summary>
@@ -1449,6 +1580,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-rotate-right
         /// </summary>
+        [Description("arrow-rotate-right")]
         public const string ArrowRotateRight = "\uf01e";
 
         /// <summary>
@@ -1460,6 +1592,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-trend-down
         /// </summary>
+        [Description("arrow-trend-down")]
         public const string ArrowTrendDown = "\ue097";
 
         /// <summary>
@@ -1471,6 +1604,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-trend-up
         /// </summary>
+        [Description("arrow-trend-up")]
         public const string ArrowTrendUp = "\ue098";
 
         /// <summary>
@@ -1482,6 +1616,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-turn-down
         /// </summary>
+        [Description("arrow-turn-down")]
         public const string ArrowTurnDown = "\uf149";
 
         /// <summary>
@@ -1493,6 +1628,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-turn-down-left
         /// </summary>
+        [Description("arrow-turn-down-left")]
         public const string ArrowTurnDownLeft = "\ue2e1";
 
         /// <summary>
@@ -1504,6 +1640,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-turn-down-right
         /// </summary>
+        [Description("arrow-turn-down-right")]
         public const string ArrowTurnDownRight = "\ue3d6";
 
         /// <summary>
@@ -1515,6 +1652,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-turn-up
         /// </summary>
+        [Description("arrow-turn-up")]
         public const string ArrowTurnUp = "\uf148";
 
         /// <summary>
@@ -1526,6 +1664,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up
         /// </summary>
+        [Description("arrow-up")]
         public const string ArrowUp = "\uf062";
 
         /// <summary>
@@ -1537,6 +1676,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-1-9
         /// </summary>
+        [Description("arrow-up-1-9")]
         public const string ArrowUp19 = "\uf163";
 
         /// <summary>
@@ -1548,6 +1688,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-9-1
         /// </summary>
+        [Description("arrow-up-9-1")]
         public const string ArrowUp91 = "\uf887";
 
         /// <summary>
@@ -1559,6 +1700,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-a-z
         /// </summary>
+        [Description("arrow-up-a-z")]
         public const string ArrowUpAZ = "\uf15e";
 
         /// <summary>
@@ -1570,6 +1712,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-arrow-down
         /// </summary>
+        [Description("arrow-up-arrow-down")]
         public const string ArrowUpArrowDown = "\ue099";
 
         /// <summary>
@@ -1581,6 +1724,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-big-small
         /// </summary>
+        [Description("arrow-up-big-small")]
         public const string ArrowUpBigSmall = "\uf88e";
 
         /// <summary>
@@ -1592,6 +1736,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-from-arc
         /// </summary>
+        [Description("arrow-up-from-arc")]
         public const string ArrowUpFromArc = "\ue4b4";
 
         /// <summary>
@@ -1603,6 +1748,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-from-bracket
         /// </summary>
+        [Description("arrow-up-from-bracket")]
         public const string ArrowUpFromBracket = "\ue09a";
 
         /// <summary>
@@ -1614,6 +1760,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-from-dotted-line
         /// </summary>
+        [Description("arrow-up-from-dotted-line")]
         public const string ArrowUpFromDottedLine = "\ue09b";
 
         /// <summary>
@@ -1625,6 +1772,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-from-ground-water
         /// </summary>
+        [Description("arrow-up-from-ground-water")]
         public const string ArrowUpFromGroundWater = "\ue4b5";
 
         /// <summary>
@@ -1636,6 +1784,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-from-line
         /// </summary>
+        [Description("arrow-up-from-line")]
         public const string ArrowUpFromLine = "\uf342";
 
         /// <summary>
@@ -1647,6 +1796,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-from-square
         /// </summary>
+        [Description("arrow-up-from-square")]
         public const string ArrowUpFromSquare = "\ue09c";
 
         /// <summary>
@@ -1658,6 +1808,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-from-water-pump
         /// </summary>
+        [Description("arrow-up-from-water-pump")]
         public const string ArrowUpFromWaterPump = "\ue4b6";
 
         /// <summary>
@@ -1669,6 +1820,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-left
         /// </summary>
+        [Description("arrow-up-left")]
         public const string ArrowUpLeft = "\ue09d";
 
         /// <summary>
@@ -1680,6 +1832,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-left-from-circle
         /// </summary>
+        [Description("arrow-up-left-from-circle")]
         public const string ArrowUpLeftFromCircle = "\ue09e";
 
         /// <summary>
@@ -1691,6 +1844,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-long
         /// </summary>
+        [Description("arrow-up-long")]
         public const string ArrowUpLong = "\uf176";
 
         /// <summary>
@@ -1702,6 +1856,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-right
         /// </summary>
+        [Description("arrow-up-right")]
         public const string ArrowUpRight = "\ue09f";
 
         /// <summary>
@@ -1713,6 +1868,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-right-and-arrow-down-left-from-center
         /// </summary>
+        [Description("arrow-up-right-and-arrow-down-left-from-center")]
         public const string ArrowUpRightAndArrowDownLeftFromCenter = "\ue0a0";
 
         /// <summary>
@@ -1724,6 +1880,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-right-dots
         /// </summary>
+        [Description("arrow-up-right-dots")]
         public const string ArrowUpRightDots = "\ue4b7";
 
         /// <summary>
@@ -1735,6 +1892,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-right-from-square
         /// </summary>
+        [Description("arrow-up-right-from-square")]
         public const string ArrowUpRightFromSquare = "\uf08e";
 
         /// <summary>
@@ -1746,6 +1904,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-short-wide
         /// </summary>
+        [Description("arrow-up-short-wide")]
         public const string ArrowUpShortWide = "\uf885";
 
         /// <summary>
@@ -1757,6 +1916,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-small-big
         /// </summary>
+        [Description("arrow-up-small-big")]
         public const string ArrowUpSmallBig = "\uf88f";
 
         /// <summary>
@@ -1768,6 +1928,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-square-triangle
         /// </summary>
+        [Description("arrow-up-square-triangle")]
         public const string ArrowUpSquareTriangle = "\uf88b";
 
         /// <summary>
@@ -1779,6 +1940,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-to-dotted-line
         /// </summary>
+        [Description("arrow-up-to-dotted-line")]
         public const string ArrowUpToDottedLine = "\ue0a1";
 
         /// <summary>
@@ -1790,6 +1952,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-to-line
         /// </summary>
+        [Description("arrow-up-to-line")]
         public const string ArrowUpToLine = "\uf341";
 
         /// <summary>
@@ -1801,6 +1964,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-triangle-square
         /// </summary>
+        [Description("arrow-up-triangle-square")]
         public const string ArrowUpTriangleSquare = "\uf88a";
 
         /// <summary>
@@ -1812,6 +1976,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-wide-short
         /// </summary>
+        [Description("arrow-up-wide-short")]
         public const string ArrowUpWideShort = "\uf161";
 
         /// <summary>
@@ -1823,6 +1988,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrow-up-z-a
         /// </summary>
+        [Description("arrow-up-z-a")]
         public const string ArrowUpZA = "\uf882";
 
         /// <summary>
@@ -1834,6 +2000,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-cross
         /// </summary>
+        [Description("arrows-cross")]
         public const string ArrowsCross = "\ue0a2";
 
         /// <summary>
@@ -1845,6 +2012,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-down-to-line
         /// </summary>
+        [Description("arrows-down-to-line")]
         public const string ArrowsDownToLine = "\ue4b8";
 
         /// <summary>
@@ -1856,6 +2024,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-down-to-people
         /// </summary>
+        [Description("arrows-down-to-people")]
         public const string ArrowsDownToPeople = "\ue4b9";
 
         /// <summary>
@@ -1867,6 +2036,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-from-dotted-line
         /// </summary>
+        [Description("arrows-from-dotted-line")]
         public const string ArrowsFromDottedLine = "\ue0a3";
 
         /// <summary>
@@ -1878,6 +2048,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-from-line
         /// </summary>
+        [Description("arrows-from-line")]
         public const string ArrowsFromLine = "\ue0a4";
 
         /// <summary>
@@ -1889,6 +2060,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-left-right
         /// </summary>
+        [Description("arrows-left-right")]
         public const string ArrowsLeftRight = "\uf07e";
 
         /// <summary>
@@ -1900,6 +2072,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-left-right-to-line
         /// </summary>
+        [Description("arrows-left-right-to-line")]
         public const string ArrowsLeftRightToLine = "\ue4ba";
 
         /// <summary>
@@ -1911,6 +2084,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-maximize
         /// </summary>
+        [Description("arrows-maximize")]
         public const string ArrowsMaximize = "\uf31d";
 
         /// <summary>
@@ -1922,6 +2096,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-minimize
         /// </summary>
+        [Description("arrows-minimize")]
         public const string ArrowsMinimize = "\ue0a5";
 
         /// <summary>
@@ -1933,6 +2108,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-repeat
         /// </summary>
+        [Description("arrows-repeat")]
         public const string ArrowsRepeat = "\uf364";
 
         /// <summary>
@@ -1944,6 +2120,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-repeat-1
         /// </summary>
+        [Description("arrows-repeat-1")]
         public const string ArrowsRepeat1 = "\uf366";
 
         /// <summary>
@@ -1955,6 +2132,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-retweet
         /// </summary>
+        [Description("arrows-retweet")]
         public const string ArrowsRetweet = "\uf361";
 
         /// <summary>
@@ -1966,6 +2144,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-rotate
         /// </summary>
+        [Description("arrows-rotate")]
         public const string ArrowsRotate = "\uf021";
 
         /// <summary>
@@ -1977,6 +2156,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-spin
         /// </summary>
+        [Description("arrows-spin")]
         public const string ArrowsSpin = "\ue4bb";
 
         /// <summary>
@@ -1988,6 +2168,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-split-up-and-left
         /// </summary>
+        [Description("arrows-split-up-and-left")]
         public const string ArrowsSplitUpAndLeft = "\ue4bc";
 
         /// <summary>
@@ -1999,6 +2180,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-to-circle
         /// </summary>
+        [Description("arrows-to-circle")]
         public const string ArrowsToCircle = "\ue4bd";
 
         /// <summary>
@@ -2010,6 +2192,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-to-dot
         /// </summary>
+        [Description("arrows-to-dot")]
         public const string ArrowsToDot = "\ue4be";
 
         /// <summary>
@@ -2021,6 +2204,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-to-dotted-line
         /// </summary>
+        [Description("arrows-to-dotted-line")]
         public const string ArrowsToDottedLine = "\ue0a6";
 
         /// <summary>
@@ -2032,6 +2216,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-to-eye
         /// </summary>
+        [Description("arrows-to-eye")]
         public const string ArrowsToEye = "\ue4bf";
 
         /// <summary>
@@ -2043,6 +2228,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-to-line
         /// </summary>
+        [Description("arrows-to-line")]
         public const string ArrowsToLine = "\ue0a7";
 
         /// <summary>
@@ -2054,6 +2240,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-turn-right
         /// </summary>
+        [Description("arrows-turn-right")]
         public const string ArrowsTurnRight = "\ue4c0";
 
         /// <summary>
@@ -2065,6 +2252,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-turn-to-dots
         /// </summary>
+        [Description("arrows-turn-to-dots")]
         public const string ArrowsTurnToDots = "\ue4c1";
 
         /// <summary>
@@ -2076,6 +2264,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-up-down
         /// </summary>
+        [Description("arrows-up-down")]
         public const string ArrowsUpDown = "\uf07d";
 
         /// <summary>
@@ -2087,6 +2276,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-up-down-left-right
         /// </summary>
+        [Description("arrows-up-down-left-right")]
         public const string ArrowsUpDownLeftRight = "\uf047";
 
         /// <summary>
@@ -2098,6 +2288,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/arrows-up-to-line
         /// </summary>
+        [Description("arrows-up-to-line")]
         public const string ArrowsUpToLine = "\ue4c2";
 
         /// <summary>
@@ -2109,6 +2300,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/artstation
         /// </summary>
+        [Description("artstation")]
         public const string Artstation = "\uf77a";
 
         /// <summary>
@@ -2120,6 +2312,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/asterisk
         /// </summary>
+        [Description("asterisk")]
         public const string Asterisk = "\u002a";
 
         /// <summary>
@@ -2131,6 +2324,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/asymmetrik
         /// </summary>
+        [Description("asymmetrik")]
         public const string Asymmetrik = "\uf372";
 
         /// <summary>
@@ -2142,6 +2336,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/at
         /// </summary>
+        [Description("at")]
         public const string At = "\u0040";
 
         /// <summary>
@@ -2153,6 +2348,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/atlassian
         /// </summary>
+        [Description("atlassian")]
         public const string Atlassian = "\uf77b";
 
         /// <summary>
@@ -2164,6 +2360,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/atom
         /// </summary>
+        [Description("atom")]
         public const string Atom = "\uf5d2";
 
         /// <summary>
@@ -2175,6 +2372,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/atom-simple
         /// </summary>
+        [Description("atom-simple")]
         public const string AtomSimple = "\uf5d3";
 
         /// <summary>
@@ -2186,6 +2384,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/audible
         /// </summary>
+        [Description("audible")]
         public const string Audible = "\uf373";
 
         /// <summary>
@@ -2197,6 +2396,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/audio-description
         /// </summary>
+        [Description("audio-description")]
         public const string AudioDescription = "\uf29e";
 
         /// <summary>
@@ -2208,6 +2408,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/audio-description-slash
         /// </summary>
+        [Description("audio-description-slash")]
         public const string AudioDescriptionSlash = "\ue0a8";
 
         /// <summary>
@@ -2219,6 +2420,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/austral-sign
         /// </summary>
+        [Description("austral-sign")]
         public const string AustralSign = "\ue0a9";
 
         /// <summary>
@@ -2230,6 +2432,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/autoprefixer
         /// </summary>
+        [Description("autoprefixer")]
         public const string Autoprefixer = "\uf41c";
 
         /// <summary>
@@ -2241,6 +2444,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/avianex
         /// </summary>
+        [Description("avianex")]
         public const string Avianex = "\uf374";
 
         /// <summary>
@@ -2252,6 +2456,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/aviato
         /// </summary>
+        [Description("aviato")]
         public const string Aviato = "\uf421";
 
         /// <summary>
@@ -2263,6 +2468,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/avocado
         /// </summary>
+        [Description("avocado")]
         public const string Avocado = "\ue0aa";
 
         /// <summary>
@@ -2274,6 +2480,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/award
         /// </summary>
+        [Description("award")]
         public const string Award = "\uf559";
 
         /// <summary>
@@ -2285,6 +2492,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/award-simple
         /// </summary>
+        [Description("award-simple")]
         public const string AwardSimple = "\ue0ab";
 
         /// <summary>
@@ -2296,6 +2504,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/aws
         /// </summary>
+        [Description("aws")]
         public const string Aws = "\uf375";
 
         /// <summary>
@@ -2307,6 +2516,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/axe
         /// </summary>
+        [Description("axe")]
         public const string Axe = "\uf6b2";
 
         /// <summary>
@@ -2318,6 +2528,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/axe-battle
         /// </summary>
+        [Description("axe-battle")]
         public const string AxeBattle = "\uf6b3";
 
         /// <summary>
@@ -2329,6 +2540,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/b
         /// </summary>
+        [Description("b")]
         public const string B = "\u0042";
 
         /// <summary>
@@ -2340,6 +2552,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/baby
         /// </summary>
+        [Description("baby")]
         public const string Baby = "\uf77c";
 
         /// <summary>
@@ -2351,6 +2564,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/baby-carriage
         /// </summary>
+        [Description("baby-carriage")]
         public const string BabyCarriage = "\uf77d";
 
         /// <summary>
@@ -2362,6 +2576,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/backpack
         /// </summary>
+        [Description("backpack")]
         public const string Backpack = "\uf5d4";
 
         /// <summary>
@@ -2373,6 +2588,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/backward
         /// </summary>
+        [Description("backward")]
         public const string Backward = "\uf04a";
 
         /// <summary>
@@ -2384,6 +2600,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/backward-fast
         /// </summary>
+        [Description("backward-fast")]
         public const string BackwardFast = "\uf049";
 
         /// <summary>
@@ -2395,6 +2612,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/backward-step
         /// </summary>
+        [Description("backward-step")]
         public const string BackwardStep = "\uf048";
 
         /// <summary>
@@ -2406,6 +2624,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bacon
         /// </summary>
+        [Description("bacon")]
         public const string Bacon = "\uf7e5";
 
         /// <summary>
@@ -2417,6 +2636,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bacteria
         /// </summary>
+        [Description("bacteria")]
         public const string Bacteria = "\ue059";
 
         /// <summary>
@@ -2428,6 +2648,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bacterium
         /// </summary>
+        [Description("bacterium")]
         public const string Bacterium = "\ue05a";
 
         /// <summary>
@@ -2439,6 +2660,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/badge
         /// </summary>
+        [Description("badge")]
         public const string Badge = "\uf335";
 
         /// <summary>
@@ -2450,6 +2672,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/badge-check
         /// </summary>
+        [Description("badge-check")]
         public const string BadgeCheck = "\uf336";
 
         /// <summary>
@@ -2461,6 +2684,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/badge-dollar
         /// </summary>
+        [Description("badge-dollar")]
         public const string BadgeDollar = "\uf645";
 
         /// <summary>
@@ -2472,6 +2696,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/badge-percent
         /// </summary>
+        [Description("badge-percent")]
         public const string BadgePercent = "\uf646";
 
         /// <summary>
@@ -2483,6 +2708,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/badge-sheriff
         /// </summary>
+        [Description("badge-sheriff")]
         public const string BadgeSheriff = "\uf8a2";
 
         /// <summary>
@@ -2494,6 +2720,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/badger-honey
         /// </summary>
+        [Description("badger-honey")]
         public const string BadgerHoney = "\uf6b4";
 
         /// <summary>
@@ -2505,6 +2732,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/badminton
         /// </summary>
+        [Description("badminton")]
         public const string Badminton = "\ue33a";
 
         /// <summary>
@@ -2516,6 +2744,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bag-seedling
         /// </summary>
+        [Description("bag-seedling")]
         public const string BagSeedling = "\ue5f2";
 
         /// <summary>
@@ -2527,6 +2756,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bag-shopping
         /// </summary>
+        [Description("bag-shopping")]
         public const string BagShopping = "\uf290";
 
         /// <summary>
@@ -2538,6 +2768,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bagel
         /// </summary>
+        [Description("bagel")]
         public const string Bagel = "\ue3d7";
 
         /// <summary>
@@ -2549,6 +2780,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bags-shopping
         /// </summary>
+        [Description("bags-shopping")]
         public const string BagsShopping = "\uf847";
 
         /// <summary>
@@ -2560,6 +2792,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/baguette
         /// </summary>
+        [Description("baguette")]
         public const string Baguette = "\ue3d8";
 
         /// <summary>
@@ -2571,6 +2804,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bahai
         /// </summary>
+        [Description("bahai")]
         public const string Bahai = "\uf666";
 
         /// <summary>
@@ -2582,6 +2816,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/baht-sign
         /// </summary>
+        [Description("baht-sign")]
         public const string BahtSign = "\ue0ac";
 
         /// <summary>
@@ -2593,6 +2828,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ball-pile
         /// </summary>
+        [Description("ball-pile")]
         public const string BallPile = "\uf77e";
 
         /// <summary>
@@ -2604,6 +2840,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/balloon
         /// </summary>
+        [Description("balloon")]
         public const string Balloon = "\ue2e3";
 
         /// <summary>
@@ -2615,6 +2852,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/balloons
         /// </summary>
+        [Description("balloons")]
         public const string Balloons = "\ue2e4";
 
         /// <summary>
@@ -2626,6 +2864,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ballot
         /// </summary>
+        [Description("ballot")]
         public const string Ballot = "\uf732";
 
         /// <summary>
@@ -2637,6 +2876,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ballot-check
         /// </summary>
+        [Description("ballot-check")]
         public const string BallotCheck = "\uf733";
 
         /// <summary>
@@ -2648,6 +2888,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ban
         /// </summary>
+        [Description("ban")]
         public const string Ban = "\uf05e";
 
         /// <summary>
@@ -2659,6 +2900,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ban-bug
         /// </summary>
+        [Description("ban-bug")]
         public const string BanBug = "\uf7f9";
 
         /// <summary>
@@ -2670,6 +2912,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ban-parking
         /// </summary>
+        [Description("ban-parking")]
         public const string BanParking = "\uf616";
 
         /// <summary>
@@ -2681,6 +2924,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ban-smoking
         /// </summary>
+        [Description("ban-smoking")]
         public const string BanSmoking = "\uf54d";
 
         /// <summary>
@@ -2692,6 +2936,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/banana
         /// </summary>
+        [Description("banana")]
         public const string Banana = "\ue2e5";
 
         /// <summary>
@@ -2703,6 +2948,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bandage
         /// </summary>
+        [Description("bandage")]
         public const string Bandage = "\uf462";
 
         /// <summary>
@@ -2714,6 +2960,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bandcamp
         /// </summary>
+        [Description("bandcamp")]
         public const string Bandcamp = "\uf2d5";
 
         /// <summary>
@@ -2725,6 +2972,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bangladeshi-taka-sign
         /// </summary>
+        [Description("bangladeshi-taka-sign")]
         public const string BangladeshiTakaSign = "\ue2e6";
 
         /// <summary>
@@ -2736,6 +2984,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/banjo
         /// </summary>
+        [Description("banjo")]
         public const string Banjo = "\uf8a3";
 
         /// <summary>
@@ -2747,6 +2996,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/barcode
         /// </summary>
+        [Description("barcode")]
         public const string Barcode = "\uf02a";
 
         /// <summary>
@@ -2758,6 +3008,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/barcode-read
         /// </summary>
+        [Description("barcode-read")]
         public const string BarcodeRead = "\uf464";
 
         /// <summary>
@@ -2769,6 +3020,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/barcode-scan
         /// </summary>
+        [Description("barcode-scan")]
         public const string BarcodeScan = "\uf465";
 
         /// <summary>
@@ -2780,6 +3032,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bars
         /// </summary>
+        [Description("bars")]
         public const string Bars = "\uf0c9";
 
         /// <summary>
@@ -2791,6 +3044,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bars-filter
         /// </summary>
+        [Description("bars-filter")]
         public const string BarsFilter = "\ue0ad";
 
         /// <summary>
@@ -2802,6 +3056,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bars-progress
         /// </summary>
+        [Description("bars-progress")]
         public const string BarsProgress = "\uf828";
 
         /// <summary>
@@ -2813,6 +3068,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bars-sort
         /// </summary>
+        [Description("bars-sort")]
         public const string BarsSort = "\ue0ae";
 
         /// <summary>
@@ -2824,6 +3080,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bars-staggered
         /// </summary>
+        [Description("bars-staggered")]
         public const string BarsStaggered = "\uf550";
 
         /// <summary>
@@ -2835,6 +3092,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/baseball
         /// </summary>
+        [Description("baseball")]
         public const string Baseball = "\uf433";
 
         /// <summary>
@@ -2846,6 +3104,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/baseball-bat-ball
         /// </summary>
+        [Description("baseball-bat-ball")]
         public const string BaseballBatBall = "\uf432";
 
         /// <summary>
@@ -2857,6 +3116,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/basket-shopping
         /// </summary>
+        [Description("basket-shopping")]
         public const string BasketShopping = "\uf291";
 
         /// <summary>
@@ -2868,6 +3128,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/basket-shopping-simple
         /// </summary>
+        [Description("basket-shopping-simple")]
         public const string BasketShoppingSimple = "\ue0af";
 
         /// <summary>
@@ -2879,6 +3140,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/basketball
         /// </summary>
+        [Description("basketball")]
         public const string Basketball = "\uf434";
 
         /// <summary>
@@ -2890,6 +3152,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/basketball-hoop
         /// </summary>
+        [Description("basketball-hoop")]
         public const string BasketballHoop = "\uf435";
 
         /// <summary>
@@ -2901,6 +3164,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bat
         /// </summary>
+        [Description("bat")]
         public const string Bat = "\uf6b5";
 
         /// <summary>
@@ -2912,6 +3176,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bath
         /// </summary>
+        [Description("bath")]
         public const string Bath = "\uf2cd";
 
         /// <summary>
@@ -2923,6 +3188,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/battery-bolt
         /// </summary>
+        [Description("battery-bolt")]
         public const string BatteryBolt = "\uf376";
 
         /// <summary>
@@ -2934,6 +3200,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/battery-empty
         /// </summary>
+        [Description("battery-empty")]
         public const string BatteryEmpty = "\uf244";
 
         /// <summary>
@@ -2945,6 +3212,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/battery-exclamation
         /// </summary>
+        [Description("battery-exclamation")]
         public const string BatteryExclamation = "\ue0b0";
 
         /// <summary>
@@ -2956,6 +3224,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/battery-full
         /// </summary>
+        [Description("battery-full")]
         public const string BatteryFull = "\uf240";
 
         /// <summary>
@@ -2967,6 +3236,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/battery-half
         /// </summary>
+        [Description("battery-half")]
         public const string BatteryHalf = "\uf242";
 
         /// <summary>
@@ -2978,6 +3248,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/battery-low
         /// </summary>
+        [Description("battery-low")]
         public const string BatteryLow = "\ue0b1";
 
         /// <summary>
@@ -2989,6 +3260,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/battery-quarter
         /// </summary>
+        [Description("battery-quarter")]
         public const string BatteryQuarter = "\uf243";
 
         /// <summary>
@@ -3000,6 +3272,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/battery-slash
         /// </summary>
+        [Description("battery-slash")]
         public const string BatterySlash = "\uf377";
 
         /// <summary>
@@ -3011,6 +3284,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/battery-three-quarters
         /// </summary>
+        [Description("battery-three-quarters")]
         public const string BatteryThreeQuarters = "\uf241";
 
         /// <summary>
@@ -3022,6 +3296,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/battle-net
         /// </summary>
+        [Description("battle-net")]
         public const string BattleNet = "\uf835";
 
         /// <summary>
@@ -3033,6 +3308,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bed
         /// </summary>
+        [Description("bed")]
         public const string Bed = "\uf236";
 
         /// <summary>
@@ -3044,6 +3320,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bed-bunk
         /// </summary>
+        [Description("bed-bunk")]
         public const string BedBunk = "\uf8f8";
 
         /// <summary>
@@ -3055,6 +3332,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bed-empty
         /// </summary>
+        [Description("bed-empty")]
         public const string BedEmpty = "\uf8f9";
 
         /// <summary>
@@ -3066,6 +3344,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bed-front
         /// </summary>
+        [Description("bed-front")]
         public const string BedFront = "\uf8f7";
 
         /// <summary>
@@ -3077,6 +3356,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bed-pulse
         /// </summary>
+        [Description("bed-pulse")]
         public const string BedPulse = "\uf487";
 
         /// <summary>
@@ -3088,6 +3368,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bee
         /// </summary>
+        [Description("bee")]
         public const string Bee = "\ue0b2";
 
         /// <summary>
@@ -3099,6 +3380,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/beer-mug
         /// </summary>
+        [Description("beer-mug")]
         public const string BeerMug = "\ue0b3";
 
         /// <summary>
@@ -3110,6 +3392,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/beer-mug-empty
         /// </summary>
+        [Description("beer-mug-empty")]
         public const string BeerMugEmpty = "\uf0fc";
 
         /// <summary>
@@ -3121,6 +3404,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/behance
         /// </summary>
+        [Description("behance")]
         public const string Behance = "\uf1b4";
 
         /// <summary>
@@ -3132,6 +3416,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bell
         /// </summary>
+        [Description("bell")]
         public const string Bell = "\uf0f3";
 
         /// <summary>
@@ -3143,6 +3428,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bell-concierge
         /// </summary>
+        [Description("bell-concierge")]
         public const string BellConcierge = "\uf562";
 
         /// <summary>
@@ -3154,6 +3440,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bell-exclamation
         /// </summary>
+        [Description("bell-exclamation")]
         public const string BellExclamation = "\uf848";
 
         /// <summary>
@@ -3165,6 +3452,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bell-on
         /// </summary>
+        [Description("bell-on")]
         public const string BellOn = "\uf8fa";
 
         /// <summary>
@@ -3176,6 +3464,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bell-plus
         /// </summary>
+        [Description("bell-plus")]
         public const string BellPlus = "\uf849";
 
         /// <summary>
@@ -3187,6 +3476,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bell-school
         /// </summary>
+        [Description("bell-school")]
         public const string BellSchool = "\uf5d5";
 
         /// <summary>
@@ -3198,6 +3488,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bell-school-slash
         /// </summary>
+        [Description("bell-school-slash")]
         public const string BellSchoolSlash = "\uf5d6";
 
         /// <summary>
@@ -3209,6 +3500,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bell-slash
         /// </summary>
+        [Description("bell-slash")]
         public const string BellSlash = "\uf1f6";
 
         /// <summary>
@@ -3220,6 +3512,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bells
         /// </summary>
+        [Description("bells")]
         public const string Bells = "\uf77f";
 
         /// <summary>
@@ -3231,6 +3524,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bench-tree
         /// </summary>
+        [Description("bench-tree")]
         public const string BenchTree = "\ue2e7";
 
         /// <summary>
@@ -3242,6 +3536,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bezier-curve
         /// </summary>
+        [Description("bezier-curve")]
         public const string BezierCurve = "\uf55b";
 
         /// <summary>
@@ -3253,6 +3548,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bicycle
         /// </summary>
+        [Description("bicycle")]
         public const string Bicycle = "\uf206";
 
         /// <summary>
@@ -3264,6 +3560,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bilibili
         /// </summary>
+        [Description("bilibili")]
         public const string Bilibili = "\ue3d9";
 
         /// <summary>
@@ -3275,6 +3572,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/billboard
         /// </summary>
+        [Description("billboard")]
         public const string Billboard = "\ue5cd";
 
         /// <summary>
@@ -3286,6 +3584,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bimobject
         /// </summary>
+        [Description("bimobject")]
         public const string Bimobject = "\uf378";
 
         /// <summary>
@@ -3297,6 +3596,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bin-bottles
         /// </summary>
+        [Description("bin-bottles")]
         public const string BinBottles = "\ue5f5";
 
         /// <summary>
@@ -3308,6 +3608,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bin-bottles-recycle
         /// </summary>
+        [Description("bin-bottles-recycle")]
         public const string BinBottlesRecycle = "\ue5f6";
 
         /// <summary>
@@ -3319,6 +3620,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bin-recycle
         /// </summary>
+        [Description("bin-recycle")]
         public const string BinRecycle = "\ue5f7";
 
         /// <summary>
@@ -3330,6 +3632,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/binary
         /// </summary>
+        [Description("binary")]
         public const string Binary = "\ue33b";
 
         /// <summary>
@@ -3341,6 +3644,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/binary-circle-check
         /// </summary>
+        [Description("binary-circle-check")]
         public const string BinaryCircleCheck = "\ue33c";
 
         /// <summary>
@@ -3352,6 +3656,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/binary-lock
         /// </summary>
+        [Description("binary-lock")]
         public const string BinaryLock = "\ue33d";
 
         /// <summary>
@@ -3363,6 +3668,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/binary-slash
         /// </summary>
+        [Description("binary-slash")]
         public const string BinarySlash = "\ue33e";
 
         /// <summary>
@@ -3374,6 +3680,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/binoculars
         /// </summary>
+        [Description("binoculars")]
         public const string Binoculars = "\uf1e5";
 
         /// <summary>
@@ -3385,6 +3692,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/biohazard
         /// </summary>
+        [Description("biohazard")]
         public const string Biohazard = "\uf780";
 
         /// <summary>
@@ -3396,6 +3704,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bird
         /// </summary>
+        [Description("bird")]
         public const string Bird = "\ue469";
 
         /// <summary>
@@ -3407,6 +3716,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bitbucket
         /// </summary>
+        [Description("bitbucket")]
         public const string Bitbucket = "\uf171";
 
         /// <summary>
@@ -3418,6 +3728,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bitcoin
         /// </summary>
+        [Description("bitcoin")]
         public const string Bitcoin = "\uf379";
 
         /// <summary>
@@ -3429,6 +3740,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bitcoin-sign
         /// </summary>
+        [Description("bitcoin-sign")]
         public const string BitcoinSign = "\ue0b4";
 
         /// <summary>
@@ -3440,6 +3752,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bity
         /// </summary>
+        [Description("bity")]
         public const string Bity = "\uf37a";
 
         /// <summary>
@@ -3451,6 +3764,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/black-tie
         /// </summary>
+        [Description("black-tie")]
         public const string BlackTie = "\uf27e";
 
         /// <summary>
@@ -3462,6 +3776,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/blackberry
         /// </summary>
+        [Description("blackberry")]
         public const string Blackberry = "\uf37b";
 
         /// <summary>
@@ -3473,6 +3788,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/blanket
         /// </summary>
+        [Description("blanket")]
         public const string Blanket = "\uf498";
 
         /// <summary>
@@ -3484,6 +3800,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/blanket-fire
         /// </summary>
+        [Description("blanket-fire")]
         public const string BlanketFire = "\ue3da";
 
         /// <summary>
@@ -3495,6 +3812,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/blender
         /// </summary>
+        [Description("blender")]
         public const string Blender = "\uf517";
 
         /// <summary>
@@ -3506,6 +3824,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/blender-phone
         /// </summary>
+        [Description("blender-phone")]
         public const string BlenderPhone = "\uf6b6";
 
         /// <summary>
@@ -3517,6 +3836,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/blinds
         /// </summary>
+        [Description("blinds")]
         public const string Blinds = "\uf8fb";
 
         /// <summary>
@@ -3528,6 +3848,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/blinds-open
         /// </summary>
+        [Description("blinds-open")]
         public const string BlindsOpen = "\uf8fc";
 
         /// <summary>
@@ -3539,6 +3860,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/blinds-raised
         /// </summary>
+        [Description("blinds-raised")]
         public const string BlindsRaised = "\uf8fd";
 
         /// <summary>
@@ -3550,6 +3872,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/block
         /// </summary>
+        [Description("block")]
         public const string Block = "\ue46a";
 
         /// <summary>
@@ -3561,6 +3884,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/block-brick
         /// </summary>
+        [Description("block-brick")]
         public const string BlockBrick = "\ue3db";
 
         /// <summary>
@@ -3572,6 +3896,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/block-brick-fire
         /// </summary>
+        [Description("block-brick-fire")]
         public const string BlockBrickFire = "\ue3dc";
 
         /// <summary>
@@ -3583,6 +3908,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/block-question
         /// </summary>
+        [Description("block-question")]
         public const string BlockQuestion = "\ue3dd";
 
         /// <summary>
@@ -3594,6 +3920,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/block-quote
         /// </summary>
+        [Description("block-quote")]
         public const string BlockQuote = "\ue0b5";
 
         /// <summary>
@@ -3605,6 +3932,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/blog
         /// </summary>
+        [Description("blog")]
         public const string Blog = "\uf781";
 
         /// <summary>
@@ -3616,6 +3944,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/blogger
         /// </summary>
+        [Description("blogger")]
         public const string Blogger = "\uf37c";
 
         /// <summary>
@@ -3627,6 +3956,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/blogger-b
         /// </summary>
+        [Description("blogger-b")]
         public const string BloggerB = "\uf37d";
 
         /// <summary>
@@ -3638,6 +3968,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/blueberries
         /// </summary>
+        [Description("blueberries")]
         public const string Blueberries = "\ue2e8";
 
         /// <summary>
@@ -3649,6 +3980,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bluetooth
         /// </summary>
+        [Description("bluetooth")]
         public const string Bluetooth = "\uf293";
 
         /// <summary>
@@ -3660,6 +3992,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bluetooth-b
         /// </summary>
+        [Description("bluetooth-b")]
         public const string BluetoothB = "\uf294";
 
         /// <summary>
@@ -3671,6 +4004,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bold
         /// </summary>
+        [Description("bold")]
         public const string Bold = "\uf032";
 
         /// <summary>
@@ -3682,6 +4016,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bolt
         /// </summary>
+        [Description("bolt")]
         public const string Bolt = "\uf0e7";
 
         /// <summary>
@@ -3693,6 +4028,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bolt-auto
         /// </summary>
+        [Description("bolt-auto")]
         public const string BoltAuto = "\ue0b6";
 
         /// <summary>
@@ -3704,6 +4040,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bolt-lightning
         /// </summary>
+        [Description("bolt-lightning")]
         public const string BoltLightning = "\ue0b7";
 
         /// <summary>
@@ -3715,6 +4052,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bolt-slash
         /// </summary>
+        [Description("bolt-slash")]
         public const string BoltSlash = "\ue0b8";
 
         /// <summary>
@@ -3726,6 +4064,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bomb
         /// </summary>
+        [Description("bomb")]
         public const string Bomb = "\uf1e2";
 
         /// <summary>
@@ -3737,6 +4076,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bone
         /// </summary>
+        [Description("bone")]
         public const string Bone = "\uf5d7";
 
         /// <summary>
@@ -3748,6 +4088,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bone-break
         /// </summary>
+        [Description("bone-break")]
         public const string BoneBreak = "\uf5d8";
 
         /// <summary>
@@ -3759,6 +4100,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bong
         /// </summary>
+        [Description("bong")]
         public const string Bong = "\uf55c";
 
         /// <summary>
@@ -3770,6 +4112,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book
         /// </summary>
+        [Description("book")]
         public const string Book = "\uf02d";
 
         /// <summary>
@@ -3781,6 +4124,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-arrow-right
         /// </summary>
+        [Description("book-arrow-right")]
         public const string BookArrowRight = "\ue0b9";
 
         /// <summary>
@@ -3792,6 +4136,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-arrow-up
         /// </summary>
+        [Description("book-arrow-up")]
         public const string BookArrowUp = "\ue0ba";
 
         /// <summary>
@@ -3803,6 +4148,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-atlas
         /// </summary>
+        [Description("book-atlas")]
         public const string BookAtlas = "\uf558";
 
         /// <summary>
@@ -3814,6 +4160,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-bible
         /// </summary>
+        [Description("book-bible")]
         public const string BookBible = "\uf647";
 
         /// <summary>
@@ -3825,6 +4172,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-blank
         /// </summary>
+        [Description("book-blank")]
         public const string BookBlank = "\uf5d9";
 
         /// <summary>
@@ -3836,6 +4184,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-bookmark
         /// </summary>
+        [Description("book-bookmark")]
         public const string BookBookmark = "\ue0bb";
 
         /// <summary>
@@ -3847,6 +4196,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-circle-arrow-right
         /// </summary>
+        [Description("book-circle-arrow-right")]
         public const string BookCircleArrowRight = "\ue0bc";
 
         /// <summary>
@@ -3858,6 +4208,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-circle-arrow-up
         /// </summary>
+        [Description("book-circle-arrow-up")]
         public const string BookCircleArrowUp = "\ue0bd";
 
         /// <summary>
@@ -3869,6 +4220,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-copy
         /// </summary>
+        [Description("book-copy")]
         public const string BookCopy = "\ue0be";
 
         /// <summary>
@@ -3880,6 +4232,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-font
         /// </summary>
+        [Description("book-font")]
         public const string BookFont = "\ue0bf";
 
         /// <summary>
@@ -3891,6 +4244,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-heart
         /// </summary>
+        [Description("book-heart")]
         public const string BookHeart = "\uf499";
 
         /// <summary>
@@ -3902,6 +4256,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-journal-whills
         /// </summary>
+        [Description("book-journal-whills")]
         public const string BookJournalWhills = "\uf66a";
 
         /// <summary>
@@ -3913,6 +4268,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-medical
         /// </summary>
+        [Description("book-medical")]
         public const string BookMedical = "\uf7e6";
 
         /// <summary>
@@ -3924,6 +4280,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-open
         /// </summary>
+        [Description("book-open")]
         public const string BookOpen = "\uf518";
 
         /// <summary>
@@ -3935,6 +4292,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-open-cover
         /// </summary>
+        [Description("book-open-cover")]
         public const string BookOpenCover = "\ue0c0";
 
         /// <summary>
@@ -3946,6 +4304,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-open-reader
         /// </summary>
+        [Description("book-open-reader")]
         public const string BookOpenReader = "\uf5da";
 
         /// <summary>
@@ -3957,6 +4316,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-quran
         /// </summary>
+        [Description("book-quran")]
         public const string BookQuran = "\uf687";
 
         /// <summary>
@@ -3968,6 +4328,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-section
         /// </summary>
+        [Description("book-section")]
         public const string BookSection = "\ue0c1";
 
         /// <summary>
@@ -3979,6 +4340,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-skull
         /// </summary>
+        [Description("book-skull")]
         public const string BookSkull = "\uf6b7";
 
         /// <summary>
@@ -3990,6 +4352,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-sparkles
         /// </summary>
+        [Description("book-sparkles")]
         public const string BookSparkles = "\uf6b8";
 
         /// <summary>
@@ -4001,6 +4364,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-tanakh
         /// </summary>
+        [Description("book-tanakh")]
         public const string BookTanakh = "\uf827";
 
         /// <summary>
@@ -4012,6 +4376,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/book-user
         /// </summary>
+        [Description("book-user")]
         public const string BookUser = "\uf7e7";
 
         /// <summary>
@@ -4023,6 +4388,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bookmark
         /// </summary>
+        [Description("bookmark")]
         public const string Bookmark = "\uf02e";
 
         /// <summary>
@@ -4034,6 +4400,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bookmark-slash
         /// </summary>
+        [Description("bookmark-slash")]
         public const string BookmarkSlash = "\ue0c2";
 
         /// <summary>
@@ -4045,6 +4412,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/books
         /// </summary>
+        [Description("books")]
         public const string Books = "\uf5db";
 
         /// <summary>
@@ -4056,6 +4424,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/books-medical
         /// </summary>
+        [Description("books-medical")]
         public const string BooksMedical = "\uf7e8";
 
         /// <summary>
@@ -4067,6 +4436,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/boombox
         /// </summary>
+        [Description("boombox")]
         public const string Boombox = "\uf8a5";
 
         /// <summary>
@@ -4078,6 +4448,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/boot
         /// </summary>
+        [Description("boot")]
         public const string Boot = "\uf782";
 
         /// <summary>
@@ -4089,6 +4460,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/boot-heeled
         /// </summary>
+        [Description("boot-heeled")]
         public const string BootHeeled = "\ue33f";
 
         /// <summary>
@@ -4100,6 +4472,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/booth-curtain
         /// </summary>
+        [Description("booth-curtain")]
         public const string BoothCurtain = "\uf734";
 
         /// <summary>
@@ -4111,6 +4484,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bootstrap
         /// </summary>
+        [Description("bootstrap")]
         public const string Bootstrap = "\uf836";
 
         /// <summary>
@@ -4122,6 +4496,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/border-all
         /// </summary>
+        [Description("border-all")]
         public const string BorderAll = "\uf84c";
 
         /// <summary>
@@ -4133,6 +4508,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/border-bottom
         /// </summary>
+        [Description("border-bottom")]
         public const string BorderBottom = "\uf84d";
 
         /// <summary>
@@ -4144,6 +4520,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/border-bottom-right
         /// </summary>
+        [Description("border-bottom-right")]
         public const string BorderBottomRight = "\uf854";
 
         /// <summary>
@@ -4155,6 +4532,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/border-center-h
         /// </summary>
+        [Description("border-center-h")]
         public const string BorderCenterH = "\uf89c";
 
         /// <summary>
@@ -4166,6 +4544,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/border-center-v
         /// </summary>
+        [Description("border-center-v")]
         public const string BorderCenterV = "\uf89d";
 
         /// <summary>
@@ -4177,6 +4556,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/border-inner
         /// </summary>
+        [Description("border-inner")]
         public const string BorderInner = "\uf84e";
 
         /// <summary>
@@ -4188,6 +4568,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/border-left
         /// </summary>
+        [Description("border-left")]
         public const string BorderLeft = "\uf84f";
 
         /// <summary>
@@ -4199,6 +4580,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/border-none
         /// </summary>
+        [Description("border-none")]
         public const string BorderNone = "\uf850";
 
         /// <summary>
@@ -4210,6 +4592,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/border-outer
         /// </summary>
+        [Description("border-outer")]
         public const string BorderOuter = "\uf851";
 
         /// <summary>
@@ -4221,6 +4604,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/border-right
         /// </summary>
+        [Description("border-right")]
         public const string BorderRight = "\uf852";
 
         /// <summary>
@@ -4232,6 +4616,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/border-top
         /// </summary>
+        [Description("border-top")]
         public const string BorderTop = "\uf855";
 
         /// <summary>
@@ -4243,6 +4628,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/border-top-left
         /// </summary>
+        [Description("border-top-left")]
         public const string BorderTopLeft = "\uf853";
 
         /// <summary>
@@ -4254,6 +4640,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bore-hole
         /// </summary>
+        [Description("bore-hole")]
         public const string BoreHole = "\ue4c3";
 
         /// <summary>
@@ -4265,6 +4652,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bots
         /// </summary>
+        [Description("bots")]
         public const string Bots = "\ue340";
 
         /// <summary>
@@ -4276,6 +4664,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bottle-droplet
         /// </summary>
+        [Description("bottle-droplet")]
         public const string BottleDroplet = "\ue4c4";
 
         /// <summary>
@@ -4287,6 +4676,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bottle-water
         /// </summary>
+        [Description("bottle-water")]
         public const string BottleWater = "\ue4c5";
 
         /// <summary>
@@ -4298,6 +4688,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bow-arrow
         /// </summary>
+        [Description("bow-arrow")]
         public const string BowArrow = "\uf6b9";
 
         /// <summary>
@@ -4309,6 +4700,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bowl-chopsticks
         /// </summary>
+        [Description("bowl-chopsticks")]
         public const string BowlChopsticks = "\ue2e9";
 
         /// <summary>
@@ -4320,6 +4712,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bowl-chopsticks-noodles
         /// </summary>
+        [Description("bowl-chopsticks-noodles")]
         public const string BowlChopsticksNoodles = "\ue2ea";
 
         /// <summary>
@@ -4331,6 +4724,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bowl-food
         /// </summary>
+        [Description("bowl-food")]
         public const string BowlFood = "\ue4c6";
 
         /// <summary>
@@ -4342,6 +4736,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bowl-hot
         /// </summary>
+        [Description("bowl-hot")]
         public const string BowlHot = "\uf823";
 
         /// <summary>
@@ -4353,6 +4748,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bowl-rice
         /// </summary>
+        [Description("bowl-rice")]
         public const string BowlRice = "\ue2eb";
 
         /// <summary>
@@ -4364,6 +4760,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bowl-scoop
         /// </summary>
+        [Description("bowl-scoop")]
         public const string BowlScoop = "\ue3de";
 
         /// <summary>
@@ -4375,6 +4772,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bowl-scoops
         /// </summary>
+        [Description("bowl-scoops")]
         public const string BowlScoops = "\ue3df";
 
         /// <summary>
@@ -4386,6 +4784,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bowl-soft-serve
         /// </summary>
+        [Description("bowl-soft-serve")]
         public const string BowlSoftServe = "\ue46b";
 
         /// <summary>
@@ -4397,6 +4796,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bowl-spoon
         /// </summary>
+        [Description("bowl-spoon")]
         public const string BowlSpoon = "\ue3e0";
 
         /// <summary>
@@ -4408,6 +4808,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bowling-ball
         /// </summary>
+        [Description("bowling-ball")]
         public const string BowlingBall = "\uf436";
 
         /// <summary>
@@ -4419,6 +4820,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bowling-ball-pin
         /// </summary>
+        [Description("bowling-ball-pin")]
         public const string BowlingBallPin = "\ue0c3";
 
         /// <summary>
@@ -4430,6 +4832,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bowling-pins
         /// </summary>
+        [Description("bowling-pins")]
         public const string BowlingPins = "\uf437";
 
         /// <summary>
@@ -4441,6 +4844,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/box
         /// </summary>
+        [Description("box")]
         public const string Box = "\uf466";
 
         /// <summary>
@@ -4452,6 +4856,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/box-archive
         /// </summary>
+        [Description("box-archive")]
         public const string BoxArchive = "\uf187";
 
         /// <summary>
@@ -4463,6 +4868,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/box-ballot
         /// </summary>
+        [Description("box-ballot")]
         public const string BoxBallot = "\uf735";
 
         /// <summary>
@@ -4474,6 +4880,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/box-check
         /// </summary>
+        [Description("box-check")]
         public const string BoxCheck = "\uf467";
 
         /// <summary>
@@ -4485,6 +4892,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/box-circle-check
         /// </summary>
+        [Description("box-circle-check")]
         public const string BoxCircleCheck = "\ue0c4";
 
         /// <summary>
@@ -4496,6 +4904,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/box-dollar
         /// </summary>
+        [Description("box-dollar")]
         public const string BoxDollar = "\uf4a0";
 
         /// <summary>
@@ -4507,6 +4916,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/box-heart
         /// </summary>
+        [Description("box-heart")]
         public const string BoxHeart = "\uf49d";
 
         /// <summary>
@@ -4518,6 +4928,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/box-open
         /// </summary>
+        [Description("box-open")]
         public const string BoxOpen = "\uf49e";
 
         /// <summary>
@@ -4529,6 +4940,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/box-open-full
         /// </summary>
+        [Description("box-open-full")]
         public const string BoxOpenFull = "\uf49c";
 
         /// <summary>
@@ -4540,6 +4952,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/box-taped
         /// </summary>
+        [Description("box-taped")]
         public const string BoxTaped = "\uf49a";
 
         /// <summary>
@@ -4551,6 +4964,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/box-tissue
         /// </summary>
+        [Description("box-tissue")]
         public const string BoxTissue = "\ue05b";
 
         /// <summary>
@@ -4562,6 +4976,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/boxes-packing
         /// </summary>
+        [Description("boxes-packing")]
         public const string BoxesPacking = "\ue4c7";
 
         /// <summary>
@@ -4573,6 +4988,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/boxes-stacked
         /// </summary>
+        [Description("boxes-stacked")]
         public const string BoxesStacked = "\uf468";
 
         /// <summary>
@@ -4584,6 +5000,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/boxing-glove
         /// </summary>
+        [Description("boxing-glove")]
         public const string BoxingGlove = "\uf438";
 
         /// <summary>
@@ -4595,6 +5012,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bracket-curly
         /// </summary>
+        [Description("bracket-curly")]
         public const string BracketCurly = "\u007b";
 
         /// <summary>
@@ -4606,6 +5024,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bracket-curly-right
         /// </summary>
+        [Description("bracket-curly-right")]
         public const string BracketCurlyRight = "\u007d";
 
         /// <summary>
@@ -4617,6 +5036,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bracket-round
         /// </summary>
+        [Description("bracket-round")]
         public const string BracketRound = "\u0028";
 
         /// <summary>
@@ -4628,6 +5048,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bracket-round-right
         /// </summary>
+        [Description("bracket-round-right")]
         public const string BracketRoundRight = "\u0029";
 
         /// <summary>
@@ -4639,6 +5060,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bracket-square
         /// </summary>
+        [Description("bracket-square")]
         public const string BracketSquare = "\u005b";
 
         /// <summary>
@@ -4650,6 +5072,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bracket-square-right
         /// </summary>
+        [Description("bracket-square-right")]
         public const string BracketSquareRight = "\u005d";
 
         /// <summary>
@@ -4661,6 +5084,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/brackets-curly
         /// </summary>
+        [Description("brackets-curly")]
         public const string BracketsCurly = "\uf7ea";
 
         /// <summary>
@@ -4672,6 +5096,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/brackets-round
         /// </summary>
+        [Description("brackets-round")]
         public const string BracketsRound = "\ue0c5";
 
         /// <summary>
@@ -4683,6 +5108,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/brackets-square
         /// </summary>
+        [Description("brackets-square")]
         public const string BracketsSquare = "\uf7e9";
 
         /// <summary>
@@ -4694,6 +5120,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/braille
         /// </summary>
+        [Description("braille")]
         public const string Braille = "\uf2a1";
 
         /// <summary>
@@ -4705,6 +5132,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/brain
         /// </summary>
+        [Description("brain")]
         public const string Brain = "\uf5dc";
 
         /// <summary>
@@ -4716,6 +5144,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/brain-arrow-curved-right
         /// </summary>
+        [Description("brain-arrow-curved-right")]
         public const string BrainArrowCurvedRight = "\uf677";
 
         /// <summary>
@@ -4727,6 +5156,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/brain-circuit
         /// </summary>
+        [Description("brain-circuit")]
         public const string BrainCircuit = "\ue0c6";
 
         /// <summary>
@@ -4738,6 +5168,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/brake-warning
         /// </summary>
+        [Description("brake-warning")]
         public const string BrakeWarning = "\ue0c7";
 
         /// <summary>
@@ -4749,6 +5180,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/brazilian-real-sign
         /// </summary>
+        [Description("brazilian-real-sign")]
         public const string BrazilianRealSign = "\ue46c";
 
         /// <summary>
@@ -4760,6 +5192,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bread-loaf
         /// </summary>
+        [Description("bread-loaf")]
         public const string BreadLoaf = "\uf7eb";
 
         /// <summary>
@@ -4771,6 +5204,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bread-slice
         /// </summary>
+        [Description("bread-slice")]
         public const string BreadSlice = "\uf7ec";
 
         /// <summary>
@@ -4782,6 +5216,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bread-slice-butter
         /// </summary>
+        [Description("bread-slice-butter")]
         public const string BreadSliceButter = "\ue3e1";
 
         /// <summary>
@@ -4793,6 +5228,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bridge
         /// </summary>
+        [Description("bridge")]
         public const string Bridge = "\ue4c8";
 
         /// <summary>
@@ -4804,6 +5240,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bridge-circle-check
         /// </summary>
+        [Description("bridge-circle-check")]
         public const string BridgeCircleCheck = "\ue4c9";
 
         /// <summary>
@@ -4815,6 +5252,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bridge-circle-exclamation
         /// </summary>
+        [Description("bridge-circle-exclamation")]
         public const string BridgeCircleExclamation = "\ue4ca";
 
         /// <summary>
@@ -4826,6 +5264,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bridge-circle-xmark
         /// </summary>
+        [Description("bridge-circle-xmark")]
         public const string BridgeCircleXmark = "\ue4cb";
 
         /// <summary>
@@ -4837,6 +5276,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bridge-lock
         /// </summary>
+        [Description("bridge-lock")]
         public const string BridgeLock = "\ue4cc";
 
         /// <summary>
@@ -4848,6 +5288,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bridge-suspension
         /// </summary>
+        [Description("bridge-suspension")]
         public const string BridgeSuspension = "\ue4cd";
 
         /// <summary>
@@ -4859,6 +5300,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bridge-water
         /// </summary>
+        [Description("bridge-water")]
         public const string BridgeWater = "\ue4ce";
 
         /// <summary>
@@ -4870,6 +5312,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/briefcase
         /// </summary>
+        [Description("briefcase")]
         public const string Briefcase = "\uf0b1";
 
         /// <summary>
@@ -4881,6 +5324,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/briefcase-arrow-right
         /// </summary>
+        [Description("briefcase-arrow-right")]
         public const string BriefcaseArrowRight = "\ue2f2";
 
         /// <summary>
@@ -4892,6 +5336,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/briefcase-blank
         /// </summary>
+        [Description("briefcase-blank")]
         public const string BriefcaseBlank = "\ue0c8";
 
         /// <summary>
@@ -4903,6 +5348,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/briefcase-medical
         /// </summary>
+        [Description("briefcase-medical")]
         public const string BriefcaseMedical = "\uf469";
 
         /// <summary>
@@ -4914,6 +5360,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/brightness
         /// </summary>
+        [Description("brightness")]
         public const string Brightness = "\ue0c9";
 
         /// <summary>
@@ -4925,6 +5372,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/brightness-low
         /// </summary>
+        [Description("brightness-low")]
         public const string BrightnessLow = "\ue0ca";
 
         /// <summary>
@@ -4936,6 +5384,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bring-forward
         /// </summary>
+        [Description("bring-forward")]
         public const string BringForward = "\uf856";
 
         /// <summary>
@@ -4947,6 +5396,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bring-front
         /// </summary>
+        [Description("bring-front")]
         public const string BringFront = "\uf857";
 
         /// <summary>
@@ -4958,6 +5408,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/broccoli
         /// </summary>
+        [Description("broccoli")]
         public const string Broccoli = "\ue3e2";
 
         /// <summary>
@@ -4969,6 +5420,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/broom
         /// </summary>
+        [Description("broom")]
         public const string Broom = "\uf51a";
 
         /// <summary>
@@ -4980,6 +5432,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/broom-ball
         /// </summary>
+        [Description("broom-ball")]
         public const string BroomBall = "\uf458";
 
         /// <summary>
@@ -4991,6 +5444,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/broom-wide
         /// </summary>
+        [Description("broom-wide")]
         public const string BroomWide = "\ue5d1";
 
         /// <summary>
@@ -5002,6 +5456,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/browser
         /// </summary>
+        [Description("browser")]
         public const string Browser = "\uf37e";
 
         /// <summary>
@@ -5013,6 +5468,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/browsers
         /// </summary>
+        [Description("browsers")]
         public const string Browsers = "\ue0cb";
 
         /// <summary>
@@ -5024,6 +5480,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/brush
         /// </summary>
+        [Description("brush")]
         public const string Brush = "\uf55d";
 
         /// <summary>
@@ -5035,6 +5492,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/btc
         /// </summary>
+        [Description("btc")]
         public const string Btc = "\uf15a";
 
         /// <summary>
@@ -5046,6 +5504,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bucket
         /// </summary>
+        [Description("bucket")]
         public const string Bucket = "\ue4cf";
 
         /// <summary>
@@ -5057,6 +5516,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/buffer
         /// </summary>
+        [Description("buffer")]
         public const string Buffer = "\uf837";
 
         /// <summary>
@@ -5068,6 +5528,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bug
         /// </summary>
+        [Description("bug")]
         public const string Bug = "\uf188";
 
         /// <summary>
@@ -5079,6 +5540,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bug-slash
         /// </summary>
+        [Description("bug-slash")]
         public const string BugSlash = "\ue490";
 
         /// <summary>
@@ -5090,6 +5552,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bugs
         /// </summary>
+        [Description("bugs")]
         public const string Bugs = "\ue4d0";
 
         /// <summary>
@@ -5101,6 +5564,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/building
         /// </summary>
+        [Description("building")]
         public const string Building = "\uf1ad";
 
         /// <summary>
@@ -5112,6 +5576,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/building-circle-arrow-right
         /// </summary>
+        [Description("building-circle-arrow-right")]
         public const string BuildingCircleArrowRight = "\ue4d1";
 
         /// <summary>
@@ -5123,6 +5588,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/building-circle-check
         /// </summary>
+        [Description("building-circle-check")]
         public const string BuildingCircleCheck = "\ue4d2";
 
         /// <summary>
@@ -5134,6 +5600,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/building-circle-exclamation
         /// </summary>
+        [Description("building-circle-exclamation")]
         public const string BuildingCircleExclamation = "\ue4d3";
 
         /// <summary>
@@ -5145,6 +5612,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/building-circle-xmark
         /// </summary>
+        [Description("building-circle-xmark")]
         public const string BuildingCircleXmark = "\ue4d4";
 
         /// <summary>
@@ -5156,6 +5624,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/building-columns
         /// </summary>
+        [Description("building-columns")]
         public const string BuildingColumns = "\uf19c";
 
         /// <summary>
@@ -5167,6 +5636,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/building-flag
         /// </summary>
+        [Description("building-flag")]
         public const string BuildingFlag = "\ue4d5";
 
         /// <summary>
@@ -5178,6 +5648,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/building-lock
         /// </summary>
+        [Description("building-lock")]
         public const string BuildingLock = "\ue4d6";
 
         /// <summary>
@@ -5189,6 +5660,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/building-ngo
         /// </summary>
+        [Description("building-ngo")]
         public const string BuildingNgo = "\ue4d7";
 
         /// <summary>
@@ -5200,6 +5672,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/building-shield
         /// </summary>
+        [Description("building-shield")]
         public const string BuildingShield = "\ue4d8";
 
         /// <summary>
@@ -5211,6 +5684,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/building-un
         /// </summary>
+        [Description("building-un")]
         public const string BuildingUn = "\ue4d9";
 
         /// <summary>
@@ -5222,6 +5696,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/building-user
         /// </summary>
+        [Description("building-user")]
         public const string BuildingUser = "\ue4da";
 
         /// <summary>
@@ -5233,6 +5708,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/building-wheat
         /// </summary>
+        [Description("building-wheat")]
         public const string BuildingWheat = "\ue4db";
 
         /// <summary>
@@ -5244,6 +5720,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/buildings
         /// </summary>
+        [Description("buildings")]
         public const string Buildings = "\ue0cc";
 
         /// <summary>
@@ -5255,6 +5732,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bullhorn
         /// </summary>
+        [Description("bullhorn")]
         public const string Bullhorn = "\uf0a1";
 
         /// <summary>
@@ -5266,6 +5744,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bullseye
         /// </summary>
+        [Description("bullseye")]
         public const string Bullseye = "\uf140";
 
         /// <summary>
@@ -5277,6 +5756,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bullseye-arrow
         /// </summary>
+        [Description("bullseye-arrow")]
         public const string BullseyeArrow = "\uf648";
 
         /// <summary>
@@ -5288,6 +5768,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bullseye-pointer
         /// </summary>
+        [Description("bullseye-pointer")]
         public const string BullseyePointer = "\uf649";
 
         /// <summary>
@@ -5299,6 +5780,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/buoy
         /// </summary>
+        [Description("buoy")]
         public const string Buoy = "\ue5b5";
 
         /// <summary>
@@ -5310,6 +5792,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/buoy-mooring
         /// </summary>
+        [Description("buoy-mooring")]
         public const string BuoyMooring = "\ue5b6";
 
         /// <summary>
@@ -5321,6 +5804,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/burger
         /// </summary>
+        [Description("burger")]
         public const string Burger = "\uf805";
 
         /// <summary>
@@ -5332,6 +5816,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/burger-cheese
         /// </summary>
+        [Description("burger-cheese")]
         public const string BurgerCheese = "\uf7f1";
 
         /// <summary>
@@ -5343,6 +5828,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/burger-fries
         /// </summary>
+        [Description("burger-fries")]
         public const string BurgerFries = "\ue0cd";
 
         /// <summary>
@@ -5354,6 +5840,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/burger-glass
         /// </summary>
+        [Description("burger-glass")]
         public const string BurgerGlass = "\ue0ce";
 
         /// <summary>
@@ -5365,6 +5852,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/burger-lettuce
         /// </summary>
+        [Description("burger-lettuce")]
         public const string BurgerLettuce = "\ue3e3";
 
         /// <summary>
@@ -5376,6 +5864,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/burger-soda
         /// </summary>
+        [Description("burger-soda")]
         public const string BurgerSoda = "\uf858";
 
         /// <summary>
@@ -5387,6 +5876,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/buromobelexperte
         /// </summary>
+        [Description("buromobelexperte")]
         public const string Buromobelexperte = "\uf37f";
 
         /// <summary>
@@ -5398,6 +5888,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/burrito
         /// </summary>
+        [Description("burrito")]
         public const string Burrito = "\uf7ed";
 
         /// <summary>
@@ -5409,6 +5900,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/burst
         /// </summary>
+        [Description("burst")]
         public const string Burst = "\ue4dc";
 
         /// <summary>
@@ -5420,6 +5912,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bus
         /// </summary>
+        [Description("bus")]
         public const string Bus = "\uf207";
 
         /// <summary>
@@ -5431,6 +5924,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bus-school
         /// </summary>
+        [Description("bus-school")]
         public const string BusSchool = "\uf5dd";
 
         /// <summary>
@@ -5442,6 +5936,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/bus-simple
         /// </summary>
+        [Description("bus-simple")]
         public const string BusSimple = "\uf55e";
 
         /// <summary>
@@ -5453,6 +5948,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/business-time
         /// </summary>
+        [Description("business-time")]
         public const string BusinessTime = "\uf64a";
 
         /// <summary>
@@ -5464,6 +5960,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/butter
         /// </summary>
+        [Description("butter")]
         public const string Butter = "\ue3e4";
 
         /// <summary>
@@ -5475,6 +5972,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/buy-n-large
         /// </summary>
+        [Description("buy-n-large")]
         public const string BuyNLarge = "\uf8a6";
 
         /// <summary>
@@ -5486,6 +5984,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/buysellads
         /// </summary>
+        [Description("buysellads")]
         public const string Buysellads = "\uf20d";
 
         /// <summary>
@@ -5497,6 +5996,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/c
         /// </summary>
+        [Description("c")]
         public const string C = "\u0043";
 
         /// <summary>
@@ -5508,6 +6008,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cabin
         /// </summary>
+        [Description("cabin")]
         public const string Cabin = "\ue46d";
 
         /// <summary>
@@ -5519,6 +6020,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cabinet-filing
         /// </summary>
+        [Description("cabinet-filing")]
         public const string CabinetFiling = "\uf64b";
 
         /// <summary>
@@ -5530,6 +6032,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cable-car
         /// </summary>
+        [Description("cable-car")]
         public const string CableCar = "\uf7da";
 
         /// <summary>
@@ -5541,6 +6044,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cactus
         /// </summary>
+        [Description("cactus")]
         public const string Cactus = "\uf8a7";
 
         /// <summary>
@@ -5552,6 +6056,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cake-candles
         /// </summary>
+        [Description("cake-candles")]
         public const string CakeCandles = "\uf1fd";
 
         /// <summary>
@@ -5563,6 +6068,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cake-slice
         /// </summary>
+        [Description("cake-slice")]
         public const string CakeSlice = "\ue3e5";
 
         /// <summary>
@@ -5574,6 +6080,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calculator
         /// </summary>
+        [Description("calculator")]
         public const string Calculator = "\uf1ec";
 
         /// <summary>
@@ -5585,6 +6092,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calculator-simple
         /// </summary>
+        [Description("calculator-simple")]
         public const string CalculatorSimple = "\uf64c";
 
         /// <summary>
@@ -5596,6 +6104,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar
         /// </summary>
+        [Description("calendar")]
         public const string Calendar = "\uf133";
 
         /// <summary>
@@ -5607,6 +6116,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-arrow-down
         /// </summary>
+        [Description("calendar-arrow-down")]
         public const string CalendarArrowDown = "\ue0d0";
 
         /// <summary>
@@ -5618,6 +6128,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-arrow-up
         /// </summary>
+        [Description("calendar-arrow-up")]
         public const string CalendarArrowUp = "\ue0d1";
 
         /// <summary>
@@ -5629,6 +6140,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-check
         /// </summary>
+        [Description("calendar-check")]
         public const string CalendarCheck = "\uf274";
 
         /// <summary>
@@ -5640,6 +6152,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-circle-exclamation
         /// </summary>
+        [Description("calendar-circle-exclamation")]
         public const string CalendarCircleExclamation = "\ue46e";
 
         /// <summary>
@@ -5651,6 +6164,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-circle-minus
         /// </summary>
+        [Description("calendar-circle-minus")]
         public const string CalendarCircleMinus = "\ue46f";
 
         /// <summary>
@@ -5662,6 +6176,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-circle-plus
         /// </summary>
+        [Description("calendar-circle-plus")]
         public const string CalendarCirclePlus = "\ue470";
 
         /// <summary>
@@ -5673,6 +6188,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-circle-user
         /// </summary>
+        [Description("calendar-circle-user")]
         public const string CalendarCircleUser = "\ue471";
 
         /// <summary>
@@ -5684,6 +6200,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-clock
         /// </summary>
+        [Description("calendar-clock")]
         public const string CalendarClock = "\ue0d2";
 
         /// <summary>
@@ -5695,6 +6212,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-day
         /// </summary>
+        [Description("calendar-day")]
         public const string CalendarDay = "\uf783";
 
         /// <summary>
@@ -5706,6 +6224,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-days
         /// </summary>
+        [Description("calendar-days")]
         public const string CalendarDays = "\uf073";
 
         /// <summary>
@@ -5717,6 +6236,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-exclamation
         /// </summary>
+        [Description("calendar-exclamation")]
         public const string CalendarExclamation = "\uf334";
 
         /// <summary>
@@ -5728,6 +6248,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-heart
         /// </summary>
+        [Description("calendar-heart")]
         public const string CalendarHeart = "\ue0d3";
 
         /// <summary>
@@ -5739,6 +6260,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-image
         /// </summary>
+        [Description("calendar-image")]
         public const string CalendarImage = "\ue0d4";
 
         /// <summary>
@@ -5750,6 +6272,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-lines
         /// </summary>
+        [Description("calendar-lines")]
         public const string CalendarLines = "\ue0d5";
 
         /// <summary>
@@ -5761,6 +6284,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-lines-pen
         /// </summary>
+        [Description("calendar-lines-pen")]
         public const string CalendarLinesPen = "\ue472";
 
         /// <summary>
@@ -5772,6 +6296,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-minus
         /// </summary>
+        [Description("calendar-minus")]
         public const string CalendarMinus = "\uf272";
 
         /// <summary>
@@ -5783,6 +6308,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-pen
         /// </summary>
+        [Description("calendar-pen")]
         public const string CalendarPen = "\uf333";
 
         /// <summary>
@@ -5794,6 +6320,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-plus
         /// </summary>
+        [Description("calendar-plus")]
         public const string CalendarPlus = "\uf271";
 
         /// <summary>
@@ -5805,6 +6332,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-range
         /// </summary>
+        [Description("calendar-range")]
         public const string CalendarRange = "\ue0d6";
 
         /// <summary>
@@ -5816,6 +6344,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-star
         /// </summary>
+        [Description("calendar-star")]
         public const string CalendarStar = "\uf736";
 
         /// <summary>
@@ -5827,6 +6356,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-users
         /// </summary>
+        [Description("calendar-users")]
         public const string CalendarUsers = "\ue5e2";
 
         /// <summary>
@@ -5838,6 +6368,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-week
         /// </summary>
+        [Description("calendar-week")]
         public const string CalendarWeek = "\uf784";
 
         /// <summary>
@@ -5849,6 +6380,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendar-xmark
         /// </summary>
+        [Description("calendar-xmark")]
         public const string CalendarXmark = "\uf273";
 
         /// <summary>
@@ -5860,6 +6392,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/calendars
         /// </summary>
+        [Description("calendars")]
         public const string Calendars = "\ue0d7";
 
         /// <summary>
@@ -5871,6 +6404,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/camcorder
         /// </summary>
+        [Description("camcorder")]
         public const string Camcorder = "\uf8a8";
 
         /// <summary>
@@ -5882,6 +6416,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/camera
         /// </summary>
+        [Description("camera")]
         public const string Camera = "\uf030";
 
         /// <summary>
@@ -5893,6 +6428,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/camera-cctv
         /// </summary>
+        [Description("camera-cctv")]
         public const string CameraCctv = "\uf8ac";
 
         /// <summary>
@@ -5904,6 +6440,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/camera-movie
         /// </summary>
+        [Description("camera-movie")]
         public const string CameraMovie = "\uf8a9";
 
         /// <summary>
@@ -5915,6 +6452,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/camera-polaroid
         /// </summary>
+        [Description("camera-polaroid")]
         public const string CameraPolaroid = "\uf8aa";
 
         /// <summary>
@@ -5926,6 +6464,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/camera-retro
         /// </summary>
+        [Description("camera-retro")]
         public const string CameraRetro = "\uf083";
 
         /// <summary>
@@ -5937,6 +6476,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/camera-rotate
         /// </summary>
+        [Description("camera-rotate")]
         public const string CameraRotate = "\ue0d8";
 
         /// <summary>
@@ -5948,6 +6488,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/camera-security
         /// </summary>
+        [Description("camera-security")]
         public const string CameraSecurity = "\uf8fe";
 
         /// <summary>
@@ -5959,6 +6500,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/camera-slash
         /// </summary>
+        [Description("camera-slash")]
         public const string CameraSlash = "\ue0d9";
 
         /// <summary>
@@ -5970,6 +6512,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/camera-viewfinder
         /// </summary>
+        [Description("camera-viewfinder")]
         public const string CameraViewfinder = "\ue0da";
 
         /// <summary>
@@ -5981,6 +6524,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/camera-web
         /// </summary>
+        [Description("camera-web")]
         public const string CameraWeb = "\uf832";
 
         /// <summary>
@@ -5992,6 +6536,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/camera-web-slash
         /// </summary>
+        [Description("camera-web-slash")]
         public const string CameraWebSlash = "\uf833";
 
         /// <summary>
@@ -6003,6 +6548,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/campfire
         /// </summary>
+        [Description("campfire")]
         public const string Campfire = "\uf6ba";
 
         /// <summary>
@@ -6014,6 +6560,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/campground
         /// </summary>
+        [Description("campground")]
         public const string Campground = "\uf6bb";
 
         /// <summary>
@@ -6025,6 +6572,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/can-food
         /// </summary>
+        [Description("can-food")]
         public const string CanFood = "\ue3e6";
 
         /// <summary>
@@ -6036,6 +6584,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/canadian-maple-leaf
         /// </summary>
+        [Description("canadian-maple-leaf")]
         public const string CanadianMapleLeaf = "\uf785";
 
         /// <summary>
@@ -6047,6 +6596,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/candle-holder
         /// </summary>
+        [Description("candle-holder")]
         public const string CandleHolder = "\uf6bc";
 
         /// <summary>
@@ -6058,6 +6608,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/candy
         /// </summary>
+        [Description("candy")]
         public const string Candy = "\ue3e7";
 
         /// <summary>
@@ -6069,6 +6620,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/candy-bar
         /// </summary>
+        [Description("candy-bar")]
         public const string CandyBar = "\ue3e8";
 
         /// <summary>
@@ -6080,6 +6632,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/candy-cane
         /// </summary>
+        [Description("candy-cane")]
         public const string CandyCane = "\uf786";
 
         /// <summary>
@@ -6091,6 +6644,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/candy-corn
         /// </summary>
+        [Description("candy-corn")]
         public const string CandyCorn = "\uf6bd";
 
         /// <summary>
@@ -6102,6 +6656,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cannabis
         /// </summary>
+        [Description("cannabis")]
         public const string Cannabis = "\uf55f";
 
         /// <summary>
@@ -6113,6 +6668,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/capsules
         /// </summary>
+        [Description("capsules")]
         public const string Capsules = "\uf46b";
 
         /// <summary>
@@ -6124,6 +6680,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car
         /// </summary>
+        [Description("car")]
         public const string Car = "\uf1b9";
 
         /// <summary>
@@ -6135,6 +6692,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-battery
         /// </summary>
+        [Description("car-battery")]
         public const string CarBattery = "\uf5df";
 
         /// <summary>
@@ -6146,6 +6704,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-bolt
         /// </summary>
+        [Description("car-bolt")]
         public const string CarBolt = "\ue341";
 
         /// <summary>
@@ -6157,6 +6716,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-building
         /// </summary>
+        [Description("car-building")]
         public const string CarBuilding = "\uf859";
 
         /// <summary>
@@ -6168,6 +6728,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-bump
         /// </summary>
+        [Description("car-bump")]
         public const string CarBump = "\uf5e0";
 
         /// <summary>
@@ -6179,6 +6740,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-burst
         /// </summary>
+        [Description("car-burst")]
         public const string CarBurst = "\uf5e1";
 
         /// <summary>
@@ -6190,6 +6752,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-bus
         /// </summary>
+        [Description("car-bus")]
         public const string CarBus = "\uf85a";
 
         /// <summary>
@@ -6201,6 +6764,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-circle-bolt
         /// </summary>
+        [Description("car-circle-bolt")]
         public const string CarCircleBolt = "\ue342";
 
         /// <summary>
@@ -6212,6 +6776,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-garage
         /// </summary>
+        [Description("car-garage")]
         public const string CarGarage = "\uf5e2";
 
         /// <summary>
@@ -6223,6 +6788,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-mirrors
         /// </summary>
+        [Description("car-mirrors")]
         public const string CarMirrors = "\ue343";
 
         /// <summary>
@@ -6234,6 +6800,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-on
         /// </summary>
+        [Description("car-on")]
         public const string CarOn = "\ue4dd";
 
         /// <summary>
@@ -6245,6 +6812,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-rear
         /// </summary>
+        [Description("car-rear")]
         public const string CarRear = "\uf5de";
 
         /// <summary>
@@ -6256,6 +6824,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-side
         /// </summary>
+        [Description("car-side")]
         public const string CarSide = "\uf5e4";
 
         /// <summary>
@@ -6267,6 +6836,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-side-bolt
         /// </summary>
+        [Description("car-side-bolt")]
         public const string CarSideBolt = "\ue344";
 
         /// <summary>
@@ -6278,6 +6848,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-tilt
         /// </summary>
+        [Description("car-tilt")]
         public const string CarTilt = "\uf5e5";
 
         /// <summary>
@@ -6289,6 +6860,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-tunnel
         /// </summary>
+        [Description("car-tunnel")]
         public const string CarTunnel = "\ue4de";
 
         /// <summary>
@@ -6300,6 +6872,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-wash
         /// </summary>
+        [Description("car-wash")]
         public const string CarWash = "\uf5e6";
 
         /// <summary>
@@ -6311,6 +6884,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/car-wrench
         /// </summary>
+        [Description("car-wrench")]
         public const string CarWrench = "\uf5e3";
 
         /// <summary>
@@ -6322,6 +6896,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/caravan
         /// </summary>
+        [Description("caravan")]
         public const string Caravan = "\uf8ff";
 
         /// <summary>
@@ -6333,6 +6908,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/caravan-simple
         /// </summary>
+        [Description("caravan-simple")]
         public const string CaravanSimple = "\ue000";
 
         /// <summary>
@@ -6344,6 +6920,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/card-club
         /// </summary>
+        [Description("card-club")]
         public const string CardClub = "\ue3e9";
 
         /// <summary>
@@ -6355,6 +6932,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/card-diamond
         /// </summary>
+        [Description("card-diamond")]
         public const string CardDiamond = "\ue3ea";
 
         /// <summary>
@@ -6366,6 +6944,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/card-heart
         /// </summary>
+        [Description("card-heart")]
         public const string CardHeart = "\ue3eb";
 
         /// <summary>
@@ -6377,6 +6956,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/card-spade
         /// </summary>
+        [Description("card-spade")]
         public const string CardSpade = "\ue3ec";
 
         /// <summary>
@@ -6388,6 +6968,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cards
         /// </summary>
+        [Description("cards")]
         public const string Cards = "\ue3ed";
 
         /// <summary>
@@ -6399,6 +6980,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cards-blank
         /// </summary>
+        [Description("cards-blank")]
         public const string CardsBlank = "\ue4df";
 
         /// <summary>
@@ -6410,6 +6992,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/caret-down
         /// </summary>
+        [Description("caret-down")]
         public const string CaretDown = "\uf0d7";
 
         /// <summary>
@@ -6421,6 +7004,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/caret-left
         /// </summary>
+        [Description("caret-left")]
         public const string CaretLeft = "\uf0d9";
 
         /// <summary>
@@ -6432,6 +7016,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/caret-right
         /// </summary>
+        [Description("caret-right")]
         public const string CaretRight = "\uf0da";
 
         /// <summary>
@@ -6443,6 +7028,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/caret-up
         /// </summary>
+        [Description("caret-up")]
         public const string CaretUp = "\uf0d8";
 
         /// <summary>
@@ -6454,6 +7040,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/carrot
         /// </summary>
+        [Description("carrot")]
         public const string Carrot = "\uf787";
 
         /// <summary>
@@ -6465,6 +7052,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cars
         /// </summary>
+        [Description("cars")]
         public const string Cars = "\uf85b";
 
         /// <summary>
@@ -6476,6 +7064,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-arrow-down
         /// </summary>
+        [Description("cart-arrow-down")]
         public const string CartArrowDown = "\uf218";
 
         /// <summary>
@@ -6487,6 +7076,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-arrow-up
         /// </summary>
+        [Description("cart-arrow-up")]
         public const string CartArrowUp = "\ue3ee";
 
         /// <summary>
@@ -6498,6 +7088,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-circle-arrow-down
         /// </summary>
+        [Description("cart-circle-arrow-down")]
         public const string CartCircleArrowDown = "\ue3ef";
 
         /// <summary>
@@ -6509,6 +7100,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-circle-arrow-up
         /// </summary>
+        [Description("cart-circle-arrow-up")]
         public const string CartCircleArrowUp = "\ue3f0";
 
         /// <summary>
@@ -6520,6 +7112,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-circle-check
         /// </summary>
+        [Description("cart-circle-check")]
         public const string CartCircleCheck = "\ue3f1";
 
         /// <summary>
@@ -6531,6 +7124,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-circle-exclamation
         /// </summary>
+        [Description("cart-circle-exclamation")]
         public const string CartCircleExclamation = "\ue3f2";
 
         /// <summary>
@@ -6542,6 +7136,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-circle-plus
         /// </summary>
+        [Description("cart-circle-plus")]
         public const string CartCirclePlus = "\ue3f3";
 
         /// <summary>
@@ -6553,6 +7148,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-circle-xmark
         /// </summary>
+        [Description("cart-circle-xmark")]
         public const string CartCircleXmark = "\ue3f4";
 
         /// <summary>
@@ -6564,6 +7160,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-flatbed
         /// </summary>
+        [Description("cart-flatbed")]
         public const string CartFlatbed = "\uf474";
 
         /// <summary>
@@ -6575,6 +7172,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-flatbed-boxes
         /// </summary>
+        [Description("cart-flatbed-boxes")]
         public const string CartFlatbedBoxes = "\uf475";
 
         /// <summary>
@@ -6586,6 +7184,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-flatbed-empty
         /// </summary>
+        [Description("cart-flatbed-empty")]
         public const string CartFlatbedEmpty = "\uf476";
 
         /// <summary>
@@ -6597,6 +7196,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-flatbed-suitcase
         /// </summary>
+        [Description("cart-flatbed-suitcase")]
         public const string CartFlatbedSuitcase = "\uf59d";
 
         /// <summary>
@@ -6608,6 +7208,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-minus
         /// </summary>
+        [Description("cart-minus")]
         public const string CartMinus = "\ue0db";
 
         /// <summary>
@@ -6619,6 +7220,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-plus
         /// </summary>
+        [Description("cart-plus")]
         public const string CartPlus = "\uf217";
 
         /// <summary>
@@ -6630,6 +7232,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-shopping
         /// </summary>
+        [Description("cart-shopping")]
         public const string CartShopping = "\uf07a";
 
         /// <summary>
@@ -6641,6 +7244,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-shopping-fast
         /// </summary>
+        [Description("cart-shopping-fast")]
         public const string CartShoppingFast = "\ue0dc";
 
         /// <summary>
@@ -6652,6 +7256,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cart-xmark
         /// </summary>
+        [Description("cart-xmark")]
         public const string CartXmark = "\ue0dd";
 
         /// <summary>
@@ -6663,6 +7268,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cash-register
         /// </summary>
+        [Description("cash-register")]
         public const string CashRegister = "\uf788";
 
         /// <summary>
@@ -6674,6 +7280,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cassette-betamax
         /// </summary>
+        [Description("cassette-betamax")]
         public const string CassetteBetamax = "\uf8a4";
 
         /// <summary>
@@ -6685,6 +7292,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cassette-tape
         /// </summary>
+        [Description("cassette-tape")]
         public const string CassetteTape = "\uf8ab";
 
         /// <summary>
@@ -6696,6 +7304,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cassette-vhs
         /// </summary>
+        [Description("cassette-vhs")]
         public const string CassetteVhs = "\uf8ec";
 
         /// <summary>
@@ -6707,6 +7316,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/castle
         /// </summary>
+        [Description("castle")]
         public const string Castle = "\ue0de";
 
         /// <summary>
@@ -6718,6 +7328,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cat
         /// </summary>
+        [Description("cat")]
         public const string Cat = "\uf6be";
 
         /// <summary>
@@ -6729,6 +7340,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cat-space
         /// </summary>
+        [Description("cat-space")]
         public const string CatSpace = "\ue001";
 
         /// <summary>
@@ -6740,6 +7352,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cauldron
         /// </summary>
+        [Description("cauldron")]
         public const string Cauldron = "\uf6bf";
 
         /// <summary>
@@ -6751,6 +7364,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cc-amazon-pay
         /// </summary>
+        [Description("cc-amazon-pay")]
         public const string CcAmazonPay = "\uf42d";
 
         /// <summary>
@@ -6762,6 +7376,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cc-amex
         /// </summary>
+        [Description("cc-amex")]
         public const string CcAmex = "\uf1f3";
 
         /// <summary>
@@ -6773,6 +7388,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cc-apple-pay
         /// </summary>
+        [Description("cc-apple-pay")]
         public const string CcApplePay = "\uf416";
 
         /// <summary>
@@ -6784,6 +7400,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cc-diners-club
         /// </summary>
+        [Description("cc-diners-club")]
         public const string CcDinersClub = "\uf24c";
 
         /// <summary>
@@ -6795,6 +7412,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cc-discover
         /// </summary>
+        [Description("cc-discover")]
         public const string CcDiscover = "\uf1f2";
 
         /// <summary>
@@ -6806,6 +7424,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cc-jcb
         /// </summary>
+        [Description("cc-jcb")]
         public const string CcJcb = "\uf24b";
 
         /// <summary>
@@ -6817,6 +7436,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cc-mastercard
         /// </summary>
+        [Description("cc-mastercard")]
         public const string CcMastercard = "\uf1f1";
 
         /// <summary>
@@ -6828,6 +7448,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cc-paypal
         /// </summary>
+        [Description("cc-paypal")]
         public const string CcPaypal = "\uf1f4";
 
         /// <summary>
@@ -6839,6 +7460,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cc-stripe
         /// </summary>
+        [Description("cc-stripe")]
         public const string CcStripe = "\uf1f5";
 
         /// <summary>
@@ -6850,6 +7472,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cc-visa
         /// </summary>
+        [Description("cc-visa")]
         public const string CcVisa = "\uf1f0";
 
         /// <summary>
@@ -6861,6 +7484,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cedi-sign
         /// </summary>
+        [Description("cedi-sign")]
         public const string CediSign = "\ue0df";
 
         /// <summary>
@@ -6872,6 +7496,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cent-sign
         /// </summary>
+        [Description("cent-sign")]
         public const string CentSign = "\ue3f5";
 
         /// <summary>
@@ -6883,6 +7508,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/centercode
         /// </summary>
+        [Description("centercode")]
         public const string Centercode = "\uf380";
 
         /// <summary>
@@ -6894,6 +7520,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/centos
         /// </summary>
+        [Description("centos")]
         public const string Centos = "\uf789";
 
         /// <summary>
@@ -6905,6 +7532,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/certificate
         /// </summary>
+        [Description("certificate")]
         public const string Certificate = "\uf0a3";
 
         /// <summary>
@@ -6916,6 +7544,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chair
         /// </summary>
+        [Description("chair")]
         public const string Chair = "\uf6c0";
 
         /// <summary>
@@ -6927,6 +7556,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chair-office
         /// </summary>
+        [Description("chair-office")]
         public const string ChairOffice = "\uf6c1";
 
         /// <summary>
@@ -6938,6 +7568,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chalkboard
         /// </summary>
+        [Description("chalkboard")]
         public const string Chalkboard = "\uf51b";
 
         /// <summary>
@@ -6949,6 +7580,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chalkboard-user
         /// </summary>
+        [Description("chalkboard-user")]
         public const string ChalkboardUser = "\uf51c";
 
         /// <summary>
@@ -6960,6 +7592,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/champagne-glass
         /// </summary>
+        [Description("champagne-glass")]
         public const string ChampagneGlass = "\uf79e";
 
         /// <summary>
@@ -6971,6 +7604,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/champagne-glasses
         /// </summary>
+        [Description("champagne-glasses")]
         public const string ChampagneGlasses = "\uf79f";
 
         /// <summary>
@@ -6982,6 +7616,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/charging-station
         /// </summary>
+        [Description("charging-station")]
         public const string ChargingStation = "\uf5e7";
 
         /// <summary>
@@ -6993,6 +7628,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-area
         /// </summary>
+        [Description("chart-area")]
         public const string ChartArea = "\uf1fe";
 
         /// <summary>
@@ -7004,6 +7640,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-bar
         /// </summary>
+        [Description("chart-bar")]
         public const string ChartBar = "\uf080";
 
         /// <summary>
@@ -7015,6 +7652,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-bullet
         /// </summary>
+        [Description("chart-bullet")]
         public const string ChartBullet = "\ue0e1";
 
         /// <summary>
@@ -7026,6 +7664,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-candlestick
         /// </summary>
+        [Description("chart-candlestick")]
         public const string ChartCandlestick = "\ue0e2";
 
         /// <summary>
@@ -7037,6 +7676,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-column
         /// </summary>
+        [Description("chart-column")]
         public const string ChartColumn = "\ue0e3";
 
         /// <summary>
@@ -7048,6 +7688,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-gantt
         /// </summary>
+        [Description("chart-gantt")]
         public const string ChartGantt = "\ue0e4";
 
         /// <summary>
@@ -7059,6 +7700,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-line
         /// </summary>
+        [Description("chart-line")]
         public const string ChartLine = "\uf201";
 
         /// <summary>
@@ -7070,6 +7712,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-line-down
         /// </summary>
+        [Description("chart-line-down")]
         public const string ChartLineDown = "\uf64d";
 
         /// <summary>
@@ -7081,6 +7724,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-line-up
         /// </summary>
+        [Description("chart-line-up")]
         public const string ChartLineUp = "\ue0e5";
 
         /// <summary>
@@ -7092,6 +7736,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-line-up-down
         /// </summary>
+        [Description("chart-line-up-down")]
         public const string ChartLineUpDown = "\ue5d7";
 
         /// <summary>
@@ -7103,6 +7748,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-mixed
         /// </summary>
+        [Description("chart-mixed")]
         public const string ChartMixed = "\uf643";
 
         /// <summary>
@@ -7114,6 +7760,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-mixed-up-circle-currency
         /// </summary>
+        [Description("chart-mixed-up-circle-currency")]
         public const string ChartMixedUpCircleCurrency = "\ue5d8";
 
         /// <summary>
@@ -7125,6 +7772,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-mixed-up-circle-dollar
         /// </summary>
+        [Description("chart-mixed-up-circle-dollar")]
         public const string ChartMixedUpCircleDollar = "\ue5d9";
 
         /// <summary>
@@ -7136,6 +7784,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-network
         /// </summary>
+        [Description("chart-network")]
         public const string ChartNetwork = "\uf78a";
 
         /// <summary>
@@ -7147,6 +7796,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-pie
         /// </summary>
+        [Description("chart-pie")]
         public const string ChartPie = "\uf200";
 
         /// <summary>
@@ -7158,6 +7808,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-pie-simple
         /// </summary>
+        [Description("chart-pie-simple")]
         public const string ChartPieSimple = "\uf64e";
 
         /// <summary>
@@ -7169,6 +7820,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-pie-simple-circle-currency
         /// </summary>
+        [Description("chart-pie-simple-circle-currency")]
         public const string ChartPieSimpleCircleCurrency = "\ue604";
 
         /// <summary>
@@ -7180,6 +7832,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-pie-simple-circle-dollar
         /// </summary>
+        [Description("chart-pie-simple-circle-dollar")]
         public const string ChartPieSimpleCircleDollar = "\ue605";
 
         /// <summary>
@@ -7191,6 +7844,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-pyramid
         /// </summary>
+        [Description("chart-pyramid")]
         public const string ChartPyramid = "\ue0e6";
 
         /// <summary>
@@ -7202,6 +7856,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-radar
         /// </summary>
+        [Description("chart-radar")]
         public const string ChartRadar = "\ue0e7";
 
         /// <summary>
@@ -7213,6 +7868,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-scatter
         /// </summary>
+        [Description("chart-scatter")]
         public const string ChartScatter = "\uf7ee";
 
         /// <summary>
@@ -7224,6 +7880,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-scatter-3d
         /// </summary>
+        [Description("chart-scatter-3d")]
         public const string ChartScatter3d = "\ue0e8";
 
         /// <summary>
@@ -7235,6 +7892,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-scatter-bubble
         /// </summary>
+        [Description("chart-scatter-bubble")]
         public const string ChartScatterBubble = "\ue0e9";
 
         /// <summary>
@@ -7246,6 +7904,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-simple
         /// </summary>
+        [Description("chart-simple")]
         public const string ChartSimple = "\ue473";
 
         /// <summary>
@@ -7257,6 +7916,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-simple-horizontal
         /// </summary>
+        [Description("chart-simple-horizontal")]
         public const string ChartSimpleHorizontal = "\ue474";
 
         /// <summary>
@@ -7268,6 +7928,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-tree-map
         /// </summary>
+        [Description("chart-tree-map")]
         public const string ChartTreeMap = "\ue0ea";
 
         /// <summary>
@@ -7279,6 +7940,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-user
         /// </summary>
+        [Description("chart-user")]
         public const string ChartUser = "\uf6a3";
 
         /// <summary>
@@ -7290,6 +7952,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chart-waterfall
         /// </summary>
+        [Description("chart-waterfall")]
         public const string ChartWaterfall = "\ue0eb";
 
         /// <summary>
@@ -7301,6 +7964,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/check
         /// </summary>
+        [Description("check")]
         public const string Check = "\uf00c";
 
         /// <summary>
@@ -7312,6 +7976,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/check-double
         /// </summary>
+        [Description("check-double")]
         public const string CheckDouble = "\uf560";
 
         /// <summary>
@@ -7323,6 +7988,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/check-to-slot
         /// </summary>
+        [Description("check-to-slot")]
         public const string CheckToSlot = "\uf772";
 
         /// <summary>
@@ -7334,6 +8000,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cheese
         /// </summary>
+        [Description("cheese")]
         public const string Cheese = "\uf7ef";
 
         /// <summary>
@@ -7345,6 +8012,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cheese-swiss
         /// </summary>
+        [Description("cheese-swiss")]
         public const string CheeseSwiss = "\uf7f0";
 
         /// <summary>
@@ -7356,6 +8024,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cherries
         /// </summary>
+        [Description("cherries")]
         public const string Cherries = "\ue0ec";
 
         /// <summary>
@@ -7367,6 +8036,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess
         /// </summary>
+        [Description("chess")]
         public const string Chess = "\uf439";
 
         /// <summary>
@@ -7378,6 +8048,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess-bishop
         /// </summary>
+        [Description("chess-bishop")]
         public const string ChessBishop = "\uf43a";
 
         /// <summary>
@@ -7389,6 +8060,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess-bishop-piece
         /// </summary>
+        [Description("chess-bishop-piece")]
         public const string ChessBishopPiece = "\uf43b";
 
         /// <summary>
@@ -7400,6 +8072,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess-board
         /// </summary>
+        [Description("chess-board")]
         public const string ChessBoard = "\uf43c";
 
         /// <summary>
@@ -7411,6 +8084,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess-clock
         /// </summary>
+        [Description("chess-clock")]
         public const string ChessClock = "\uf43d";
 
         /// <summary>
@@ -7422,6 +8096,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess-clock-flip
         /// </summary>
+        [Description("chess-clock-flip")]
         public const string ChessClockFlip = "\uf43e";
 
         /// <summary>
@@ -7433,6 +8108,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess-king
         /// </summary>
+        [Description("chess-king")]
         public const string ChessKing = "\uf43f";
 
         /// <summary>
@@ -7444,6 +8120,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess-king-piece
         /// </summary>
+        [Description("chess-king-piece")]
         public const string ChessKingPiece = "\uf440";
 
         /// <summary>
@@ -7455,6 +8132,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess-knight
         /// </summary>
+        [Description("chess-knight")]
         public const string ChessKnight = "\uf441";
 
         /// <summary>
@@ -7466,6 +8144,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess-knight-piece
         /// </summary>
+        [Description("chess-knight-piece")]
         public const string ChessKnightPiece = "\uf442";
 
         /// <summary>
@@ -7477,6 +8156,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess-pawn
         /// </summary>
+        [Description("chess-pawn")]
         public const string ChessPawn = "\uf443";
 
         /// <summary>
@@ -7488,6 +8168,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess-pawn-piece
         /// </summary>
+        [Description("chess-pawn-piece")]
         public const string ChessPawnPiece = "\uf444";
 
         /// <summary>
@@ -7499,6 +8180,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess-queen
         /// </summary>
+        [Description("chess-queen")]
         public const string ChessQueen = "\uf445";
 
         /// <summary>
@@ -7510,6 +8192,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess-queen-piece
         /// </summary>
+        [Description("chess-queen-piece")]
         public const string ChessQueenPiece = "\uf446";
 
         /// <summary>
@@ -7521,6 +8204,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess-rook
         /// </summary>
+        [Description("chess-rook")]
         public const string ChessRook = "\uf447";
 
         /// <summary>
@@ -7532,6 +8216,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chess-rook-piece
         /// </summary>
+        [Description("chess-rook-piece")]
         public const string ChessRookPiece = "\uf448";
 
         /// <summary>
@@ -7543,6 +8228,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chestnut
         /// </summary>
+        [Description("chestnut")]
         public const string Chestnut = "\ue3f6";
 
         /// <summary>
@@ -7554,6 +8240,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chevron-down
         /// </summary>
+        [Description("chevron-down")]
         public const string ChevronDown = "\uf078";
 
         /// <summary>
@@ -7565,6 +8252,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chevron-left
         /// </summary>
+        [Description("chevron-left")]
         public const string ChevronLeft = "\uf053";
 
         /// <summary>
@@ -7576,6 +8264,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chevron-right
         /// </summary>
+        [Description("chevron-right")]
         public const string ChevronRight = "\uf054";
 
         /// <summary>
@@ -7587,6 +8276,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chevron-up
         /// </summary>
+        [Description("chevron-up")]
         public const string ChevronUp = "\uf077";
 
         /// <summary>
@@ -7598,6 +8288,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chevrons-down
         /// </summary>
+        [Description("chevrons-down")]
         public const string ChevronsDown = "\uf322";
 
         /// <summary>
@@ -7609,6 +8300,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chevrons-left
         /// </summary>
+        [Description("chevrons-left")]
         public const string ChevronsLeft = "\uf323";
 
         /// <summary>
@@ -7620,6 +8312,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chevrons-right
         /// </summary>
+        [Description("chevrons-right")]
         public const string ChevronsRight = "\uf324";
 
         /// <summary>
@@ -7631,6 +8324,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chevrons-up
         /// </summary>
+        [Description("chevrons-up")]
         public const string ChevronsUp = "\uf325";
 
         /// <summary>
@@ -7642,6 +8336,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chf-sign
         /// </summary>
+        [Description("chf-sign")]
         public const string ChfSign = "\ue602";
 
         /// <summary>
@@ -7653,6 +8348,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/child
         /// </summary>
+        [Description("child")]
         public const string Child = "\uf1ae";
 
         /// <summary>
@@ -7664,6 +8360,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/child-combatant
         /// </summary>
+        [Description("child-combatant")]
         public const string ChildCombatant = "\ue4e0";
 
         /// <summary>
@@ -7675,6 +8372,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/child-dress
         /// </summary>
+        [Description("child-dress")]
         public const string ChildDress = "\ue59c";
 
         /// <summary>
@@ -7686,6 +8384,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/child-reaching
         /// </summary>
+        [Description("child-reaching")]
         public const string ChildReaching = "\ue59d";
 
         /// <summary>
@@ -7697,6 +8396,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/children
         /// </summary>
+        [Description("children")]
         public const string Children = "\ue4e1";
 
         /// <summary>
@@ -7708,6 +8408,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chimney
         /// </summary>
+        [Description("chimney")]
         public const string Chimney = "\uf78b";
 
         /// <summary>
@@ -7719,6 +8420,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chopsticks
         /// </summary>
+        [Description("chopsticks")]
         public const string Chopsticks = "\ue3f7";
 
         /// <summary>
@@ -7730,6 +8432,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chrome
         /// </summary>
+        [Description("chrome")]
         public const string Chrome = "\uf268";
 
         /// <summary>
@@ -7741,6 +8444,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/chromecast
         /// </summary>
+        [Description("chromecast")]
         public const string Chromecast = "\uf838";
 
         /// <summary>
@@ -7752,6 +8456,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/church
         /// </summary>
+        [Description("church")]
         public const string Church = "\uf51d";
 
         /// <summary>
@@ -7763,6 +8468,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle
         /// </summary>
+        [Description("circle")]
         public const string Circle = "\uf111";
 
         /// <summary>
@@ -7774,6 +8480,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-0
         /// </summary>
+        [Description("circle-0")]
         public const string Circle0 = "\ue0ed";
 
         /// <summary>
@@ -7785,6 +8492,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-1
         /// </summary>
+        [Description("circle-1")]
         public const string Circle1 = "\ue0ee";
 
         /// <summary>
@@ -7796,6 +8504,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-2
         /// </summary>
+        [Description("circle-2")]
         public const string Circle2 = "\ue0ef";
 
         /// <summary>
@@ -7807,6 +8516,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-3
         /// </summary>
+        [Description("circle-3")]
         public const string Circle3 = "\ue0f0";
 
         /// <summary>
@@ -7818,6 +8528,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-4
         /// </summary>
+        [Description("circle-4")]
         public const string Circle4 = "\ue0f1";
 
         /// <summary>
@@ -7829,6 +8540,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-5
         /// </summary>
+        [Description("circle-5")]
         public const string Circle5 = "\ue0f2";
 
         /// <summary>
@@ -7840,6 +8552,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-6
         /// </summary>
+        [Description("circle-6")]
         public const string Circle6 = "\ue0f3";
 
         /// <summary>
@@ -7851,6 +8564,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-7
         /// </summary>
+        [Description("circle-7")]
         public const string Circle7 = "\ue0f4";
 
         /// <summary>
@@ -7862,6 +8576,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-8
         /// </summary>
+        [Description("circle-8")]
         public const string Circle8 = "\ue0f5";
 
         /// <summary>
@@ -7873,6 +8588,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-9
         /// </summary>
+        [Description("circle-9")]
         public const string Circle9 = "\ue0f6";
 
         /// <summary>
@@ -7884,6 +8600,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-a
         /// </summary>
+        [Description("circle-a")]
         public const string CircleA = "\ue0f7";
 
         /// <summary>
@@ -7895,6 +8612,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-ampersand
         /// </summary>
+        [Description("circle-ampersand")]
         public const string CircleAmpersand = "\ue0f8";
 
         /// <summary>
@@ -7906,6 +8624,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-arrow-down
         /// </summary>
+        [Description("circle-arrow-down")]
         public const string CircleArrowDown = "\uf0ab";
 
         /// <summary>
@@ -7917,6 +8636,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-arrow-down-left
         /// </summary>
+        [Description("circle-arrow-down-left")]
         public const string CircleArrowDownLeft = "\ue0f9";
 
         /// <summary>
@@ -7928,6 +8648,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-arrow-down-right
         /// </summary>
+        [Description("circle-arrow-down-right")]
         public const string CircleArrowDownRight = "\ue0fa";
 
         /// <summary>
@@ -7939,6 +8660,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-arrow-left
         /// </summary>
+        [Description("circle-arrow-left")]
         public const string CircleArrowLeft = "\uf0a8";
 
         /// <summary>
@@ -7950,6 +8672,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-arrow-right
         /// </summary>
+        [Description("circle-arrow-right")]
         public const string CircleArrowRight = "\uf0a9";
 
         /// <summary>
@@ -7961,6 +8684,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-arrow-up
         /// </summary>
+        [Description("circle-arrow-up")]
         public const string CircleArrowUp = "\uf0aa";
 
         /// <summary>
@@ -7972,6 +8696,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-arrow-up-left
         /// </summary>
+        [Description("circle-arrow-up-left")]
         public const string CircleArrowUpLeft = "\ue0fb";
 
         /// <summary>
@@ -7983,6 +8708,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-arrow-up-right
         /// </summary>
+        [Description("circle-arrow-up-right")]
         public const string CircleArrowUpRight = "\ue0fc";
 
         /// <summary>
@@ -7994,6 +8720,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-b
         /// </summary>
+        [Description("circle-b")]
         public const string CircleB = "\ue0fd";
 
         /// <summary>
@@ -8005,6 +8732,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-bolt
         /// </summary>
+        [Description("circle-bolt")]
         public const string CircleBolt = "\ue0fe";
 
         /// <summary>
@@ -8016,6 +8744,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-book-open
         /// </summary>
+        [Description("circle-book-open")]
         public const string CircleBookOpen = "\ue0ff";
 
         /// <summary>
@@ -8027,6 +8756,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-bookmark
         /// </summary>
+        [Description("circle-bookmark")]
         public const string CircleBookmark = "\ue100";
 
         /// <summary>
@@ -8038,6 +8768,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-c
         /// </summary>
+        [Description("circle-c")]
         public const string CircleC = "\ue101";
 
         /// <summary>
@@ -8049,6 +8780,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-calendar
         /// </summary>
+        [Description("circle-calendar")]
         public const string CircleCalendar = "\ue102";
 
         /// <summary>
@@ -8060,6 +8792,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-camera
         /// </summary>
+        [Description("circle-camera")]
         public const string CircleCamera = "\ue103";
 
         /// <summary>
@@ -8071,6 +8804,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-caret-down
         /// </summary>
+        [Description("circle-caret-down")]
         public const string CircleCaretDown = "\uf32d";
 
         /// <summary>
@@ -8082,6 +8816,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-caret-left
         /// </summary>
+        [Description("circle-caret-left")]
         public const string CircleCaretLeft = "\uf32e";
 
         /// <summary>
@@ -8093,6 +8828,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-caret-right
         /// </summary>
+        [Description("circle-caret-right")]
         public const string CircleCaretRight = "\uf330";
 
         /// <summary>
@@ -8104,6 +8840,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-caret-up
         /// </summary>
+        [Description("circle-caret-up")]
         public const string CircleCaretUp = "\uf331";
 
         /// <summary>
@@ -8115,6 +8852,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-check
         /// </summary>
+        [Description("circle-check")]
         public const string CircleCheck = "\uf058";
 
         /// <summary>
@@ -8126,6 +8864,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-chevron-down
         /// </summary>
+        [Description("circle-chevron-down")]
         public const string CircleChevronDown = "\uf13a";
 
         /// <summary>
@@ -8137,6 +8876,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-chevron-left
         /// </summary>
+        [Description("circle-chevron-left")]
         public const string CircleChevronLeft = "\uf137";
 
         /// <summary>
@@ -8148,6 +8888,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-chevron-right
         /// </summary>
+        [Description("circle-chevron-right")]
         public const string CircleChevronRight = "\uf138";
 
         /// <summary>
@@ -8159,6 +8900,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-chevron-up
         /// </summary>
+        [Description("circle-chevron-up")]
         public const string CircleChevronUp = "\uf139";
 
         /// <summary>
@@ -8170,6 +8912,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-d
         /// </summary>
+        [Description("circle-d")]
         public const string CircleD = "\ue104";
 
         /// <summary>
@@ -8181,6 +8924,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-dashed
         /// </summary>
+        [Description("circle-dashed")]
         public const string CircleDashed = "\ue105";
 
         /// <summary>
@@ -8192,6 +8936,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-divide
         /// </summary>
+        [Description("circle-divide")]
         public const string CircleDivide = "\ue106";
 
         /// <summary>
@@ -8203,6 +8948,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-dollar
         /// </summary>
+        [Description("circle-dollar")]
         public const string CircleDollar = "\uf2e8";
 
         /// <summary>
@@ -8214,6 +8960,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-dollar-to-slot
         /// </summary>
+        [Description("circle-dollar-to-slot")]
         public const string CircleDollarToSlot = "\uf4b9";
 
         /// <summary>
@@ -8225,6 +8972,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-dot
         /// </summary>
+        [Description("circle-dot")]
         public const string CircleDot = "\uf192";
 
         /// <summary>
@@ -8236,6 +8984,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-down
         /// </summary>
+        [Description("circle-down")]
         public const string CircleDown = "\uf358";
 
         /// <summary>
@@ -8247,6 +8996,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-down-left
         /// </summary>
+        [Description("circle-down-left")]
         public const string CircleDownLeft = "\ue107";
 
         /// <summary>
@@ -8258,6 +9008,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-down-right
         /// </summary>
+        [Description("circle-down-right")]
         public const string CircleDownRight = "\ue108";
 
         /// <summary>
@@ -8269,6 +9020,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-e
         /// </summary>
+        [Description("circle-e")]
         public const string CircleE = "\ue109";
 
         /// <summary>
@@ -8280,6 +9032,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-ellipsis
         /// </summary>
+        [Description("circle-ellipsis")]
         public const string CircleEllipsis = "\ue10a";
 
         /// <summary>
@@ -8291,6 +9044,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-ellipsis-vertical
         /// </summary>
+        [Description("circle-ellipsis-vertical")]
         public const string CircleEllipsisVertical = "\ue10b";
 
         /// <summary>
@@ -8302,6 +9056,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-envelope
         /// </summary>
+        [Description("circle-envelope")]
         public const string CircleEnvelope = "\ue10c";
 
         /// <summary>
@@ -8313,6 +9068,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-euro
         /// </summary>
+        [Description("circle-euro")]
         public const string CircleEuro = "\ue5ce";
 
         /// <summary>
@@ -8324,6 +9080,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-exclamation
         /// </summary>
+        [Description("circle-exclamation")]
         public const string CircleExclamation = "\uf06a";
 
         /// <summary>
@@ -8335,6 +9092,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-exclamation-check
         /// </summary>
+        [Description("circle-exclamation-check")]
         public const string CircleExclamationCheck = "\ue10d";
 
         /// <summary>
@@ -8346,6 +9104,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-f
         /// </summary>
+        [Description("circle-f")]
         public const string CircleF = "\ue10e";
 
         /// <summary>
@@ -8357,6 +9116,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-g
         /// </summary>
+        [Description("circle-g")]
         public const string CircleG = "\ue10f";
 
         /// <summary>
@@ -8368,6 +9128,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-h
         /// </summary>
+        [Description("circle-h")]
         public const string CircleH = "\uf47e";
 
         /// <summary>
@@ -8379,6 +9140,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-half
         /// </summary>
+        [Description("circle-half")]
         public const string CircleHalf = "\ue110";
 
         /// <summary>
@@ -8390,6 +9152,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-half-stroke
         /// </summary>
+        [Description("circle-half-stroke")]
         public const string CircleHalfStroke = "\uf042";
 
         /// <summary>
@@ -8401,6 +9164,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-heart
         /// </summary>
+        [Description("circle-heart")]
         public const string CircleHeart = "\uf4c7";
 
         /// <summary>
@@ -8412,6 +9176,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-i
         /// </summary>
+        [Description("circle-i")]
         public const string CircleI = "\ue111";
 
         /// <summary>
@@ -8423,6 +9188,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-info
         /// </summary>
+        [Description("circle-info")]
         public const string CircleInfo = "\uf05a";
 
         /// <summary>
@@ -8434,6 +9200,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-j
         /// </summary>
+        [Description("circle-j")]
         public const string CircleJ = "\ue112";
 
         /// <summary>
@@ -8445,6 +9212,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-k
         /// </summary>
+        [Description("circle-k")]
         public const string CircleK = "\ue113";
 
         /// <summary>
@@ -8456,6 +9224,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-l
         /// </summary>
+        [Description("circle-l")]
         public const string CircleL = "\ue114";
 
         /// <summary>
@@ -8467,6 +9236,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-left
         /// </summary>
+        [Description("circle-left")]
         public const string CircleLeft = "\uf359";
 
         /// <summary>
@@ -8478,6 +9248,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-location-arrow
         /// </summary>
+        [Description("circle-location-arrow")]
         public const string CircleLocationArrow = "\uf602";
 
         /// <summary>
@@ -8489,6 +9260,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-m
         /// </summary>
+        [Description("circle-m")]
         public const string CircleM = "\ue115";
 
         /// <summary>
@@ -8500,6 +9272,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-microphone
         /// </summary>
+        [Description("circle-microphone")]
         public const string CircleMicrophone = "\ue116";
 
         /// <summary>
@@ -8511,6 +9284,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-microphone-lines
         /// </summary>
+        [Description("circle-microphone-lines")]
         public const string CircleMicrophoneLines = "\ue117";
 
         /// <summary>
@@ -8522,6 +9296,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-minus
         /// </summary>
+        [Description("circle-minus")]
         public const string CircleMinus = "\uf056";
 
         /// <summary>
@@ -8533,6 +9308,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-n
         /// </summary>
+        [Description("circle-n")]
         public const string CircleN = "\ue118";
 
         /// <summary>
@@ -8544,6 +9320,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-nodes
         /// </summary>
+        [Description("circle-nodes")]
         public const string CircleNodes = "\ue4e2";
 
         /// <summary>
@@ -8555,6 +9332,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-notch
         /// </summary>
+        [Description("circle-notch")]
         public const string CircleNotch = "\uf1ce";
 
         /// <summary>
@@ -8566,6 +9344,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-o
         /// </summary>
+        [Description("circle-o")]
         public const string CircleO = "\ue119";
 
         /// <summary>
@@ -8577,6 +9356,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-p
         /// </summary>
+        [Description("circle-p")]
         public const string CircleP = "\ue11a";
 
         /// <summary>
@@ -8588,6 +9368,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-parking
         /// </summary>
+        [Description("circle-parking")]
         public const string CircleParking = "\uf615";
 
         /// <summary>
@@ -8599,6 +9380,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-pause
         /// </summary>
+        [Description("circle-pause")]
         public const string CirclePause = "\uf28b";
 
         /// <summary>
@@ -8610,6 +9392,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-phone
         /// </summary>
+        [Description("circle-phone")]
         public const string CirclePhone = "\ue11b";
 
         /// <summary>
@@ -8621,6 +9404,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-phone-flip
         /// </summary>
+        [Description("circle-phone-flip")]
         public const string CirclePhoneFlip = "\ue11c";
 
         /// <summary>
@@ -8632,6 +9416,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-phone-hangup
         /// </summary>
+        [Description("circle-phone-hangup")]
         public const string CirclePhoneHangup = "\ue11d";
 
         /// <summary>
@@ -8643,6 +9428,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-play
         /// </summary>
+        [Description("circle-play")]
         public const string CirclePlay = "\uf144";
 
         /// <summary>
@@ -8654,6 +9440,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-plus
         /// </summary>
+        [Description("circle-plus")]
         public const string CirclePlus = "\uf055";
 
         /// <summary>
@@ -8665,6 +9452,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-q
         /// </summary>
+        [Description("circle-q")]
         public const string CircleQ = "\ue11e";
 
         /// <summary>
@@ -8676,6 +9464,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-quarter
         /// </summary>
+        [Description("circle-quarter")]
         public const string CircleQuarter = "\ue11f";
 
         /// <summary>
@@ -8687,6 +9476,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-quarter-stroke
         /// </summary>
+        [Description("circle-quarter-stroke")]
         public const string CircleQuarterStroke = "\ue5d3";
 
         /// <summary>
@@ -8698,6 +9488,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-quarters
         /// </summary>
+        [Description("circle-quarters")]
         public const string CircleQuarters = "\ue3f8";
 
         /// <summary>
@@ -8709,6 +9500,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-question
         /// </summary>
+        [Description("circle-question")]
         public const string CircleQuestion = "\uf059";
 
         /// <summary>
@@ -8720,6 +9512,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-r
         /// </summary>
+        [Description("circle-r")]
         public const string CircleR = "\ue120";
 
         /// <summary>
@@ -8731,6 +9524,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-radiation
         /// </summary>
+        [Description("circle-radiation")]
         public const string CircleRadiation = "\uf7ba";
 
         /// <summary>
@@ -8742,6 +9536,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-right
         /// </summary>
+        [Description("circle-right")]
         public const string CircleRight = "\uf35a";
 
         /// <summary>
@@ -8753,6 +9548,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-s
         /// </summary>
+        [Description("circle-s")]
         public const string CircleS = "\ue121";
 
         /// <summary>
@@ -8764,6 +9560,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-small
         /// </summary>
+        [Description("circle-small")]
         public const string CircleSmall = "\ue122";
 
         /// <summary>
@@ -8775,6 +9572,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-sort
         /// </summary>
+        [Description("circle-sort")]
         public const string CircleSort = "\ue030";
 
         /// <summary>
@@ -8786,6 +9584,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-sort-down
         /// </summary>
+        [Description("circle-sort-down")]
         public const string CircleSortDown = "\ue031";
 
         /// <summary>
@@ -8797,6 +9596,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-sort-up
         /// </summary>
+        [Description("circle-sort-up")]
         public const string CircleSortUp = "\ue032";
 
         /// <summary>
@@ -8808,6 +9608,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-star
         /// </summary>
+        [Description("circle-star")]
         public const string CircleStar = "\ue123";
 
         /// <summary>
@@ -8819,6 +9620,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-sterling
         /// </summary>
+        [Description("circle-sterling")]
         public const string CircleSterling = "\ue5cf";
 
         /// <summary>
@@ -8830,6 +9632,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-stop
         /// </summary>
+        [Description("circle-stop")]
         public const string CircleStop = "\uf28d";
 
         /// <summary>
@@ -8841,6 +9644,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-t
         /// </summary>
+        [Description("circle-t")]
         public const string CircleT = "\ue124";
 
         /// <summary>
@@ -8852,6 +9656,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-three-quarters
         /// </summary>
+        [Description("circle-three-quarters")]
         public const string CircleThreeQuarters = "\ue125";
 
         /// <summary>
@@ -8863,6 +9668,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-three-quarters-stroke
         /// </summary>
+        [Description("circle-three-quarters-stroke")]
         public const string CircleThreeQuartersStroke = "\ue5d4";
 
         /// <summary>
@@ -8874,6 +9680,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-trash
         /// </summary>
+        [Description("circle-trash")]
         public const string CircleTrash = "\ue126";
 
         /// <summary>
@@ -8885,6 +9692,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-u
         /// </summary>
+        [Description("circle-u")]
         public const string CircleU = "\ue127";
 
         /// <summary>
@@ -8896,6 +9704,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-up
         /// </summary>
+        [Description("circle-up")]
         public const string CircleUp = "\uf35b";
 
         /// <summary>
@@ -8907,6 +9716,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-up-left
         /// </summary>
+        [Description("circle-up-left")]
         public const string CircleUpLeft = "\ue128";
 
         /// <summary>
@@ -8918,6 +9728,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-up-right
         /// </summary>
+        [Description("circle-up-right")]
         public const string CircleUpRight = "\ue129";
 
         /// <summary>
@@ -8929,6 +9740,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-user
         /// </summary>
+        [Description("circle-user")]
         public const string CircleUser = "\uf2bd";
 
         /// <summary>
@@ -8940,6 +9752,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-v
         /// </summary>
+        [Description("circle-v")]
         public const string CircleV = "\ue12a";
 
         /// <summary>
@@ -8951,6 +9764,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-video
         /// </summary>
+        [Description("circle-video")]
         public const string CircleVideo = "\ue12b";
 
         /// <summary>
@@ -8962,6 +9776,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-w
         /// </summary>
+        [Description("circle-w")]
         public const string CircleW = "\ue12c";
 
         /// <summary>
@@ -8973,6 +9788,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-waveform-lines
         /// </summary>
+        [Description("circle-waveform-lines")]
         public const string CircleWaveformLines = "\ue12d";
 
         /// <summary>
@@ -8984,6 +9800,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-x
         /// </summary>
+        [Description("circle-x")]
         public const string CircleX = "\ue12e";
 
         /// <summary>
@@ -8995,6 +9812,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-xmark
         /// </summary>
+        [Description("circle-xmark")]
         public const string CircleXmark = "\uf057";
 
         /// <summary>
@@ -9006,6 +9824,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-y
         /// </summary>
+        [Description("circle-y")]
         public const string CircleY = "\ue12f";
 
         /// <summary>
@@ -9017,6 +9836,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-yen
         /// </summary>
+        [Description("circle-yen")]
         public const string CircleYen = "\ue5d0";
 
         /// <summary>
@@ -9028,6 +9848,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circle-z
         /// </summary>
+        [Description("circle-z")]
         public const string CircleZ = "\ue130";
 
         /// <summary>
@@ -9039,6 +9860,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/circles-overlap
         /// </summary>
+        [Description("circles-overlap")]
         public const string CirclesOverlap = "\ue600";
 
         /// <summary>
@@ -9050,6 +9872,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/citrus
         /// </summary>
+        [Description("citrus")]
         public const string Citrus = "\ue2f4";
 
         /// <summary>
@@ -9061,6 +9884,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/citrus-slice
         /// </summary>
+        [Description("citrus-slice")]
         public const string CitrusSlice = "\ue2f5";
 
         /// <summary>
@@ -9072,6 +9896,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/city
         /// </summary>
+        [Description("city")]
         public const string City = "\uf64f";
 
         /// <summary>
@@ -9083,6 +9908,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clapperboard
         /// </summary>
+        [Description("clapperboard")]
         public const string Clapperboard = "\ue131";
 
         /// <summary>
@@ -9094,6 +9920,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clapperboard-play
         /// </summary>
+        [Description("clapperboard-play")]
         public const string ClapperboardPlay = "\ue132";
 
         /// <summary>
@@ -9105,6 +9932,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clarinet
         /// </summary>
+        [Description("clarinet")]
         public const string Clarinet = "\uf8ad";
 
         /// <summary>
@@ -9116,6 +9944,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/claw-marks
         /// </summary>
+        [Description("claw-marks")]
         public const string ClawMarks = "\uf6c2";
 
         /// <summary>
@@ -9127,6 +9956,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clipboard
         /// </summary>
+        [Description("clipboard")]
         public const string Clipboard = "\uf328";
 
         /// <summary>
@@ -9138,6 +9968,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clipboard-check
         /// </summary>
+        [Description("clipboard-check")]
         public const string ClipboardCheck = "\uf46c";
 
         /// <summary>
@@ -9149,6 +9980,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clipboard-list
         /// </summary>
+        [Description("clipboard-list")]
         public const string ClipboardList = "\uf46d";
 
         /// <summary>
@@ -9160,6 +9992,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clipboard-list-check
         /// </summary>
+        [Description("clipboard-list-check")]
         public const string ClipboardListCheck = "\uf737";
 
         /// <summary>
@@ -9171,6 +10004,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clipboard-medical
         /// </summary>
+        [Description("clipboard-medical")]
         public const string ClipboardMedical = "\ue133";
 
         /// <summary>
@@ -9182,6 +10016,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clipboard-prescription
         /// </summary>
+        [Description("clipboard-prescription")]
         public const string ClipboardPrescription = "\uf5e8";
 
         /// <summary>
@@ -9193,6 +10028,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clipboard-question
         /// </summary>
+        [Description("clipboard-question")]
         public const string ClipboardQuestion = "\ue4e3";
 
         /// <summary>
@@ -9204,6 +10040,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clipboard-user
         /// </summary>
+        [Description("clipboard-user")]
         public const string ClipboardUser = "\uf7f3";
 
         /// <summary>
@@ -9215,6 +10052,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock
         /// </summary>
+        [Description("clock")]
         public const string Clock = "\uf017";
 
         /// <summary>
@@ -9226,6 +10064,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-desk
         /// </summary>
+        [Description("clock-desk")]
         public const string ClockDesk = "\ue134";
 
         /// <summary>
@@ -9237,6 +10076,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-eight
         /// </summary>
+        [Description("clock-eight")]
         public const string ClockEight = "\ue345";
 
         /// <summary>
@@ -9248,6 +10088,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-eight-thirty
         /// </summary>
+        [Description("clock-eight-thirty")]
         public const string ClockEightThirty = "\ue346";
 
         /// <summary>
@@ -9259,6 +10100,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-eleven
         /// </summary>
+        [Description("clock-eleven")]
         public const string ClockEleven = "\ue347";
 
         /// <summary>
@@ -9270,6 +10112,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-eleven-thirty
         /// </summary>
+        [Description("clock-eleven-thirty")]
         public const string ClockElevenThirty = "\ue348";
 
         /// <summary>
@@ -9281,6 +10124,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-five
         /// </summary>
+        [Description("clock-five")]
         public const string ClockFive = "\ue349";
 
         /// <summary>
@@ -9292,6 +10136,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-five-thirty
         /// </summary>
+        [Description("clock-five-thirty")]
         public const string ClockFiveThirty = "\ue34a";
 
         /// <summary>
@@ -9303,6 +10148,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-four-thirty
         /// </summary>
+        [Description("clock-four-thirty")]
         public const string ClockFourThirty = "\ue34b";
 
         /// <summary>
@@ -9314,6 +10160,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-nine
         /// </summary>
+        [Description("clock-nine")]
         public const string ClockNine = "\ue34c";
 
         /// <summary>
@@ -9325,6 +10172,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-nine-thirty
         /// </summary>
+        [Description("clock-nine-thirty")]
         public const string ClockNineThirty = "\ue34d";
 
         /// <summary>
@@ -9336,6 +10184,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-one
         /// </summary>
+        [Description("clock-one")]
         public const string ClockOne = "\ue34e";
 
         /// <summary>
@@ -9347,6 +10196,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-one-thirty
         /// </summary>
+        [Description("clock-one-thirty")]
         public const string ClockOneThirty = "\ue34f";
 
         /// <summary>
@@ -9358,6 +10208,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-rotate-left
         /// </summary>
+        [Description("clock-rotate-left")]
         public const string ClockRotateLeft = "\uf1da";
 
         /// <summary>
@@ -9369,6 +10220,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-seven
         /// </summary>
+        [Description("clock-seven")]
         public const string ClockSeven = "\ue350";
 
         /// <summary>
@@ -9380,6 +10232,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-seven-thirty
         /// </summary>
+        [Description("clock-seven-thirty")]
         public const string ClockSevenThirty = "\ue351";
 
         /// <summary>
@@ -9391,6 +10244,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-six
         /// </summary>
+        [Description("clock-six")]
         public const string ClockSix = "\ue352";
 
         /// <summary>
@@ -9402,6 +10256,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-six-thirty
         /// </summary>
+        [Description("clock-six-thirty")]
         public const string ClockSixThirty = "\ue353";
 
         /// <summary>
@@ -9413,6 +10268,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-ten
         /// </summary>
+        [Description("clock-ten")]
         public const string ClockTen = "\ue354";
 
         /// <summary>
@@ -9424,6 +10280,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-ten-thirty
         /// </summary>
+        [Description("clock-ten-thirty")]
         public const string ClockTenThirty = "\ue355";
 
         /// <summary>
@@ -9435,6 +10292,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-three
         /// </summary>
+        [Description("clock-three")]
         public const string ClockThree = "\ue356";
 
         /// <summary>
@@ -9446,6 +10304,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-three-thirty
         /// </summary>
+        [Description("clock-three-thirty")]
         public const string ClockThreeThirty = "\ue357";
 
         /// <summary>
@@ -9457,6 +10316,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-twelve
         /// </summary>
+        [Description("clock-twelve")]
         public const string ClockTwelve = "\ue358";
 
         /// <summary>
@@ -9468,6 +10328,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-twelve-thirty
         /// </summary>
+        [Description("clock-twelve-thirty")]
         public const string ClockTwelveThirty = "\ue359";
 
         /// <summary>
@@ -9479,6 +10340,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-two
         /// </summary>
+        [Description("clock-two")]
         public const string ClockTwo = "\ue35a";
 
         /// <summary>
@@ -9490,6 +10352,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clock-two-thirty
         /// </summary>
+        [Description("clock-two-thirty")]
         public const string ClockTwoThirty = "\ue35b";
 
         /// <summary>
@@ -9501,6 +10364,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clone
         /// </summary>
+        [Description("clone")]
         public const string Clone = "\uf24d";
 
         /// <summary>
@@ -9512,6 +10376,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/closed-captioning
         /// </summary>
+        [Description("closed-captioning")]
         public const string ClosedCaptioning = "\uf20a";
 
         /// <summary>
@@ -9523,6 +10388,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/closed-captioning-slash
         /// </summary>
+        [Description("closed-captioning-slash")]
         public const string ClosedCaptioningSlash = "\ue135";
 
         /// <summary>
@@ -9534,6 +10400,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clothes-hanger
         /// </summary>
+        [Description("clothes-hanger")]
         public const string ClothesHanger = "\ue136";
 
         /// <summary>
@@ -9545,6 +10412,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud
         /// </summary>
+        [Description("cloud")]
         public const string Cloud = "\uf0c2";
 
         /// <summary>
@@ -9556,6 +10424,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-arrow-down
         /// </summary>
+        [Description("cloud-arrow-down")]
         public const string CloudArrowDown = "\uf0ed";
 
         /// <summary>
@@ -9567,6 +10436,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-arrow-up
         /// </summary>
+        [Description("cloud-arrow-up")]
         public const string CloudArrowUp = "\uf0ee";
 
         /// <summary>
@@ -9578,6 +10448,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-binary
         /// </summary>
+        [Description("cloud-binary")]
         public const string CloudBinary = "\ue601";
 
         /// <summary>
@@ -9589,6 +10460,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-bolt
         /// </summary>
+        [Description("cloud-bolt")]
         public const string CloudBolt = "\uf76c";
 
         /// <summary>
@@ -9600,6 +10472,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-bolt-moon
         /// </summary>
+        [Description("cloud-bolt-moon")]
         public const string CloudBoltMoon = "\uf76d";
 
         /// <summary>
@@ -9611,6 +10484,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-bolt-sun
         /// </summary>
+        [Description("cloud-bolt-sun")]
         public const string CloudBoltSun = "\uf76e";
 
         /// <summary>
@@ -9622,6 +10496,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-check
         /// </summary>
+        [Description("cloud-check")]
         public const string CloudCheck = "\ue35c";
 
         /// <summary>
@@ -9633,6 +10508,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-drizzle
         /// </summary>
+        [Description("cloud-drizzle")]
         public const string CloudDrizzle = "\uf738";
 
         /// <summary>
@@ -9644,6 +10520,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-exclamation
         /// </summary>
+        [Description("cloud-exclamation")]
         public const string CloudExclamation = "\ue491";
 
         /// <summary>
@@ -9655,6 +10532,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-fog
         /// </summary>
+        [Description("cloud-fog")]
         public const string CloudFog = "\uf74e";
 
         /// <summary>
@@ -9666,6 +10544,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-hail
         /// </summary>
+        [Description("cloud-hail")]
         public const string CloudHail = "\uf739";
 
         /// <summary>
@@ -9677,6 +10556,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-hail-mixed
         /// </summary>
+        [Description("cloud-hail-mixed")]
         public const string CloudHailMixed = "\uf73a";
 
         /// <summary>
@@ -9688,6 +10568,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-meatball
         /// </summary>
+        [Description("cloud-meatball")]
         public const string CloudMeatball = "\uf73b";
 
         /// <summary>
@@ -9699,6 +10580,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-minus
         /// </summary>
+        [Description("cloud-minus")]
         public const string CloudMinus = "\ue35d";
 
         /// <summary>
@@ -9710,6 +10592,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-moon
         /// </summary>
+        [Description("cloud-moon")]
         public const string CloudMoon = "\uf6c3";
 
         /// <summary>
@@ -9721,6 +10604,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-moon-rain
         /// </summary>
+        [Description("cloud-moon-rain")]
         public const string CloudMoonRain = "\uf73c";
 
         /// <summary>
@@ -9732,6 +10616,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-music
         /// </summary>
+        [Description("cloud-music")]
         public const string CloudMusic = "\uf8ae";
 
         /// <summary>
@@ -9743,6 +10628,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-plus
         /// </summary>
+        [Description("cloud-plus")]
         public const string CloudPlus = "\ue35e";
 
         /// <summary>
@@ -9754,6 +10640,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-question
         /// </summary>
+        [Description("cloud-question")]
         public const string CloudQuestion = "\ue492";
 
         /// <summary>
@@ -9765,6 +10652,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-rain
         /// </summary>
+        [Description("cloud-rain")]
         public const string CloudRain = "\uf73d";
 
         /// <summary>
@@ -9776,6 +10664,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-rainbow
         /// </summary>
+        [Description("cloud-rainbow")]
         public const string CloudRainbow = "\uf73e";
 
         /// <summary>
@@ -9787,6 +10676,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-showers
         /// </summary>
+        [Description("cloud-showers")]
         public const string CloudShowers = "\uf73f";
 
         /// <summary>
@@ -9798,6 +10688,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-showers-heavy
         /// </summary>
+        [Description("cloud-showers-heavy")]
         public const string CloudShowersHeavy = "\uf740";
 
         /// <summary>
@@ -9809,6 +10700,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-showers-water
         /// </summary>
+        [Description("cloud-showers-water")]
         public const string CloudShowersWater = "\ue4e4";
 
         /// <summary>
@@ -9820,6 +10712,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-slash
         /// </summary>
+        [Description("cloud-slash")]
         public const string CloudSlash = "\ue137";
 
         /// <summary>
@@ -9831,6 +10724,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-sleet
         /// </summary>
+        [Description("cloud-sleet")]
         public const string CloudSleet = "\uf741";
 
         /// <summary>
@@ -9842,6 +10736,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-snow
         /// </summary>
+        [Description("cloud-snow")]
         public const string CloudSnow = "\uf742";
 
         /// <summary>
@@ -9853,6 +10748,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-sun
         /// </summary>
+        [Description("cloud-sun")]
         public const string CloudSun = "\uf6c4";
 
         /// <summary>
@@ -9864,6 +10760,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-sun-rain
         /// </summary>
+        [Description("cloud-sun-rain")]
         public const string CloudSunRain = "\uf743";
 
         /// <summary>
@@ -9875,6 +10772,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-word
         /// </summary>
+        [Description("cloud-word")]
         public const string CloudWord = "\ue138";
 
         /// <summary>
@@ -9886,6 +10784,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloud-xmark
         /// </summary>
+        [Description("cloud-xmark")]
         public const string CloudXmark = "\ue35f";
 
         /// <summary>
@@ -9897,6 +10796,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloudflare
         /// </summary>
+        [Description("cloudflare")]
         public const string Cloudflare = "\ue07d";
 
         /// <summary>
@@ -9908,6 +10808,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clouds
         /// </summary>
+        [Description("clouds")]
         public const string Clouds = "\uf744";
 
         /// <summary>
@@ -9919,6 +10820,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clouds-moon
         /// </summary>
+        [Description("clouds-moon")]
         public const string CloudsMoon = "\uf745";
 
         /// <summary>
@@ -9930,6 +10832,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clouds-sun
         /// </summary>
+        [Description("clouds-sun")]
         public const string CloudsSun = "\uf746";
 
         /// <summary>
@@ -9941,6 +10844,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloudscale
         /// </summary>
+        [Description("cloudscale")]
         public const string Cloudscale = "\uf383";
 
         /// <summary>
@@ -9952,6 +10856,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloudsmith
         /// </summary>
+        [Description("cloudsmith")]
         public const string Cloudsmith = "\uf384";
 
         /// <summary>
@@ -9963,6 +10868,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cloudversify
         /// </summary>
+        [Description("cloudversify")]
         public const string Cloudversify = "\uf385";
 
         /// <summary>
@@ -9974,6 +10880,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/clover
         /// </summary>
+        [Description("clover")]
         public const string Clover = "\ue139";
 
         /// <summary>
@@ -9985,6 +10892,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/club
         /// </summary>
+        [Description("club")]
         public const string Club = "\uf327";
 
         /// <summary>
@@ -9996,6 +10904,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cmplid
         /// </summary>
+        [Description("cmplid")]
         public const string Cmplid = "\ue360";
 
         /// <summary>
@@ -10007,6 +10916,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/coconut
         /// </summary>
+        [Description("coconut")]
         public const string Coconut = "\ue2f6";
 
         /// <summary>
@@ -10018,6 +10928,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/code
         /// </summary>
+        [Description("code")]
         public const string Code = "\uf121";
 
         /// <summary>
@@ -10029,6 +10940,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/code-branch
         /// </summary>
+        [Description("code-branch")]
         public const string CodeBranch = "\uf126";
 
         /// <summary>
@@ -10040,6 +10952,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/code-commit
         /// </summary>
+        [Description("code-commit")]
         public const string CodeCommit = "\uf386";
 
         /// <summary>
@@ -10051,6 +10964,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/code-compare
         /// </summary>
+        [Description("code-compare")]
         public const string CodeCompare = "\ue13a";
 
         /// <summary>
@@ -10062,6 +10976,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/code-fork
         /// </summary>
+        [Description("code-fork")]
         public const string CodeFork = "\ue13b";
 
         /// <summary>
@@ -10073,6 +10988,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/code-merge
         /// </summary>
+        [Description("code-merge")]
         public const string CodeMerge = "\uf387";
 
         /// <summary>
@@ -10084,6 +11000,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/code-pull-request
         /// </summary>
+        [Description("code-pull-request")]
         public const string CodePullRequest = "\ue13c";
 
         /// <summary>
@@ -10095,6 +11012,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/code-pull-request-closed
         /// </summary>
+        [Description("code-pull-request-closed")]
         public const string CodePullRequestClosed = "\ue3f9";
 
         /// <summary>
@@ -10106,6 +11024,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/code-pull-request-draft
         /// </summary>
+        [Description("code-pull-request-draft")]
         public const string CodePullRequestDraft = "\ue3fa";
 
         /// <summary>
@@ -10117,6 +11036,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/code-simple
         /// </summary>
+        [Description("code-simple")]
         public const string CodeSimple = "\ue13d";
 
         /// <summary>
@@ -10128,6 +11048,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/codepen
         /// </summary>
+        [Description("codepen")]
         public const string Codepen = "\uf1cb";
 
         /// <summary>
@@ -10139,6 +11060,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/codiepie
         /// </summary>
+        [Description("codiepie")]
         public const string Codiepie = "\uf284";
 
         /// <summary>
@@ -10150,6 +11072,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/coffee-bean
         /// </summary>
+        [Description("coffee-bean")]
         public const string CoffeeBean = "\ue13e";
 
         /// <summary>
@@ -10161,6 +11084,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/coffee-beans
         /// </summary>
+        [Description("coffee-beans")]
         public const string CoffeeBeans = "\ue13f";
 
         /// <summary>
@@ -10172,6 +11096,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/coffee-pot
         /// </summary>
+        [Description("coffee-pot")]
         public const string CoffeePot = "\ue002";
 
         /// <summary>
@@ -10183,6 +11108,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/coffin
         /// </summary>
+        [Description("coffin")]
         public const string Coffin = "\uf6c6";
 
         /// <summary>
@@ -10194,6 +11120,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/coffin-cross
         /// </summary>
+        [Description("coffin-cross")]
         public const string CoffinCross = "\ue051";
 
         /// <summary>
@@ -10205,6 +11132,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/coin
         /// </summary>
+        [Description("coin")]
         public const string Coin = "\uf85c";
 
         /// <summary>
@@ -10216,6 +11144,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/coin-blank
         /// </summary>
+        [Description("coin-blank")]
         public const string CoinBlank = "\ue3fb";
 
         /// <summary>
@@ -10227,6 +11156,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/coin-front
         /// </summary>
+        [Description("coin-front")]
         public const string CoinFront = "\ue3fc";
 
         /// <summary>
@@ -10238,6 +11168,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/coin-vertical
         /// </summary>
+        [Description("coin-vertical")]
         public const string CoinVertical = "\ue3fd";
 
         /// <summary>
@@ -10249,6 +11180,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/coins
         /// </summary>
+        [Description("coins")]
         public const string Coins = "\uf51e";
 
         /// <summary>
@@ -10260,6 +11192,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/colon
         /// </summary>
+        [Description("colon")]
         public const string Colon = "\u003a";
 
         /// <summary>
@@ -10271,6 +11204,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/colon-sign
         /// </summary>
+        [Description("colon-sign")]
         public const string ColonSign = "\ue140";
 
         /// <summary>
@@ -10282,6 +11216,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/columns-3
         /// </summary>
+        [Description("columns-3")]
         public const string Columns3 = "\ue361";
 
         /// <summary>
@@ -10293,6 +11228,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comet
         /// </summary>
+        [Description("comet")]
         public const string Comet = "\ue003";
 
         /// <summary>
@@ -10304,6 +11240,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comma
         /// </summary>
+        [Description("comma")]
         public const string Comma = "\u002c";
 
         /// <summary>
@@ -10315,6 +11252,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/command
         /// </summary>
+        [Description("command")]
         public const string Command = "\ue142";
 
         /// <summary>
@@ -10326,6 +11264,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment
         /// </summary>
+        [Description("comment")]
         public const string Comment = "\uf075";
 
         /// <summary>
@@ -10337,6 +11276,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-arrow-down
         /// </summary>
+        [Description("comment-arrow-down")]
         public const string CommentArrowDown = "\ue143";
 
         /// <summary>
@@ -10348,6 +11288,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-arrow-up
         /// </summary>
+        [Description("comment-arrow-up")]
         public const string CommentArrowUp = "\ue144";
 
         /// <summary>
@@ -10359,6 +11300,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-arrow-up-right
         /// </summary>
+        [Description("comment-arrow-up-right")]
         public const string CommentArrowUpRight = "\ue145";
 
         /// <summary>
@@ -10370,6 +11312,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-captions
         /// </summary>
+        [Description("comment-captions")]
         public const string CommentCaptions = "\ue146";
 
         /// <summary>
@@ -10381,6 +11324,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-check
         /// </summary>
+        [Description("comment-check")]
         public const string CommentCheck = "\uf4ac";
 
         /// <summary>
@@ -10392,6 +11336,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-code
         /// </summary>
+        [Description("comment-code")]
         public const string CommentCode = "\ue147";
 
         /// <summary>
@@ -10403,6 +11348,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-dollar
         /// </summary>
+        [Description("comment-dollar")]
         public const string CommentDollar = "\uf651";
 
         /// <summary>
@@ -10414,6 +11360,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-dots
         /// </summary>
+        [Description("comment-dots")]
         public const string CommentDots = "\uf4ad";
 
         /// <summary>
@@ -10425,6 +11372,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-exclamation
         /// </summary>
+        [Description("comment-exclamation")]
         public const string CommentExclamation = "\uf4af";
 
         /// <summary>
@@ -10436,6 +11384,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-heart
         /// </summary>
+        [Description("comment-heart")]
         public const string CommentHeart = "\ue5c8";
 
         /// <summary>
@@ -10447,6 +11396,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-image
         /// </summary>
+        [Description("comment-image")]
         public const string CommentImage = "\ue148";
 
         /// <summary>
@@ -10458,6 +11408,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-lines
         /// </summary>
+        [Description("comment-lines")]
         public const string CommentLines = "\uf4b0";
 
         /// <summary>
@@ -10469,6 +11420,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-medical
         /// </summary>
+        [Description("comment-medical")]
         public const string CommentMedical = "\uf7f5";
 
         /// <summary>
@@ -10480,6 +11432,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-middle
         /// </summary>
+        [Description("comment-middle")]
         public const string CommentMiddle = "\ue149";
 
         /// <summary>
@@ -10491,6 +11444,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-middle-top
         /// </summary>
+        [Description("comment-middle-top")]
         public const string CommentMiddleTop = "\ue14a";
 
         /// <summary>
@@ -10502,6 +11456,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-minus
         /// </summary>
+        [Description("comment-minus")]
         public const string CommentMinus = "\uf4b1";
 
         /// <summary>
@@ -10513,6 +11468,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-music
         /// </summary>
+        [Description("comment-music")]
         public const string CommentMusic = "\uf8b0";
 
         /// <summary>
@@ -10524,6 +11480,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-pen
         /// </summary>
+        [Description("comment-pen")]
         public const string CommentPen = "\uf4ae";
 
         /// <summary>
@@ -10535,6 +11492,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-plus
         /// </summary>
+        [Description("comment-plus")]
         public const string CommentPlus = "\uf4b2";
 
         /// <summary>
@@ -10546,6 +11504,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-question
         /// </summary>
+        [Description("comment-question")]
         public const string CommentQuestion = "\ue14b";
 
         /// <summary>
@@ -10557,6 +11516,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-quote
         /// </summary>
+        [Description("comment-quote")]
         public const string CommentQuote = "\ue14c";
 
         /// <summary>
@@ -10568,6 +11528,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-slash
         /// </summary>
+        [Description("comment-slash")]
         public const string CommentSlash = "\uf4b3";
 
         /// <summary>
@@ -10579,6 +11540,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-smile
         /// </summary>
+        [Description("comment-smile")]
         public const string CommentSmile = "\uf4b4";
 
         /// <summary>
@@ -10590,6 +11552,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-sms
         /// </summary>
+        [Description("comment-sms")]
         public const string CommentSms = "\uf7cd";
 
         /// <summary>
@@ -10601,6 +11564,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-text
         /// </summary>
+        [Description("comment-text")]
         public const string CommentText = "\ue14d";
 
         /// <summary>
@@ -10612,6 +11576,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comment-xmark
         /// </summary>
+        [Description("comment-xmark")]
         public const string CommentXmark = "\uf4b5";
 
         /// <summary>
@@ -10623,6 +11588,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comments
         /// </summary>
+        [Description("comments")]
         public const string Comments = "\uf086";
 
         /// <summary>
@@ -10634,6 +11600,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comments-dollar
         /// </summary>
+        [Description("comments-dollar")]
         public const string CommentsDollar = "\uf653";
 
         /// <summary>
@@ -10645,6 +11612,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comments-question
         /// </summary>
+        [Description("comments-question")]
         public const string CommentsQuestion = "\ue14e";
 
         /// <summary>
@@ -10656,6 +11624,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/comments-question-check
         /// </summary>
+        [Description("comments-question-check")]
         public const string CommentsQuestionCheck = "\ue14f";
 
         /// <summary>
@@ -10667,6 +11636,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/compact-disc
         /// </summary>
+        [Description("compact-disc")]
         public const string CompactDisc = "\uf51f";
 
         /// <summary>
@@ -10678,6 +11648,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/compass
         /// </summary>
+        [Description("compass")]
         public const string Compass = "\uf14e";
 
         /// <summary>
@@ -10689,6 +11660,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/compass-drafting
         /// </summary>
+        [Description("compass-drafting")]
         public const string CompassDrafting = "\uf568";
 
         /// <summary>
@@ -10700,6 +11672,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/compass-slash
         /// </summary>
+        [Description("compass-slash")]
         public const string CompassSlash = "\uf5e9";
 
         /// <summary>
@@ -10711,6 +11684,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/compress
         /// </summary>
+        [Description("compress")]
         public const string Compress = "\uf066";
 
         /// <summary>
@@ -10722,6 +11696,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/compress-wide
         /// </summary>
+        [Description("compress-wide")]
         public const string CompressWide = "\uf326";
 
         /// <summary>
@@ -10733,6 +11708,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/computer
         /// </summary>
+        [Description("computer")]
         public const string Computer = "\ue4e5";
 
         /// <summary>
@@ -10744,6 +11720,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/computer-classic
         /// </summary>
+        [Description("computer-classic")]
         public const string ComputerClassic = "\uf8b1";
 
         /// <summary>
@@ -10755,6 +11732,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/computer-mouse
         /// </summary>
+        [Description("computer-mouse")]
         public const string ComputerMouse = "\uf8cc";
 
         /// <summary>
@@ -10766,6 +11744,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/computer-mouse-scrollwheel
         /// </summary>
+        [Description("computer-mouse-scrollwheel")]
         public const string ComputerMouseScrollwheel = "\uf8cd";
 
         /// <summary>
@@ -10777,6 +11756,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/computer-speaker
         /// </summary>
+        [Description("computer-speaker")]
         public const string ComputerSpeaker = "\uf8b2";
 
         /// <summary>
@@ -10788,6 +11768,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/confluence
         /// </summary>
+        [Description("confluence")]
         public const string Confluence = "\uf78d";
 
         /// <summary>
@@ -10799,6 +11780,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/connectdevelop
         /// </summary>
+        [Description("connectdevelop")]
         public const string Connectdevelop = "\uf20e";
 
         /// <summary>
@@ -10810,6 +11792,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/container-storage
         /// </summary>
+        [Description("container-storage")]
         public const string ContainerStorage = "\uf4b7";
 
         /// <summary>
@@ -10821,6 +11804,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/contao
         /// </summary>
+        [Description("contao")]
         public const string Contao = "\uf26d";
 
         /// <summary>
@@ -10832,6 +11816,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/conveyor-belt
         /// </summary>
+        [Description("conveyor-belt")]
         public const string ConveyorBelt = "\uf46e";
 
         /// <summary>
@@ -10843,6 +11828,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/conveyor-belt-arm
         /// </summary>
+        [Description("conveyor-belt-arm")]
         public const string ConveyorBeltArm = "\ue5f8";
 
         /// <summary>
@@ -10854,6 +11840,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/conveyor-belt-boxes
         /// </summary>
+        [Description("conveyor-belt-boxes")]
         public const string ConveyorBeltBoxes = "\uf46f";
 
         /// <summary>
@@ -10865,6 +11852,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/conveyor-belt-empty
         /// </summary>
+        [Description("conveyor-belt-empty")]
         public const string ConveyorBeltEmpty = "\ue150";
 
         /// <summary>
@@ -10876,6 +11864,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cookie
         /// </summary>
+        [Description("cookie")]
         public const string Cookie = "\uf563";
 
         /// <summary>
@@ -10887,6 +11876,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cookie-bite
         /// </summary>
+        [Description("cookie-bite")]
         public const string CookieBite = "\uf564";
 
         /// <summary>
@@ -10898,6 +11888,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/copy
         /// </summary>
+        [Description("copy")]
         public const string Copy = "\uf0c5";
 
         /// <summary>
@@ -10909,6 +11900,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/copyright
         /// </summary>
+        [Description("copyright")]
         public const string Copyright = "\uf1f9";
 
         /// <summary>
@@ -10920,6 +11912,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/corn
         /// </summary>
+        [Description("corn")]
         public const string Corn = "\uf6c7";
 
         /// <summary>
@@ -10931,6 +11924,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/corner
         /// </summary>
+        [Description("corner")]
         public const string Corner = "\ue3fe";
 
         /// <summary>
@@ -10942,6 +11936,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cotton-bureau
         /// </summary>
+        [Description("cotton-bureau")]
         public const string CottonBureau = "\uf89e";
 
         /// <summary>
@@ -10953,6 +11948,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/couch
         /// </summary>
+        [Description("couch")]
         public const string Couch = "\uf4b8";
 
         /// <summary>
@@ -10964,6 +11960,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cow
         /// </summary>
+        [Description("cow")]
         public const string Cow = "\uf6c8";
 
         /// <summary>
@@ -10975,6 +11972,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cowbell
         /// </summary>
+        [Description("cowbell")]
         public const string Cowbell = "\uf8b3";
 
         /// <summary>
@@ -10986,6 +11984,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cowbell-circle-plus
         /// </summary>
+        [Description("cowbell-circle-plus")]
         public const string CowbellCirclePlus = "\uf8b4";
 
         /// <summary>
@@ -10997,6 +11996,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cpanel
         /// </summary>
+        [Description("cpanel")]
         public const string Cpanel = "\uf388";
 
         /// <summary>
@@ -11008,6 +12008,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/crab
         /// </summary>
+        [Description("crab")]
         public const string Crab = "\ue3ff";
 
         /// <summary>
@@ -11019,6 +12020,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/crate-apple
         /// </summary>
+        [Description("crate-apple")]
         public const string CrateApple = "\uf6b1";
 
         /// <summary>
@@ -11030,6 +12032,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/crate-empty
         /// </summary>
+        [Description("crate-empty")]
         public const string CrateEmpty = "\ue151";
 
         /// <summary>
@@ -11041,6 +12044,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons
         /// </summary>
+        [Description("creative-commons")]
         public const string CreativeCommons = "\uf25e";
 
         /// <summary>
@@ -11052,6 +12056,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-by
         /// </summary>
+        [Description("creative-commons-by")]
         public const string CreativeCommonsBy = "\uf4e7";
 
         /// <summary>
@@ -11063,6 +12068,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-nc
         /// </summary>
+        [Description("creative-commons-nc")]
         public const string CreativeCommonsNc = "\uf4e8";
 
         /// <summary>
@@ -11074,6 +12080,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-nc-eu
         /// </summary>
+        [Description("creative-commons-nc-eu")]
         public const string CreativeCommonsNcEu = "\uf4e9";
 
         /// <summary>
@@ -11085,6 +12092,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-nc-jp
         /// </summary>
+        [Description("creative-commons-nc-jp")]
         public const string CreativeCommonsNcJp = "\uf4ea";
 
         /// <summary>
@@ -11096,6 +12104,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-nd
         /// </summary>
+        [Description("creative-commons-nd")]
         public const string CreativeCommonsNd = "\uf4eb";
 
         /// <summary>
@@ -11107,6 +12116,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-pd
         /// </summary>
+        [Description("creative-commons-pd")]
         public const string CreativeCommonsPd = "\uf4ec";
 
         /// <summary>
@@ -11118,6 +12128,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-pd-alt
         /// </summary>
+        [Description("creative-commons-pd-alt")]
         public const string CreativeCommonsPdAlt = "\uf4ed";
 
         /// <summary>
@@ -11129,6 +12140,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-remix
         /// </summary>
+        [Description("creative-commons-remix")]
         public const string CreativeCommonsRemix = "\uf4ee";
 
         /// <summary>
@@ -11140,6 +12152,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-sa
         /// </summary>
+        [Description("creative-commons-sa")]
         public const string CreativeCommonsSa = "\uf4ef";
 
         /// <summary>
@@ -11151,6 +12164,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-sampling
         /// </summary>
+        [Description("creative-commons-sampling")]
         public const string CreativeCommonsSampling = "\uf4f0";
 
         /// <summary>
@@ -11162,6 +12176,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-sampling-plus
         /// </summary>
+        [Description("creative-commons-sampling-plus")]
         public const string CreativeCommonsSamplingPlus = "\uf4f1";
 
         /// <summary>
@@ -11173,6 +12188,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-share
         /// </summary>
+        [Description("creative-commons-share")]
         public const string CreativeCommonsShare = "\uf4f2";
 
         /// <summary>
@@ -11184,6 +12200,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/creative-commons-zero
         /// </summary>
+        [Description("creative-commons-zero")]
         public const string CreativeCommonsZero = "\uf4f3";
 
         /// <summary>
@@ -11195,6 +12212,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/credit-card
         /// </summary>
+        [Description("credit-card")]
         public const string CreditCard = "\uf09d";
 
         /// <summary>
@@ -11206,6 +12224,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/credit-card-blank
         /// </summary>
+        [Description("credit-card-blank")]
         public const string CreditCardBlank = "\uf389";
 
         /// <summary>
@@ -11217,6 +12236,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/credit-card-front
         /// </summary>
+        [Description("credit-card-front")]
         public const string CreditCardFront = "\uf38a";
 
         /// <summary>
@@ -11228,6 +12248,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cricket-bat-ball
         /// </summary>
+        [Description("cricket-bat-ball")]
         public const string CricketBatBall = "\uf449";
 
         /// <summary>
@@ -11239,6 +12260,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/critical-role
         /// </summary>
+        [Description("critical-role")]
         public const string CriticalRole = "\uf6c9";
 
         /// <summary>
@@ -11250,6 +12272,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/croissant
         /// </summary>
+        [Description("croissant")]
         public const string Croissant = "\uf7f6";
 
         /// <summary>
@@ -11261,6 +12284,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/crop
         /// </summary>
+        [Description("crop")]
         public const string Crop = "\uf125";
 
         /// <summary>
@@ -11272,6 +12296,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/crop-simple
         /// </summary>
+        [Description("crop-simple")]
         public const string CropSimple = "\uf565";
 
         /// <summary>
@@ -11283,6 +12308,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cross
         /// </summary>
+        [Description("cross")]
         public const string Cross = "\uf654";
 
         /// <summary>
@@ -11294,6 +12320,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/crosshairs
         /// </summary>
+        [Description("crosshairs")]
         public const string Crosshairs = "\uf05b";
 
         /// <summary>
@@ -11305,6 +12332,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/crosshairs-simple
         /// </summary>
+        [Description("crosshairs-simple")]
         public const string CrosshairsSimple = "\ue59f";
 
         /// <summary>
@@ -11316,6 +12344,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/crow
         /// </summary>
+        [Description("crow")]
         public const string Crow = "\uf520";
 
         /// <summary>
@@ -11327,6 +12356,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/crown
         /// </summary>
+        [Description("crown")]
         public const string Crown = "\uf521";
 
         /// <summary>
@@ -11338,6 +12368,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/crutch
         /// </summary>
+        [Description("crutch")]
         public const string Crutch = "\uf7f7";
 
         /// <summary>
@@ -11349,6 +12380,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/crutches
         /// </summary>
+        [Description("crutches")]
         public const string Crutches = "\uf7f8";
 
         /// <summary>
@@ -11360,6 +12392,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cruzeiro-sign
         /// </summary>
+        [Description("cruzeiro-sign")]
         public const string CruzeiroSign = "\ue152";
 
         /// <summary>
@@ -11371,6 +12404,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/crystal-ball
         /// </summary>
+        [Description("crystal-ball")]
         public const string CrystalBall = "\ue362";
 
         /// <summary>
@@ -11382,6 +12416,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/css3
         /// </summary>
+        [Description("css3")]
         public const string Css3 = "\uf13c";
 
         /// <summary>
@@ -11393,6 +12428,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/css3-alt
         /// </summary>
+        [Description("css3-alt")]
         public const string Css3Alt = "\uf38b";
 
         /// <summary>
@@ -11404,6 +12440,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cube
         /// </summary>
+        [Description("cube")]
         public const string Cube = "\uf1b2";
 
         /// <summary>
@@ -11415,6 +12452,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cubes
         /// </summary>
+        [Description("cubes")]
         public const string Cubes = "\uf1b3";
 
         /// <summary>
@@ -11426,6 +12464,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cubes-stacked
         /// </summary>
+        [Description("cubes-stacked")]
         public const string CubesStacked = "\ue4e6";
 
         /// <summary>
@@ -11437,6 +12476,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cucumber
         /// </summary>
+        [Description("cucumber")]
         public const string Cucumber = "\ue401";
 
         /// <summary>
@@ -11448,6 +12488,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cup-straw
         /// </summary>
+        [Description("cup-straw")]
         public const string CupStraw = "\ue363";
 
         /// <summary>
@@ -11459,6 +12500,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cup-straw-swoosh
         /// </summary>
+        [Description("cup-straw-swoosh")]
         public const string CupStrawSwoosh = "\ue364";
 
         /// <summary>
@@ -11470,6 +12512,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cup-togo
         /// </summary>
+        [Description("cup-togo")]
         public const string CupTogo = "\uf6c5";
 
         /// <summary>
@@ -11481,6 +12524,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cupcake
         /// </summary>
+        [Description("cupcake")]
         public const string Cupcake = "\ue402";
 
         /// <summary>
@@ -11492,6 +12536,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/curling-stone
         /// </summary>
+        [Description("curling-stone")]
         public const string CurlingStone = "\uf44a";
 
         /// <summary>
@@ -11503,6 +12548,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/custard
         /// </summary>
+        [Description("custard")]
         public const string Custard = "\ue403";
 
         /// <summary>
@@ -11514,6 +12560,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/cuttlefish
         /// </summary>
+        [Description("cuttlefish")]
         public const string Cuttlefish = "\uf38c";
 
         /// <summary>
@@ -11525,6 +12572,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/d
         /// </summary>
+        [Description("d")]
         public const string D = "\u0044";
 
         /// <summary>
@@ -11536,6 +12584,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/d-and-d
         /// </summary>
+        [Description("d-and-d")]
         public const string DAndD = "\uf38d";
 
         /// <summary>
@@ -11547,6 +12596,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/d-and-d-beyond
         /// </summary>
+        [Description("d-and-d-beyond")]
         public const string DAndDBeyond = "\uf6ca";
 
         /// <summary>
@@ -11558,6 +12608,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dagger
         /// </summary>
+        [Description("dagger")]
         public const string Dagger = "\uf6cb";
 
         /// <summary>
@@ -11569,6 +12620,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dailymotion
         /// </summary>
+        [Description("dailymotion")]
         public const string Dailymotion = "\ue052";
 
         /// <summary>
@@ -11580,6 +12632,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dash
         /// </summary>
+        [Description("dash")]
         public const string Dash = "\ue404";
 
         /// <summary>
@@ -11591,6 +12644,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dashcube
         /// </summary>
+        [Description("dashcube")]
         public const string Dashcube = "\uf210";
 
         /// <summary>
@@ -11602,6 +12656,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/database
         /// </summary>
+        [Description("database")]
         public const string Database = "\uf1c0";
 
         /// <summary>
@@ -11613,6 +12668,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/deer
         /// </summary>
+        [Description("deer")]
         public const string Deer = "\uf78e";
 
         /// <summary>
@@ -11624,6 +12680,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/deer-rudolph
         /// </summary>
+        [Description("deer-rudolph")]
         public const string DeerRudolph = "\uf78f";
 
         /// <summary>
@@ -11635,6 +12692,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/deezer
         /// </summary>
+        [Description("deezer")]
         public const string Deezer = "\ue077";
 
         /// <summary>
@@ -11646,6 +12704,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/delete-left
         /// </summary>
+        [Description("delete-left")]
         public const string DeleteLeft = "\uf55a";
 
         /// <summary>
@@ -11657,6 +12716,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/delete-right
         /// </summary>
+        [Description("delete-right")]
         public const string DeleteRight = "\ue154";
 
         /// <summary>
@@ -11668,6 +12728,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/delicious
         /// </summary>
+        [Description("delicious")]
         public const string Delicious = "\uf1a5";
 
         /// <summary>
@@ -11679,6 +12740,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/democrat
         /// </summary>
+        [Description("democrat")]
         public const string Democrat = "\uf747";
 
         /// <summary>
@@ -11690,6 +12752,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/deploydog
         /// </summary>
+        [Description("deploydog")]
         public const string Deploydog = "\uf38e";
 
         /// <summary>
@@ -11701,6 +12764,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/deskpro
         /// </summary>
+        [Description("deskpro")]
         public const string Deskpro = "\uf38f";
 
         /// <summary>
@@ -11712,6 +12776,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/desktop
         /// </summary>
+        [Description("desktop")]
         public const string Desktop = "\uf390";
 
         /// <summary>
@@ -11723,6 +12788,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/desktop-arrow-down
         /// </summary>
+        [Description("desktop-arrow-down")]
         public const string DesktopArrowDown = "\ue155";
 
         /// <summary>
@@ -11734,6 +12800,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dev
         /// </summary>
+        [Description("dev")]
         public const string Dev = "\uf6cc";
 
         /// <summary>
@@ -11745,6 +12812,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/deviantart
         /// </summary>
+        [Description("deviantart")]
         public const string Deviantart = "\uf1bd";
 
         /// <summary>
@@ -11756,6 +12824,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dharmachakra
         /// </summary>
+        [Description("dharmachakra")]
         public const string Dharmachakra = "\uf655";
 
         /// <summary>
@@ -11767,6 +12836,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dhl
         /// </summary>
+        [Description("dhl")]
         public const string Dhl = "\uf790";
 
         /// <summary>
@@ -11778,6 +12848,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diagram-cells
         /// </summary>
+        [Description("diagram-cells")]
         public const string DiagramCells = "\ue475";
 
         /// <summary>
@@ -11789,6 +12860,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diagram-lean-canvas
         /// </summary>
+        [Description("diagram-lean-canvas")]
         public const string DiagramLeanCanvas = "\ue156";
 
         /// <summary>
@@ -11800,6 +12872,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diagram-nested
         /// </summary>
+        [Description("diagram-nested")]
         public const string DiagramNested = "\ue157";
 
         /// <summary>
@@ -11811,6 +12884,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diagram-next
         /// </summary>
+        [Description("diagram-next")]
         public const string DiagramNext = "\ue476";
 
         /// <summary>
@@ -11822,6 +12896,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diagram-predecessor
         /// </summary>
+        [Description("diagram-predecessor")]
         public const string DiagramPredecessor = "\ue477";
 
         /// <summary>
@@ -11833,6 +12908,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diagram-previous
         /// </summary>
+        [Description("diagram-previous")]
         public const string DiagramPrevious = "\ue478";
 
         /// <summary>
@@ -11844,6 +12920,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diagram-project
         /// </summary>
+        [Description("diagram-project")]
         public const string DiagramProject = "\uf542";
 
         /// <summary>
@@ -11855,6 +12932,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diagram-sankey
         /// </summary>
+        [Description("diagram-sankey")]
         public const string DiagramSankey = "\ue158";
 
         /// <summary>
@@ -11866,6 +12944,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diagram-subtask
         /// </summary>
+        [Description("diagram-subtask")]
         public const string DiagramSubtask = "\ue479";
 
         /// <summary>
@@ -11877,6 +12956,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diagram-successor
         /// </summary>
+        [Description("diagram-successor")]
         public const string DiagramSuccessor = "\ue47a";
 
         /// <summary>
@@ -11888,6 +12968,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diagram-venn
         /// </summary>
+        [Description("diagram-venn")]
         public const string DiagramVenn = "\ue15a";
 
         /// <summary>
@@ -11899,6 +12980,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dial
         /// </summary>
+        [Description("dial")]
         public const string Dial = "\ue15b";
 
         /// <summary>
@@ -11910,6 +12992,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dial-high
         /// </summary>
+        [Description("dial-high")]
         public const string DialHigh = "\ue15c";
 
         /// <summary>
@@ -11921,6 +13004,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dial-low
         /// </summary>
+        [Description("dial-low")]
         public const string DialLow = "\ue15d";
 
         /// <summary>
@@ -11932,6 +13016,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dial-max
         /// </summary>
+        [Description("dial-max")]
         public const string DialMax = "\ue15e";
 
         /// <summary>
@@ -11943,6 +13028,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dial-med
         /// </summary>
+        [Description("dial-med")]
         public const string DialMed = "\ue15f";
 
         /// <summary>
@@ -11954,6 +13040,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dial-med-low
         /// </summary>
+        [Description("dial-med-low")]
         public const string DialMedLow = "\ue160";
 
         /// <summary>
@@ -11965,6 +13052,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dial-min
         /// </summary>
+        [Description("dial-min")]
         public const string DialMin = "\ue161";
 
         /// <summary>
@@ -11976,6 +13064,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dial-off
         /// </summary>
+        [Description("dial-off")]
         public const string DialOff = "\ue162";
 
         /// <summary>
@@ -11987,6 +13076,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diamond
         /// </summary>
+        [Description("diamond")]
         public const string Diamond = "\uf219";
 
         /// <summary>
@@ -11998,6 +13088,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diamond-exclamation
         /// </summary>
+        [Description("diamond-exclamation")]
         public const string DiamondExclamation = "\ue405";
 
         /// <summary>
@@ -12009,6 +13100,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diamond-half
         /// </summary>
+        [Description("diamond-half")]
         public const string DiamondHalf = "\ue5b7";
 
         /// <summary>
@@ -12020,6 +13112,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diamond-half-stroke
         /// </summary>
+        [Description("diamond-half-stroke")]
         public const string DiamondHalfStroke = "\ue5b8";
 
         /// <summary>
@@ -12031,6 +13124,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diamond-turn-right
         /// </summary>
+        [Description("diamond-turn-right")]
         public const string DiamondTurnRight = "\uf5eb";
 
         /// <summary>
@@ -12042,6 +13136,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diaspora
         /// </summary>
+        [Description("diaspora")]
         public const string Diaspora = "\uf791";
 
         /// <summary>
@@ -12053,6 +13148,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dice
         /// </summary>
+        [Description("dice")]
         public const string Dice = "\uf522";
 
         /// <summary>
@@ -12064,6 +13160,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dice-d10
         /// </summary>
+        [Description("dice-d10")]
         public const string DiceD10 = "\uf6cd";
 
         /// <summary>
@@ -12075,6 +13172,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dice-d12
         /// </summary>
+        [Description("dice-d12")]
         public const string DiceD12 = "\uf6ce";
 
         /// <summary>
@@ -12086,6 +13184,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dice-d20
         /// </summary>
+        [Description("dice-d20")]
         public const string DiceD20 = "\uf6cf";
 
         /// <summary>
@@ -12097,6 +13196,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dice-d4
         /// </summary>
+        [Description("dice-d4")]
         public const string DiceD4 = "\uf6d0";
 
         /// <summary>
@@ -12108,6 +13208,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dice-d6
         /// </summary>
+        [Description("dice-d6")]
         public const string DiceD6 = "\uf6d1";
 
         /// <summary>
@@ -12119,6 +13220,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dice-d8
         /// </summary>
+        [Description("dice-d8")]
         public const string DiceD8 = "\uf6d2";
 
         /// <summary>
@@ -12130,6 +13232,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dice-five
         /// </summary>
+        [Description("dice-five")]
         public const string DiceFive = "\uf523";
 
         /// <summary>
@@ -12141,6 +13244,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dice-four
         /// </summary>
+        [Description("dice-four")]
         public const string DiceFour = "\uf524";
 
         /// <summary>
@@ -12152,6 +13256,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dice-one
         /// </summary>
+        [Description("dice-one")]
         public const string DiceOne = "\uf525";
 
         /// <summary>
@@ -12163,6 +13268,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dice-six
         /// </summary>
+        [Description("dice-six")]
         public const string DiceSix = "\uf526";
 
         /// <summary>
@@ -12174,6 +13280,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dice-three
         /// </summary>
+        [Description("dice-three")]
         public const string DiceThree = "\uf527";
 
         /// <summary>
@@ -12185,6 +13292,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dice-two
         /// </summary>
+        [Description("dice-two")]
         public const string DiceTwo = "\uf528";
 
         /// <summary>
@@ -12196,6 +13304,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/digg
         /// </summary>
+        [Description("digg")]
         public const string Digg = "\uf1a6";
 
         /// <summary>
@@ -12207,6 +13316,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/digital-ocean
         /// </summary>
+        [Description("digital-ocean")]
         public const string DigitalOcean = "\uf391";
 
         /// <summary>
@@ -12218,6 +13328,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dinosaur
         /// </summary>
+        [Description("dinosaur")]
         public const string Dinosaur = "\ue5fe";
 
         /// <summary>
@@ -12229,6 +13340,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/diploma
         /// </summary>
+        [Description("diploma")]
         public const string Diploma = "\uf5ea";
 
         /// <summary>
@@ -12240,6 +13352,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/disc-drive
         /// </summary>
+        [Description("disc-drive")]
         public const string DiscDrive = "\uf8b5";
 
         /// <summary>
@@ -12251,6 +13364,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/discord
         /// </summary>
+        [Description("discord")]
         public const string Discord = "\uf392";
 
         /// <summary>
@@ -12262,6 +13376,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/discourse
         /// </summary>
+        [Description("discourse")]
         public const string Discourse = "\uf393";
 
         /// <summary>
@@ -12273,6 +13388,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/disease
         /// </summary>
+        [Description("disease")]
         public const string Disease = "\uf7fa";
 
         /// <summary>
@@ -12284,6 +13400,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/display
         /// </summary>
+        [Description("display")]
         public const string Display = "\ue163";
 
         /// <summary>
@@ -12295,6 +13412,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/display-arrow-down
         /// </summary>
+        [Description("display-arrow-down")]
         public const string DisplayArrowDown = "\ue164";
 
         /// <summary>
@@ -12306,6 +13424,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/display-chart-up
         /// </summary>
+        [Description("display-chart-up")]
         public const string DisplayChartUp = "\ue5e3";
 
         /// <summary>
@@ -12317,6 +13436,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/display-chart-up-circle-currency
         /// </summary>
+        [Description("display-chart-up-circle-currency")]
         public const string DisplayChartUpCircleCurrency = "\ue5e5";
 
         /// <summary>
@@ -12328,6 +13448,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/display-chart-up-circle-dollar
         /// </summary>
+        [Description("display-chart-up-circle-dollar")]
         public const string DisplayChartUpCircleDollar = "\ue5e6";
 
         /// <summary>
@@ -12339,6 +13460,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/display-code
         /// </summary>
+        [Description("display-code")]
         public const string DisplayCode = "\ue165";
 
         /// <summary>
@@ -12350,6 +13472,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/display-medical
         /// </summary>
+        [Description("display-medical")]
         public const string DisplayMedical = "\ue166";
 
         /// <summary>
@@ -12361,6 +13484,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/display-slash
         /// </summary>
+        [Description("display-slash")]
         public const string DisplaySlash = "\ue2fa";
 
         /// <summary>
@@ -12372,6 +13496,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/distribute-spacing-horizontal
         /// </summary>
+        [Description("distribute-spacing-horizontal")]
         public const string DistributeSpacingHorizontal = "\ue365";
 
         /// <summary>
@@ -12383,6 +13508,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/distribute-spacing-vertical
         /// </summary>
+        [Description("distribute-spacing-vertical")]
         public const string DistributeSpacingVertical = "\ue366";
 
         /// <summary>
@@ -12394,6 +13520,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ditto
         /// </summary>
+        [Description("ditto")]
         public const string Ditto = "\u0022";
 
         /// <summary>
@@ -12405,6 +13532,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/divide
         /// </summary>
+        [Description("divide")]
         public const string Divide = "\uf529";
 
         /// <summary>
@@ -12416,6 +13544,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dna
         /// </summary>
+        [Description("dna")]
         public const string Dna = "\uf471";
 
         /// <summary>
@@ -12427,6 +13556,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/do-not-enter
         /// </summary>
+        [Description("do-not-enter")]
         public const string DoNotEnter = "\uf5ec";
 
         /// <summary>
@@ -12438,6 +13568,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dochub
         /// </summary>
+        [Description("dochub")]
         public const string Dochub = "\uf394";
 
         /// <summary>
@@ -12449,6 +13580,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/docker
         /// </summary>
+        [Description("docker")]
         public const string Docker = "\uf395";
 
         /// <summary>
@@ -12460,6 +13592,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dog
         /// </summary>
+        [Description("dog")]
         public const string Dog = "\uf6d3";
 
         /// <summary>
@@ -12471,6 +13604,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dog-leashed
         /// </summary>
+        [Description("dog-leashed")]
         public const string DogLeashed = "\uf6d4";
 
         /// <summary>
@@ -12482,6 +13616,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dollar-sign
         /// </summary>
+        [Description("dollar-sign")]
         public const string DollarSign = "\u0024";
 
         /// <summary>
@@ -12493,6 +13628,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dolly
         /// </summary>
+        [Description("dolly")]
         public const string Dolly = "\uf472";
 
         /// <summary>
@@ -12504,6 +13640,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dolly-empty
         /// </summary>
+        [Description("dolly-empty")]
         public const string DollyEmpty = "\uf473";
 
         /// <summary>
@@ -12515,6 +13652,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dolphin
         /// </summary>
+        [Description("dolphin")]
         public const string Dolphin = "\ue168";
 
         /// <summary>
@@ -12526,6 +13664,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dong-sign
         /// </summary>
+        [Description("dong-sign")]
         public const string DongSign = "\ue169";
 
         /// <summary>
@@ -12537,6 +13676,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/donut
         /// </summary>
+        [Description("donut")]
         public const string Donut = "\ue406";
 
         /// <summary>
@@ -12548,6 +13688,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/door-closed
         /// </summary>
+        [Description("door-closed")]
         public const string DoorClosed = "\uf52a";
 
         /// <summary>
@@ -12559,6 +13700,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/door-open
         /// </summary>
+        [Description("door-open")]
         public const string DoorOpen = "\uf52b";
 
         /// <summary>
@@ -12570,6 +13712,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dove
         /// </summary>
+        [Description("dove")]
         public const string Dove = "\uf4ba";
 
         /// <summary>
@@ -12581,6 +13724,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/down
         /// </summary>
+        [Description("down")]
         public const string Down = "\uf354";
 
         /// <summary>
@@ -12592,6 +13736,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/down-from-dotted-line
         /// </summary>
+        [Description("down-from-dotted-line")]
         public const string DownFromDottedLine = "\ue407";
 
         /// <summary>
@@ -12603,6 +13748,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/down-from-line
         /// </summary>
+        [Description("down-from-line")]
         public const string DownFromLine = "\uf349";
 
         /// <summary>
@@ -12614,6 +13760,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/down-left
         /// </summary>
+        [Description("down-left")]
         public const string DownLeft = "\ue16a";
 
         /// <summary>
@@ -12625,6 +13772,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/down-left-and-up-right-to-center
         /// </summary>
+        [Description("down-left-and-up-right-to-center")]
         public const string DownLeftAndUpRightToCenter = "\uf422";
 
         /// <summary>
@@ -12636,6 +13784,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/down-long
         /// </summary>
+        [Description("down-long")]
         public const string DownLong = "\uf309";
 
         /// <summary>
@@ -12647,6 +13796,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/down-right
         /// </summary>
+        [Description("down-right")]
         public const string DownRight = "\ue16b";
 
         /// <summary>
@@ -12658,6 +13808,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/down-to-bracket
         /// </summary>
+        [Description("down-to-bracket")]
         public const string DownToBracket = "\ue4e7";
 
         /// <summary>
@@ -12669,6 +13820,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/down-to-dotted-line
         /// </summary>
+        [Description("down-to-dotted-line")]
         public const string DownToDottedLine = "\ue408";
 
         /// <summary>
@@ -12680,6 +13832,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/down-to-line
         /// </summary>
+        [Description("down-to-line")]
         public const string DownToLine = "\uf34a";
 
         /// <summary>
@@ -12691,6 +13844,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/download
         /// </summary>
+        [Description("download")]
         public const string Download = "\uf019";
 
         /// <summary>
@@ -12702,6 +13856,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/draft2digital
         /// </summary>
+        [Description("draft2digital")]
         public const string Draft2digital = "\uf396";
 
         /// <summary>
@@ -12713,6 +13868,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dragon
         /// </summary>
+        [Description("dragon")]
         public const string Dragon = "\uf6d5";
 
         /// <summary>
@@ -12724,6 +13880,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/draw-circle
         /// </summary>
+        [Description("draw-circle")]
         public const string DrawCircle = "\uf5ed";
 
         /// <summary>
@@ -12735,6 +13892,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/draw-polygon
         /// </summary>
+        [Description("draw-polygon")]
         public const string DrawPolygon = "\uf5ee";
 
         /// <summary>
@@ -12746,6 +13904,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/draw-square
         /// </summary>
+        [Description("draw-square")]
         public const string DrawSquare = "\uf5ef";
 
         /// <summary>
@@ -12757,6 +13916,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dreidel
         /// </summary>
+        [Description("dreidel")]
         public const string Dreidel = "\uf792";
 
         /// <summary>
@@ -12768,6 +13928,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dribbble
         /// </summary>
+        [Description("dribbble")]
         public const string Dribbble = "\uf17d";
 
         /// <summary>
@@ -12779,6 +13940,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/drone
         /// </summary>
+        [Description("drone")]
         public const string Drone = "\uf85f";
 
         /// <summary>
@@ -12790,6 +13952,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/drone-front
         /// </summary>
+        [Description("drone-front")]
         public const string DroneFront = "\uf860";
 
         /// <summary>
@@ -12801,6 +13964,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dropbox
         /// </summary>
+        [Description("dropbox")]
         public const string Dropbox = "\uf16b";
 
         /// <summary>
@@ -12812,6 +13976,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/droplet
         /// </summary>
+        [Description("droplet")]
         public const string Droplet = "\uf043";
 
         /// <summary>
@@ -12823,6 +13988,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/droplet-degree
         /// </summary>
+        [Description("droplet-degree")]
         public const string DropletDegree = "\uf748";
 
         /// <summary>
@@ -12834,6 +14000,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/droplet-percent
         /// </summary>
+        [Description("droplet-percent")]
         public const string DropletPercent = "\uf750";
 
         /// <summary>
@@ -12845,6 +14012,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/droplet-slash
         /// </summary>
+        [Description("droplet-slash")]
         public const string DropletSlash = "\uf5c7";
 
         /// <summary>
@@ -12856,6 +14024,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/drum
         /// </summary>
+        [Description("drum")]
         public const string Drum = "\uf569";
 
         /// <summary>
@@ -12867,6 +14036,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/drum-steelpan
         /// </summary>
+        [Description("drum-steelpan")]
         public const string DrumSteelpan = "\uf56a";
 
         /// <summary>
@@ -12878,6 +14048,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/drumstick
         /// </summary>
+        [Description("drumstick")]
         public const string Drumstick = "\uf6d6";
 
         /// <summary>
@@ -12889,6 +14060,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/drumstick-bite
         /// </summary>
+        [Description("drumstick-bite")]
         public const string DrumstickBite = "\uf6d7";
 
         /// <summary>
@@ -12900,6 +14072,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/drupal
         /// </summary>
+        [Description("drupal")]
         public const string Drupal = "\uf1a9";
 
         /// <summary>
@@ -12911,6 +14084,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dryer
         /// </summary>
+        [Description("dryer")]
         public const string Dryer = "\uf861";
 
         /// <summary>
@@ -12922,6 +14096,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dryer-heat
         /// </summary>
+        [Description("dryer-heat")]
         public const string DryerHeat = "\uf862";
 
         /// <summary>
@@ -12933,6 +14108,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/duck
         /// </summary>
+        [Description("duck")]
         public const string Duck = "\uf6d8";
 
         /// <summary>
@@ -12944,6 +14120,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dumbbell
         /// </summary>
+        [Description("dumbbell")]
         public const string Dumbbell = "\uf44b";
 
         /// <summary>
@@ -12955,6 +14132,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dumpster
         /// </summary>
+        [Description("dumpster")]
         public const string Dumpster = "\uf793";
 
         /// <summary>
@@ -12966,6 +14144,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dumpster-fire
         /// </summary>
+        [Description("dumpster-fire")]
         public const string DumpsterFire = "\uf794";
 
         /// <summary>
@@ -12977,6 +14156,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dungeon
         /// </summary>
+        [Description("dungeon")]
         public const string Dungeon = "\uf6d9";
 
         /// <summary>
@@ -12988,6 +14168,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/dyalog
         /// </summary>
+        [Description("dyalog")]
         public const string Dyalog = "\uf399";
 
         /// <summary>
@@ -12999,6 +14180,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/e
         /// </summary>
+        [Description("e")]
         public const string E = "\u0045";
 
         /// <summary>
@@ -13010,6 +14192,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ear
         /// </summary>
+        [Description("ear")]
         public const string Ear = "\uf5f0";
 
         /// <summary>
@@ -13021,6 +14204,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ear-deaf
         /// </summary>
+        [Description("ear-deaf")]
         public const string EarDeaf = "\uf2a4";
 
         /// <summary>
@@ -13032,6 +14216,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ear-listen
         /// </summary>
+        [Description("ear-listen")]
         public const string EarListen = "\uf2a2";
 
         /// <summary>
@@ -13043,6 +14228,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ear-muffs
         /// </summary>
+        [Description("ear-muffs")]
         public const string EarMuffs = "\uf795";
 
         /// <summary>
@@ -13054,6 +14240,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/earlybirds
         /// </summary>
+        [Description("earlybirds")]
         public const string Earlybirds = "\uf39a";
 
         /// <summary>
@@ -13065,6 +14252,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/earth-africa
         /// </summary>
+        [Description("earth-africa")]
         public const string EarthAfrica = "\uf57c";
 
         /// <summary>
@@ -13076,6 +14264,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/earth-americas
         /// </summary>
+        [Description("earth-americas")]
         public const string EarthAmericas = "\uf57d";
 
         /// <summary>
@@ -13087,6 +14276,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/earth-asia
         /// </summary>
+        [Description("earth-asia")]
         public const string EarthAsia = "\uf57e";
 
         /// <summary>
@@ -13098,6 +14288,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/earth-europe
         /// </summary>
+        [Description("earth-europe")]
         public const string EarthEurope = "\uf7a2";
 
         /// <summary>
@@ -13109,6 +14300,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/earth-oceania
         /// </summary>
+        [Description("earth-oceania")]
         public const string EarthOceania = "\ue47b";
 
         /// <summary>
@@ -13120,6 +14312,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ebay
         /// </summary>
+        [Description("ebay")]
         public const string Ebay = "\uf4f4";
 
         /// <summary>
@@ -13131,6 +14324,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/eclipse
         /// </summary>
+        [Description("eclipse")]
         public const string Eclipse = "\uf749";
 
         /// <summary>
@@ -13142,6 +14336,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/edge
         /// </summary>
+        [Description("edge")]
         public const string Edge = "\uf282";
 
         /// <summary>
@@ -13153,6 +14348,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/edge-legacy
         /// </summary>
+        [Description("edge-legacy")]
         public const string EdgeLegacy = "\ue078";
 
         /// <summary>
@@ -13164,6 +14360,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/egg
         /// </summary>
+        [Description("egg")]
         public const string Egg = "\uf7fb";
 
         /// <summary>
@@ -13175,6 +14372,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/egg-fried
         /// </summary>
+        [Description("egg-fried")]
         public const string EggFried = "\uf7fc";
 
         /// <summary>
@@ -13186,6 +14384,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/eggplant
         /// </summary>
+        [Description("eggplant")]
         public const string Eggplant = "\ue16c";
 
         /// <summary>
@@ -13197,6 +14396,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/eject
         /// </summary>
+        [Description("eject")]
         public const string Eject = "\uf052";
 
         /// <summary>
@@ -13208,6 +14408,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/elementor
         /// </summary>
+        [Description("elementor")]
         public const string Elementor = "\uf430";
 
         /// <summary>
@@ -13219,6 +14420,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/elephant
         /// </summary>
+        [Description("elephant")]
         public const string Elephant = "\uf6da";
 
         /// <summary>
@@ -13230,6 +14432,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/elevator
         /// </summary>
+        [Description("elevator")]
         public const string Elevator = "\ue16d";
 
         /// <summary>
@@ -13241,6 +14444,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ellipsis
         /// </summary>
+        [Description("ellipsis")]
         public const string Ellipsis = "\uf141";
 
         /// <summary>
@@ -13252,6 +14456,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ellipsis-stroke
         /// </summary>
+        [Description("ellipsis-stroke")]
         public const string EllipsisStroke = "\uf39b";
 
         /// <summary>
@@ -13263,6 +14468,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ellipsis-stroke-vertical
         /// </summary>
+        [Description("ellipsis-stroke-vertical")]
         public const string EllipsisStrokeVertical = "\uf39c";
 
         /// <summary>
@@ -13274,6 +14480,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ellipsis-vertical
         /// </summary>
+        [Description("ellipsis-vertical")]
         public const string EllipsisVertical = "\uf142";
 
         /// <summary>
@@ -13285,6 +14492,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ello
         /// </summary>
+        [Description("ello")]
         public const string Ello = "\uf5f1";
 
         /// <summary>
@@ -13296,6 +14504,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ember
         /// </summary>
+        [Description("ember")]
         public const string Ember = "\uf423";
 
         /// <summary>
@@ -13307,6 +14516,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/empire
         /// </summary>
+        [Description("empire")]
         public const string Empire = "\uf1d1";
 
         /// <summary>
@@ -13318,6 +14528,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/empty-set
         /// </summary>
+        [Description("empty-set")]
         public const string EmptySet = "\uf656";
 
         /// <summary>
@@ -13329,6 +14540,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/engine
         /// </summary>
+        [Description("engine")]
         public const string Engine = "\ue16e";
 
         /// <summary>
@@ -13340,6 +14552,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/engine-warning
         /// </summary>
+        [Description("engine-warning")]
         public const string EngineWarning = "\uf5f2";
 
         /// <summary>
@@ -13351,6 +14564,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/envelope
         /// </summary>
+        [Description("envelope")]
         public const string Envelope = "\uf0e0";
 
         /// <summary>
@@ -13362,6 +14576,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/envelope-circle-check
         /// </summary>
+        [Description("envelope-circle-check")]
         public const string EnvelopeCircleCheck = "\ue4e8";
 
         /// <summary>
@@ -13373,6 +14588,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/envelope-dot
         /// </summary>
+        [Description("envelope-dot")]
         public const string EnvelopeDot = "\ue16f";
 
         /// <summary>
@@ -13384,6 +14600,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/envelope-open
         /// </summary>
+        [Description("envelope-open")]
         public const string EnvelopeOpen = "\uf2b6";
 
         /// <summary>
@@ -13395,6 +14612,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/envelope-open-dollar
         /// </summary>
+        [Description("envelope-open-dollar")]
         public const string EnvelopeOpenDollar = "\uf657";
 
         /// <summary>
@@ -13406,6 +14624,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/envelope-open-text
         /// </summary>
+        [Description("envelope-open-text")]
         public const string EnvelopeOpenText = "\uf658";
 
         /// <summary>
@@ -13417,6 +14636,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/envelopes
         /// </summary>
+        [Description("envelopes")]
         public const string Envelopes = "\ue170";
 
         /// <summary>
@@ -13428,6 +14648,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/envelopes-bulk
         /// </summary>
+        [Description("envelopes-bulk")]
         public const string EnvelopesBulk = "\uf674";
 
         /// <summary>
@@ -13439,6 +14660,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/envira
         /// </summary>
+        [Description("envira")]
         public const string Envira = "\uf299";
 
         /// <summary>
@@ -13450,6 +14672,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/equals
         /// </summary>
+        [Description("equals")]
         public const string Equal = "\u003d";
 
         /// <summary>
@@ -13461,6 +14684,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/eraser
         /// </summary>
+        [Description("eraser")]
         public const string Eraser = "\uf12d";
 
         /// <summary>
@@ -13472,6 +14696,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/erlang
         /// </summary>
+        [Description("erlang")]
         public const string Erlang = "\uf39d";
 
         /// <summary>
@@ -13483,6 +14708,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/escalator
         /// </summary>
+        [Description("escalator")]
         public const string Escalator = "\ue171";
 
         /// <summary>
@@ -13494,6 +14720,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ethereum
         /// </summary>
+        [Description("ethereum")]
         public const string Ethereum = "\uf42e";
 
         /// <summary>
@@ -13505,6 +14732,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ethernet
         /// </summary>
+        [Description("ethernet")]
         public const string Ethernet = "\uf796";
 
         /// <summary>
@@ -13516,6 +14744,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/etsy
         /// </summary>
+        [Description("etsy")]
         public const string Etsy = "\uf2d7";
 
         /// <summary>
@@ -13527,6 +14756,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/euro-sign
         /// </summary>
+        [Description("euro-sign")]
         public const string EuroSign = "\uf153";
 
         /// <summary>
@@ -13538,6 +14768,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/evernote
         /// </summary>
+        [Description("evernote")]
         public const string Evernote = "\uf839";
 
         /// <summary>
@@ -13549,6 +14780,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/exclamation
         /// </summary>
+        [Description("exclamation")]
         public const string Exclamation = "\u0021";
 
         /// <summary>
@@ -13560,6 +14792,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/expand
         /// </summary>
+        [Description("expand")]
         public const string Expand = "\uf065";
 
         /// <summary>
@@ -13571,6 +14804,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/expand-wide
         /// </summary>
+        [Description("expand-wide")]
         public const string ExpandWide = "\uf320";
 
         /// <summary>
@@ -13582,6 +14816,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/expeditedssl
         /// </summary>
+        [Description("expeditedssl")]
         public const string Expeditedssl = "\uf23e";
 
         /// <summary>
@@ -13593,6 +14828,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/explosion
         /// </summary>
+        [Description("explosion")]
         public const string Explosion = "\ue4e9";
 
         /// <summary>
@@ -13604,6 +14840,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/eye
         /// </summary>
+        [Description("eye")]
         public const string Eye = "\uf06e";
 
         /// <summary>
@@ -13615,6 +14852,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/eye-dropper
         /// </summary>
+        [Description("eye-dropper")]
         public const string EyeDropper = "\uf1fb";
 
         /// <summary>
@@ -13626,6 +14864,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/eye-dropper-full
         /// </summary>
+        [Description("eye-dropper-full")]
         public const string EyeDropperFull = "\ue172";
 
         /// <summary>
@@ -13637,6 +14876,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/eye-dropper-half
         /// </summary>
+        [Description("eye-dropper-half")]
         public const string EyeDropperHalf = "\ue173";
 
         /// <summary>
@@ -13648,6 +14888,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/eye-evil
         /// </summary>
+        [Description("eye-evil")]
         public const string EyeEvil = "\uf6db";
 
         /// <summary>
@@ -13659,6 +14900,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/eye-low-vision
         /// </summary>
+        [Description("eye-low-vision")]
         public const string EyeLowVision = "\uf2a8";
 
         /// <summary>
@@ -13670,6 +14912,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/eye-slash
         /// </summary>
+        [Description("eye-slash")]
         public const string EyeSlash = "\uf070";
 
         /// <summary>
@@ -13681,6 +14924,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/eyes
         /// </summary>
+        [Description("eyes")]
         public const string Eyes = "\ue367";
 
         /// <summary>
@@ -13692,6 +14936,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/f
         /// </summary>
+        [Description("f")]
         public const string F = "\u0046";
 
         /// <summary>
@@ -13703,6 +14948,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-angry
         /// </summary>
+        [Description("face-angry")]
         public const string FaceAngry = "\uf556";
 
         /// <summary>
@@ -13714,6 +14960,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-angry-horns
         /// </summary>
+        [Description("face-angry-horns")]
         public const string FaceAngryHorns = "\ue368";
 
         /// <summary>
@@ -13725,6 +14972,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-anguished
         /// </summary>
+        [Description("face-anguished")]
         public const string FaceAnguished = "\ue369";
 
         /// <summary>
@@ -13736,6 +14984,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-anxious-sweat
         /// </summary>
+        [Description("face-anxious-sweat")]
         public const string FaceAnxiousSweat = "\ue36a";
 
         /// <summary>
@@ -13747,6 +14996,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-astonished
         /// </summary>
+        [Description("face-astonished")]
         public const string FaceAstonished = "\ue36b";
 
         /// <summary>
@@ -13758,6 +15008,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-awesome
         /// </summary>
+        [Description("face-awesome")]
         public const string FaceAwesome = "\ue409";
 
         /// <summary>
@@ -13769,6 +15020,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-beam-hand-over-mouth
         /// </summary>
+        [Description("face-beam-hand-over-mouth")]
         public const string FaceBeamHandOverMouth = "\ue47c";
 
         /// <summary>
@@ -13780,6 +15032,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-clouds
         /// </summary>
+        [Description("face-clouds")]
         public const string FaceClouds = "\ue47d";
 
         /// <summary>
@@ -13791,6 +15044,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-confounded
         /// </summary>
+        [Description("face-confounded")]
         public const string FaceConfounded = "\ue36c";
 
         /// <summary>
@@ -13802,6 +15056,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-confused
         /// </summary>
+        [Description("face-confused")]
         public const string FaceConfused = "\ue36d";
 
         /// <summary>
@@ -13813,6 +15068,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-cowboy-hat
         /// </summary>
+        [Description("face-cowboy-hat")]
         public const string FaceCowboyHat = "\ue36e";
 
         /// <summary>
@@ -13824,6 +15080,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-diagonal-mouth
         /// </summary>
+        [Description("face-diagonal-mouth")]
         public const string FaceDiagonalMouth = "\ue47e";
 
         /// <summary>
@@ -13835,6 +15092,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-disappointed
         /// </summary>
+        [Description("face-disappointed")]
         public const string FaceDisappointed = "\ue36f";
 
         /// <summary>
@@ -13846,6 +15104,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-disguise
         /// </summary>
+        [Description("face-disguise")]
         public const string FaceDisguise = "\ue370";
 
         /// <summary>
@@ -13857,6 +15116,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-dizzy
         /// </summary>
+        [Description("face-dizzy")]
         public const string FaceDizzy = "\uf567";
 
         /// <summary>
@@ -13868,6 +15128,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-dotted
         /// </summary>
+        [Description("face-dotted")]
         public const string FaceDotted = "\ue47f";
 
         /// <summary>
@@ -13879,6 +15140,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-downcast-sweat
         /// </summary>
+        [Description("face-downcast-sweat")]
         public const string FaceDowncastSweat = "\ue371";
 
         /// <summary>
@@ -13890,6 +15152,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-drooling
         /// </summary>
+        [Description("face-drooling")]
         public const string FaceDrooling = "\ue372";
 
         /// <summary>
@@ -13901,6 +15164,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-exhaling
         /// </summary>
+        [Description("face-exhaling")]
         public const string FaceExhaling = "\ue480";
 
         /// <summary>
@@ -13912,6 +15176,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-explode
         /// </summary>
+        [Description("face-explode")]
         public const string FaceExplode = "\ue2fe";
 
         /// <summary>
@@ -13923,6 +15188,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-expressionless
         /// </summary>
+        [Description("face-expressionless")]
         public const string FaceExpressionless = "\ue373";
 
         /// <summary>
@@ -13934,6 +15200,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-eyes-xmarks
         /// </summary>
+        [Description("face-eyes-xmarks")]
         public const string FaceEyesXmarks = "\ue374";
 
         /// <summary>
@@ -13945,6 +15212,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-fearful
         /// </summary>
+        [Description("face-fearful")]
         public const string FaceFearful = "\ue375";
 
         /// <summary>
@@ -13956,6 +15224,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-flushed
         /// </summary>
+        [Description("face-flushed")]
         public const string FaceFlushed = "\uf579";
 
         /// <summary>
@@ -13967,6 +15236,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-frown
         /// </summary>
+        [Description("face-frown")]
         public const string FaceFrown = "\uf119";
 
         /// <summary>
@@ -13978,6 +15248,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-frown-open
         /// </summary>
+        [Description("face-frown-open")]
         public const string FaceFrownOpen = "\uf57a";
 
         /// <summary>
@@ -13989,6 +15260,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-frown-slight
         /// </summary>
+        [Description("face-frown-slight")]
         public const string FaceFrownSlight = "\ue376";
 
         /// <summary>
@@ -14000,6 +15272,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-glasses
         /// </summary>
+        [Description("face-glasses")]
         public const string FaceGlasses = "\ue377";
 
         /// <summary>
@@ -14011,6 +15284,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-grimace
         /// </summary>
+        [Description("face-grimace")]
         public const string FaceGrimace = "\uf57f";
 
         /// <summary>
@@ -14022,6 +15296,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-grin
         /// </summary>
+        [Description("face-grin")]
         public const string FaceGrin = "\uf580";
 
         /// <summary>
@@ -14033,6 +15308,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-grin-beam
         /// </summary>
+        [Description("face-grin-beam")]
         public const string FaceGrinBeam = "\uf582";
 
         /// <summary>
@@ -14044,6 +15320,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-grin-beam-sweat
         /// </summary>
+        [Description("face-grin-beam-sweat")]
         public const string FaceGrinBeamSweat = "\uf583";
 
         /// <summary>
@@ -14055,6 +15332,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-grin-hearts
         /// </summary>
+        [Description("face-grin-hearts")]
         public const string FaceGrinHearts = "\uf584";
 
         /// <summary>
@@ -14066,6 +15344,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-grin-squint
         /// </summary>
+        [Description("face-grin-squint")]
         public const string FaceGrinSquint = "\uf585";
 
         /// <summary>
@@ -14077,6 +15356,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-grin-squint-tears
         /// </summary>
+        [Description("face-grin-squint-tears")]
         public const string FaceGrinSquintTears = "\uf586";
 
         /// <summary>
@@ -14088,6 +15368,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-grin-stars
         /// </summary>
+        [Description("face-grin-stars")]
         public const string FaceGrinStars = "\uf587";
 
         /// <summary>
@@ -14099,6 +15380,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-grin-tears
         /// </summary>
+        [Description("face-grin-tears")]
         public const string FaceGrinTears = "\uf588";
 
         /// <summary>
@@ -14110,6 +15392,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-grin-tongue
         /// </summary>
+        [Description("face-grin-tongue")]
         public const string FaceGrinTongue = "\uf589";
 
         /// <summary>
@@ -14121,6 +15404,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-grin-tongue-squint
         /// </summary>
+        [Description("face-grin-tongue-squint")]
         public const string FaceGrinTongueSquint = "\uf58a";
 
         /// <summary>
@@ -14132,6 +15416,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-grin-tongue-wink
         /// </summary>
+        [Description("face-grin-tongue-wink")]
         public const string FaceGrinTongueWink = "\uf58b";
 
         /// <summary>
@@ -14143,6 +15428,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-grin-wide
         /// </summary>
+        [Description("face-grin-wide")]
         public const string FaceGrinWide = "\uf581";
 
         /// <summary>
@@ -14154,6 +15440,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-grin-wink
         /// </summary>
+        [Description("face-grin-wink")]
         public const string FaceGrinWink = "\uf58c";
 
         /// <summary>
@@ -14165,6 +15452,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-hand-over-mouth
         /// </summary>
+        [Description("face-hand-over-mouth")]
         public const string FaceHandOverMouth = "\ue378";
 
         /// <summary>
@@ -14176,6 +15464,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-hand-peeking
         /// </summary>
+        [Description("face-hand-peeking")]
         public const string FaceHandPeeking = "\ue481";
 
         /// <summary>
@@ -14187,6 +15476,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-hand-yawn
         /// </summary>
+        [Description("face-hand-yawn")]
         public const string FaceHandYawn = "\ue379";
 
         /// <summary>
@@ -14198,6 +15488,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-head-bandage
         /// </summary>
+        [Description("face-head-bandage")]
         public const string FaceHeadBandage = "\ue37a";
 
         /// <summary>
@@ -14209,6 +15500,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-holding-back-tears
         /// </summary>
+        [Description("face-holding-back-tears")]
         public const string FaceHoldingBackTears = "\ue482";
 
         /// <summary>
@@ -14220,6 +15512,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-hushed
         /// </summary>
+        [Description("face-hushed")]
         public const string FaceHushed = "\ue37b";
 
         /// <summary>
@@ -14231,6 +15524,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-icicles
         /// </summary>
+        [Description("face-icicles")]
         public const string FaceIcicles = "\ue37c";
 
         /// <summary>
@@ -14242,6 +15536,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-kiss
         /// </summary>
+        [Description("face-kiss")]
         public const string FaceKiss = "\uf596";
 
         /// <summary>
@@ -14253,6 +15548,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-kiss-beam
         /// </summary>
+        [Description("face-kiss-beam")]
         public const string FaceKissBeam = "\uf597";
 
         /// <summary>
@@ -14264,6 +15560,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-kiss-closed-eyes
         /// </summary>
+        [Description("face-kiss-closed-eyes")]
         public const string FaceKissClosedEyes = "\ue37d";
 
         /// <summary>
@@ -14275,6 +15572,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-kiss-wink-heart
         /// </summary>
+        [Description("face-kiss-wink-heart")]
         public const string FaceKissWinkHeart = "\uf598";
 
         /// <summary>
@@ -14286,6 +15584,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-laugh
         /// </summary>
+        [Description("face-laugh")]
         public const string FaceLaugh = "\uf599";
 
         /// <summary>
@@ -14297,6 +15596,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-laugh-beam
         /// </summary>
+        [Description("face-laugh-beam")]
         public const string FaceLaughBeam = "\uf59a";
 
         /// <summary>
@@ -14308,6 +15608,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-laugh-squint
         /// </summary>
+        [Description("face-laugh-squint")]
         public const string FaceLaughSquint = "\uf59b";
 
         /// <summary>
@@ -14319,6 +15620,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-laugh-wink
         /// </summary>
+        [Description("face-laugh-wink")]
         public const string FaceLaughWink = "\uf59c";
 
         /// <summary>
@@ -14330,6 +15632,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-lying
         /// </summary>
+        [Description("face-lying")]
         public const string FaceLying = "\ue37e";
 
         /// <summary>
@@ -14341,6 +15644,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-mask
         /// </summary>
+        [Description("face-mask")]
         public const string FaceMask = "\ue37f";
 
         /// <summary>
@@ -14352,6 +15656,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-meh
         /// </summary>
+        [Description("face-meh")]
         public const string FaceMeh = "\uf11a";
 
         /// <summary>
@@ -14363,6 +15668,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-meh-blank
         /// </summary>
+        [Description("face-meh-blank")]
         public const string FaceMehBlank = "\uf5a4";
 
         /// <summary>
@@ -14374,6 +15680,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-melting
         /// </summary>
+        [Description("face-melting")]
         public const string FaceMelting = "\ue483";
 
         /// <summary>
@@ -14385,6 +15692,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-monocle
         /// </summary>
+        [Description("face-monocle")]
         public const string FaceMonocle = "\ue380";
 
         /// <summary>
@@ -14396,6 +15704,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-nauseated
         /// </summary>
+        [Description("face-nauseated")]
         public const string FaceNauseated = "\ue381";
 
         /// <summary>
@@ -14407,6 +15716,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-nose-steam
         /// </summary>
+        [Description("face-nose-steam")]
         public const string FaceNoseSteam = "\ue382";
 
         /// <summary>
@@ -14418,6 +15728,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-party
         /// </summary>
+        [Description("face-party")]
         public const string FaceParty = "\ue383";
 
         /// <summary>
@@ -14429,6 +15740,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-pensive
         /// </summary>
+        [Description("face-pensive")]
         public const string FacePensive = "\ue384";
 
         /// <summary>
@@ -14440,6 +15752,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-persevering
         /// </summary>
+        [Description("face-persevering")]
         public const string FacePersevering = "\ue385";
 
         /// <summary>
@@ -14451,6 +15764,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-pleading
         /// </summary>
+        [Description("face-pleading")]
         public const string FacePleading = "\ue386";
 
         /// <summary>
@@ -14462,6 +15776,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-pouting
         /// </summary>
+        [Description("face-pouting")]
         public const string FacePouting = "\ue387";
 
         /// <summary>
@@ -14473,6 +15788,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-raised-eyebrow
         /// </summary>
+        [Description("face-raised-eyebrow")]
         public const string FaceRaisedEyebrow = "\ue388";
 
         /// <summary>
@@ -14484,6 +15800,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-relieved
         /// </summary>
+        [Description("face-relieved")]
         public const string FaceRelieved = "\ue389";
 
         /// <summary>
@@ -14495,6 +15812,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-rolling-eyes
         /// </summary>
+        [Description("face-rolling-eyes")]
         public const string FaceRollingEyes = "\uf5a5";
 
         /// <summary>
@@ -14506,6 +15824,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-sad-cry
         /// </summary>
+        [Description("face-sad-cry")]
         public const string FaceSadCry = "\uf5b3";
 
         /// <summary>
@@ -14517,6 +15836,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-sad-sweat
         /// </summary>
+        [Description("face-sad-sweat")]
         public const string FaceSadSweat = "\ue38a";
 
         /// <summary>
@@ -14528,6 +15848,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-sad-tear
         /// </summary>
+        [Description("face-sad-tear")]
         public const string FaceSadTear = "\uf5b4";
 
         /// <summary>
@@ -14539,6 +15860,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-saluting
         /// </summary>
+        [Description("face-saluting")]
         public const string FaceSaluting = "\ue484";
 
         /// <summary>
@@ -14550,6 +15872,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-scream
         /// </summary>
+        [Description("face-scream")]
         public const string FaceScream = "\ue38b";
 
         /// <summary>
@@ -14561,6 +15884,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-shush
         /// </summary>
+        [Description("face-shush")]
         public const string FaceShush = "\ue38c";
 
         /// <summary>
@@ -14572,6 +15896,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-sleeping
         /// </summary>
+        [Description("face-sleeping")]
         public const string FaceSleeping = "\ue38d";
 
         /// <summary>
@@ -14583,6 +15908,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-sleepy
         /// </summary>
+        [Description("face-sleepy")]
         public const string FaceSleepy = "\ue38e";
 
         /// <summary>
@@ -14594,6 +15920,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-smile
         /// </summary>
+        [Description("face-smile")]
         public const string FaceSmile = "\uf118";
 
         /// <summary>
@@ -14605,6 +15932,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-smile-beam
         /// </summary>
+        [Description("face-smile-beam")]
         public const string FaceSmileBeam = "\uf5b8";
 
         /// <summary>
@@ -14616,6 +15944,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-smile-halo
         /// </summary>
+        [Description("face-smile-halo")]
         public const string FaceSmileHalo = "\ue38f";
 
         /// <summary>
@@ -14627,6 +15956,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-smile-hearts
         /// </summary>
+        [Description("face-smile-hearts")]
         public const string FaceSmileHearts = "\ue390";
 
         /// <summary>
@@ -14638,6 +15968,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-smile-horns
         /// </summary>
+        [Description("face-smile-horns")]
         public const string FaceSmileHorns = "\ue391";
 
         /// <summary>
@@ -14649,6 +15980,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-smile-plus
         /// </summary>
+        [Description("face-smile-plus")]
         public const string FaceSmilePlus = "\uf5b9";
 
         /// <summary>
@@ -14660,6 +15992,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-smile-relaxed
         /// </summary>
+        [Description("face-smile-relaxed")]
         public const string FaceSmileRelaxed = "\ue392";
 
         /// <summary>
@@ -14671,6 +16004,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-smile-tear
         /// </summary>
+        [Description("face-smile-tear")]
         public const string FaceSmileTear = "\ue393";
 
         /// <summary>
@@ -14682,6 +16016,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-smile-tongue
         /// </summary>
+        [Description("face-smile-tongue")]
         public const string FaceSmileTongue = "\ue394";
 
         /// <summary>
@@ -14693,6 +16028,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-smile-upside-down
         /// </summary>
+        [Description("face-smile-upside-down")]
         public const string FaceSmileUpsideDown = "\ue395";
 
         /// <summary>
@@ -14704,6 +16040,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-smile-wink
         /// </summary>
+        [Description("face-smile-wink")]
         public const string FaceSmileWink = "\uf4da";
 
         /// <summary>
@@ -14715,6 +16052,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-smiling-hands
         /// </summary>
+        [Description("face-smiling-hands")]
         public const string FaceSmilingHands = "\ue396";
 
         /// <summary>
@@ -14726,6 +16064,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-smirking
         /// </summary>
+        [Description("face-smirking")]
         public const string FaceSmirking = "\ue397";
 
         /// <summary>
@@ -14737,6 +16076,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-spiral-eyes
         /// </summary>
+        [Description("face-spiral-eyes")]
         public const string FaceSpiralEyes = "\ue485";
 
         /// <summary>
@@ -14748,6 +16088,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-sunglasses
         /// </summary>
+        [Description("face-sunglasses")]
         public const string FaceSunglasses = "\ue398";
 
         /// <summary>
@@ -14759,6 +16100,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-surprise
         /// </summary>
+        [Description("face-surprise")]
         public const string FaceSurprise = "\uf5c2";
 
         /// <summary>
@@ -14770,6 +16112,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-swear
         /// </summary>
+        [Description("face-swear")]
         public const string FaceSwear = "\ue399";
 
         /// <summary>
@@ -14781,6 +16124,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-thermometer
         /// </summary>
+        [Description("face-thermometer")]
         public const string FaceThermometer = "\ue39a";
 
         /// <summary>
@@ -14792,6 +16136,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-thinking
         /// </summary>
+        [Description("face-thinking")]
         public const string FaceThinking = "\ue39b";
 
         /// <summary>
@@ -14803,6 +16148,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-tired
         /// </summary>
+        [Description("face-tired")]
         public const string FaceTired = "\uf5c8";
 
         /// <summary>
@@ -14814,6 +16160,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-tissue
         /// </summary>
+        [Description("face-tissue")]
         public const string FaceTissue = "\ue39c";
 
         /// <summary>
@@ -14825,6 +16172,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-tongue-money
         /// </summary>
+        [Description("face-tongue-money")]
         public const string FaceTongueMoney = "\ue39d";
 
         /// <summary>
@@ -14836,6 +16184,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-tongue-sweat
         /// </summary>
+        [Description("face-tongue-sweat")]
         public const string FaceTongueSweat = "\ue39e";
 
         /// <summary>
@@ -14847,6 +16196,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-unamused
         /// </summary>
+        [Description("face-unamused")]
         public const string FaceUnamused = "\ue39f";
 
         /// <summary>
@@ -14858,6 +16208,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-viewfinder
         /// </summary>
+        [Description("face-viewfinder")]
         public const string FaceViewfinder = "\ue2ff";
 
         /// <summary>
@@ -14869,6 +16220,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-vomit
         /// </summary>
+        [Description("face-vomit")]
         public const string FaceVomit = "\ue3a0";
 
         /// <summary>
@@ -14880,6 +16232,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-weary
         /// </summary>
+        [Description("face-weary")]
         public const string FaceWeary = "\ue3a1";
 
         /// <summary>
@@ -14891,6 +16244,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-woozy
         /// </summary>
+        [Description("face-woozy")]
         public const string FaceWoozy = "\ue3a2";
 
         /// <summary>
@@ -14902,6 +16256,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-worried
         /// </summary>
+        [Description("face-worried")]
         public const string FaceWorried = "\ue3a3";
 
         /// <summary>
@@ -14913,6 +16268,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-zany
         /// </summary>
+        [Description("face-zany")]
         public const string FaceZany = "\ue3a4";
 
         /// <summary>
@@ -14924,6 +16280,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/face-zipper
         /// </summary>
+        [Description("face-zipper")]
         public const string FaceZipper = "\ue3a5";
 
         /// <summary>
@@ -14935,6 +16292,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/facebook
         /// </summary>
+        [Description("facebook")]
         public const string Facebook = "\uf09a";
 
         /// <summary>
@@ -14946,6 +16304,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/facebook-f
         /// </summary>
+        [Description("facebook-f")]
         public const string FacebookF = "\uf39e";
 
         /// <summary>
@@ -14957,6 +16316,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/facebook-messenger
         /// </summary>
+        [Description("facebook-messenger")]
         public const string FacebookMessenger = "\uf39f";
 
         /// <summary>
@@ -14968,6 +16328,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/falafel
         /// </summary>
+        [Description("falafel")]
         public const string Falafel = "\ue40a";
 
         /// <summary>
@@ -14979,6 +16340,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/family
         /// </summary>
+        [Description("family")]
         public const string Family = "\ue300";
 
         /// <summary>
@@ -14990,6 +16352,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/family-dress
         /// </summary>
+        [Description("family-dress")]
         public const string FamilyDress = "\ue301";
 
         /// <summary>
@@ -15001,6 +16364,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/family-pants
         /// </summary>
+        [Description("family-pants")]
         public const string FamilyPants = "\ue302";
 
         /// <summary>
@@ -15012,6 +16376,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fan
         /// </summary>
+        [Description("fan")]
         public const string Fan = "\uf863";
 
         /// <summary>
@@ -15023,6 +16388,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fan-table
         /// </summary>
+        [Description("fan-table")]
         public const string FanTable = "\ue004";
 
         /// <summary>
@@ -15034,6 +16400,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fantasy-flight-games
         /// </summary>
+        [Description("fantasy-flight-games")]
         public const string FantasyFlightGames = "\uf6dc";
 
         /// <summary>
@@ -15045,6 +16412,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/farm
         /// </summary>
+        [Description("farm")]
         public const string Farm = "\uf864";
 
         /// <summary>
@@ -15056,6 +16424,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/faucet
         /// </summary>
+        [Description("faucet")]
         public const string Faucet = "\ue005";
 
         /// <summary>
@@ -15067,6 +16436,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/faucet-drip
         /// </summary>
+        [Description("faucet-drip")]
         public const string FaucetDrip = "\ue006";
 
         /// <summary>
@@ -15078,6 +16448,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fax
         /// </summary>
+        [Description("fax")]
         public const string Fax = "\uf1ac";
 
         /// <summary>
@@ -15089,6 +16460,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/feather
         /// </summary>
+        [Description("feather")]
         public const string Feather = "\uf52d";
 
         /// <summary>
@@ -15100,6 +16472,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/feather-pointed
         /// </summary>
+        [Description("feather-pointed")]
         public const string FeatherPointed = "\uf56b";
 
         /// <summary>
@@ -15111,6 +16484,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fedex
         /// </summary>
+        [Description("fedex")]
         public const string Fedex = "\uf797";
 
         /// <summary>
@@ -15122,6 +16496,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fedora
         /// </summary>
+        [Description("fedora")]
         public const string Fedora = "\uf798";
 
         /// <summary>
@@ -15133,6 +16508,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fence
         /// </summary>
+        [Description("fence")]
         public const string Fence = "\ue303";
 
         /// <summary>
@@ -15144,6 +16520,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ferris-wheel
         /// </summary>
+        [Description("ferris-wheel")]
         public const string FerrisWheel = "\ue174";
 
         /// <summary>
@@ -15155,6 +16532,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ferry
         /// </summary>
+        [Description("ferry")]
         public const string Ferry = "\ue4ea";
 
         /// <summary>
@@ -15166,6 +16544,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/field-hockey-stick-ball
         /// </summary>
+        [Description("field-hockey-stick-ball")]
         public const string FieldHockeyStickBall = "\uf44c";
 
         /// <summary>
@@ -15177,6 +16556,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/figma
         /// </summary>
+        [Description("figma")]
         public const string Figma = "\uf799";
 
         /// <summary>
@@ -15188,6 +16568,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file
         /// </summary>
+        [Description("file")]
         public const string File = "\uf15b";
 
         /// <summary>
@@ -15199,6 +16580,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-arrow-down
         /// </summary>
+        [Description("file-arrow-down")]
         public const string FileArrowDown = "\uf56d";
 
         /// <summary>
@@ -15210,6 +16592,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-arrow-up
         /// </summary>
+        [Description("file-arrow-up")]
         public const string FileArrowUp = "\uf574";
 
         /// <summary>
@@ -15221,6 +16604,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-audio
         /// </summary>
+        [Description("file-audio")]
         public const string FileAudio = "\uf1c7";
 
         /// <summary>
@@ -15232,6 +16616,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-binary
         /// </summary>
+        [Description("file-binary")]
         public const string FileBinary = "\ue175";
 
         /// <summary>
@@ -15243,6 +16628,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-certificate
         /// </summary>
+        [Description("file-certificate")]
         public const string FileCertificate = "\uf5f3";
 
         /// <summary>
@@ -15254,6 +16640,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-chart-column
         /// </summary>
+        [Description("file-chart-column")]
         public const string FileChartColumn = "\uf659";
 
         /// <summary>
@@ -15265,6 +16652,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-chart-pie
         /// </summary>
+        [Description("file-chart-pie")]
         public const string FileChartPie = "\uf65a";
 
         /// <summary>
@@ -15276,6 +16664,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-check
         /// </summary>
+        [Description("file-check")]
         public const string FileCheck = "\uf316";
 
         /// <summary>
@@ -15287,6 +16676,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-circle-check
         /// </summary>
+        [Description("file-circle-check")]
         public const string FileCircleCheck = "\ue5a0";
 
         /// <summary>
@@ -15298,6 +16688,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-circle-exclamation
         /// </summary>
+        [Description("file-circle-exclamation")]
         public const string FileCircleExclamation = "\ue4eb";
 
         /// <summary>
@@ -15309,6 +16700,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-circle-info
         /// </summary>
+        [Description("file-circle-info")]
         public const string FileCircleInfo = "\ue493";
 
         /// <summary>
@@ -15320,6 +16712,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-circle-minus
         /// </summary>
+        [Description("file-circle-minus")]
         public const string FileCircleMinus = "\ue4ed";
 
         /// <summary>
@@ -15331,6 +16724,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-circle-plus
         /// </summary>
+        [Description("file-circle-plus")]
         public const string FileCirclePlus = "\ue494";
 
         /// <summary>
@@ -15342,6 +16736,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-circle-question
         /// </summary>
+        [Description("file-circle-question")]
         public const string FileCircleQuestion = "\ue4ef";
 
         /// <summary>
@@ -15353,6 +16748,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-circle-xmark
         /// </summary>
+        [Description("file-circle-xmark")]
         public const string FileCircleXmark = "\ue5a1";
 
         /// <summary>
@@ -15364,6 +16760,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-code
         /// </summary>
+        [Description("file-code")]
         public const string FileCode = "\uf1c9";
 
         /// <summary>
@@ -15375,6 +16772,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-contract
         /// </summary>
+        [Description("file-contract")]
         public const string FileContract = "\uf56c";
 
         /// <summary>
@@ -15386,6 +16784,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-csv
         /// </summary>
+        [Description("file-csv")]
         public const string FileCsv = "\uf6dd";
 
         /// <summary>
@@ -15397,6 +16796,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-dashed-line
         /// </summary>
+        [Description("file-dashed-line")]
         public const string FileDashedLine = "\uf877";
 
         /// <summary>
@@ -15408,6 +16808,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-doc
         /// </summary>
+        [Description("file-doc")]
         public const string FileDoc = "\ue5ed";
 
         /// <summary>
@@ -15419,6 +16820,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-excel
         /// </summary>
+        [Description("file-excel")]
         public const string FileExcel = "\uf1c3";
 
         /// <summary>
@@ -15430,6 +16832,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-exclamation
         /// </summary>
+        [Description("file-exclamation")]
         public const string FileExclamation = "\uf31a";
 
         /// <summary>
@@ -15441,6 +16844,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-export
         /// </summary>
+        [Description("file-export")]
         public const string FileExport = "\uf56e";
 
         /// <summary>
@@ -15452,6 +16856,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-heart
         /// </summary>
+        [Description("file-heart")]
         public const string FileHeart = "\ue176";
 
         /// <summary>
@@ -15463,6 +16868,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-image
         /// </summary>
+        [Description("file-image")]
         public const string FileImage = "\uf1c5";
 
         /// <summary>
@@ -15474,6 +16880,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-import
         /// </summary>
+        [Description("file-import")]
         public const string FileImport = "\uf56f";
 
         /// <summary>
@@ -15485,6 +16892,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-invoice
         /// </summary>
+        [Description("file-invoice")]
         public const string FileInvoice = "\uf570";
 
         /// <summary>
@@ -15496,6 +16904,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-invoice-dollar
         /// </summary>
+        [Description("file-invoice-dollar")]
         public const string FileInvoiceDollar = "\uf571";
 
         /// <summary>
@@ -15507,6 +16916,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-lines
         /// </summary>
+        [Description("file-lines")]
         public const string FileLines = "\uf15c";
 
         /// <summary>
@@ -15518,6 +16928,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-lock
         /// </summary>
+        [Description("file-lock")]
         public const string FileLock = "\ue3a6";
 
         /// <summary>
@@ -15529,6 +16940,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-magnifying-glass
         /// </summary>
+        [Description("file-magnifying-glass")]
         public const string FileMagnifyingGlass = "\uf865";
 
         /// <summary>
@@ -15540,6 +16952,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-medical
         /// </summary>
+        [Description("file-medical")]
         public const string FileMedical = "\uf477";
 
         /// <summary>
@@ -15551,6 +16964,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-minus
         /// </summary>
+        [Description("file-minus")]
         public const string FileMinus = "\uf318";
 
         /// <summary>
@@ -15562,6 +16976,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-music
         /// </summary>
+        [Description("file-music")]
         public const string FileMusic = "\uf8b6";
 
         /// <summary>
@@ -15573,6 +16988,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-pdf
         /// </summary>
+        [Description("file-pdf")]
         public const string FilePdf = "\uf1c1";
 
         /// <summary>
@@ -15584,6 +17000,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-pen
         /// </summary>
+        [Description("file-pen")]
         public const string FilePen = "\uf31c";
 
         /// <summary>
@@ -15595,6 +17012,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-plus
         /// </summary>
+        [Description("file-plus")]
         public const string FilePlus = "\uf319";
 
         /// <summary>
@@ -15606,6 +17024,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-plus-minus
         /// </summary>
+        [Description("file-plus-minus")]
         public const string FilePlusMinus = "\ue177";
 
         /// <summary>
@@ -15617,6 +17036,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-powerpoint
         /// </summary>
+        [Description("file-powerpoint")]
         public const string FilePowerpoint = "\uf1c4";
 
         /// <summary>
@@ -15628,6 +17048,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-prescription
         /// </summary>
+        [Description("file-prescription")]
         public const string FilePrescription = "\uf572";
 
         /// <summary>
@@ -15639,6 +17060,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-shield
         /// </summary>
+        [Description("file-shield")]
         public const string FileShield = "\ue4f0";
 
         /// <summary>
@@ -15650,6 +17072,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-signature
         /// </summary>
+        [Description("file-signature")]
         public const string FileSignature = "\uf573";
 
         /// <summary>
@@ -15661,6 +17084,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-slash
         /// </summary>
+        [Description("file-slash")]
         public const string FileSlash = "\ue3a7";
 
         /// <summary>
@@ -15672,6 +17096,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-spreadsheet
         /// </summary>
+        [Description("file-spreadsheet")]
         public const string FileSpreadsheet = "\uf65b";
 
         /// <summary>
@@ -15683,6 +17108,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-user
         /// </summary>
+        [Description("file-user")]
         public const string FileUser = "\uf65c";
 
         /// <summary>
@@ -15694,6 +17120,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-video
         /// </summary>
+        [Description("file-video")]
         public const string FileVideo = "\uf1c8";
 
         /// <summary>
@@ -15705,6 +17132,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-waveform
         /// </summary>
+        [Description("file-waveform")]
         public const string FileWaveform = "\uf478";
 
         /// <summary>
@@ -15716,6 +17144,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-word
         /// </summary>
+        [Description("file-word")]
         public const string FileWord = "\uf1c2";
 
         /// <summary>
@@ -15727,6 +17156,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-xmark
         /// </summary>
+        [Description("file-xmark")]
         public const string FileXmark = "\uf317";
 
         /// <summary>
@@ -15738,6 +17168,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-zip
         /// </summary>
+        [Description("file-zip")]
         public const string FileZip = "\ue5ee";
 
         /// <summary>
@@ -15749,6 +17180,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/file-zipper
         /// </summary>
+        [Description("file-zipper")]
         public const string FileZipper = "\uf1c6";
 
         /// <summary>
@@ -15760,6 +17192,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/files
         /// </summary>
+        [Description("files")]
         public const string Files = "\ue178";
 
         /// <summary>
@@ -15771,6 +17204,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/files-medical
         /// </summary>
+        [Description("files-medical")]
         public const string FilesMedical = "\uf7fd";
 
         /// <summary>
@@ -15782,6 +17216,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fill
         /// </summary>
+        [Description("fill")]
         public const string Fill = "\uf575";
 
         /// <summary>
@@ -15793,6 +17228,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fill-drip
         /// </summary>
+        [Description("fill-drip")]
         public const string FillDrip = "\uf576";
 
         /// <summary>
@@ -15804,6 +17240,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/film
         /// </summary>
+        [Description("film")]
         public const string Film = "\uf008";
 
         /// <summary>
@@ -15815,6 +17252,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/film-canister
         /// </summary>
+        [Description("film-canister")]
         public const string FilmCanister = "\uf8b7";
 
         /// <summary>
@@ -15826,6 +17264,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/film-simple
         /// </summary>
+        [Description("film-simple")]
         public const string FilmSimple = "\uf3a0";
 
         /// <summary>
@@ -15837,6 +17276,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/film-slash
         /// </summary>
+        [Description("film-slash")]
         public const string FilmSlash = "\ue179";
 
         /// <summary>
@@ -15848,6 +17288,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/films
         /// </summary>
+        [Description("films")]
         public const string Films = "\ue17a";
 
         /// <summary>
@@ -15859,6 +17300,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/filter
         /// </summary>
+        [Description("filter")]
         public const string Filter = "\uf0b0";
 
         /// <summary>
@@ -15870,6 +17312,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/filter-circle-dollar
         /// </summary>
+        [Description("filter-circle-dollar")]
         public const string FilterCircleDollar = "\uf662";
 
         /// <summary>
@@ -15881,6 +17324,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/filter-circle-xmark
         /// </summary>
+        [Description("filter-circle-xmark")]
         public const string FilterCircleXmark = "\ue17b";
 
         /// <summary>
@@ -15892,6 +17336,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/filter-list
         /// </summary>
+        [Description("filter-list")]
         public const string FilterList = "\ue17c";
 
         /// <summary>
@@ -15903,6 +17348,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/filter-slash
         /// </summary>
+        [Description("filter-slash")]
         public const string FilterSlash = "\ue17d";
 
         /// <summary>
@@ -15914,6 +17360,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/filters
         /// </summary>
+        [Description("filters")]
         public const string Filters = "\ue17e";
 
         /// <summary>
@@ -15925,6 +17372,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fingerprint
         /// </summary>
+        [Description("fingerprint")]
         public const string Fingerprint = "\uf577";
 
         /// <summary>
@@ -15936,6 +17384,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fire
         /// </summary>
+        [Description("fire")]
         public const string Fire = "\uf06d";
 
         /// <summary>
@@ -15947,6 +17396,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fire-burner
         /// </summary>
+        [Description("fire-burner")]
         public const string FireBurner = "\ue4f1";
 
         /// <summary>
@@ -15958,6 +17408,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fire-extinguisher
         /// </summary>
+        [Description("fire-extinguisher")]
         public const string FireExtinguisher = "\uf134";
 
         /// <summary>
@@ -15969,6 +17420,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fire-flame
         /// </summary>
+        [Description("fire-flame")]
         public const string FireFlame = "\uf6df";
 
         /// <summary>
@@ -15980,6 +17432,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fire-flame-curved
         /// </summary>
+        [Description("fire-flame-curved")]
         public const string FireFlameCurved = "\uf7e4";
 
         /// <summary>
@@ -15991,6 +17444,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fire-flame-simple
         /// </summary>
+        [Description("fire-flame-simple")]
         public const string FireFlameSimple = "\uf46a";
 
         /// <summary>
@@ -16002,6 +17456,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fire-hydrant
         /// </summary>
+        [Description("fire-hydrant")]
         public const string FireHydrant = "\ue17f";
 
         /// <summary>
@@ -16013,6 +17468,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fire-smoke
         /// </summary>
+        [Description("fire-smoke")]
         public const string FireSmoke = "\uf74b";
 
         /// <summary>
@@ -16024,6 +17480,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/firefox
         /// </summary>
+        [Description("firefox")]
         public const string Firefox = "\uf269";
 
         /// <summary>
@@ -16035,6 +17492,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/firefox-browser
         /// </summary>
+        [Description("firefox-browser")]
         public const string FirefoxBrowser = "\ue007";
 
         /// <summary>
@@ -16046,6 +17504,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fireplace
         /// </summary>
+        [Description("fireplace")]
         public const string Fireplace = "\uf79a";
 
         /// <summary>
@@ -16057,6 +17516,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/first-order
         /// </summary>
+        [Description("first-order")]
         public const string FirstOrder = "\uf2b0";
 
         /// <summary>
@@ -16068,6 +17528,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/first-order-alt
         /// </summary>
+        [Description("first-order-alt")]
         public const string FirstOrderAlt = "\uf50a";
 
         /// <summary>
@@ -16079,6 +17540,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/firstdraft
         /// </summary>
+        [Description("firstdraft")]
         public const string Firstdraft = "\uf3a1";
 
         /// <summary>
@@ -16090,6 +17552,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fish
         /// </summary>
+        [Description("fish")]
         public const string Fish = "\uf578";
 
         /// <summary>
@@ -16101,6 +17564,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fish-bones
         /// </summary>
+        [Description("fish-bones")]
         public const string FishBones = "\ue304";
 
         /// <summary>
@@ -16112,6 +17576,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fish-cooked
         /// </summary>
+        [Description("fish-cooked")]
         public const string FishCooked = "\uf7fe";
 
         /// <summary>
@@ -16123,6 +17588,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fish-fins
         /// </summary>
+        [Description("fish-fins")]
         public const string FishFins = "\ue4f2";
 
         /// <summary>
@@ -16134,6 +17600,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fishing-rod
         /// </summary>
+        [Description("fishing-rod")]
         public const string FishingRod = "\ue3a8";
 
         /// <summary>
@@ -16145,6 +17612,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flag
         /// </summary>
+        [Description("flag")]
         public const string Flag = "\uf024";
 
         /// <summary>
@@ -16156,6 +17624,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flag-checkered
         /// </summary>
+        [Description("flag-checkered")]
         public const string FlagCheckered = "\uf11e";
 
         /// <summary>
@@ -16167,6 +17636,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flag-pennant
         /// </summary>
+        [Description("flag-pennant")]
         public const string FlagPennant = "\uf456";
 
         /// <summary>
@@ -16178,6 +17648,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flag-swallowtail
         /// </summary>
+        [Description("flag-swallowtail")]
         public const string FlagSwallowtail = "\uf74c";
 
         /// <summary>
@@ -16189,6 +17660,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flag-usa
         /// </summary>
+        [Description("flag-usa")]
         public const string FlagUsa = "\uf74d";
 
         /// <summary>
@@ -16200,6 +17672,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flashlight
         /// </summary>
+        [Description("flashlight")]
         public const string Flashlight = "\uf8b8";
 
         /// <summary>
@@ -16211,6 +17684,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flask
         /// </summary>
+        [Description("flask")]
         public const string Flask = "\uf0c3";
 
         /// <summary>
@@ -16222,6 +17696,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flask-gear
         /// </summary>
+        [Description("flask-gear")]
         public const string FlaskGear = "\ue5f1";
 
         /// <summary>
@@ -16233,6 +17708,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flask-round-poison
         /// </summary>
+        [Description("flask-round-poison")]
         public const string FlaskRoundPoison = "\uf6e0";
 
         /// <summary>
@@ -16244,6 +17720,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flask-round-potion
         /// </summary>
+        [Description("flask-round-potion")]
         public const string FlaskRoundPotion = "\uf6e1";
 
         /// <summary>
@@ -16255,6 +17732,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flask-vial
         /// </summary>
+        [Description("flask-vial")]
         public const string FlaskVial = "\ue4f3";
 
         /// <summary>
@@ -16266,6 +17744,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flatbread
         /// </summary>
+        [Description("flatbread")]
         public const string Flatbread = "\ue40b";
 
         /// <summary>
@@ -16277,6 +17756,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flatbread-stuffed
         /// </summary>
+        [Description("flatbread-stuffed")]
         public const string FlatbreadStuffed = "\ue40c";
 
         /// <summary>
@@ -16288,6 +17768,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flickr
         /// </summary>
+        [Description("flickr")]
         public const string Flickr = "\uf16e";
 
         /// <summary>
@@ -16299,6 +17780,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flipboard
         /// </summary>
+        [Description("flipboard")]
         public const string Flipboard = "\uf44d";
 
         /// <summary>
@@ -16310,6 +17792,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/floppy-disk
         /// </summary>
+        [Description("floppy-disk")]
         public const string FloppyDisk = "\uf0c7";
 
         /// <summary>
@@ -16321,6 +17804,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/floppy-disk-circle-arrow-right
         /// </summary>
+        [Description("floppy-disk-circle-arrow-right")]
         public const string FloppyDiskCircleArrowRight = "\ue180";
 
         /// <summary>
@@ -16332,6 +17816,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/floppy-disk-circle-xmark
         /// </summary>
+        [Description("floppy-disk-circle-xmark")]
         public const string FloppyDiskCircleXmark = "\ue181";
 
         /// <summary>
@@ -16343,6 +17828,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/floppy-disk-pen
         /// </summary>
+        [Description("floppy-disk-pen")]
         public const string FloppyDiskPen = "\ue182";
 
         /// <summary>
@@ -16354,6 +17840,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/floppy-disks
         /// </summary>
+        [Description("floppy-disks")]
         public const string FloppyDisks = "\ue183";
 
         /// <summary>
@@ -16365,6 +17852,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/florin-sign
         /// </summary>
+        [Description("florin-sign")]
         public const string FlorinSign = "\ue184";
 
         /// <summary>
@@ -16376,6 +17864,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flower
         /// </summary>
+        [Description("flower")]
         public const string Flower = "\uf7ff";
 
         /// <summary>
@@ -16387,6 +17876,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flower-daffodil
         /// </summary>
+        [Description("flower-daffodil")]
         public const string FlowerDaffodil = "\uf800";
 
         /// <summary>
@@ -16398,6 +17888,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flower-tulip
         /// </summary>
+        [Description("flower-tulip")]
         public const string FlowerTulip = "\uf801";
 
         /// <summary>
@@ -16409,6 +17900,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flute
         /// </summary>
+        [Description("flute")]
         public const string Flute = "\uf8b9";
 
         /// <summary>
@@ -16420,6 +17912,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flux-capacitor
         /// </summary>
+        [Description("flux-capacitor")]
         public const string FluxCapacitor = "\uf8ba";
 
         /// <summary>
@@ -16431,6 +17924,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fly
         /// </summary>
+        [Description("fly")]
         public const string Fly = "\uf417";
 
         /// <summary>
@@ -16442,6 +17936,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/flying-disc
         /// </summary>
+        [Description("flying-disc")]
         public const string FlyingDisc = "\ue3a9";
 
         /// <summary>
@@ -16453,6 +17948,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder
         /// </summary>
+        [Description("folder")]
         public const string Folder = "\uf07b";
 
         /// <summary>
@@ -16464,6 +17960,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-arrow-down
         /// </summary>
+        [Description("folder-arrow-down")]
         public const string FolderArrowDown = "\ue053";
 
         /// <summary>
@@ -16475,6 +17972,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-arrow-up
         /// </summary>
+        [Description("folder-arrow-up")]
         public const string FolderArrowUp = "\ue054";
 
         /// <summary>
@@ -16486,6 +17984,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-bookmark
         /// </summary>
+        [Description("folder-bookmark")]
         public const string FolderBookmark = "\ue186";
 
         /// <summary>
@@ -16497,6 +17996,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-closed
         /// </summary>
+        [Description("folder-closed")]
         public const string FolderClosed = "\ue185";
 
         /// <summary>
@@ -16508,6 +18008,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-gear
         /// </summary>
+        [Description("folder-gear")]
         public const string FolderGear = "\ue187";
 
         /// <summary>
@@ -16519,6 +18020,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-grid
         /// </summary>
+        [Description("folder-grid")]
         public const string FolderGrid = "\ue188";
 
         /// <summary>
@@ -16530,6 +18032,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-heart
         /// </summary>
+        [Description("folder-heart")]
         public const string FolderHeart = "\ue189";
 
         /// <summary>
@@ -16541,6 +18044,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-image
         /// </summary>
+        [Description("folder-image")]
         public const string FolderImage = "\ue18a";
 
         /// <summary>
@@ -16552,6 +18056,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-magnifying-glass
         /// </summary>
+        [Description("folder-magnifying-glass")]
         public const string FolderMagnifyingGlass = "\ue18b";
 
         /// <summary>
@@ -16563,6 +18068,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-medical
         /// </summary>
+        [Description("folder-medical")]
         public const string FolderMedical = "\ue18c";
 
         /// <summary>
@@ -16574,6 +18080,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-minus
         /// </summary>
+        [Description("folder-minus")]
         public const string FolderMinus = "\uf65d";
 
         /// <summary>
@@ -16585,6 +18092,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-music
         /// </summary>
+        [Description("folder-music")]
         public const string FolderMusic = "\ue18d";
 
         /// <summary>
@@ -16596,6 +18104,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-open
         /// </summary>
+        [Description("folder-open")]
         public const string FolderOpen = "\uf07c";
 
         /// <summary>
@@ -16607,6 +18116,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-plus
         /// </summary>
+        [Description("folder-plus")]
         public const string FolderPlus = "\uf65e";
 
         /// <summary>
@@ -16618,6 +18128,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-tree
         /// </summary>
+        [Description("folder-tree")]
         public const string FolderTree = "\uf802";
 
         /// <summary>
@@ -16629,6 +18140,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-user
         /// </summary>
+        [Description("folder-user")]
         public const string FolderUser = "\ue18e";
 
         /// <summary>
@@ -16640,6 +18152,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folder-xmark
         /// </summary>
+        [Description("folder-xmark")]
         public const string FolderXmark = "\uf65f";
 
         /// <summary>
@@ -16651,6 +18164,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/folders
         /// </summary>
+        [Description("folders")]
         public const string Folders = "\uf660";
 
         /// <summary>
@@ -16662,6 +18176,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fondue-pot
         /// </summary>
+        [Description("fondue-pot")]
         public const string FonduePot = "\ue40d";
 
         /// <summary>
@@ -16673,6 +18188,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/font
         /// </summary>
+        [Description("font")]
         public const string Font = "\uf031";
 
         /// <summary>
@@ -16684,6 +18200,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/font-awesome
         /// </summary>
+        [Description("font-awesome")]
         public const string FontAwesome = "\uf2b4";
 
         /// <summary>
@@ -16695,6 +18212,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/font-case
         /// </summary>
+        [Description("font-case")]
         public const string FontCase = "\uf866";
 
         /// <summary>
@@ -16706,6 +18224,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fonticons
         /// </summary>
+        [Description("fonticons")]
         public const string Fonticons = "\uf280";
 
         /// <summary>
@@ -16717,6 +18236,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fonticons-fi
         /// </summary>
+        [Description("fonticons-fi")]
         public const string FonticonsFi = "\uf3a2";
 
         /// <summary>
@@ -16728,6 +18248,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/football
         /// </summary>
+        [Description("football")]
         public const string Football = "\uf44e";
 
         /// <summary>
@@ -16739,6 +18260,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/football-helmet
         /// </summary>
+        [Description("football-helmet")]
         public const string FootballHelmet = "\uf44f";
 
         /// <summary>
@@ -16750,6 +18272,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fork
         /// </summary>
+        [Description("fork")]
         public const string Fork = "\uf2e3";
 
         /// <summary>
@@ -16761,6 +18284,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fork-knife
         /// </summary>
+        [Description("fork-knife")]
         public const string ForkKnife = "\uf2e6";
 
         /// <summary>
@@ -16772,6 +18296,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/forklift
         /// </summary>
+        [Description("forklift")]
         public const string Forklift = "\uf47a";
 
         /// <summary>
@@ -16783,6 +18308,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fort
         /// </summary>
+        [Description("fort")]
         public const string Fort = "\ue486";
 
         /// <summary>
@@ -16794,6 +18320,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fort-awesome
         /// </summary>
+        [Description("fort-awesome")]
         public const string FortAwesome = "\uf286";
 
         /// <summary>
@@ -16805,6 +18332,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fort-awesome-alt
         /// </summary>
+        [Description("fort-awesome-alt")]
         public const string FortAwesomeAlt = "\uf3a3";
 
         /// <summary>
@@ -16816,6 +18344,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/forumbee
         /// </summary>
+        [Description("forumbee")]
         public const string Forumbee = "\uf211";
 
         /// <summary>
@@ -16827,6 +18356,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/forward
         /// </summary>
+        [Description("forward")]
         public const string Forward = "\uf04e";
 
         /// <summary>
@@ -16838,6 +18368,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/forward-fast
         /// </summary>
+        [Description("forward-fast")]
         public const string ForwardFast = "\uf050";
 
         /// <summary>
@@ -16849,6 +18380,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/forward-step
         /// </summary>
+        [Description("forward-step")]
         public const string ForwardStep = "\uf051";
 
         /// <summary>
@@ -16860,6 +18392,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/foursquare
         /// </summary>
+        [Description("foursquare")]
         public const string Foursquare = "\uf180";
 
         /// <summary>
@@ -16871,6 +18404,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/frame
         /// </summary>
+        [Description("frame")]
         public const string Frame = "\ue495";
 
         /// <summary>
@@ -16882,6 +18416,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/franc-sign
         /// </summary>
+        [Description("franc-sign")]
         public const string FrancSign = "\ue18f";
 
         /// <summary>
@@ -16893,6 +18428,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/free-code-camp
         /// </summary>
+        [Description("free-code-camp")]
         public const string FreeCodeCamp = "\uf2c5";
 
         /// <summary>
@@ -16904,6 +18440,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/freebsd
         /// </summary>
+        [Description("freebsd")]
         public const string Freebsd = "\uf3a4";
 
         /// <summary>
@@ -16915,6 +18452,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/french-fries
         /// </summary>
+        [Description("french-fries")]
         public const string FrenchFries = "\uf803";
 
         /// <summary>
@@ -16926,6 +18464,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/frog
         /// </summary>
+        [Description("frog")]
         public const string Frog = "\uf52e";
 
         /// <summary>
@@ -16937,6 +18476,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/fulcrum
         /// </summary>
+        [Description("fulcrum")]
         public const string Fulcrum = "\uf50b";
 
         /// <summary>
@@ -16948,6 +18488,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/function
         /// </summary>
+        [Description("function")]
         public const string Function = "\uf661";
 
         /// <summary>
@@ -16959,6 +18500,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/futbol
         /// </summary>
+        [Description("futbol")]
         public const string Futbol = "\uf1e3";
 
         /// <summary>
@@ -16970,6 +18512,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/g
         /// </summary>
+        [Description("g")]
         public const string G = "\u0047";
 
         /// <summary>
@@ -16981,6 +18524,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/galactic-republic
         /// </summary>
+        [Description("galactic-republic")]
         public const string GalacticRepublic = "\uf50c";
 
         /// <summary>
@@ -16992,6 +18536,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/galactic-senate
         /// </summary>
+        [Description("galactic-senate")]
         public const string GalacticSenate = "\uf50d";
 
         /// <summary>
@@ -17003,6 +18548,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/galaxy
         /// </summary>
+        [Description("galaxy")]
         public const string Galaxy = "\ue008";
 
         /// <summary>
@@ -17014,6 +18560,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gallery-thumbnails
         /// </summary>
+        [Description("gallery-thumbnails")]
         public const string GalleryThumbnails = "\ue3aa";
 
         /// <summary>
@@ -17025,6 +18572,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/game-board
         /// </summary>
+        [Description("game-board")]
         public const string GameBoard = "\uf867";
 
         /// <summary>
@@ -17036,6 +18584,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/game-board-simple
         /// </summary>
+        [Description("game-board-simple")]
         public const string GameBoardSimple = "\uf868";
 
         /// <summary>
@@ -17047,6 +18596,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/game-console-handheld
         /// </summary>
+        [Description("game-console-handheld")]
         public const string GameConsoleHandheld = "\uf8bb";
 
         /// <summary>
@@ -17058,6 +18608,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/game-console-handheld-crank
         /// </summary>
+        [Description("game-console-handheld-crank")]
         public const string GameConsoleHandheldCrank = "\ue5b9";
 
         /// <summary>
@@ -17069,6 +18620,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gamepad
         /// </summary>
+        [Description("gamepad")]
         public const string Gamepad = "\uf11b";
 
         /// <summary>
@@ -17080,6 +18632,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gamepad-modern
         /// </summary>
+        [Description("gamepad-modern")]
         public const string GamepadModern = "\ue5a2";
 
         /// <summary>
@@ -17091,6 +18644,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/garage
         /// </summary>
+        [Description("garage")]
         public const string Garage = "\ue009";
 
         /// <summary>
@@ -17102,6 +18656,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/garage-car
         /// </summary>
+        [Description("garage-car")]
         public const string GarageCar = "\ue00a";
 
         /// <summary>
@@ -17113,6 +18668,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/garage-open
         /// </summary>
+        [Description("garage-open")]
         public const string GarageOpen = "\ue00b";
 
         /// <summary>
@@ -17124,6 +18680,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/garlic
         /// </summary>
+        [Description("garlic")]
         public const string Garlic = "\ue40e";
 
         /// <summary>
@@ -17135,6 +18692,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gas-pump
         /// </summary>
+        [Description("gas-pump")]
         public const string GasPump = "\uf52f";
 
         /// <summary>
@@ -17146,6 +18704,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gas-pump-slash
         /// </summary>
+        [Description("gas-pump-slash")]
         public const string GasPumpSlash = "\uf5f4";
 
         /// <summary>
@@ -17157,6 +18716,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gauge
         /// </summary>
+        [Description("gauge")]
         public const string Gauge = "\uf624";
 
         /// <summary>
@@ -17168,6 +18728,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gauge-circle-bolt
         /// </summary>
+        [Description("gauge-circle-bolt")]
         public const string GaugeCircleBolt = "\ue496";
 
         /// <summary>
@@ -17179,6 +18740,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gauge-circle-minus
         /// </summary>
+        [Description("gauge-circle-minus")]
         public const string GaugeCircleMinus = "\ue497";
 
         /// <summary>
@@ -17190,6 +18752,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gauge-circle-plus
         /// </summary>
+        [Description("gauge-circle-plus")]
         public const string GaugeCirclePlus = "\ue498";
 
         /// <summary>
@@ -17201,6 +18764,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gauge-high
         /// </summary>
+        [Description("gauge-high")]
         public const string GaugeHigh = "\uf625";
 
         /// <summary>
@@ -17212,6 +18776,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gauge-low
         /// </summary>
+        [Description("gauge-low")]
         public const string GaugeLow = "\uf627";
 
         /// <summary>
@@ -17223,6 +18788,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gauge-max
         /// </summary>
+        [Description("gauge-max")]
         public const string GaugeMax = "\uf626";
 
         /// <summary>
@@ -17234,6 +18800,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gauge-min
         /// </summary>
+        [Description("gauge-min")]
         public const string GaugeMin = "\uf628";
 
         /// <summary>
@@ -17245,6 +18812,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gauge-simple
         /// </summary>
+        [Description("gauge-simple")]
         public const string GaugeSimple = "\uf629";
 
         /// <summary>
@@ -17256,6 +18824,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gauge-simple-high
         /// </summary>
+        [Description("gauge-simple-high")]
         public const string GaugeSimpleHigh = "\uf62a";
 
         /// <summary>
@@ -17267,6 +18836,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gauge-simple-low
         /// </summary>
+        [Description("gauge-simple-low")]
         public const string GaugeSimpleLow = "\uf62c";
 
         /// <summary>
@@ -17278,6 +18848,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gauge-simple-max
         /// </summary>
+        [Description("gauge-simple-max")]
         public const string GaugeSimpleMax = "\uf62b";
 
         /// <summary>
@@ -17289,6 +18860,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gauge-simple-min
         /// </summary>
+        [Description("gauge-simple-min")]
         public const string GaugeSimpleMin = "\uf62d";
 
         /// <summary>
@@ -17300,6 +18872,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gavel
         /// </summary>
+        [Description("gavel")]
         public const string Gavel = "\uf0e3";
 
         /// <summary>
@@ -17311,6 +18884,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gear
         /// </summary>
+        [Description("gear")]
         public const string Gear = "\uf013";
 
         /// <summary>
@@ -17322,6 +18896,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gear-code
         /// </summary>
+        [Description("gear-code")]
         public const string GearCode = "\ue5e8";
 
         /// <summary>
@@ -17333,6 +18908,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gear-complex
         /// </summary>
+        [Description("gear-complex")]
         public const string GearComplex = "\ue5e9";
 
         /// <summary>
@@ -17344,6 +18920,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gear-complex-code
         /// </summary>
+        [Description("gear-complex-code")]
         public const string GearComplexCode = "\ue5eb";
 
         /// <summary>
@@ -17355,6 +18932,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gears
         /// </summary>
+        [Description("gears")]
         public const string Gears = "\uf085";
 
         /// <summary>
@@ -17366,6 +18944,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gem
         /// </summary>
+        [Description("gem")]
         public const string Gem = "\uf3a5";
 
         /// <summary>
@@ -17377,6 +18956,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/genderless
         /// </summary>
+        [Description("genderless")]
         public const string Genderless = "\uf22d";
 
         /// <summary>
@@ -17388,6 +18968,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/get-pocket
         /// </summary>
+        [Description("get-pocket")]
         public const string GetPocket = "\uf265";
 
         /// <summary>
@@ -17399,6 +18980,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gg
         /// </summary>
+        [Description("gg")]
         public const string Gg = "\uf260";
 
         /// <summary>
@@ -17410,6 +18992,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gg-circle
         /// </summary>
+        [Description("gg-circle")]
         public const string GgCircle = "\uf261";
 
         /// <summary>
@@ -17421,6 +19004,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ghost
         /// </summary>
+        [Description("ghost")]
         public const string Ghost = "\uf6e2";
 
         /// <summary>
@@ -17432,6 +19016,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gif
         /// </summary>
+        [Description("gif")]
         public const string Gif = "\ue190";
 
         /// <summary>
@@ -17443,6 +19028,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gift
         /// </summary>
+        [Description("gift")]
         public const string Gift = "\uf06b";
 
         /// <summary>
@@ -17454,6 +19040,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gift-card
         /// </summary>
+        [Description("gift-card")]
         public const string GiftCard = "\uf663";
 
         /// <summary>
@@ -17465,6 +19052,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gifts
         /// </summary>
+        [Description("gifts")]
         public const string Gifts = "\uf79c";
 
         /// <summary>
@@ -17476,6 +19064,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gingerbread-man
         /// </summary>
+        [Description("gingerbread-man")]
         public const string GingerbreadMan = "\uf79d";
 
         /// <summary>
@@ -17487,6 +19076,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/git
         /// </summary>
+        [Description("git")]
         public const string Git = "\uf1d3";
 
         /// <summary>
@@ -17498,6 +19088,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/git-alt
         /// </summary>
+        [Description("git-alt")]
         public const string GitAlt = "\uf841";
 
         /// <summary>
@@ -17509,6 +19100,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/github
         /// </summary>
+        [Description("github")]
         public const string Github = "\uf09b";
 
         /// <summary>
@@ -17520,6 +19112,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/github-alt
         /// </summary>
+        [Description("github-alt")]
         public const string GithubAlt = "\uf113";
 
         /// <summary>
@@ -17531,6 +19124,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gitkraken
         /// </summary>
+        [Description("gitkraken")]
         public const string Gitkraken = "\uf3a6";
 
         /// <summary>
@@ -17542,6 +19136,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gitlab
         /// </summary>
+        [Description("gitlab")]
         public const string Gitlab = "\uf296";
 
         /// <summary>
@@ -17553,6 +19148,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gitter
         /// </summary>
+        [Description("gitter")]
         public const string Gitter = "\uf426";
 
         /// <summary>
@@ -17564,6 +19160,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/glass
         /// </summary>
+        [Description("glass")]
         public const string Glass = "\uf804";
 
         /// <summary>
@@ -17575,6 +19172,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/glass-citrus
         /// </summary>
+        [Description("glass-citrus")]
         public const string GlassCitrus = "\uf869";
 
         /// <summary>
@@ -17586,6 +19184,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/glass-empty
         /// </summary>
+        [Description("glass-empty")]
         public const string GlassEmpty = "\ue191";
 
         /// <summary>
@@ -17597,6 +19196,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/glass-half
         /// </summary>
+        [Description("glass-half")]
         public const string GlassHalf = "\ue192";
 
         /// <summary>
@@ -17608,6 +19208,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/glass-water
         /// </summary>
+        [Description("glass-water")]
         public const string GlassWater = "\ue4f4";
 
         /// <summary>
@@ -17619,6 +19220,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/glass-water-droplet
         /// </summary>
+        [Description("glass-water-droplet")]
         public const string GlassWaterDroplet = "\ue4f5";
 
         /// <summary>
@@ -17630,6 +19232,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/glasses
         /// </summary>
+        [Description("glasses")]
         public const string Glasses = "\uf530";
 
         /// <summary>
@@ -17641,6 +19244,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/glasses-round
         /// </summary>
+        [Description("glasses-round")]
         public const string GlassesRound = "\uf5f5";
 
         /// <summary>
@@ -17652,6 +19256,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/glide
         /// </summary>
+        [Description("glide")]
         public const string Glide = "\uf2a5";
 
         /// <summary>
@@ -17663,6 +19268,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/glide-g
         /// </summary>
+        [Description("glide-g")]
         public const string GlideG = "\uf2a6";
 
         /// <summary>
@@ -17674,6 +19280,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/globe
         /// </summary>
+        [Description("globe")]
         public const string Globe = "\uf0ac";
 
         /// <summary>
@@ -17685,6 +19292,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/globe-snow
         /// </summary>
+        [Description("globe-snow")]
         public const string GlobeSnow = "\uf7a3";
 
         /// <summary>
@@ -17696,6 +19304,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/globe-stand
         /// </summary>
+        [Description("globe-stand")]
         public const string GlobeStand = "\uf5f6";
 
         /// <summary>
@@ -17707,6 +19316,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/goal-net
         /// </summary>
+        [Description("goal-net")]
         public const string GoalNet = "\ue3ab";
 
         /// <summary>
@@ -17718,6 +19328,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gofore
         /// </summary>
+        [Description("gofore")]
         public const string Gofore = "\uf3a7";
 
         /// <summary>
@@ -17729,6 +19340,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/golang
         /// </summary>
+        [Description("golang")]
         public const string Golang = "\ue40f";
 
         /// <summary>
@@ -17740,6 +19352,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/golf-ball-tee
         /// </summary>
+        [Description("golf-ball-tee")]
         public const string GolfBallTee = "\uf450";
 
         /// <summary>
@@ -17751,6 +19364,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/golf-club
         /// </summary>
+        [Description("golf-club")]
         public const string GolfClub = "\uf451";
 
         /// <summary>
@@ -17762,6 +19376,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/golf-flag-hole
         /// </summary>
+        [Description("golf-flag-hole")]
         public const string GolfFlagHole = "\ue3ac";
 
         /// <summary>
@@ -17773,6 +19388,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/goodreads
         /// </summary>
+        [Description("goodreads")]
         public const string Goodreads = "\uf3a8";
 
         /// <summary>
@@ -17784,6 +19400,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/goodreads-g
         /// </summary>
+        [Description("goodreads-g")]
         public const string GoodreadsG = "\uf3a9";
 
         /// <summary>
@@ -17795,6 +19412,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/google
         /// </summary>
+        [Description("google")]
         public const string Google = "\uf1a0";
 
         /// <summary>
@@ -17806,6 +19424,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/google-drive
         /// </summary>
+        [Description("google-drive")]
         public const string GoogleDrive = "\uf3aa";
 
         /// <summary>
@@ -17817,6 +19436,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/google-pay
         /// </summary>
+        [Description("google-pay")]
         public const string GooglePay = "\ue079";
 
         /// <summary>
@@ -17828,6 +19448,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/google-play
         /// </summary>
+        [Description("google-play")]
         public const string GooglePlay = "\uf3ab";
 
         /// <summary>
@@ -17839,6 +19460,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/google-plus
         /// </summary>
+        [Description("google-plus")]
         public const string GooglePlus = "\uf2b3";
 
         /// <summary>
@@ -17850,6 +19472,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/google-plus-g
         /// </summary>
+        [Description("google-plus-g")]
         public const string GooglePlusG = "\uf0d5";
 
         /// <summary>
@@ -17861,6 +19484,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/google-wallet
         /// </summary>
+        [Description("google-wallet")]
         public const string GoogleWallet = "\uf1ee";
 
         /// <summary>
@@ -17872,6 +19496,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gopuram
         /// </summary>
+        [Description("gopuram")]
         public const string Gopuram = "\uf664";
 
         /// <summary>
@@ -17883,6 +19508,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/graduation-cap
         /// </summary>
+        [Description("graduation-cap")]
         public const string GraduationCap = "\uf19d";
 
         /// <summary>
@@ -17894,6 +19520,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gramophone
         /// </summary>
+        [Description("gramophone")]
         public const string Gramophone = "\uf8bd";
 
         /// <summary>
@@ -17905,6 +19532,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grapes
         /// </summary>
+        [Description("grapes")]
         public const string Grapes = "\ue306";
 
         /// <summary>
@@ -17916,6 +19544,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grate
         /// </summary>
+        [Description("grate")]
         public const string Grate = "\ue193";
 
         /// <summary>
@@ -17927,6 +19556,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grate-droplet
         /// </summary>
+        [Description("grate-droplet")]
         public const string GrateDroplet = "\ue194";
 
         /// <summary>
@@ -17938,6 +19568,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gratipay
         /// </summary>
+        [Description("gratipay")]
         public const string Gratipay = "\uf184";
 
         /// <summary>
@@ -17949,6 +19580,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grav
         /// </summary>
+        [Description("grav")]
         public const string Grav = "\uf2d6";
 
         /// <summary>
@@ -17960,6 +19592,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/greater-than
         /// </summary>
+        [Description("greater-than")]
         public const string GreaterThan = "\u003e";
 
         /// <summary>
@@ -17971,6 +19604,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/greater-than-equal
         /// </summary>
+        [Description("greater-than-equal")]
         public const string GreaterThanEqual = "\uf532";
 
         /// <summary>
@@ -17982,6 +19616,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grid
         /// </summary>
+        [Description("grid")]
         public const string Grid = "\ue195";
 
         /// <summary>
@@ -17993,6 +19628,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grid-2
         /// </summary>
+        [Description("grid-2")]
         public const string Grid2 = "\ue196";
 
         /// <summary>
@@ -18004,6 +19640,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grid-2-plus
         /// </summary>
+        [Description("grid-2-plus")]
         public const string Grid2Plus = "\ue197";
 
         /// <summary>
@@ -18015,6 +19652,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grid-4
         /// </summary>
+        [Description("grid-4")]
         public const string Grid4 = "\ue198";
 
         /// <summary>
@@ -18026,6 +19664,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grid-5
         /// </summary>
+        [Description("grid-5")]
         public const string Grid5 = "\ue199";
 
         /// <summary>
@@ -18037,6 +19676,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grid-dividers
         /// </summary>
+        [Description("grid-dividers")]
         public const string GridDividers = "\ue3ad";
 
         /// <summary>
@@ -18048,6 +19688,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grid-horizontal
         /// </summary>
+        [Description("grid-horizontal")]
         public const string GridHorizontal = "\ue307";
 
         /// <summary>
@@ -18059,6 +19700,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grid-round
         /// </summary>
+        [Description("grid-round")]
         public const string GridRound = "\ue5da";
 
         /// <summary>
@@ -18070,6 +19712,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grid-round-2
         /// </summary>
+        [Description("grid-round-2")]
         public const string GridRound2 = "\ue5db";
 
         /// <summary>
@@ -18081,6 +19724,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grid-round-2-plus
         /// </summary>
+        [Description("grid-round-2-plus")]
         public const string GridRound2Plus = "\ue5dc";
 
         /// <summary>
@@ -18092,6 +19736,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grid-round-4
         /// </summary>
+        [Description("grid-round-4")]
         public const string GridRound4 = "\ue5dd";
 
         /// <summary>
@@ -18103,6 +19748,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grid-round-5
         /// </summary>
+        [Description("grid-round-5")]
         public const string GridRound5 = "\ue5de";
 
         /// <summary>
@@ -18114,6 +19760,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grill
         /// </summary>
+        [Description("grill")]
         public const string Grill = "\ue5a3";
 
         /// <summary>
@@ -18125,6 +19772,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grill-fire
         /// </summary>
+        [Description("grill-fire")]
         public const string GrillFire = "\ue5a4";
 
         /// <summary>
@@ -18136,6 +19784,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grill-hot
         /// </summary>
+        [Description("grill-hot")]
         public const string GrillHot = "\ue5a5";
 
         /// <summary>
@@ -18147,6 +19796,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grip
         /// </summary>
+        [Description("grip")]
         public const string Grip = "\uf58d";
 
         /// <summary>
@@ -18158,6 +19808,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grip-dots
         /// </summary>
+        [Description("grip-dots")]
         public const string GripDots = "\ue410";
 
         /// <summary>
@@ -18169,6 +19820,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grip-dots-vertical
         /// </summary>
+        [Description("grip-dots-vertical")]
         public const string GripDotsVertical = "\ue411";
 
         /// <summary>
@@ -18180,6 +19832,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grip-lines
         /// </summary>
+        [Description("grip-lines")]
         public const string GripLines = "\uf7a4";
 
         /// <summary>
@@ -18191,6 +19844,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grip-lines-vertical
         /// </summary>
+        [Description("grip-lines-vertical")]
         public const string GripLinesVertical = "\uf7a5";
 
         /// <summary>
@@ -18202,6 +19856,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grip-vertical
         /// </summary>
+        [Description("grip-vertical")]
         public const string GripVertical = "\uf58e";
 
         /// <summary>
@@ -18213,6 +19868,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gripfire
         /// </summary>
+        [Description("gripfire")]
         public const string Gripfire = "\uf3ac";
 
         /// <summary>
@@ -18224,6 +19880,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/group-arrows-rotate
         /// </summary>
+        [Description("group-arrows-rotate")]
         public const string GroupArrowsRotate = "\ue4f6";
 
         /// <summary>
@@ -18235,6 +19892,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/grunt
         /// </summary>
+        [Description("grunt")]
         public const string Grunt = "\uf3ad";
 
         /// <summary>
@@ -18246,6 +19904,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/guarani-sign
         /// </summary>
+        [Description("guarani-sign")]
         public const string GuaraniSign = "\ue19a";
 
         /// <summary>
@@ -18257,6 +19916,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/guilded
         /// </summary>
+        [Description("guilded")]
         public const string Guilded = "\ue07e";
 
         /// <summary>
@@ -18268,6 +19928,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/guitar
         /// </summary>
+        [Description("guitar")]
         public const string Guitar = "\uf7a6";
 
         /// <summary>
@@ -18279,6 +19940,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/guitar-electric
         /// </summary>
+        [Description("guitar-electric")]
         public const string GuitarElectric = "\uf8be";
 
         /// <summary>
@@ -18290,6 +19952,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/guitars
         /// </summary>
+        [Description("guitars")]
         public const string Guitars = "\uf8bf";
 
         /// <summary>
@@ -18301,6 +19964,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gulp
         /// </summary>
+        [Description("gulp")]
         public const string Gulp = "\uf3ae";
 
         /// <summary>
@@ -18312,6 +19976,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gun
         /// </summary>
+        [Description("gun")]
         public const string Gun = "\ue19b";
 
         /// <summary>
@@ -18323,6 +19988,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gun-slash
         /// </summary>
+        [Description("gun-slash")]
         public const string GunSlash = "\ue19c";
 
         /// <summary>
@@ -18334,6 +20000,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/gun-squirt
         /// </summary>
+        [Description("gun-squirt")]
         public const string GunSquirt = "\ue19d";
 
         /// <summary>
@@ -18345,6 +20012,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/h
         /// </summary>
+        [Description("h")]
         public const string H = "\u0048";
 
         /// <summary>
@@ -18356,6 +20024,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/h1
         /// </summary>
+        [Description("h1")]
         public const string H1 = "\uf313";
 
         /// <summary>
@@ -18367,6 +20036,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/h2
         /// </summary>
+        [Description("h2")]
         public const string H2 = "\uf314";
 
         /// <summary>
@@ -18378,6 +20048,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/h3
         /// </summary>
+        [Description("h3")]
         public const string H3 = "\uf315";
 
         /// <summary>
@@ -18389,6 +20060,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/h4
         /// </summary>
+        [Description("h4")]
         public const string H4 = "\uf86a";
 
         /// <summary>
@@ -18400,6 +20072,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/h5
         /// </summary>
+        [Description("h5")]
         public const string H5 = "\ue412";
 
         /// <summary>
@@ -18411,6 +20084,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/h6
         /// </summary>
+        [Description("h6")]
         public const string H6 = "\ue413";
 
         /// <summary>
@@ -18422,6 +20096,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hacker-news
         /// </summary>
+        [Description("hacker-news")]
         public const string HackerNews = "\uf1d4";
 
         /// <summary>
@@ -18433,6 +20108,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hackerrank
         /// </summary>
+        [Description("hackerrank")]
         public const string Hackerrank = "\uf5f7";
 
         /// <summary>
@@ -18444,6 +20120,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hammer
         /// </summary>
+        [Description("hammer")]
         public const string Hammer = "\uf6e3";
 
         /// <summary>
@@ -18455,6 +20132,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hammer-crash
         /// </summary>
+        [Description("hammer-crash")]
         public const string HammerCrash = "\ue414";
 
         /// <summary>
@@ -18466,6 +20144,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hammer-war
         /// </summary>
+        [Description("hammer-war")]
         public const string HammerWar = "\uf6e4";
 
         /// <summary>
@@ -18477,6 +20156,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hamsa
         /// </summary>
+        [Description("hamsa")]
         public const string Hamsa = "\uf665";
 
         /// <summary>
@@ -18488,6 +20168,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand
         /// </summary>
+        [Description("hand")]
         public const string Hand = "\uf256";
 
         /// <summary>
@@ -18499,6 +20180,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-back-fist
         /// </summary>
+        [Description("hand-back-fist")]
         public const string HandBackFist = "\uf255";
 
         /// <summary>
@@ -18510,6 +20192,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-back-point-down
         /// </summary>
+        [Description("hand-back-point-down")]
         public const string HandBackPointDown = "\ue19e";
 
         /// <summary>
@@ -18521,6 +20204,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-back-point-left
         /// </summary>
+        [Description("hand-back-point-left")]
         public const string HandBackPointLeft = "\ue19f";
 
         /// <summary>
@@ -18532,6 +20216,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-back-point-ribbon
         /// </summary>
+        [Description("hand-back-point-ribbon")]
         public const string HandBackPointRibbon = "\ue1a0";
 
         /// <summary>
@@ -18543,6 +20228,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-back-point-right
         /// </summary>
+        [Description("hand-back-point-right")]
         public const string HandBackPointRight = "\ue1a1";
 
         /// <summary>
@@ -18554,6 +20240,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-back-point-up
         /// </summary>
+        [Description("hand-back-point-up")]
         public const string HandBackPointUp = "\ue1a2";
 
         /// <summary>
@@ -18565,6 +20252,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-dots
         /// </summary>
+        [Description("hand-dots")]
         public const string HandDots = "\uf461";
 
         /// <summary>
@@ -18576,6 +20264,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-fingers-crossed
         /// </summary>
+        [Description("hand-fingers-crossed")]
         public const string HandFingersCrossed = "\ue1a3";
 
         /// <summary>
@@ -18587,6 +20276,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-fist
         /// </summary>
+        [Description("hand-fist")]
         public const string HandFist = "\uf6de";
 
         /// <summary>
@@ -18598,6 +20288,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-heart
         /// </summary>
+        [Description("hand-heart")]
         public const string HandHeart = "\uf4bc";
 
         /// <summary>
@@ -18609,6 +20300,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-holding
         /// </summary>
+        [Description("hand-holding")]
         public const string HandHolding = "\uf4bd";
 
         /// <summary>
@@ -18620,6 +20312,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-holding-box
         /// </summary>
+        [Description("hand-holding-box")]
         public const string HandHoldingBox = "\uf47b";
 
         /// <summary>
@@ -18631,6 +20324,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-holding-dollar
         /// </summary>
+        [Description("hand-holding-dollar")]
         public const string HandHoldingDollar = "\uf4c0";
 
         /// <summary>
@@ -18642,6 +20336,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-holding-droplet
         /// </summary>
+        [Description("hand-holding-droplet")]
         public const string HandHoldingDroplet = "\uf4c1";
 
         /// <summary>
@@ -18653,6 +20348,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-holding-hand
         /// </summary>
+        [Description("hand-holding-hand")]
         public const string HandHoldingHand = "\ue4f7";
 
         /// <summary>
@@ -18664,6 +20360,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-holding-heart
         /// </summary>
+        [Description("hand-holding-heart")]
         public const string HandHoldingHeart = "\uf4be";
 
         /// <summary>
@@ -18675,6 +20372,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-holding-magic
         /// </summary>
+        [Description("hand-holding-magic")]
         public const string HandHoldingMagic = "\uf6e5";
 
         /// <summary>
@@ -18686,6 +20384,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-holding-medical
         /// </summary>
+        [Description("hand-holding-medical")]
         public const string HandHoldingMedical = "\ue05c";
 
         /// <summary>
@@ -18697,6 +20396,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-holding-seedling
         /// </summary>
+        [Description("hand-holding-seedling")]
         public const string HandHoldingSeedling = "\uf4bf";
 
         /// <summary>
@@ -18708,6 +20408,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-holding-skull
         /// </summary>
+        [Description("hand-holding-skull")]
         public const string HandHoldingSkull = "\ue1a4";
 
         /// <summary>
@@ -18719,6 +20420,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-horns
         /// </summary>
+        [Description("hand-horns")]
         public const string HandHorns = "\ue1a9";
 
         /// <summary>
@@ -18730,6 +20432,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-lizard
         /// </summary>
+        [Description("hand-lizard")]
         public const string HandLizard = "\uf258";
 
         /// <summary>
@@ -18741,6 +20444,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-love
         /// </summary>
+        [Description("hand-love")]
         public const string HandLove = "\ue1a5";
 
         /// <summary>
@@ -18752,6 +20456,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-middle-finger
         /// </summary>
+        [Description("hand-middle-finger")]
         public const string HandMiddleFinger = "\uf806";
 
         /// <summary>
@@ -18763,6 +20468,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-peace
         /// </summary>
+        [Description("hand-peace")]
         public const string HandPeace = "\uf25b";
 
         /// <summary>
@@ -18774,6 +20480,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-point-down
         /// </summary>
+        [Description("hand-point-down")]
         public const string HandPointDown = "\uf0a7";
 
         /// <summary>
@@ -18785,6 +20492,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-point-left
         /// </summary>
+        [Description("hand-point-left")]
         public const string HandPointLeft = "\uf0a5";
 
         /// <summary>
@@ -18796,6 +20504,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-point-ribbon
         /// </summary>
+        [Description("hand-point-ribbon")]
         public const string HandPointRibbon = "\ue1a6";
 
         /// <summary>
@@ -18807,6 +20516,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-point-right
         /// </summary>
+        [Description("hand-point-right")]
         public const string HandPointRight = "\uf0a4";
 
         /// <summary>
@@ -18818,6 +20528,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-point-up
         /// </summary>
+        [Description("hand-point-up")]
         public const string HandPointUp = "\uf0a6";
 
         /// <summary>
@@ -18829,6 +20540,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-pointer
         /// </summary>
+        [Description("hand-pointer")]
         public const string HandPointer = "\uf25a";
 
         /// <summary>
@@ -18840,6 +20552,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-scissors
         /// </summary>
+        [Description("hand-scissors")]
         public const string HandScissors = "\uf257";
 
         /// <summary>
@@ -18851,6 +20564,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-sparkles
         /// </summary>
+        [Description("hand-sparkles")]
         public const string HandSparkles = "\ue05d";
 
         /// <summary>
@@ -18862,6 +20576,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-spock
         /// </summary>
+        [Description("hand-spock")]
         public const string HandSpock = "\uf259";
 
         /// <summary>
@@ -18873,6 +20588,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hand-wave
         /// </summary>
+        [Description("hand-wave")]
         public const string HandWave = "\ue1a7";
 
         /// <summary>
@@ -18884,6 +20600,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/handcuffs
         /// </summary>
+        [Description("handcuffs")]
         public const string Handcuffs = "\ue4f8";
 
         /// <summary>
@@ -18895,6 +20612,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hands
         /// </summary>
+        [Description("hands")]
         public const string Hands = "\uf2a7";
 
         /// <summary>
@@ -18906,6 +20624,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hands-asl-interpreting
         /// </summary>
+        [Description("hands-asl-interpreting")]
         public const string HandsAslInterpreting = "\uf2a3";
 
         /// <summary>
@@ -18917,6 +20636,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hands-bound
         /// </summary>
+        [Description("hands-bound")]
         public const string HandsBound = "\ue4f9";
 
         /// <summary>
@@ -18928,6 +20648,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hands-bubbles
         /// </summary>
+        [Description("hands-bubbles")]
         public const string HandsBubbles = "\ue05e";
 
         /// <summary>
@@ -18939,6 +20660,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hands-clapping
         /// </summary>
+        [Description("hands-clapping")]
         public const string HandsClapping = "\ue1a8";
 
         /// <summary>
@@ -18950,6 +20672,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hands-holding
         /// </summary>
+        [Description("hands-holding")]
         public const string HandsHolding = "\uf4c2";
 
         /// <summary>
@@ -18961,6 +20684,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hands-holding-child
         /// </summary>
+        [Description("hands-holding-child")]
         public const string HandsHoldingChild = "\ue4fa";
 
         /// <summary>
@@ -18972,6 +20696,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hands-holding-circle
         /// </summary>
+        [Description("hands-holding-circle")]
         public const string HandsHoldingCircle = "\ue4fb";
 
         /// <summary>
@@ -18983,6 +20708,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hands-holding-diamond
         /// </summary>
+        [Description("hands-holding-diamond")]
         public const string HandsHoldingDiamond = "\uf47c";
 
         /// <summary>
@@ -18994,6 +20720,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hands-holding-dollar
         /// </summary>
+        [Description("hands-holding-dollar")]
         public const string HandsHoldingDollar = "\uf4c5";
 
         /// <summary>
@@ -19005,6 +20732,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hands-holding-heart
         /// </summary>
+        [Description("hands-holding-heart")]
         public const string HandsHoldingHeart = "\uf4c3";
 
         /// <summary>
@@ -19016,6 +20744,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hands-praying
         /// </summary>
+        [Description("hands-praying")]
         public const string HandsPraying = "\uf684";
 
         /// <summary>
@@ -19027,6 +20756,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/handshake
         /// </summary>
+        [Description("handshake")]
         public const string Handshake = "\uf2b5";
 
         /// <summary>
@@ -19038,6 +20768,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/handshake-angle
         /// </summary>
+        [Description("handshake-angle")]
         public const string HandshakeAngle = "\uf4c4";
 
         /// <summary>
@@ -19049,6 +20780,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/handshake-simple
         /// </summary>
+        [Description("handshake-simple")]
         public const string HandshakeSimple = "\uf4c6";
 
         /// <summary>
@@ -19060,6 +20792,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/handshake-simple-slash
         /// </summary>
+        [Description("handshake-simple-slash")]
         public const string HandshakeSimpleSlash = "\ue05f";
 
         /// <summary>
@@ -19071,6 +20804,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/handshake-slash
         /// </summary>
+        [Description("handshake-slash")]
         public const string HandshakeSlash = "\ue060";
 
         /// <summary>
@@ -19082,6 +20816,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hanukiah
         /// </summary>
+        [Description("hanukiah")]
         public const string Hanukiah = "\uf6e6";
 
         /// <summary>
@@ -19093,6 +20828,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hard-drive
         /// </summary>
+        [Description("hard-drive")]
         public const string HardDrive = "\uf0a0";
 
         /// <summary>
@@ -19104,6 +20840,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hashnode
         /// </summary>
+        [Description("hashnode")]
         public const string Hashnode = "\ue499";
 
         /// <summary>
@@ -19115,6 +20852,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hashtag
         /// </summary>
+        [Description("hashtag")]
         public const string Hashtag = "\u0023";
 
         /// <summary>
@@ -19126,6 +20864,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hashtag-lock
         /// </summary>
+        [Description("hashtag-lock")]
         public const string HashtagLock = "\ue415";
 
         /// <summary>
@@ -19137,6 +20876,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hat-beach
         /// </summary>
+        [Description("hat-beach")]
         public const string HatBeach = "\ue606";
 
         /// <summary>
@@ -19148,6 +20888,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hat-chef
         /// </summary>
+        [Description("hat-chef")]
         public const string HatChef = "\uf86b";
 
         /// <summary>
@@ -19159,6 +20900,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hat-cowboy
         /// </summary>
+        [Description("hat-cowboy")]
         public const string HatCowboy = "\uf8c0";
 
         /// <summary>
@@ -19170,6 +20912,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hat-cowboy-side
         /// </summary>
+        [Description("hat-cowboy-side")]
         public const string HatCowboySide = "\uf8c1";
 
         /// <summary>
@@ -19181,6 +20924,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hat-santa
         /// </summary>
+        [Description("hat-santa")]
         public const string HatSanta = "\uf7a7";
 
         /// <summary>
@@ -19192,6 +20936,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hat-winter
         /// </summary>
+        [Description("hat-winter")]
         public const string HatWinter = "\uf7a8";
 
         /// <summary>
@@ -19203,6 +20948,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hat-witch
         /// </summary>
+        [Description("hat-witch")]
         public const string HatWitch = "\uf6e7";
 
         /// <summary>
@@ -19214,6 +20960,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hat-wizard
         /// </summary>
+        [Description("hat-wizard")]
         public const string HatWizard = "\uf6e8";
 
         /// <summary>
@@ -19225,6 +20972,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/head-side
         /// </summary>
+        [Description("head-side")]
         public const string HeadSide = "\uf6e9";
 
         /// <summary>
@@ -19236,6 +20984,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/head-side-brain
         /// </summary>
+        [Description("head-side-brain")]
         public const string HeadSideBrain = "\uf808";
 
         /// <summary>
@@ -19247,6 +20996,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/head-side-cough
         /// </summary>
+        [Description("head-side-cough")]
         public const string HeadSideCough = "\ue061";
 
         /// <summary>
@@ -19258,6 +21008,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/head-side-cough-slash
         /// </summary>
+        [Description("head-side-cough-slash")]
         public const string HeadSideCoughSlash = "\ue062";
 
         /// <summary>
@@ -19269,6 +21020,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/head-side-goggles
         /// </summary>
+        [Description("head-side-goggles")]
         public const string HeadSideGoggles = "\uf6ea";
 
         /// <summary>
@@ -19280,6 +21032,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/head-side-headphones
         /// </summary>
+        [Description("head-side-headphones")]
         public const string HeadSideHeadphones = "\uf8c2";
 
         /// <summary>
@@ -19291,6 +21044,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/head-side-heart
         /// </summary>
+        [Description("head-side-heart")]
         public const string HeadSideHeart = "\ue1aa";
 
         /// <summary>
@@ -19302,6 +21056,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/head-side-mask
         /// </summary>
+        [Description("head-side-mask")]
         public const string HeadSideMask = "\ue063";
 
         /// <summary>
@@ -19313,6 +21068,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/head-side-medical
         /// </summary>
+        [Description("head-side-medical")]
         public const string HeadSideMedical = "\uf809";
 
         /// <summary>
@@ -19324,6 +21080,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/head-side-virus
         /// </summary>
+        [Description("head-side-virus")]
         public const string HeadSideVirus = "\ue064";
 
         /// <summary>
@@ -19335,6 +21092,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/heading
         /// </summary>
+        [Description("heading")]
         public const string Heading = "\uf1dc";
 
         /// <summary>
@@ -19346,6 +21104,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/headphones
         /// </summary>
+        [Description("headphones")]
         public const string Headphones = "\uf025";
 
         /// <summary>
@@ -19357,6 +21116,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/headphones-simple
         /// </summary>
+        [Description("headphones-simple")]
         public const string HeadphonesSimple = "\uf58f";
 
         /// <summary>
@@ -19368,6 +21128,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/headset
         /// </summary>
+        [Description("headset")]
         public const string Headset = "\uf590";
 
         /// <summary>
@@ -19379,6 +21140,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/heart
         /// </summary>
+        [Description("heart")]
         public const string Heart = "\uf004";
 
         /// <summary>
@@ -19390,6 +21152,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/heart-circle-bolt
         /// </summary>
+        [Description("heart-circle-bolt")]
         public const string HeartCircleBolt = "\ue4fc";
 
         /// <summary>
@@ -19401,6 +21164,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/heart-circle-check
         /// </summary>
+        [Description("heart-circle-check")]
         public const string HeartCircleCheck = "\ue4fd";
 
         /// <summary>
@@ -19412,6 +21176,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/heart-circle-exclamation
         /// </summary>
+        [Description("heart-circle-exclamation")]
         public const string HeartCircleExclamation = "\ue4fe";
 
         /// <summary>
@@ -19423,6 +21188,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/heart-circle-minus
         /// </summary>
+        [Description("heart-circle-minus")]
         public const string HeartCircleMinus = "\ue4ff";
 
         /// <summary>
@@ -19434,6 +21200,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/heart-circle-plus
         /// </summary>
+        [Description("heart-circle-plus")]
         public const string HeartCirclePlus = "\ue500";
 
         /// <summary>
@@ -19445,6 +21212,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/heart-circle-xmark
         /// </summary>
+        [Description("heart-circle-xmark")]
         public const string HeartCircleXmark = "\ue501";
 
         /// <summary>
@@ -19456,6 +21224,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/heart-crack
         /// </summary>
+        [Description("heart-crack")]
         public const string HeartCrack = "\uf7a9";
 
         /// <summary>
@@ -19467,6 +21236,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/heart-half
         /// </summary>
+        [Description("heart-half")]
         public const string HeartHalf = "\ue1ab";
 
         /// <summary>
@@ -19478,6 +21248,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/heart-half-stroke
         /// </summary>
+        [Description("heart-half-stroke")]
         public const string HeartHalfStroke = "\ue1ac";
 
         /// <summary>
@@ -19489,6 +21260,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/heart-pulse
         /// </summary>
+        [Description("heart-pulse")]
         public const string HeartPulse = "\uf21e";
 
         /// <summary>
@@ -19500,6 +21272,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/heat
         /// </summary>
+        [Description("heat")]
         public const string Heat = "\ue00c";
 
         /// <summary>
@@ -19511,6 +21284,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/helicopter
         /// </summary>
+        [Description("helicopter")]
         public const string Helicopter = "\uf533";
 
         /// <summary>
@@ -19522,6 +21296,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/helicopter-symbol
         /// </summary>
+        [Description("helicopter-symbol")]
         public const string HelicopterSymbol = "\ue502";
 
         /// <summary>
@@ -19533,6 +21308,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/helmet-battle
         /// </summary>
+        [Description("helmet-battle")]
         public const string HelmetBattle = "\uf6eb";
 
         /// <summary>
@@ -19544,6 +21320,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/helmet-safety
         /// </summary>
+        [Description("helmet-safety")]
         public const string HelmetSafety = "\uf807";
 
         /// <summary>
@@ -19555,6 +21332,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/helmet-un
         /// </summary>
+        [Description("helmet-un")]
         public const string HelmetUn = "\ue503";
 
         /// <summary>
@@ -19566,6 +21344,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hexagon
         /// </summary>
+        [Description("hexagon")]
         public const string Hexagon = "\uf312";
 
         /// <summary>
@@ -19577,6 +21356,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hexagon-check
         /// </summary>
+        [Description("hexagon-check")]
         public const string HexagonCheck = "\ue416";
 
         /// <summary>
@@ -19588,6 +21368,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hexagon-divide
         /// </summary>
+        [Description("hexagon-divide")]
         public const string HexagonDivide = "\ue1ad";
 
         /// <summary>
@@ -19599,6 +21380,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hexagon-exclamation
         /// </summary>
+        [Description("hexagon-exclamation")]
         public const string HexagonExclamation = "\ue417";
 
         /// <summary>
@@ -19610,6 +21392,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hexagon-image
         /// </summary>
+        [Description("hexagon-image")]
         public const string HexagonImage = "\ue504";
 
         /// <summary>
@@ -19621,6 +21404,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hexagon-minus
         /// </summary>
+        [Description("hexagon-minus")]
         public const string HexagonMinus = "\uf307";
 
         /// <summary>
@@ -19632,6 +21416,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hexagon-plus
         /// </summary>
+        [Description("hexagon-plus")]
         public const string HexagonPlus = "\uf300";
 
         /// <summary>
@@ -19643,6 +21428,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hexagon-vertical-nft
         /// </summary>
+        [Description("hexagon-vertical-nft")]
         public const string HexagonVerticalNft = "\ue505";
 
         /// <summary>
@@ -19654,6 +21440,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hexagon-vertical-nft-slanted
         /// </summary>
+        [Description("hexagon-vertical-nft-slanted")]
         public const string HexagonVerticalNftSlanted = "\ue506";
 
         /// <summary>
@@ -19665,6 +21452,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hexagon-xmark
         /// </summary>
+        [Description("hexagon-xmark")]
         public const string HexagonXmark = "\uf2ee";
 
         /// <summary>
@@ -19676,6 +21464,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/high-definition
         /// </summary>
+        [Description("high-definition")]
         public const string HighDefinition = "\ue1ae";
 
         /// <summary>
@@ -19687,6 +21476,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/highlighter
         /// </summary>
+        [Description("highlighter")]
         public const string Highlighter = "\uf591";
 
         /// <summary>
@@ -19698,6 +21488,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/highlighter-line
         /// </summary>
+        [Description("highlighter-line")]
         public const string HighlighterLine = "\ue1af";
 
         /// <summary>
@@ -19709,6 +21500,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hill-avalanche
         /// </summary>
+        [Description("hill-avalanche")]
         public const string HillAvalanche = "\ue507";
 
         /// <summary>
@@ -19720,6 +21512,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hill-rockslide
         /// </summary>
+        [Description("hill-rockslide")]
         public const string HillRockslide = "\ue508";
 
         /// <summary>
@@ -19731,6 +21524,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hippo
         /// </summary>
+        [Description("hippo")]
         public const string Hippo = "\uf6ed";
 
         /// <summary>
@@ -19742,6 +21536,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hips
         /// </summary>
+        [Description("hips")]
         public const string Hips = "\uf452";
 
         /// <summary>
@@ -19753,6 +21548,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hire-a-helper
         /// </summary>
+        [Description("hire-a-helper")]
         public const string HireAHelper = "\uf3b0";
 
         /// <summary>
@@ -19764,6 +21560,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hive
         /// </summary>
+        [Description("hive")]
         public const string Hive = "\ue07f";
 
         /// <summary>
@@ -19775,6 +21572,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hockey-mask
         /// </summary>
+        [Description("hockey-mask")]
         public const string HockeyMask = "\uf6ee";
 
         /// <summary>
@@ -19786,6 +21584,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hockey-puck
         /// </summary>
+        [Description("hockey-puck")]
         public const string HockeyPuck = "\uf453";
 
         /// <summary>
@@ -19797,6 +21596,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hockey-stick-puck
         /// </summary>
+        [Description("hockey-stick-puck")]
         public const string HockeyStickPuck = "\ue3ae";
 
         /// <summary>
@@ -19808,6 +21608,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hockey-sticks
         /// </summary>
+        [Description("hockey-sticks")]
         public const string HockeySticks = "\uf454";
 
         /// <summary>
@@ -19819,6 +21620,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/holly-berry
         /// </summary>
+        [Description("holly-berry")]
         public const string HollyBerry = "\uf7aa";
 
         /// <summary>
@@ -19830,6 +21632,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/honey-pot
         /// </summary>
+        [Description("honey-pot")]
         public const string HoneyPot = "\ue418";
 
         /// <summary>
@@ -19841,6 +21644,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hood-cloak
         /// </summary>
+        [Description("hood-cloak")]
         public const string HoodCloak = "\uf6ef";
 
         /// <summary>
@@ -19852,6 +21656,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hooli
         /// </summary>
+        [Description("hooli")]
         public const string Hooli = "\uf427";
 
         /// <summary>
@@ -19863,6 +21668,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/horizontal-rule
         /// </summary>
+        [Description("horizontal-rule")]
         public const string HorizontalRule = "\uf86c";
 
         /// <summary>
@@ -19874,6 +21680,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hornbill
         /// </summary>
+        [Description("hornbill")]
         public const string Hornbill = "\uf592";
 
         /// <summary>
@@ -19885,6 +21692,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/horse
         /// </summary>
+        [Description("horse")]
         public const string Horse = "\uf6f0";
 
         /// <summary>
@@ -19896,6 +21704,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/horse-head
         /// </summary>
+        [Description("horse-head")]
         public const string HorseHead = "\uf7ab";
 
         /// <summary>
@@ -19907,6 +21716,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/horse-saddle
         /// </summary>
+        [Description("horse-saddle")]
         public const string HorseSaddle = "\uf8c3";
 
         /// <summary>
@@ -19918,6 +21728,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hose
         /// </summary>
+        [Description("hose")]
         public const string Hose = "\ue419";
 
         /// <summary>
@@ -19929,6 +21740,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hose-reel
         /// </summary>
+        [Description("hose-reel")]
         public const string HoseReel = "\ue41a";
 
         /// <summary>
@@ -19940,6 +21752,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hospital
         /// </summary>
+        [Description("hospital")]
         public const string Hospital = "\uf0f8";
 
         /// <summary>
@@ -19951,6 +21764,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hospital-user
         /// </summary>
+        [Description("hospital-user")]
         public const string HospitalUser = "\uf80d";
 
         /// <summary>
@@ -19962,6 +21776,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hospitals
         /// </summary>
+        [Description("hospitals")]
         public const string Hospitals = "\uf80e";
 
         /// <summary>
@@ -19973,6 +21788,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hot-tub-person
         /// </summary>
+        [Description("hot-tub-person")]
         public const string HotTubPerson = "\uf593";
 
         /// <summary>
@@ -19984,6 +21800,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hotdog
         /// </summary>
+        [Description("hotdog")]
         public const string Hotdog = "\uf80f";
 
         /// <summary>
@@ -19995,6 +21812,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hotel
         /// </summary>
+        [Description("hotel")]
         public const string Hotel = "\uf594";
 
         /// <summary>
@@ -20006,6 +21824,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hotjar
         /// </summary>
+        [Description("hotjar")]
         public const string Hotjar = "\uf3b1";
 
         /// <summary>
@@ -20017,6 +21836,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hourglass
         /// </summary>
+        [Description("hourglass")]
         public const string Hourglass = "\uf254";
 
         /// <summary>
@@ -20028,6 +21848,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hourglass-clock
         /// </summary>
+        [Description("hourglass-clock")]
         public const string HourglassClock = "\ue41b";
 
         /// <summary>
@@ -20039,6 +21860,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hourglass-end
         /// </summary>
+        [Description("hourglass-end")]
         public const string HourglassEnd = "\uf253";
 
         /// <summary>
@@ -20050,6 +21872,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hourglass-half
         /// </summary>
+        [Description("hourglass-half")]
         public const string HourglassHalf = "\uf252";
 
         /// <summary>
@@ -20061,6 +21884,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hourglass-start
         /// </summary>
+        [Description("hourglass-start")]
         public const string HourglassStart = "\uf251";
 
         /// <summary>
@@ -20072,6 +21896,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house
         /// </summary>
+        [Description("house")]
         public const string House = "\uf015";
 
         /// <summary>
@@ -20083,6 +21908,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-blank
         /// </summary>
+        [Description("house-blank")]
         public const string HouseBlank = "\ue487";
 
         /// <summary>
@@ -20094,6 +21920,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-building
         /// </summary>
+        [Description("house-building")]
         public const string HouseBuilding = "\ue1b1";
 
         /// <summary>
@@ -20105,6 +21932,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-chimney
         /// </summary>
+        [Description("house-chimney")]
         public const string HouseChimney = "\ue3af";
 
         /// <summary>
@@ -20116,6 +21944,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-chimney-blank
         /// </summary>
+        [Description("house-chimney-blank")]
         public const string HouseChimneyBlank = "\ue3b0";
 
         /// <summary>
@@ -20127,6 +21956,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-chimney-crack
         /// </summary>
+        [Description("house-chimney-crack")]
         public const string HouseChimneyCrack = "\uf6f1";
 
         /// <summary>
@@ -20138,6 +21968,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-chimney-heart
         /// </summary>
+        [Description("house-chimney-heart")]
         public const string HouseChimneyHeart = "\ue1b2";
 
         /// <summary>
@@ -20149,6 +21980,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-chimney-medical
         /// </summary>
+        [Description("house-chimney-medical")]
         public const string HouseChimneyMedical = "\uf7f2";
 
         /// <summary>
@@ -20160,6 +21992,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-chimney-user
         /// </summary>
+        [Description("house-chimney-user")]
         public const string HouseChimneyUser = "\ue065";
 
         /// <summary>
@@ -20171,6 +22004,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-chimney-window
         /// </summary>
+        [Description("house-chimney-window")]
         public const string HouseChimneyWindow = "\ue00d";
 
         /// <summary>
@@ -20182,6 +22016,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-circle-check
         /// </summary>
+        [Description("house-circle-check")]
         public const string HouseCircleCheck = "\ue509";
 
         /// <summary>
@@ -20193,6 +22028,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-circle-exclamation
         /// </summary>
+        [Description("house-circle-exclamation")]
         public const string HouseCircleExclamation = "\ue50a";
 
         /// <summary>
@@ -20204,6 +22040,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-circle-xmark
         /// </summary>
+        [Description("house-circle-xmark")]
         public const string HouseCircleXmark = "\ue50b";
 
         /// <summary>
@@ -20215,6 +22052,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-crack
         /// </summary>
+        [Description("house-crack")]
         public const string HouseCrack = "\ue3b1";
 
         /// <summary>
@@ -20226,6 +22064,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-day
         /// </summary>
+        [Description("house-day")]
         public const string HouseDay = "\ue00e";
 
         /// <summary>
@@ -20237,6 +22076,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-fire
         /// </summary>
+        [Description("house-fire")]
         public const string HouseFire = "\ue50c";
 
         /// <summary>
@@ -20248,6 +22088,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-flag
         /// </summary>
+        [Description("house-flag")]
         public const string HouseFlag = "\ue50d";
 
         /// <summary>
@@ -20259,6 +22100,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-flood-water
         /// </summary>
+        [Description("house-flood-water")]
         public const string HouseFloodWater = "\ue50e";
 
         /// <summary>
@@ -20270,6 +22112,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-flood-water-circle-arrow-right
         /// </summary>
+        [Description("house-flood-water-circle-arrow-right")]
         public const string HouseFloodWaterCircleArrowRight = "\ue50f";
 
         /// <summary>
@@ -20281,6 +22124,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-heart
         /// </summary>
+        [Description("house-heart")]
         public const string HouseHeart = "\uf4c9";
 
         /// <summary>
@@ -20292,6 +22136,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-laptop
         /// </summary>
+        [Description("house-laptop")]
         public const string HouseLaptop = "\ue066";
 
         /// <summary>
@@ -20303,6 +22148,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-lock
         /// </summary>
+        [Description("house-lock")]
         public const string HouseLock = "\ue510";
 
         /// <summary>
@@ -20314,6 +22160,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-medical
         /// </summary>
+        [Description("house-medical")]
         public const string HouseMedical = "\ue3b2";
 
         /// <summary>
@@ -20325,6 +22172,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-medical-circle-check
         /// </summary>
+        [Description("house-medical-circle-check")]
         public const string HouseMedicalCircleCheck = "\ue511";
 
         /// <summary>
@@ -20336,6 +22184,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-medical-circle-exclamation
         /// </summary>
+        [Description("house-medical-circle-exclamation")]
         public const string HouseMedicalCircleExclamation = "\ue512";
 
         /// <summary>
@@ -20347,6 +22196,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-medical-circle-xmark
         /// </summary>
+        [Description("house-medical-circle-xmark")]
         public const string HouseMedicalCircleXmark = "\ue513";
 
         /// <summary>
@@ -20358,6 +22208,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-medical-flag
         /// </summary>
+        [Description("house-medical-flag")]
         public const string HouseMedicalFlag = "\ue514";
 
         /// <summary>
@@ -20369,6 +22220,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-night
         /// </summary>
+        [Description("house-night")]
         public const string HouseNight = "\ue010";
 
         /// <summary>
@@ -20380,6 +22232,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-person-leave
         /// </summary>
+        [Description("house-person-leave")]
         public const string HousePersonLeave = "\ue00f";
 
         /// <summary>
@@ -20391,6 +22244,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-person-return
         /// </summary>
+        [Description("house-person-return")]
         public const string HousePersonReturn = "\ue011";
 
         /// <summary>
@@ -20402,6 +22256,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-signal
         /// </summary>
+        [Description("house-signal")]
         public const string HouseSignal = "\ue012";
 
         /// <summary>
@@ -20413,6 +22268,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-tree
         /// </summary>
+        [Description("house-tree")]
         public const string HouseTree = "\ue1b3";
 
         /// <summary>
@@ -20424,6 +22280,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-tsunami
         /// </summary>
+        [Description("house-tsunami")]
         public const string HouseTsunami = "\ue515";
 
         /// <summary>
@@ -20435,6 +22292,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-turret
         /// </summary>
+        [Description("house-turret")]
         public const string HouseTurret = "\ue1b4";
 
         /// <summary>
@@ -20446,6 +22304,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-user
         /// </summary>
+        [Description("house-user")]
         public const string HouseUser = "\ue1b0";
 
         /// <summary>
@@ -20457,6 +22316,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-water
         /// </summary>
+        [Description("house-water")]
         public const string HouseWater = "\uf74f";
 
         /// <summary>
@@ -20468,6 +22328,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/house-window
         /// </summary>
+        [Description("house-window")]
         public const string HouseWindow = "\ue3b3";
 
         /// <summary>
@@ -20479,6 +22340,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/houzz
         /// </summary>
+        [Description("houzz")]
         public const string Houzz = "\uf27c";
 
         /// <summary>
@@ -20490,6 +22352,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hryvnia-sign
         /// </summary>
+        [Description("hryvnia-sign")]
         public const string HryvniaSign = "\uf6f2";
 
         /// <summary>
@@ -20501,6 +22364,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/html5
         /// </summary>
+        [Description("html5")]
         public const string Html5 = "\uf13b";
 
         /// <summary>
@@ -20512,6 +22376,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hubspot
         /// </summary>
+        [Description("hubspot")]
         public const string Hubspot = "\uf3b2";
 
         /// <summary>
@@ -20523,6 +22388,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hundred-points
         /// </summary>
+        [Description("hundred-points")]
         public const string HundredPoints = "\ue41c";
 
         /// <summary>
@@ -20534,6 +22400,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hurricane
         /// </summary>
+        [Description("hurricane")]
         public const string Hurricane = "\uf751";
 
         /// <summary>
@@ -20545,6 +22412,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/hyphen
         /// </summary>
+        [Description("hyphen")]
         public const string Hyphen = "\u002d";
 
         /// <summary>
@@ -20556,6 +22424,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/i
         /// </summary>
+        [Description("i")]
         public const string I = "\u0049";
 
         /// <summary>
@@ -20567,6 +22436,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/i-cursor
         /// </summary>
+        [Description("i-cursor")]
         public const string ICursor = "\uf246";
 
         /// <summary>
@@ -20578,6 +22448,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ice-cream
         /// </summary>
+        [Description("ice-cream")]
         public const string IceCream = "\uf810";
 
         /// <summary>
@@ -20589,6 +22460,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ice-skate
         /// </summary>
+        [Description("ice-skate")]
         public const string IceSkate = "\uf7ac";
 
         /// <summary>
@@ -20600,6 +22472,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/icicles
         /// </summary>
+        [Description("icicles")]
         public const string Icicles = "\uf7ad";
 
         /// <summary>
@@ -20611,6 +22484,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/icons
         /// </summary>
+        [Description("icons")]
         public const string Icons = "\uf86d";
 
         /// <summary>
@@ -20622,6 +22496,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/id-badge
         /// </summary>
+        [Description("id-badge")]
         public const string IdBadge = "\uf2c1";
 
         /// <summary>
@@ -20633,6 +22508,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/id-card
         /// </summary>
+        [Description("id-card")]
         public const string IdCard = "\uf2c2";
 
         /// <summary>
@@ -20644,6 +22520,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/id-card-clip
         /// </summary>
+        [Description("id-card-clip")]
         public const string IdCardClip = "\uf47f";
 
         /// <summary>
@@ -20655,6 +22532,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ideal
         /// </summary>
+        [Description("ideal")]
         public const string Ideal = "\ue013";
 
         /// <summary>
@@ -20666,6 +22544,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/igloo
         /// </summary>
+        [Description("igloo")]
         public const string Igloo = "\uf7ae";
 
         /// <summary>
@@ -20677,6 +22556,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/image
         /// </summary>
+        [Description("image")]
         public const string Image = "\uf03e";
 
         /// <summary>
@@ -20688,6 +22568,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/image-landscape
         /// </summary>
+        [Description("image-landscape")]
         public const string ImageLandscape = "\ue1b5";
 
         /// <summary>
@@ -20699,6 +22580,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/image-polaroid
         /// </summary>
+        [Description("image-polaroid")]
         public const string ImagePolaroid = "\uf8c4";
 
         /// <summary>
@@ -20710,6 +22592,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/image-polaroid-user
         /// </summary>
+        [Description("image-polaroid-user")]
         public const string ImagePolaroidUser = "\ue1b6";
 
         /// <summary>
@@ -20721,6 +22604,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/image-portrait
         /// </summary>
+        [Description("image-portrait")]
         public const string ImagePortrait = "\uf3e0";
 
         /// <summary>
@@ -20732,6 +22616,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/image-slash
         /// </summary>
+        [Description("image-slash")]
         public const string ImageSlash = "\ue1b7";
 
         /// <summary>
@@ -20743,6 +22628,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/image-user
         /// </summary>
+        [Description("image-user")]
         public const string ImageUser = "\ue1b8";
 
         /// <summary>
@@ -20754,6 +22640,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/images
         /// </summary>
+        [Description("images")]
         public const string Images = "\uf302";
 
         /// <summary>
@@ -20765,6 +22652,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/images-user
         /// </summary>
+        [Description("images-user")]
         public const string ImagesUser = "\ue1b9";
 
         /// <summary>
@@ -20776,6 +22664,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/imdb
         /// </summary>
+        [Description("imdb")]
         public const string Imdb = "\uf2d8";
 
         /// <summary>
@@ -20787,6 +22676,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/inbox
         /// </summary>
+        [Description("inbox")]
         public const string Inbox = "\uf01c";
 
         /// <summary>
@@ -20798,6 +22688,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/inbox-full
         /// </summary>
+        [Description("inbox-full")]
         public const string InboxFull = "\ue1ba";
 
         /// <summary>
@@ -20809,6 +22700,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/inbox-in
         /// </summary>
+        [Description("inbox-in")]
         public const string InboxIn = "\uf310";
 
         /// <summary>
@@ -20820,6 +22712,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/inbox-out
         /// </summary>
+        [Description("inbox-out")]
         public const string InboxOut = "\uf311";
 
         /// <summary>
@@ -20831,6 +22724,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/inboxes
         /// </summary>
+        [Description("inboxes")]
         public const string Inboxes = "\ue1bb";
 
         /// <summary>
@@ -20842,6 +22736,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/indent
         /// </summary>
+        [Description("indent")]
         public const string Indent = "\uf03c";
 
         /// <summary>
@@ -20853,6 +22748,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/indian-rupee-sign
         /// </summary>
+        [Description("indian-rupee-sign")]
         public const string IndianRupeeSign = "\ue1bc";
 
         /// <summary>
@@ -20864,6 +22760,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/industry
         /// </summary>
+        [Description("industry")]
         public const string Industry = "\uf275";
 
         /// <summary>
@@ -20875,6 +22772,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/industry-windows
         /// </summary>
+        [Description("industry-windows")]
         public const string IndustryWindows = "\uf3b3";
 
         /// <summary>
@@ -20886,6 +22784,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/infinity
         /// </summary>
+        [Description("infinity")]
         public const string Infinity = "\uf534";
 
         /// <summary>
@@ -20897,6 +22796,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/info
         /// </summary>
+        [Description("info")]
         public const string Info = "\uf129";
 
         /// <summary>
@@ -20908,6 +22808,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/inhaler
         /// </summary>
+        [Description("inhaler")]
         public const string Inhaler = "\uf5f9";
 
         /// <summary>
@@ -20919,6 +22820,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/input-numeric
         /// </summary>
+        [Description("input-numeric")]
         public const string InputNumeric = "\ue1bd";
 
         /// <summary>
@@ -20930,6 +22832,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/input-pipe
         /// </summary>
+        [Description("input-pipe")]
         public const string InputPipe = "\ue1be";
 
         /// <summary>
@@ -20941,6 +22844,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/input-text
         /// </summary>
+        [Description("input-text")]
         public const string InputText = "\ue1bf";
 
         /// <summary>
@@ -20952,6 +22856,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/instagram
         /// </summary>
+        [Description("instagram")]
         public const string Instagram = "\uf16d";
 
         /// <summary>
@@ -20963,6 +22868,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/instalod
         /// </summary>
+        [Description("instalod")]
         public const string Instalod = "\ue081";
 
         /// <summary>
@@ -20974,6 +22880,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/integral
         /// </summary>
+        [Description("integral")]
         public const string Integral = "\uf667";
 
         /// <summary>
@@ -20985,6 +22892,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/intercom
         /// </summary>
+        [Description("intercom")]
         public const string Intercom = "\uf7af";
 
         /// <summary>
@@ -20996,6 +22904,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/internet-explorer
         /// </summary>
+        [Description("internet-explorer")]
         public const string InternetExplorer = "\uf26b";
 
         /// <summary>
@@ -21007,6 +22916,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/interrobang
         /// </summary>
+        [Description("interrobang")]
         public const string Interrobang = "\ue5ba";
 
         /// <summary>
@@ -21018,6 +22928,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/intersection
         /// </summary>
+        [Description("intersection")]
         public const string Intersection = "\uf668";
 
         /// <summary>
@@ -21029,6 +22940,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/invision
         /// </summary>
+        [Description("invision")]
         public const string Invision = "\uf7b0";
 
         /// <summary>
@@ -21040,6 +22952,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ioxhost
         /// </summary>
+        [Description("ioxhost")]
         public const string Ioxhost = "\uf208";
 
         /// <summary>
@@ -21051,6 +22964,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/island-tropical
         /// </summary>
+        [Description("island-tropical")]
         public const string IslandTropical = "\uf811";
 
         /// <summary>
@@ -21062,6 +22976,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/italic
         /// </summary>
+        [Description("italic")]
         public const string Italic = "\uf033";
 
         /// <summary>
@@ -21073,6 +22988,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/itch-io
         /// </summary>
+        [Description("itch-io")]
         public const string ItchIo = "\uf83a";
 
         /// <summary>
@@ -21084,6 +23000,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/itunes
         /// </summary>
+        [Description("itunes")]
         public const string Itunes = "\uf3b4";
 
         /// <summary>
@@ -21095,6 +23012,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/itunes-note
         /// </summary>
+        [Description("itunes-note")]
         public const string ItunesNote = "\uf3b5";
 
         /// <summary>
@@ -21106,6 +23024,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/j
         /// </summary>
+        [Description("j")]
         public const string J = "\u004a";
 
         /// <summary>
@@ -21117,6 +23036,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/jack-o-lantern
         /// </summary>
+        [Description("jack-o-lantern")]
         public const string JackOLantern = "\uf30e";
 
         /// <summary>
@@ -21128,6 +23048,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/jar
         /// </summary>
+        [Description("jar")]
         public const string Jar = "\ue516";
 
         /// <summary>
@@ -21139,6 +23060,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/jar-wheat
         /// </summary>
+        [Description("jar-wheat")]
         public const string JarWheat = "\ue517";
 
         /// <summary>
@@ -21150,6 +23072,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/java
         /// </summary>
+        [Description("java")]
         public const string Java = "\uf4e4";
 
         /// <summary>
@@ -21161,6 +23084,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/jedi
         /// </summary>
+        [Description("jedi")]
         public const string Jedi = "\uf669";
 
         /// <summary>
@@ -21172,6 +23096,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/jedi-order
         /// </summary>
+        [Description("jedi-order")]
         public const string JediOrder = "\uf50e";
 
         /// <summary>
@@ -21183,6 +23108,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/jenkins
         /// </summary>
+        [Description("jenkins")]
         public const string Jenkins = "\uf3b6";
 
         /// <summary>
@@ -21194,6 +23120,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/jet-fighter
         /// </summary>
+        [Description("jet-fighter")]
         public const string JetFighter = "\uf0fb";
 
         /// <summary>
@@ -21205,6 +23132,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/jet-fighter-up
         /// </summary>
+        [Description("jet-fighter-up")]
         public const string JetFighterUp = "\ue518";
 
         /// <summary>
@@ -21216,6 +23144,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/jira
         /// </summary>
+        [Description("jira")]
         public const string Jira = "\uf7b1";
 
         /// <summary>
@@ -21227,6 +23156,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/joget
         /// </summary>
+        [Description("joget")]
         public const string Joget = "\uf3b7";
 
         /// <summary>
@@ -21238,6 +23168,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/joint
         /// </summary>
+        [Description("joint")]
         public const string Joint = "\uf595";
 
         /// <summary>
@@ -21249,6 +23180,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/joomla
         /// </summary>
+        [Description("joomla")]
         public const string Joomla = "\uf1aa";
 
         /// <summary>
@@ -21260,6 +23192,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/joystick
         /// </summary>
+        [Description("joystick")]
         public const string Joystick = "\uf8c5";
 
         /// <summary>
@@ -21271,6 +23204,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/js
         /// </summary>
+        [Description("js")]
         public const string Js = "\uf3b8";
 
         /// <summary>
@@ -21282,6 +23216,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/jsfiddle
         /// </summary>
+        [Description("jsfiddle")]
         public const string Jsfiddle = "\uf1cc";
 
         /// <summary>
@@ -21293,6 +23228,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/jug
         /// </summary>
+        [Description("jug")]
         public const string Jug = "\uf8c6";
 
         /// <summary>
@@ -21304,6 +23240,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/jug-bottle
         /// </summary>
+        [Description("jug-bottle")]
         public const string JugBottle = "\ue5fb";
 
         /// <summary>
@@ -21315,6 +23252,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/jug-detergent
         /// </summary>
+        [Description("jug-detergent")]
         public const string JugDetergent = "\ue519";
 
         /// <summary>
@@ -21326,6 +23264,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/k
         /// </summary>
+        [Description("k")]
         public const string K = "\u004b";
 
         /// <summary>
@@ -21337,6 +23276,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/kaaba
         /// </summary>
+        [Description("kaaba")]
         public const string Kaaba = "\uf66b";
 
         /// <summary>
@@ -21348,6 +23288,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/kaggle
         /// </summary>
+        [Description("kaggle")]
         public const string Kaggle = "\uf5fa";
 
         /// <summary>
@@ -21359,6 +23300,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/kazoo
         /// </summary>
+        [Description("kazoo")]
         public const string Kazoo = "\uf8c7";
 
         /// <summary>
@@ -21370,6 +23312,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/kerning
         /// </summary>
+        [Description("kerning")]
         public const string Kerning = "\uf86f";
 
         /// <summary>
@@ -21381,6 +23324,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/key
         /// </summary>
+        [Description("key")]
         public const string Key = "\uf084";
 
         /// <summary>
@@ -21392,6 +23336,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/key-skeleton
         /// </summary>
+        [Description("key-skeleton")]
         public const string KeySkeleton = "\uf6f3";
 
         /// <summary>
@@ -21403,6 +23348,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/key-skeleton-left-right
         /// </summary>
+        [Description("key-skeleton-left-right")]
         public const string KeySkeletonLeftRight = "\ue3b4";
 
         /// <summary>
@@ -21414,6 +23360,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/keybase
         /// </summary>
+        [Description("keybase")]
         public const string Keybase = "\uf4f5";
 
         /// <summary>
@@ -21425,6 +23372,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/keyboard
         /// </summary>
+        [Description("keyboard")]
         public const string Keyboard = "\uf11c";
 
         /// <summary>
@@ -21436,6 +23384,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/keyboard-brightness
         /// </summary>
+        [Description("keyboard-brightness")]
         public const string KeyboardBrightness = "\ue1c0";
 
         /// <summary>
@@ -21447,6 +23396,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/keyboard-brightness-low
         /// </summary>
+        [Description("keyboard-brightness-low")]
         public const string KeyboardBrightnessLow = "\ue1c1";
 
         /// <summary>
@@ -21458,6 +23408,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/keyboard-down
         /// </summary>
+        [Description("keyboard-down")]
         public const string KeyboardDown = "\ue1c2";
 
         /// <summary>
@@ -21469,6 +23420,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/keyboard-left
         /// </summary>
+        [Description("keyboard-left")]
         public const string KeyboardLeft = "\ue1c3";
 
         /// <summary>
@@ -21480,6 +23432,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/keycdn
         /// </summary>
+        [Description("keycdn")]
         public const string Keycdn = "\uf3ba";
 
         /// <summary>
@@ -21491,6 +23444,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/keynote
         /// </summary>
+        [Description("keynote")]
         public const string Keynote = "\uf66c";
 
         /// <summary>
@@ -21502,6 +23456,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/khanda
         /// </summary>
+        [Description("khanda")]
         public const string Khanda = "\uf66d";
 
         /// <summary>
@@ -21513,6 +23468,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/kickstarter
         /// </summary>
+        [Description("kickstarter")]
         public const string Kickstarter = "\uf3bb";
 
         /// <summary>
@@ -21524,6 +23480,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/kickstarter-k
         /// </summary>
+        [Description("kickstarter-k")]
         public const string KickstarterK = "\uf3bc";
 
         /// <summary>
@@ -21535,6 +23492,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/kidneys
         /// </summary>
+        [Description("kidneys")]
         public const string Kidneys = "\uf5fb";
 
         /// <summary>
@@ -21546,6 +23504,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/kip-sign
         /// </summary>
+        [Description("kip-sign")]
         public const string KipSign = "\ue1c4";
 
         /// <summary>
@@ -21557,6 +23516,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/kit-medical
         /// </summary>
+        [Description("kit-medical")]
         public const string KitMedical = "\uf479";
 
         /// <summary>
@@ -21568,6 +23528,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/kitchen-set
         /// </summary>
+        [Description("kitchen-set")]
         public const string KitchenSet = "\ue51a";
 
         /// <summary>
@@ -21579,6 +23540,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/kite
         /// </summary>
+        [Description("kite")]
         public const string Kite = "\uf6f4";
 
         /// <summary>
@@ -21590,6 +23552,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/kiwi-bird
         /// </summary>
+        [Description("kiwi-bird")]
         public const string KiwiBird = "\uf535";
 
         /// <summary>
@@ -21601,6 +23564,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/kiwi-fruit
         /// </summary>
+        [Description("kiwi-fruit")]
         public const string KiwiFruit = "\ue30c";
 
         /// <summary>
@@ -21612,6 +23576,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/knife
         /// </summary>
+        [Description("knife")]
         public const string Knife = "\uf2e4";
 
         /// <summary>
@@ -21623,6 +23588,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/knife-kitchen
         /// </summary>
+        [Description("knife-kitchen")]
         public const string KnifeKitchen = "\uf6f5";
 
         /// <summary>
@@ -21634,6 +23600,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/korvue
         /// </summary>
+        [Description("korvue")]
         public const string Korvue = "\uf42f";
 
         /// <summary>
@@ -21645,6 +23612,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/l
         /// </summary>
+        [Description("l")]
         public const string L = "\u004c";
 
         /// <summary>
@@ -21656,6 +23624,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lacrosse-stick
         /// </summary>
+        [Description("lacrosse-stick")]
         public const string LacrosseStick = "\ue3b5";
 
         /// <summary>
@@ -21667,6 +23636,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lacrosse-stick-ball
         /// </summary>
+        [Description("lacrosse-stick-ball")]
         public const string LacrosseStickBall = "\ue3b6";
 
         /// <summary>
@@ -21678,6 +23648,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lambda
         /// </summary>
+        [Description("lambda")]
         public const string Lambda = "\uf66e";
 
         /// <summary>
@@ -21689,6 +23660,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lamp
         /// </summary>
+        [Description("lamp")]
         public const string Lamp = "\uf4ca";
 
         /// <summary>
@@ -21700,6 +23672,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lamp-desk
         /// </summary>
+        [Description("lamp-desk")]
         public const string LampDesk = "\ue014";
 
         /// <summary>
@@ -21711,6 +23684,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lamp-floor
         /// </summary>
+        [Description("lamp-floor")]
         public const string LampFloor = "\ue015";
 
         /// <summary>
@@ -21722,6 +23696,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lamp-street
         /// </summary>
+        [Description("lamp-street")]
         public const string LampStreet = "\ue1c5";
 
         /// <summary>
@@ -21733,6 +23708,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/land-mine-on
         /// </summary>
+        [Description("land-mine-on")]
         public const string LandMineOn = "\ue51b";
 
         /// <summary>
@@ -21744,6 +23720,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/landmark
         /// </summary>
+        [Description("landmark")]
         public const string Landmark = "\uf66f";
 
         /// <summary>
@@ -21755,6 +23732,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/landmark-dome
         /// </summary>
+        [Description("landmark-dome")]
         public const string LandmarkDome = "\uf752";
 
         /// <summary>
@@ -21766,6 +23744,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/landmark-flag
         /// </summary>
+        [Description("landmark-flag")]
         public const string LandmarkFlag = "\ue51c";
 
         /// <summary>
@@ -21777,6 +23756,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/language
         /// </summary>
+        [Description("language")]
         public const string Language = "\uf1ab";
 
         /// <summary>
@@ -21788,6 +23768,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/laptop
         /// </summary>
+        [Description("laptop")]
         public const string Laptop = "\uf109";
 
         /// <summary>
@@ -21799,6 +23780,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/laptop-arrow-down
         /// </summary>
+        [Description("laptop-arrow-down")]
         public const string LaptopArrowDown = "\ue1c6";
 
         /// <summary>
@@ -21810,6 +23792,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/laptop-binary
         /// </summary>
+        [Description("laptop-binary")]
         public const string LaptopBinary = "\ue5e7";
 
         /// <summary>
@@ -21821,6 +23804,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/laptop-code
         /// </summary>
+        [Description("laptop-code")]
         public const string LaptopCode = "\uf5fc";
 
         /// <summary>
@@ -21832,6 +23816,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/laptop-file
         /// </summary>
+        [Description("laptop-file")]
         public const string LaptopFile = "\ue51d";
 
         /// <summary>
@@ -21843,6 +23828,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/laptop-medical
         /// </summary>
+        [Description("laptop-medical")]
         public const string LaptopMedical = "\uf812";
 
         /// <summary>
@@ -21854,6 +23840,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/laptop-mobile
         /// </summary>
+        [Description("laptop-mobile")]
         public const string LaptopMobile = "\uf87a";
 
         /// <summary>
@@ -21865,6 +23852,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/laptop-slash
         /// </summary>
+        [Description("laptop-slash")]
         public const string LaptopSlash = "\ue1c7";
 
         /// <summary>
@@ -21876,6 +23864,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/laravel
         /// </summary>
+        [Description("laravel")]
         public const string Laravel = "\uf3bd";
 
         /// <summary>
@@ -21887,6 +23876,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lari-sign
         /// </summary>
+        [Description("lari-sign")]
         public const string LariSign = "\ue1c8";
 
         /// <summary>
@@ -21898,6 +23888,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lasso
         /// </summary>
+        [Description("lasso")]
         public const string Lasso = "\uf8c8";
 
         /// <summary>
@@ -21909,6 +23900,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lasso-sparkles
         /// </summary>
+        [Description("lasso-sparkles")]
         public const string LassoSparkles = "\ue1c9";
 
         /// <summary>
@@ -21920,6 +23912,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lastfm
         /// </summary>
+        [Description("lastfm")]
         public const string Lastfm = "\uf202";
 
         /// <summary>
@@ -21931,6 +23924,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/layer-group
         /// </summary>
+        [Description("layer-group")]
         public const string LayerGroup = "\uf5fd";
 
         /// <summary>
@@ -21942,6 +23936,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/layer-minus
         /// </summary>
+        [Description("layer-minus")]
         public const string LayerMinus = "\uf5fe";
 
         /// <summary>
@@ -21953,6 +23948,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/layer-plus
         /// </summary>
+        [Description("layer-plus")]
         public const string LayerPlus = "\uf5ff";
 
         /// <summary>
@@ -21964,6 +23960,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/leaf
         /// </summary>
+        [Description("leaf")]
         public const string Leaf = "\uf06c";
 
         /// <summary>
@@ -21975,6 +23972,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/leaf-heart
         /// </summary>
+        [Description("leaf-heart")]
         public const string LeafHeart = "\uf4cb";
 
         /// <summary>
@@ -21986,6 +23984,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/leaf-maple
         /// </summary>
+        [Description("leaf-maple")]
         public const string LeafMaple = "\uf6f6";
 
         /// <summary>
@@ -21997,6 +23996,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/leaf-oak
         /// </summary>
+        [Description("leaf-oak")]
         public const string LeafOak = "\uf6f7";
 
         /// <summary>
@@ -22008,6 +24008,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/leafy-green
         /// </summary>
+        [Description("leafy-green")]
         public const string LeafyGreen = "\ue41d";
 
         /// <summary>
@@ -22019,6 +24020,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/leanpub
         /// </summary>
+        [Description("leanpub")]
         public const string Leanpub = "\uf212";
 
         /// <summary>
@@ -22030,6 +24032,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/left
         /// </summary>
+        [Description("left")]
         public const string Left = "\uf355";
 
         /// <summary>
@@ -22041,6 +24044,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/left-from-line
         /// </summary>
+        [Description("left-from-line")]
         public const string LeftFromLine = "\uf348";
 
         /// <summary>
@@ -22052,6 +24056,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/left-long
         /// </summary>
+        [Description("left-long")]
         public const string LeftLong = "\uf30a";
 
         /// <summary>
@@ -22063,6 +24068,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/left-long-to-line
         /// </summary>
+        [Description("left-long-to-line")]
         public const string LeftLongToLine = "\ue41e";
 
         /// <summary>
@@ -22074,6 +24080,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/left-right
         /// </summary>
+        [Description("left-right")]
         public const string LeftRight = "\uf337";
 
         /// <summary>
@@ -22085,6 +24092,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/left-to-line
         /// </summary>
+        [Description("left-to-line")]
         public const string LeftToLine = "\uf34b";
 
         /// <summary>
@@ -22096,6 +24104,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lemon
         /// </summary>
+        [Description("lemon")]
         public const string Lemon = "\uf094";
 
         /// <summary>
@@ -22107,6 +24116,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/less
         /// </summary>
+        [Description("less")]
         public const string Less = "\uf41d";
 
         /// <summary>
@@ -22118,6 +24128,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/less-than
         /// </summary>
+        [Description("less-than")]
         public const string LessThan = "\u003c";
 
         /// <summary>
@@ -22129,6 +24140,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/less-than-equal
         /// </summary>
+        [Description("less-than-equal")]
         public const string LessThanEqual = "\uf537";
 
         /// <summary>
@@ -22140,6 +24152,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/life-ring
         /// </summary>
+        [Description("life-ring")]
         public const string LifeRing = "\uf1cd";
 
         /// <summary>
@@ -22151,6 +24164,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/light-ceiling
         /// </summary>
+        [Description("light-ceiling")]
         public const string LightCeiling = "\ue016";
 
         /// <summary>
@@ -22162,6 +24176,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/light-emergency
         /// </summary>
+        [Description("light-emergency")]
         public const string LightEmergency = "\ue41f";
 
         /// <summary>
@@ -22173,6 +24188,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/light-emergency-on
         /// </summary>
+        [Description("light-emergency-on")]
         public const string LightEmergencyOn = "\ue420";
 
         /// <summary>
@@ -22184,6 +24200,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/light-switch
         /// </summary>
+        [Description("light-switch")]
         public const string LightSwitch = "\ue017";
 
         /// <summary>
@@ -22195,6 +24212,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/light-switch-off
         /// </summary>
+        [Description("light-switch-off")]
         public const string LightSwitchOff = "\ue018";
 
         /// <summary>
@@ -22206,6 +24224,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/light-switch-on
         /// </summary>
+        [Description("light-switch-on")]
         public const string LightSwitchOn = "\ue019";
 
         /// <summary>
@@ -22217,6 +24236,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lightbulb
         /// </summary>
+        [Description("lightbulb")]
         public const string Lightbulb = "\uf0eb";
 
         /// <summary>
@@ -22228,6 +24248,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lightbulb-cfl
         /// </summary>
+        [Description("lightbulb-cfl")]
         public const string LightbulbCfl = "\ue5a6";
 
         /// <summary>
@@ -22239,6 +24260,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lightbulb-cfl-on
         /// </summary>
+        [Description("lightbulb-cfl-on")]
         public const string LightbulbCflOn = "\ue5a7";
 
         /// <summary>
@@ -22250,6 +24272,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lightbulb-dollar
         /// </summary>
+        [Description("lightbulb-dollar")]
         public const string LightbulbDollar = "\uf670";
 
         /// <summary>
@@ -22261,6 +24284,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lightbulb-exclamation
         /// </summary>
+        [Description("lightbulb-exclamation")]
         public const string LightbulbExclamation = "\uf671";
 
         /// <summary>
@@ -22272,6 +24296,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lightbulb-exclamation-on
         /// </summary>
+        [Description("lightbulb-exclamation-on")]
         public const string LightbulbExclamationOn = "\ue1ca";
 
         /// <summary>
@@ -22283,6 +24308,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lightbulb-gear
         /// </summary>
+        [Description("lightbulb-gear")]
         public const string LightbulbGear = "\ue5fd";
 
         /// <summary>
@@ -22294,6 +24320,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lightbulb-on
         /// </summary>
+        [Description("lightbulb-on")]
         public const string LightbulbOn = "\uf672";
 
         /// <summary>
@@ -22305,6 +24332,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lightbulb-slash
         /// </summary>
+        [Description("lightbulb-slash")]
         public const string LightbulbSlash = "\uf673";
 
         /// <summary>
@@ -22316,6 +24344,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lights-holiday
         /// </summary>
+        [Description("lights-holiday")]
         public const string LightsHoliday = "\uf7b2";
 
         /// <summary>
@@ -22327,6 +24356,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/line
         /// </summary>
+        [Description("line")]
         public const string Line = "\uf3c0";
 
         /// <summary>
@@ -22338,6 +24368,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/line-columns
         /// </summary>
+        [Description("line-columns")]
         public const string LineColumns = "\uf870";
 
         /// <summary>
@@ -22349,6 +24380,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/line-height
         /// </summary>
+        [Description("line-height")]
         public const string LineHeight = "\uf871";
 
         /// <summary>
@@ -22360,6 +24392,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lines-leaning
         /// </summary>
+        [Description("lines-leaning")]
         public const string LinesLeaning = "\ue51e";
 
         /// <summary>
@@ -22371,6 +24404,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/link
         /// </summary>
+        [Description("link")]
         public const string Link = "\uf0c1";
 
         /// <summary>
@@ -22382,6 +24416,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/link-horizontal
         /// </summary>
+        [Description("link-horizontal")]
         public const string LinkHorizontal = "\ue1cb";
 
         /// <summary>
@@ -22393,6 +24428,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/link-horizontal-slash
         /// </summary>
+        [Description("link-horizontal-slash")]
         public const string LinkHorizontalSlash = "\ue1cc";
 
         /// <summary>
@@ -22404,6 +24440,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/link-simple
         /// </summary>
+        [Description("link-simple")]
         public const string LinkSimple = "\ue1cd";
 
         /// <summary>
@@ -22415,6 +24452,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/link-simple-slash
         /// </summary>
+        [Description("link-simple-slash")]
         public const string LinkSimpleSlash = "\ue1ce";
 
         /// <summary>
@@ -22426,6 +24464,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/link-slash
         /// </summary>
+        [Description("link-slash")]
         public const string LinkSlash = "\uf127";
 
         /// <summary>
@@ -22437,6 +24476,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/linkedin
         /// </summary>
+        [Description("linkedin")]
         public const string Linkedin = "\uf08c";
 
         /// <summary>
@@ -22448,6 +24488,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/linkedin-in
         /// </summary>
+        [Description("linkedin-in")]
         public const string LinkedinIn = "\uf0e1";
 
         /// <summary>
@@ -22459,6 +24500,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/linode
         /// </summary>
+        [Description("linode")]
         public const string Linode = "\uf2b8";
 
         /// <summary>
@@ -22470,6 +24512,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/linux
         /// </summary>
+        [Description("linux")]
         public const string Linux = "\uf17c";
 
         /// <summary>
@@ -22481,6 +24524,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lips
         /// </summary>
+        [Description("lips")]
         public const string Lips = "\uf600";
 
         /// <summary>
@@ -22492,6 +24536,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lira-sign
         /// </summary>
+        [Description("lira-sign")]
         public const string LiraSign = "\uf195";
 
         /// <summary>
@@ -22503,6 +24548,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/list
         /// </summary>
+        [Description("list")]
         public const string List = "\uf03a";
 
         /// <summary>
@@ -22514,6 +24560,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/list-check
         /// </summary>
+        [Description("list-check")]
         public const string ListCheck = "\uf0ae";
 
         /// <summary>
@@ -22525,6 +24572,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/list-dropdown
         /// </summary>
+        [Description("list-dropdown")]
         public const string ListDropdown = "\ue1cf";
 
         /// <summary>
@@ -22536,6 +24584,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/list-music
         /// </summary>
+        [Description("list-music")]
         public const string ListMusic = "\uf8c9";
 
         /// <summary>
@@ -22547,6 +24596,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/list-ol
         /// </summary>
+        [Description("list-ol")]
         public const string ListOl = "\uf0cb";
 
         /// <summary>
@@ -22558,6 +24608,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/list-radio
         /// </summary>
+        [Description("list-radio")]
         public const string ListRadio = "\ue1d0";
 
         /// <summary>
@@ -22569,6 +24620,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/list-timeline
         /// </summary>
+        [Description("list-timeline")]
         public const string ListTimeline = "\ue1d1";
 
         /// <summary>
@@ -22580,6 +24632,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/list-tree
         /// </summary>
+        [Description("list-tree")]
         public const string ListTree = "\ue1d2";
 
         /// <summary>
@@ -22591,6 +24644,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/list-ul
         /// </summary>
+        [Description("list-ul")]
         public const string ListUl = "\uf0ca";
 
         /// <summary>
@@ -22602,6 +24656,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/litecoin-sign
         /// </summary>
+        [Description("litecoin-sign")]
         public const string LitecoinSign = "\ue1d3";
 
         /// <summary>
@@ -22613,6 +24668,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/loader
         /// </summary>
+        [Description("loader")]
         public const string Loader = "\ue1d4";
 
         /// <summary>
@@ -22624,6 +24680,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lobster
         /// </summary>
+        [Description("lobster")]
         public const string Lobster = "\ue421";
 
         /// <summary>
@@ -22635,6 +24692,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-arrow
         /// </summary>
+        [Description("location-arrow")]
         public const string LocationArrow = "\uf124";
 
         /// <summary>
@@ -22646,6 +24704,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-check
         /// </summary>
+        [Description("location-check")]
         public const string LocationCheck = "\uf606";
 
         /// <summary>
@@ -22657,6 +24716,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-crosshairs
         /// </summary>
+        [Description("location-crosshairs")]
         public const string LocationCrosshairs = "\uf601";
 
         /// <summary>
@@ -22668,6 +24728,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-crosshairs-slash
         /// </summary>
+        [Description("location-crosshairs-slash")]
         public const string LocationCrosshairsSlash = "\uf603";
 
         /// <summary>
@@ -22679,6 +24740,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-dot
         /// </summary>
+        [Description("location-dot")]
         public const string LocationDot = "\uf3c5";
 
         /// <summary>
@@ -22690,6 +24752,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-dot-slash
         /// </summary>
+        [Description("location-dot-slash")]
         public const string LocationDotSlash = "\uf605";
 
         /// <summary>
@@ -22701,6 +24764,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-exclamation
         /// </summary>
+        [Description("location-exclamation")]
         public const string LocationExclamation = "\uf608";
 
         /// <summary>
@@ -22712,6 +24776,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-minus
         /// </summary>
+        [Description("location-minus")]
         public const string LocationMinus = "\uf609";
 
         /// <summary>
@@ -22723,6 +24788,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-pen
         /// </summary>
+        [Description("location-pen")]
         public const string LocationPen = "\uf607";
 
         /// <summary>
@@ -22734,6 +24800,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-pin
         /// </summary>
+        [Description("location-pin")]
         public const string LocationPin = "\uf041";
 
         /// <summary>
@@ -22745,6 +24812,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-pin-lock
         /// </summary>
+        [Description("location-pin-lock")]
         public const string LocationPinLock = "\ue51f";
 
         /// <summary>
@@ -22756,6 +24824,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-pin-slash
         /// </summary>
+        [Description("location-pin-slash")]
         public const string LocationPinSlash = "\uf60c";
 
         /// <summary>
@@ -22767,6 +24836,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-plus
         /// </summary>
+        [Description("location-plus")]
         public const string LocationPlus = "\uf60a";
 
         /// <summary>
@@ -22778,6 +24848,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-question
         /// </summary>
+        [Description("location-question")]
         public const string LocationQuestion = "\uf60b";
 
         /// <summary>
@@ -22789,6 +24860,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-smile
         /// </summary>
+        [Description("location-smile")]
         public const string LocationSmile = "\uf60d";
 
         /// <summary>
@@ -22800,6 +24872,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/location-xmark
         /// </summary>
+        [Description("location-xmark")]
         public const string LocationXmark = "\uf60e";
 
         /// <summary>
@@ -22811,6 +24884,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lock
         /// </summary>
+        [Description("lock")]
         public const string Lock = "\uf023";
 
         /// <summary>
@@ -22822,6 +24896,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lock-a
         /// </summary>
+        [Description("lock-a")]
         public const string LockA = "\ue422";
 
         /// <summary>
@@ -22833,6 +24908,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lock-hashtag
         /// </summary>
+        [Description("lock-hashtag")]
         public const string LockHashtag = "\ue423";
 
         /// <summary>
@@ -22844,6 +24920,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lock-keyhole
         /// </summary>
+        [Description("lock-keyhole")]
         public const string LockKeyhole = "\uf30d";
 
         /// <summary>
@@ -22855,6 +24932,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lock-keyhole-open
         /// </summary>
+        [Description("lock-keyhole-open")]
         public const string LockKeyholeOpen = "\uf3c2";
 
         /// <summary>
@@ -22866,6 +24944,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lock-open
         /// </summary>
+        [Description("lock-open")]
         public const string LockOpen = "\uf3c1";
 
         /// <summary>
@@ -22877,6 +24956,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/locust
         /// </summary>
+        [Description("locust")]
         public const string Locust = "\ue520";
 
         /// <summary>
@@ -22888,6 +24968,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lollipop
         /// </summary>
+        [Description("lollipop")]
         public const string Lollipop = "\ue424";
 
         /// <summary>
@@ -22899,6 +24980,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/loveseat
         /// </summary>
+        [Description("loveseat")]
         public const string Loveseat = "\uf4cc";
 
         /// <summary>
@@ -22910,6 +24992,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/luchador-mask
         /// </summary>
+        [Description("luchador-mask")]
         public const string LuchadorMask = "\uf455";
 
         /// <summary>
@@ -22921,6 +25004,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lungs
         /// </summary>
+        [Description("lungs")]
         public const string Lungs = "\uf604";
 
         /// <summary>
@@ -22932,6 +25016,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lungs-virus
         /// </summary>
+        [Description("lungs-virus")]
         public const string LungsVirus = "\ue067";
 
         /// <summary>
@@ -22943,6 +25028,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/lyft
         /// </summary>
+        [Description("lyft")]
         public const string Lyft = "\uf3c3";
 
         /// <summary>
@@ -22954,6 +25040,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/m
         /// </summary>
+        [Description("m")]
         public const string M = "\u004d";
 
         /// <summary>
@@ -22965,6 +25052,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mace
         /// </summary>
+        [Description("mace")]
         public const string Mace = "\uf6f8";
 
         /// <summary>
@@ -22976,6 +25064,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/magento
         /// </summary>
+        [Description("magento")]
         public const string Magento = "\uf3c4";
 
         /// <summary>
@@ -22987,6 +25076,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/magnet
         /// </summary>
+        [Description("magnet")]
         public const string Magnet = "\uf076";
 
         /// <summary>
@@ -22998,6 +25088,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/magnifying-glass
         /// </summary>
+        [Description("magnifying-glass")]
         public const string MagnifyingGlass = "\uf002";
 
         /// <summary>
@@ -23009,6 +25100,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/magnifying-glass-arrow-right
         /// </summary>
+        [Description("magnifying-glass-arrow-right")]
         public const string MagnifyingGlassArrowRight = "\ue521";
 
         /// <summary>
@@ -23020,6 +25112,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/magnifying-glass-chart
         /// </summary>
+        [Description("magnifying-glass-chart")]
         public const string MagnifyingGlassChart = "\ue522";
 
         /// <summary>
@@ -23031,6 +25124,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/magnifying-glass-dollar
         /// </summary>
+        [Description("magnifying-glass-dollar")]
         public const string MagnifyingGlassDollar = "\uf688";
 
         /// <summary>
@@ -23042,6 +25136,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/magnifying-glass-location
         /// </summary>
+        [Description("magnifying-glass-location")]
         public const string MagnifyingGlassLocation = "\uf689";
 
         /// <summary>
@@ -23053,6 +25148,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/magnifying-glass-minus
         /// </summary>
+        [Description("magnifying-glass-minus")]
         public const string MagnifyingGlassMinus = "\uf010";
 
         /// <summary>
@@ -23064,6 +25160,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/magnifying-glass-plus
         /// </summary>
+        [Description("magnifying-glass-plus")]
         public const string MagnifyingGlassPlus = "\uf00e";
 
         /// <summary>
@@ -23075,6 +25172,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mailbox
         /// </summary>
+        [Description("mailbox")]
         public const string Mailbox = "\uf813";
 
         /// <summary>
@@ -23086,6 +25184,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mailbox-flag-up
         /// </summary>
+        [Description("mailbox-flag-up")]
         public const string MailboxFlagUp = "\ue5bb";
 
         /// <summary>
@@ -23097,6 +25196,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mailchimp
         /// </summary>
+        [Description("mailchimp")]
         public const string Mailchimp = "\uf59e";
 
         /// <summary>
@@ -23108,6 +25208,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/manat-sign
         /// </summary>
+        [Description("manat-sign")]
         public const string ManatSign = "\ue1d5";
 
         /// <summary>
@@ -23119,6 +25220,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mandalorian
         /// </summary>
+        [Description("mandalorian")]
         public const string Mandalorian = "\uf50f";
 
         /// <summary>
@@ -23130,6 +25232,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mandolin
         /// </summary>
+        [Description("mandolin")]
         public const string Mandolin = "\uf6f9";
 
         /// <summary>
@@ -23141,6 +25244,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mango
         /// </summary>
+        [Description("mango")]
         public const string Mango = "\ue30f";
 
         /// <summary>
@@ -23152,6 +25256,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/manhole
         /// </summary>
+        [Description("manhole")]
         public const string Manhole = "\ue1d6";
 
         /// <summary>
@@ -23163,6 +25268,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/map
         /// </summary>
+        [Description("map")]
         public const string Map = "\uf279";
 
         /// <summary>
@@ -23174,6 +25280,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/map-location
         /// </summary>
+        [Description("map-location")]
         public const string MapLocation = "\uf59f";
 
         /// <summary>
@@ -23185,6 +25292,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/map-location-dot
         /// </summary>
+        [Description("map-location-dot")]
         public const string MapLocationDot = "\uf5a0";
 
         /// <summary>
@@ -23196,6 +25304,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/map-pin
         /// </summary>
+        [Description("map-pin")]
         public const string MapPin = "\uf276";
 
         /// <summary>
@@ -23207,6 +25316,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/markdown
         /// </summary>
+        [Description("markdown")]
         public const string Markdown = "\uf60f";
 
         /// <summary>
@@ -23218,6 +25328,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/marker
         /// </summary>
+        [Description("marker")]
         public const string Marker = "\uf5a1";
 
         /// <summary>
@@ -23229,6 +25340,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mars
         /// </summary>
+        [Description("mars")]
         public const string Mars = "\uf222";
 
         /// <summary>
@@ -23240,6 +25352,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mars-and-venus
         /// </summary>
+        [Description("mars-and-venus")]
         public const string MarsAndVenus = "\uf224";
 
         /// <summary>
@@ -23251,6 +25364,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mars-and-venus-burst
         /// </summary>
+        [Description("mars-and-venus-burst")]
         public const string MarsAndVenusBurst = "\ue523";
 
         /// <summary>
@@ -23262,6 +25376,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mars-double
         /// </summary>
+        [Description("mars-double")]
         public const string MarsDouble = "\uf227";
 
         /// <summary>
@@ -23273,6 +25388,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mars-stroke
         /// </summary>
+        [Description("mars-stroke")]
         public const string MarsStroke = "\uf229";
 
         /// <summary>
@@ -23284,6 +25400,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mars-stroke-right
         /// </summary>
+        [Description("mars-stroke-right")]
         public const string MarsStrokeRight = "\uf22b";
 
         /// <summary>
@@ -23295,6 +25412,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mars-stroke-up
         /// </summary>
+        [Description("mars-stroke-up")]
         public const string MarsStrokeUp = "\uf22a";
 
         /// <summary>
@@ -23306,6 +25424,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/martini-glass
         /// </summary>
+        [Description("martini-glass")]
         public const string MartiniGlass = "\uf57b";
 
         /// <summary>
@@ -23317,6 +25436,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/martini-glass-citrus
         /// </summary>
+        [Description("martini-glass-citrus")]
         public const string MartiniGlassCitrus = "\uf561";
 
         /// <summary>
@@ -23328,6 +25448,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/martini-glass-empty
         /// </summary>
+        [Description("martini-glass-empty")]
         public const string MartiniGlassEmpty = "\uf000";
 
         /// <summary>
@@ -23339,6 +25460,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mask
         /// </summary>
+        [Description("mask")]
         public const string Mask = "\uf6fa";
 
         /// <summary>
@@ -23350,6 +25472,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mask-face
         /// </summary>
+        [Description("mask-face")]
         public const string MaskFace = "\ue1d7";
 
         /// <summary>
@@ -23361,6 +25484,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mask-snorkel
         /// </summary>
+        [Description("mask-snorkel")]
         public const string MaskSnorkel = "\ue3b7";
 
         /// <summary>
@@ -23372,6 +25496,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mask-ventilator
         /// </summary>
+        [Description("mask-ventilator")]
         public const string MaskVentilator = "\ue524";
 
         /// <summary>
@@ -23383,6 +25508,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/masks-theater
         /// </summary>
+        [Description("masks-theater")]
         public const string MasksTheater = "\uf630";
 
         /// <summary>
@@ -23394,6 +25520,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mastodon
         /// </summary>
+        [Description("mastodon")]
         public const string Mastodon = "\uf4f6";
 
         /// <summary>
@@ -23405,6 +25532,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mattress-pillow
         /// </summary>
+        [Description("mattress-pillow")]
         public const string MattressPillow = "\ue525";
 
         /// <summary>
@@ -23416,6 +25544,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/maxcdn
         /// </summary>
+        [Description("maxcdn")]
         public const string Maxcdn = "\uf136";
 
         /// <summary>
@@ -23427,6 +25556,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/maximize
         /// </summary>
+        [Description("maximize")]
         public const string Maximize = "\uf31e";
 
         /// <summary>
@@ -23438,6 +25568,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mdb
         /// </summary>
+        [Description("mdb")]
         public const string Mdb = "\uf8ca";
 
         /// <summary>
@@ -23449,6 +25580,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/meat
         /// </summary>
+        [Description("meat")]
         public const string Meat = "\uf814";
 
         /// <summary>
@@ -23460,6 +25592,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/medal
         /// </summary>
+        [Description("medal")]
         public const string Medal = "\uf5a2";
 
         /// <summary>
@@ -23471,6 +25604,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/medapps
         /// </summary>
+        [Description("medapps")]
         public const string Medapps = "\uf3c6";
 
         /// <summary>
@@ -23482,6 +25616,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/medium
         /// </summary>
+        [Description("medium")]
         public const string Medium = "\uf23a";
 
         /// <summary>
@@ -23493,6 +25628,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/medrt
         /// </summary>
+        [Description("medrt")]
         public const string Medrt = "\uf3c8";
 
         /// <summary>
@@ -23504,6 +25640,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/meetup
         /// </summary>
+        [Description("meetup")]
         public const string Meetup = "\uf2e0";
 
         /// <summary>
@@ -23515,6 +25652,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/megaphone
         /// </summary>
+        [Description("megaphone")]
         public const string Megaphone = "\uf675";
 
         /// <summary>
@@ -23526,6 +25664,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/megaport
         /// </summary>
+        [Description("megaport")]
         public const string Megaport = "\uf5a3";
 
         /// <summary>
@@ -23537,6 +25676,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/melon
         /// </summary>
+        [Description("melon")]
         public const string Melon = "\ue310";
 
         /// <summary>
@@ -23548,6 +25688,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/melon-slice
         /// </summary>
+        [Description("melon-slice")]
         public const string MelonSlice = "\ue311";
 
         /// <summary>
@@ -23559,6 +25700,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/memo
         /// </summary>
+        [Description("memo")]
         public const string Memo = "\ue1d8";
 
         /// <summary>
@@ -23570,6 +25712,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/memo-circle-check
         /// </summary>
+        [Description("memo-circle-check")]
         public const string MemoCircleCheck = "\ue1d9";
 
         /// <summary>
@@ -23581,6 +25724,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/memo-circle-info
         /// </summary>
+        [Description("memo-circle-info")]
         public const string MemoCircleInfo = "\ue49a";
 
         /// <summary>
@@ -23592,6 +25736,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/memo-pad
         /// </summary>
+        [Description("memo-pad")]
         public const string MemoPad = "\ue1da";
 
         /// <summary>
@@ -23603,6 +25748,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/memory
         /// </summary>
+        [Description("memory")]
         public const string Memory = "\uf538";
 
         /// <summary>
@@ -23614,6 +25760,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mendeley
         /// </summary>
+        [Description("mendeley")]
         public const string Mendeley = "\uf7b3";
 
         /// <summary>
@@ -23625,6 +25772,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/menorah
         /// </summary>
+        [Description("menorah")]
         public const string Menorah = "\uf676";
 
         /// <summary>
@@ -23636,6 +25784,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mercury
         /// </summary>
+        [Description("mercury")]
         public const string Mercury = "\uf223";
 
         /// <summary>
@@ -23647,6 +25796,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/merge
         /// </summary>
+        [Description("merge")]
         public const string Merge = "\ue526";
 
         /// <summary>
@@ -23658,6 +25808,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message
         /// </summary>
+        [Description("message")]
         public const string Message = "\uf27a";
 
         /// <summary>
@@ -23669,6 +25820,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-arrow-down
         /// </summary>
+        [Description("message-arrow-down")]
         public const string MessageArrowDown = "\ue1db";
 
         /// <summary>
@@ -23680,6 +25832,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-arrow-up
         /// </summary>
+        [Description("message-arrow-up")]
         public const string MessageArrowUp = "\ue1dc";
 
         /// <summary>
@@ -23691,6 +25844,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-arrow-up-right
         /// </summary>
+        [Description("message-arrow-up-right")]
         public const string MessageArrowUpRight = "\ue1dd";
 
         /// <summary>
@@ -23702,6 +25856,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-bot
         /// </summary>
+        [Description("message-bot")]
         public const string MessageBot = "\ue3b8";
 
         /// <summary>
@@ -23713,6 +25868,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-captions
         /// </summary>
+        [Description("message-captions")]
         public const string MessageCaptions = "\ue1de";
 
         /// <summary>
@@ -23724,6 +25880,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-check
         /// </summary>
+        [Description("message-check")]
         public const string MessageCheck = "\uf4a2";
 
         /// <summary>
@@ -23735,6 +25892,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-code
         /// </summary>
+        [Description("message-code")]
         public const string MessageCode = "\ue1df";
 
         /// <summary>
@@ -23746,6 +25904,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-dollar
         /// </summary>
+        [Description("message-dollar")]
         public const string MessageDollar = "\uf650";
 
         /// <summary>
@@ -23757,6 +25916,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-dots
         /// </summary>
+        [Description("message-dots")]
         public const string MessageDots = "\uf4a3";
 
         /// <summary>
@@ -23768,6 +25928,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-exclamation
         /// </summary>
+        [Description("message-exclamation")]
         public const string MessageExclamation = "\uf4a5";
 
         /// <summary>
@@ -23779,6 +25940,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-heart
         /// </summary>
+        [Description("message-heart")]
         public const string MessageHeart = "\ue5c9";
 
         /// <summary>
@@ -23790,6 +25952,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-image
         /// </summary>
+        [Description("message-image")]
         public const string MessageImage = "\ue1e0";
 
         /// <summary>
@@ -23801,6 +25964,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-lines
         /// </summary>
+        [Description("message-lines")]
         public const string MessageLines = "\uf4a6";
 
         /// <summary>
@@ -23812,6 +25976,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-medical
         /// </summary>
+        [Description("message-medical")]
         public const string MessageMedical = "\uf7f4";
 
         /// <summary>
@@ -23823,6 +25988,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-middle
         /// </summary>
+        [Description("message-middle")]
         public const string MessageMiddle = "\ue1e1";
 
         /// <summary>
@@ -23834,6 +26000,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-middle-top
         /// </summary>
+        [Description("message-middle-top")]
         public const string MessageMiddleTop = "\ue1e2";
 
         /// <summary>
@@ -23845,6 +26012,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-minus
         /// </summary>
+        [Description("message-minus")]
         public const string MessageMinus = "\uf4a7";
 
         /// <summary>
@@ -23856,6 +26024,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-music
         /// </summary>
+        [Description("message-music")]
         public const string MessageMusic = "\uf8af";
 
         /// <summary>
@@ -23867,6 +26036,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-pen
         /// </summary>
+        [Description("message-pen")]
         public const string MessagePen = "\uf4a4";
 
         /// <summary>
@@ -23878,6 +26048,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-plus
         /// </summary>
+        [Description("message-plus")]
         public const string MessagePlus = "\uf4a8";
 
         /// <summary>
@@ -23889,6 +26060,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-question
         /// </summary>
+        [Description("message-question")]
         public const string MessageQuestion = "\ue1e3";
 
         /// <summary>
@@ -23900,6 +26072,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-quote
         /// </summary>
+        [Description("message-quote")]
         public const string MessageQuote = "\ue1e4";
 
         /// <summary>
@@ -23911,6 +26084,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-slash
         /// </summary>
+        [Description("message-slash")]
         public const string MessageSlash = "\uf4a9";
 
         /// <summary>
@@ -23922,6 +26096,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-smile
         /// </summary>
+        [Description("message-smile")]
         public const string MessageSmile = "\uf4aa";
 
         /// <summary>
@@ -23933,6 +26108,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-sms
         /// </summary>
+        [Description("message-sms")]
         public const string MessageSms = "\ue1e5";
 
         /// <summary>
@@ -23944,6 +26120,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-text
         /// </summary>
+        [Description("message-text")]
         public const string MessageText = "\ue1e6";
 
         /// <summary>
@@ -23955,6 +26132,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/message-xmark
         /// </summary>
+        [Description("message-xmark")]
         public const string MessageXmark = "\uf4ab";
 
         /// <summary>
@@ -23966,6 +26144,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/messages
         /// </summary>
+        [Description("messages")]
         public const string Messages = "\uf4b6";
 
         /// <summary>
@@ -23977,6 +26156,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/messages-dollar
         /// </summary>
+        [Description("messages-dollar")]
         public const string MessagesDollar = "\uf652";
 
         /// <summary>
@@ -23988,6 +26168,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/messages-question
         /// </summary>
+        [Description("messages-question")]
         public const string MessagesQuestion = "\ue1e7";
 
         /// <summary>
@@ -23999,6 +26180,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/meta
         /// </summary>
+        [Description("meta")]
         public const string Meta = "\ue49b";
 
         /// <summary>
@@ -24010,6 +26192,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/meteor
         /// </summary>
+        [Description("meteor")]
         public const string Meteor = "\uf753";
 
         /// <summary>
@@ -24021,6 +26204,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/meter
         /// </summary>
+        [Description("meter")]
         public const string Meter = "\ue1e8";
 
         /// <summary>
@@ -24032,6 +26216,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/meter-bolt
         /// </summary>
+        [Description("meter-bolt")]
         public const string MeterBolt = "\ue1e9";
 
         /// <summary>
@@ -24043,6 +26228,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/meter-droplet
         /// </summary>
+        [Description("meter-droplet")]
         public const string MeterDroplet = "\ue1ea";
 
         /// <summary>
@@ -24054,6 +26240,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/meter-fire
         /// </summary>
+        [Description("meter-fire")]
         public const string MeterFire = "\ue1eb";
 
         /// <summary>
@@ -24065,6 +26252,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/microblog
         /// </summary>
+        [Description("microblog")]
         public const string Microblog = "\ue01a";
 
         /// <summary>
@@ -24076,6 +26264,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/microchip
         /// </summary>
+        [Description("microchip")]
         public const string Microchip = "\uf2db";
 
         /// <summary>
@@ -24087,6 +26276,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/microchip-ai
         /// </summary>
+        [Description("microchip-ai")]
         public const string MicrochipAi = "\ue1ec";
 
         /// <summary>
@@ -24098,6 +26288,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/microphone
         /// </summary>
+        [Description("microphone")]
         public const string Microphone = "\uf130";
 
         /// <summary>
@@ -24109,6 +26300,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/microphone-lines
         /// </summary>
+        [Description("microphone-lines")]
         public const string MicrophoneLines = "\uf3c9";
 
         /// <summary>
@@ -24120,6 +26312,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/microphone-lines-slash
         /// </summary>
+        [Description("microphone-lines-slash")]
         public const string MicrophoneLinesSlash = "\uf539";
 
         /// <summary>
@@ -24131,6 +26324,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/microphone-slash
         /// </summary>
+        [Description("microphone-slash")]
         public const string MicrophoneSlash = "\uf131";
 
         /// <summary>
@@ -24142,6 +26336,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/microphone-stand
         /// </summary>
+        [Description("microphone-stand")]
         public const string MicrophoneStand = "\uf8cb";
 
         /// <summary>
@@ -24153,6 +26348,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/microscope
         /// </summary>
+        [Description("microscope")]
         public const string Microscope = "\uf610";
 
         /// <summary>
@@ -24164,6 +26360,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/microsoft
         /// </summary>
+        [Description("microsoft")]
         public const string Microsoft = "\uf3ca";
 
         /// <summary>
@@ -24175,6 +26372,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/microwave
         /// </summary>
+        [Description("microwave")]
         public const string Microwave = "\ue01b";
 
         /// <summary>
@@ -24186,6 +26384,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mill-sign
         /// </summary>
+        [Description("mill-sign")]
         public const string MillSign = "\ue1ed";
 
         /// <summary>
@@ -24197,6 +26396,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/minimize
         /// </summary>
+        [Description("minimize")]
         public const string Minimize = "\uf78c";
 
         /// <summary>
@@ -24208,6 +26408,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/minus
         /// </summary>
+        [Description("minus")]
         public const string Minus = "\uf068";
 
         /// <summary>
@@ -24219,6 +26420,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mistletoe
         /// </summary>
+        [Description("mistletoe")]
         public const string Mistletoe = "\uf7b4";
 
         /// <summary>
@@ -24230,6 +26432,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mitten
         /// </summary>
+        [Description("mitten")]
         public const string Mitten = "\uf7b5";
 
         /// <summary>
@@ -24241,6 +26444,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mix
         /// </summary>
+        [Description("mix")]
         public const string Mix = "\uf3cb";
 
         /// <summary>
@@ -24252,6 +26456,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mixcloud
         /// </summary>
+        [Description("mixcloud")]
         public const string Mixcloud = "\uf289";
 
         /// <summary>
@@ -24263,6 +26468,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mixer
         /// </summary>
+        [Description("mixer")]
         public const string Mixer = "\ue056";
 
         /// <summary>
@@ -24274,6 +26480,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mizuni
         /// </summary>
+        [Description("mizuni")]
         public const string Mizuni = "\uf3cc";
 
         /// <summary>
@@ -24285,6 +26492,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mobile
         /// </summary>
+        [Description("mobile")]
         public const string Mobile = "\uf3ce";
 
         /// <summary>
@@ -24296,6 +26504,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mobile-button
         /// </summary>
+        [Description("mobile-button")]
         public const string MobileButton = "\uf10b";
 
         /// <summary>
@@ -24307,6 +26516,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mobile-notch
         /// </summary>
+        [Description("mobile-notch")]
         public const string MobileNotch = "\ue1ee";
 
         /// <summary>
@@ -24318,6 +26528,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mobile-retro
         /// </summary>
+        [Description("mobile-retro")]
         public const string MobileRetro = "\ue527";
 
         /// <summary>
@@ -24329,6 +26540,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mobile-screen
         /// </summary>
+        [Description("mobile-screen")]
         public const string MobileScreen = "\uf3cf";
 
         /// <summary>
@@ -24340,6 +26552,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mobile-screen-button
         /// </summary>
+        [Description("mobile-screen-button")]
         public const string MobileScreenButton = "\uf3cd";
 
         /// <summary>
@@ -24351,6 +26564,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mobile-signal
         /// </summary>
+        [Description("mobile-signal")]
         public const string MobileSignal = "\ue1ef";
 
         /// <summary>
@@ -24362,6 +26576,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mobile-signal-out
         /// </summary>
+        [Description("mobile-signal-out")]
         public const string MobileSignalOut = "\ue1f0";
 
         /// <summary>
@@ -24373,6 +26588,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/modx
         /// </summary>
+        [Description("modx")]
         public const string Modx = "\uf285";
 
         /// <summary>
@@ -24384,6 +26600,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/monero
         /// </summary>
+        [Description("monero")]
         public const string Monero = "\uf3d0";
 
         /// <summary>
@@ -24395,6 +26612,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-bill
         /// </summary>
+        [Description("money-bill")]
         public const string MoneyBill = "\uf0d6";
 
         /// <summary>
@@ -24406,6 +26624,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-bill-1
         /// </summary>
+        [Description("money-bill-1")]
         public const string MoneyBill1 = "\uf3d1";
 
         /// <summary>
@@ -24417,6 +26636,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-bill-1-wave
         /// </summary>
+        [Description("money-bill-1-wave")]
         public const string MoneyBill1Wave = "\uf53b";
 
         /// <summary>
@@ -24428,6 +26648,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-bill-simple
         /// </summary>
+        [Description("money-bill-simple")]
         public const string MoneyBillSimple = "\ue1f1";
 
         /// <summary>
@@ -24439,6 +26660,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-bill-simple-wave
         /// </summary>
+        [Description("money-bill-simple-wave")]
         public const string MoneyBillSimpleWave = "\ue1f2";
 
         /// <summary>
@@ -24450,6 +26672,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-bill-transfer
         /// </summary>
+        [Description("money-bill-transfer")]
         public const string MoneyBillTransfer = "\ue528";
 
         /// <summary>
@@ -24461,6 +26684,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-bill-trend-up
         /// </summary>
+        [Description("money-bill-trend-up")]
         public const string MoneyBillTrendUp = "\ue529";
 
         /// <summary>
@@ -24472,6 +26696,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-bill-wave
         /// </summary>
+        [Description("money-bill-wave")]
         public const string MoneyBillWave = "\uf53a";
 
         /// <summary>
@@ -24483,6 +26708,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-bill-wheat
         /// </summary>
+        [Description("money-bill-wheat")]
         public const string MoneyBillWheat = "\ue52a";
 
         /// <summary>
@@ -24494,6 +26720,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-bills
         /// </summary>
+        [Description("money-bills")]
         public const string MoneyBills = "\ue1f3";
 
         /// <summary>
@@ -24505,6 +26732,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-bills-simple
         /// </summary>
+        [Description("money-bills-simple")]
         public const string MoneyBillsSimple = "\ue1f4";
 
         /// <summary>
@@ -24516,6 +26744,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-check
         /// </summary>
+        [Description("money-check")]
         public const string MoneyCheck = "\uf53c";
 
         /// <summary>
@@ -24527,6 +26756,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-check-dollar
         /// </summary>
+        [Description("money-check-dollar")]
         public const string MoneyCheckDollar = "\uf53d";
 
         /// <summary>
@@ -24538,6 +26768,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-check-dollar-pen
         /// </summary>
+        [Description("money-check-dollar-pen")]
         public const string MoneyCheckDollarPen = "\uf873";
 
         /// <summary>
@@ -24549,6 +26780,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-check-pen
         /// </summary>
+        [Description("money-check-pen")]
         public const string MoneyCheckPen = "\uf872";
 
         /// <summary>
@@ -24560,6 +26792,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-from-bracket
         /// </summary>
+        [Description("money-from-bracket")]
         public const string MoneyFromBracket = "\ue312";
 
         /// <summary>
@@ -24571,6 +26804,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/money-simple-from-bracket
         /// </summary>
+        [Description("money-simple-from-bracket")]
         public const string MoneySimpleFromBracket = "\ue313";
 
         /// <summary>
@@ -24582,6 +26816,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/monitor-waveform
         /// </summary>
+        [Description("monitor-waveform")]
         public const string MonitorWaveform = "\uf611";
 
         /// <summary>
@@ -24593,6 +26828,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/monkey
         /// </summary>
+        [Description("monkey")]
         public const string Monkey = "\uf6fb";
 
         /// <summary>
@@ -24604,6 +26840,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/monument
         /// </summary>
+        [Description("monument")]
         public const string Monument = "\uf5a6";
 
         /// <summary>
@@ -24615,6 +26852,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/moon
         /// </summary>
+        [Description("moon")]
         public const string Moon = "\uf186";
 
         /// <summary>
@@ -24626,6 +26864,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/moon-cloud
         /// </summary>
+        [Description("moon-cloud")]
         public const string MoonCloud = "\uf754";
 
         /// <summary>
@@ -24637,6 +26876,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/moon-over-sun
         /// </summary>
+        [Description("moon-over-sun")]
         public const string MoonOverSun = "\uf74a";
 
         /// <summary>
@@ -24648,6 +26888,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/moon-stars
         /// </summary>
+        [Description("moon-stars")]
         public const string MoonStars = "\uf755";
 
         /// <summary>
@@ -24659,6 +26900,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/moped
         /// </summary>
+        [Description("moped")]
         public const string Moped = "\ue3b9";
 
         /// <summary>
@@ -24670,6 +26912,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mortar-pestle
         /// </summary>
+        [Description("mortar-pestle")]
         public const string MortarPestle = "\uf5a7";
 
         /// <summary>
@@ -24681,6 +26924,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mosque
         /// </summary>
+        [Description("mosque")]
         public const string Mosque = "\uf678";
 
         /// <summary>
@@ -24692,6 +26936,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mosquito
         /// </summary>
+        [Description("mosquito")]
         public const string Mosquito = "\ue52b";
 
         /// <summary>
@@ -24703,6 +26948,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mosquito-net
         /// </summary>
+        [Description("mosquito-net")]
         public const string MosquitoNet = "\ue52c";
 
         /// <summary>
@@ -24714,6 +26960,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/motorcycle
         /// </summary>
+        [Description("motorcycle")]
         public const string Motorcycle = "\uf21c";
 
         /// <summary>
@@ -24725,6 +26972,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mound
         /// </summary>
+        [Description("mound")]
         public const string Mound = "\ue52d";
 
         /// <summary>
@@ -24736,6 +26984,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mountain
         /// </summary>
+        [Description("mountain")]
         public const string Mountain = "\uf6fc";
 
         /// <summary>
@@ -24747,6 +26996,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mountain-city
         /// </summary>
+        [Description("mountain-city")]
         public const string MountainCity = "\ue52e";
 
         /// <summary>
@@ -24758,6 +27008,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mountain-sun
         /// </summary>
+        [Description("mountain-sun")]
         public const string MountainSun = "\ue52f";
 
         /// <summary>
@@ -24769,6 +27020,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mountains
         /// </summary>
+        [Description("mountains")]
         public const string Mountains = "\uf6fd";
 
         /// <summary>
@@ -24780,6 +27032,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mouse-field
         /// </summary>
+        [Description("mouse-field")]
         public const string MouseField = "\ue5a8";
 
         /// <summary>
@@ -24791,6 +27044,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mp3-player
         /// </summary>
+        [Description("mp3-player")]
         public const string Mp3Player = "\uf8ce";
 
         /// <summary>
@@ -24802,6 +27056,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mug
         /// </summary>
+        [Description("mug")]
         public const string Mug = "\uf874";
 
         /// <summary>
@@ -24813,6 +27068,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mug-hot
         /// </summary>
+        [Description("mug-hot")]
         public const string MugHot = "\uf7b6";
 
         /// <summary>
@@ -24824,6 +27080,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mug-marshmallows
         /// </summary>
+        [Description("mug-marshmallows")]
         public const string MugMarshmallows = "\uf7b7";
 
         /// <summary>
@@ -24835,6 +27092,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mug-saucer
         /// </summary>
+        [Description("mug-saucer")]
         public const string MugSaucer = "\uf0f4";
 
         /// <summary>
@@ -24846,6 +27104,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mug-tea
         /// </summary>
+        [Description("mug-tea")]
         public const string MugTea = "\uf875";
 
         /// <summary>
@@ -24857,6 +27116,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mug-tea-saucer
         /// </summary>
+        [Description("mug-tea-saucer")]
         public const string MugTeaSaucer = "\ue1f5";
 
         /// <summary>
@@ -24868,6 +27128,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mushroom
         /// </summary>
+        [Description("mushroom")]
         public const string Mushroom = "\ue425";
 
         /// <summary>
@@ -24879,6 +27140,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/music
         /// </summary>
+        [Description("music")]
         public const string Music = "\uf001";
 
         /// <summary>
@@ -24890,6 +27152,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/music-note
         /// </summary>
+        [Description("music-note")]
         public const string MusicNote = "\uf8cf";
 
         /// <summary>
@@ -24901,6 +27164,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/music-note-slash
         /// </summary>
+        [Description("music-note-slash")]
         public const string MusicNoteSlash = "\uf8d0";
 
         /// <summary>
@@ -24912,6 +27176,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/music-slash
         /// </summary>
+        [Description("music-slash")]
         public const string MusicSlash = "\uf8d1";
 
         /// <summary>
@@ -24923,6 +27188,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/mustache
         /// </summary>
+        [Description("mustache")]
         public const string Mustache = "\ue5bc";
 
         /// <summary>
@@ -24934,6 +27200,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/n
         /// </summary>
+        [Description("n")]
         public const string N = "\u004e";
 
         /// <summary>
@@ -24945,6 +27212,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/naira-sign
         /// </summary>
+        [Description("naira-sign")]
         public const string NairaSign = "\ue1f6";
 
         /// <summary>
@@ -24956,6 +27224,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/napster
         /// </summary>
+        [Description("napster")]
         public const string Napster = "\uf3d2";
 
         /// <summary>
@@ -24967,6 +27236,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/narwhal
         /// </summary>
+        [Description("narwhal")]
         public const string Narwhal = "\uf6fe";
 
         /// <summary>
@@ -24978,6 +27248,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/neos
         /// </summary>
+        [Description("neos")]
         public const string Neos = "\uf612";
 
         /// <summary>
@@ -24989,6 +27260,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/nesting-dolls
         /// </summary>
+        [Description("nesting-dolls")]
         public const string NestingDolls = "\ue3ba";
 
         /// <summary>
@@ -25000,6 +27272,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/network-wired
         /// </summary>
+        [Description("network-wired")]
         public const string NetworkWired = "\uf6ff";
 
         /// <summary>
@@ -25011,6 +27284,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/neuter
         /// </summary>
+        [Description("neuter")]
         public const string Neuter = "\uf22c";
 
         /// <summary>
@@ -25022,6 +27296,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/newspaper
         /// </summary>
+        [Description("newspaper")]
         public const string Newspaper = "\uf1ea";
 
         /// <summary>
@@ -25033,6 +27308,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/nfc
         /// </summary>
+        [Description("nfc")]
         public const string Nfc = "\ue1f7";
 
         /// <summary>
@@ -25044,6 +27320,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/nfc-directional
         /// </summary>
+        [Description("nfc-directional")]
         public const string NfcDirectional = "\ue530";
 
         /// <summary>
@@ -25055,6 +27332,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/nfc-lock
         /// </summary>
+        [Description("nfc-lock")]
         public const string NfcLock = "\ue1f8";
 
         /// <summary>
@@ -25066,6 +27344,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/nfc-magnifying-glass
         /// </summary>
+        [Description("nfc-magnifying-glass")]
         public const string NfcMagnifyingGlass = "\ue1f9";
 
         /// <summary>
@@ -25077,6 +27356,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/nfc-pen
         /// </summary>
+        [Description("nfc-pen")]
         public const string NfcPen = "\ue1fa";
 
         /// <summary>
@@ -25088,6 +27368,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/nfc-signal
         /// </summary>
+        [Description("nfc-signal")]
         public const string NfcSignal = "\ue1fb";
 
         /// <summary>
@@ -25099,6 +27380,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/nfc-slash
         /// </summary>
+        [Description("nfc-slash")]
         public const string NfcSlash = "\ue1fc";
 
         /// <summary>
@@ -25110,6 +27392,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/nfc-symbol
         /// </summary>
+        [Description("nfc-symbol")]
         public const string NfcSymbol = "\ue531";
 
         /// <summary>
@@ -25121,6 +27404,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/nfc-trash
         /// </summary>
+        [Description("nfc-trash")]
         public const string NfcTrash = "\ue1fd";
 
         /// <summary>
@@ -25132,6 +27416,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/nimblr
         /// </summary>
+        [Description("nimblr")]
         public const string Nimblr = "\uf5a8";
 
         /// <summary>
@@ -25143,6 +27428,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/node
         /// </summary>
+        [Description("node")]
         public const string Node = "\uf419";
 
         /// <summary>
@@ -25154,6 +27440,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/node-js
         /// </summary>
+        [Description("node-js")]
         public const string NodeJs = "\uf3d3";
 
         /// <summary>
@@ -25165,6 +27452,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/nose
         /// </summary>
+        [Description("nose")]
         public const string Nose = "\ue5bd";
 
         /// <summary>
@@ -25176,6 +27464,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/not-equal
         /// </summary>
+        [Description("not-equal")]
         public const string NotEqual = "\uf53e";
 
         /// <summary>
@@ -25187,6 +27476,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/notdef
         /// </summary>
+        [Description("notdef")]
         public const string Notdef = "\ue1fe";
 
         /// <summary>
@@ -25198,6 +27488,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/note
         /// </summary>
+        [Description("note")]
         public const string Note = "\ue1ff";
 
         /// <summary>
@@ -25209,6 +27500,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/note-medical
         /// </summary>
+        [Description("note-medical")]
         public const string NoteMedical = "\ue200";
 
         /// <summary>
@@ -25220,6 +27512,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/note-sticky
         /// </summary>
+        [Description("note-sticky")]
         public const string NoteSticky = "\uf249";
 
         /// <summary>
@@ -25231,6 +27524,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/notebook
         /// </summary>
+        [Description("notebook")]
         public const string Notebook = "\ue201";
 
         /// <summary>
@@ -25242,6 +27536,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/notes
         /// </summary>
+        [Description("notes")]
         public const string Notes = "\ue202";
 
         /// <summary>
@@ -25253,6 +27548,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/notes-medical
         /// </summary>
+        [Description("notes-medical")]
         public const string NotesMedical = "\uf481";
 
         /// <summary>
@@ -25264,6 +27560,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/npm
         /// </summary>
+        [Description("npm")]
         public const string Npm = "\uf3d4";
 
         /// <summary>
@@ -25275,6 +27572,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ns8
         /// </summary>
+        [Description("ns8")]
         public const string Ns8 = "\uf3d5";
 
         /// <summary>
@@ -25286,6 +27584,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/nutritionix
         /// </summary>
+        [Description("nutritionix")]
         public const string Nutritionix = "\uf3d6";
 
         /// <summary>
@@ -25297,6 +27596,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/o
         /// </summary>
+        [Description("o")]
         public const string O = "\u004f";
 
         /// <summary>
@@ -25308,6 +27608,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/object-exclude
         /// </summary>
+        [Description("object-exclude")]
         public const string ObjectExclude = "\ue49c";
 
         /// <summary>
@@ -25319,6 +27620,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/object-group
         /// </summary>
+        [Description("object-group")]
         public const string ObjectGroup = "\uf247";
 
         /// <summary>
@@ -25330,6 +27632,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/object-intersect
         /// </summary>
+        [Description("object-intersect")]
         public const string ObjectIntersect = "\ue49d";
 
         /// <summary>
@@ -25341,6 +27644,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/object-subtract
         /// </summary>
+        [Description("object-subtract")]
         public const string ObjectSubtract = "\ue49e";
 
         /// <summary>
@@ -25352,6 +27656,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/object-ungroup
         /// </summary>
+        [Description("object-ungroup")]
         public const string ObjectUngroup = "\uf248";
 
         /// <summary>
@@ -25363,6 +27668,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/object-union
         /// </summary>
+        [Description("object-union")]
         public const string ObjectUnion = "\ue49f";
 
         /// <summary>
@@ -25374,6 +27680,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/objects-align-bottom
         /// </summary>
+        [Description("objects-align-bottom")]
         public const string ObjectsAlignBottom = "\ue3bb";
 
         /// <summary>
@@ -25385,6 +27692,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/objects-align-center-horizontal
         /// </summary>
+        [Description("objects-align-center-horizontal")]
         public const string ObjectsAlignCenterHorizontal = "\ue3bc";
 
         /// <summary>
@@ -25396,6 +27704,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/objects-align-center-vertical
         /// </summary>
+        [Description("objects-align-center-vertical")]
         public const string ObjectsAlignCenterVertical = "\ue3bd";
 
         /// <summary>
@@ -25407,6 +27716,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/objects-align-left
         /// </summary>
+        [Description("objects-align-left")]
         public const string ObjectsAlignLeft = "\ue3be";
 
         /// <summary>
@@ -25418,6 +27728,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/objects-align-right
         /// </summary>
+        [Description("objects-align-right")]
         public const string ObjectsAlignRight = "\ue3bf";
 
         /// <summary>
@@ -25429,6 +27740,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/objects-align-top
         /// </summary>
+        [Description("objects-align-top")]
         public const string ObjectsAlignTop = "\ue3c0";
 
         /// <summary>
@@ -25440,6 +27752,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/objects-column
         /// </summary>
+        [Description("objects-column")]
         public const string ObjectsColumn = "\ue3c1";
 
         /// <summary>
@@ -25451,6 +27764,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/octagon
         /// </summary>
+        [Description("octagon")]
         public const string Octagon = "\uf306";
 
         /// <summary>
@@ -25462,6 +27776,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/octagon-check
         /// </summary>
+        [Description("octagon-check")]
         public const string OctagonCheck = "\ue426";
 
         /// <summary>
@@ -25473,6 +27788,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/octagon-divide
         /// </summary>
+        [Description("octagon-divide")]
         public const string OctagonDivide = "\ue203";
 
         /// <summary>
@@ -25484,6 +27800,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/octagon-exclamation
         /// </summary>
+        [Description("octagon-exclamation")]
         public const string OctagonExclamation = "\ue204";
 
         /// <summary>
@@ -25495,6 +27812,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/octagon-minus
         /// </summary>
+        [Description("octagon-minus")]
         public const string OctagonMinus = "\uf308";
 
         /// <summary>
@@ -25506,6 +27824,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/octagon-plus
         /// </summary>
+        [Description("octagon-plus")]
         public const string OctagonPlus = "\uf301";
 
         /// <summary>
@@ -25517,6 +27836,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/octagon-xmark
         /// </summary>
+        [Description("octagon-xmark")]
         public const string OctagonXmark = "\uf2f0";
 
         /// <summary>
@@ -25528,6 +27848,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/octopus-deploy
         /// </summary>
+        [Description("octopus-deploy")]
         public const string OctopusDeploy = "\ue082";
 
         /// <summary>
@@ -25539,6 +27860,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/odnoklassniki
         /// </summary>
+        [Description("odnoklassniki")]
         public const string Odnoklassniki = "\uf263";
 
         /// <summary>
@@ -25550,6 +27872,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/odysee
         /// </summary>
+        [Description("odysee")]
         public const string Odysee = "\ue5c6";
 
         /// <summary>
@@ -25561,6 +27884,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/oil-can
         /// </summary>
+        [Description("oil-can")]
         public const string OilCan = "\uf613";
 
         /// <summary>
@@ -25572,6 +27896,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/oil-can-drip
         /// </summary>
+        [Description("oil-can-drip")]
         public const string OilCanDrip = "\ue205";
 
         /// <summary>
@@ -25583,6 +27908,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/oil-temperature
         /// </summary>
+        [Description("oil-temperature")]
         public const string OilTemperature = "\uf614";
 
         /// <summary>
@@ -25594,6 +27920,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/oil-well
         /// </summary>
+        [Description("oil-well")]
         public const string OilWell = "\ue532";
 
         /// <summary>
@@ -25605,6 +27932,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/old-republic
         /// </summary>
+        [Description("old-republic")]
         public const string OldRepublic = "\uf510";
 
         /// <summary>
@@ -25616,6 +27944,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/olive
         /// </summary>
+        [Description("olive")]
         public const string Olive = "\ue316";
 
         /// <summary>
@@ -25627,6 +27956,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/olive-branch
         /// </summary>
+        [Description("olive-branch")]
         public const string OliveBranch = "\ue317";
 
         /// <summary>
@@ -25638,6 +27968,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/om
         /// </summary>
+        [Description("om")]
         public const string Om = "\uf679";
 
         /// <summary>
@@ -25649,6 +27980,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/omega
         /// </summary>
+        [Description("omega")]
         public const string Omega = "\uf67a";
 
         /// <summary>
@@ -25660,6 +27992,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/onion
         /// </summary>
+        [Description("onion")]
         public const string Onion = "\ue427";
 
         /// <summary>
@@ -25671,6 +28004,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/opencart
         /// </summary>
+        [Description("opencart")]
         public const string Opencart = "\uf23d";
 
         /// <summary>
@@ -25682,6 +28016,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/openid
         /// </summary>
+        [Description("openid")]
         public const string Openid = "\uf19b";
 
         /// <summary>
@@ -25693,6 +28028,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/opera
         /// </summary>
+        [Description("opera")]
         public const string Opera = "\uf26a";
 
         /// <summary>
@@ -25704,6 +28040,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/optin-monster
         /// </summary>
+        [Description("optin-monster")]
         public const string OptinMonster = "\uf23c";
 
         /// <summary>
@@ -25715,6 +28052,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/option
         /// </summary>
+        [Description("option")]
         public const string Option = "\ue318";
 
         /// <summary>
@@ -25726,6 +28064,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/orcid
         /// </summary>
+        [Description("orcid")]
         public const string Orcid = "\uf8d2";
 
         /// <summary>
@@ -25737,6 +28076,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ornament
         /// </summary>
+        [Description("ornament")]
         public const string Ornament = "\uf7b8";
 
         /// <summary>
@@ -25748,6 +28088,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/osi
         /// </summary>
+        [Description("osi")]
         public const string Osi = "\uf41a";
 
         /// <summary>
@@ -25759,6 +28100,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/otter
         /// </summary>
+        [Description("otter")]
         public const string Otter = "\uf700";
 
         /// <summary>
@@ -25770,6 +28112,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/outdent
         /// </summary>
+        [Description("outdent")]
         public const string Outdent = "\uf03b";
 
         /// <summary>
@@ -25781,6 +28124,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/outlet
         /// </summary>
+        [Description("outlet")]
         public const string Outlet = "\ue01c";
 
         /// <summary>
@@ -25792,6 +28136,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/oven
         /// </summary>
+        [Description("oven")]
         public const string Oven = "\ue01d";
 
         /// <summary>
@@ -25803,6 +28148,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/overline
         /// </summary>
+        [Description("overline")]
         public const string Overline = "\uf876";
 
         /// <summary>
@@ -25814,6 +28160,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/p
         /// </summary>
+        [Description("p")]
         public const string P = "\u0050";
 
         /// <summary>
@@ -25825,6 +28172,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/padlet
         /// </summary>
+        [Description("padlet")]
         public const string Padlet = "\ue4a0";
 
         /// <summary>
@@ -25836,6 +28184,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/page
         /// </summary>
+        [Description("page")]
         public const string Page = "\ue428";
 
         /// <summary>
@@ -25847,6 +28196,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/page-caret-down
         /// </summary>
+        [Description("page-caret-down")]
         public const string PageCaretDown = "\ue429";
 
         /// <summary>
@@ -25858,6 +28208,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/page-caret-up
         /// </summary>
+        [Description("page-caret-up")]
         public const string PageCaretUp = "\ue42a";
 
         /// <summary>
@@ -25869,6 +28220,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/page4
         /// </summary>
+        [Description("page4")]
         public const string Page4 = "\uf3d7";
 
         /// <summary>
@@ -25880,6 +28232,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pagelines
         /// </summary>
+        [Description("pagelines")]
         public const string Pagelines = "\uf18c";
 
         /// <summary>
@@ -25891,6 +28244,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pager
         /// </summary>
+        [Description("pager")]
         public const string Pager = "\uf815";
 
         /// <summary>
@@ -25902,6 +28256,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/paint-roller
         /// </summary>
+        [Description("paint-roller")]
         public const string PaintRoller = "\uf5aa";
 
         /// <summary>
@@ -25913,6 +28268,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/paintbrush
         /// </summary>
+        [Description("paintbrush")]
         public const string Paintbrush = "\uf1fc";
 
         /// <summary>
@@ -25924,6 +28280,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/paintbrush-fine
         /// </summary>
+        [Description("paintbrush-fine")]
         public const string PaintbrushFine = "\uf5a9";
 
         /// <summary>
@@ -25935,6 +28292,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/paintbrush-pencil
         /// </summary>
+        [Description("paintbrush-pencil")]
         public const string PaintbrushPencil = "\ue206";
 
         /// <summary>
@@ -25946,6 +28304,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/palette
         /// </summary>
+        [Description("palette")]
         public const string Palette = "\uf53f";
 
         /// <summary>
@@ -25957,6 +28316,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/palfed
         /// </summary>
+        [Description("palfed")]
         public const string Palfed = "\uf3d8";
 
         /// <summary>
@@ -25968,6 +28328,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pallet
         /// </summary>
+        [Description("pallet")]
         public const string Pallet = "\uf482";
 
         /// <summary>
@@ -25979,6 +28340,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pallet-box
         /// </summary>
+        [Description("pallet-box")]
         public const string PalletBox = "\ue208";
 
         /// <summary>
@@ -25990,6 +28352,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pallet-boxes
         /// </summary>
+        [Description("pallet-boxes")]
         public const string PalletBoxes = "\uf483";
 
         /// <summary>
@@ -26001,6 +28364,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pan-food
         /// </summary>
+        [Description("pan-food")]
         public const string PanFood = "\ue42b";
 
         /// <summary>
@@ -26012,6 +28376,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pan-frying
         /// </summary>
+        [Description("pan-frying")]
         public const string PanFrying = "\ue42c";
 
         /// <summary>
@@ -26023,6 +28388,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pancakes
         /// </summary>
+        [Description("pancakes")]
         public const string Pancakes = "\ue42d";
 
         /// <summary>
@@ -26034,6 +28400,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/panel-ews
         /// </summary>
+        [Description("panel-ews")]
         public const string PanelEws = "\ue42e";
 
         /// <summary>
@@ -26045,6 +28412,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/panel-fire
         /// </summary>
+        [Description("panel-fire")]
         public const string PanelFire = "\ue42f";
 
         /// <summary>
@@ -26056,6 +28424,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/panorama
         /// </summary>
+        [Description("panorama")]
         public const string Panorama = "\ue209";
 
         /// <summary>
@@ -26067,6 +28436,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/paper-plane
         /// </summary>
+        [Description("paper-plane")]
         public const string PaperPlane = "\uf1d8";
 
         /// <summary>
@@ -26078,6 +28448,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/paper-plane-top
         /// </summary>
+        [Description("paper-plane-top")]
         public const string PaperPlaneTop = "\ue20a";
 
         /// <summary>
@@ -26089,6 +28460,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/paperclip
         /// </summary>
+        [Description("paperclip")]
         public const string Paperclip = "\uf0c6";
 
         /// <summary>
@@ -26100,6 +28472,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/paperclip-vertical
         /// </summary>
+        [Description("paperclip-vertical")]
         public const string PaperclipVertical = "\ue3c2";
 
         /// <summary>
@@ -26111,6 +28484,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/parachute-box
         /// </summary>
+        [Description("parachute-box")]
         public const string ParachuteBox = "\uf4cd";
 
         /// <summary>
@@ -26122,6 +28496,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/paragraph
         /// </summary>
+        [Description("paragraph")]
         public const string Paragraph = "\uf1dd";
 
         /// <summary>
@@ -26133,6 +28508,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/paragraph-left
         /// </summary>
+        [Description("paragraph-left")]
         public const string ParagraphLeft = "\uf878";
 
         /// <summary>
@@ -26144,6 +28520,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/party-bell
         /// </summary>
+        [Description("party-bell")]
         public const string PartyBell = "\ue31a";
 
         /// <summary>
@@ -26155,6 +28532,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/party-horn
         /// </summary>
+        [Description("party-horn")]
         public const string PartyHorn = "\ue31b";
 
         /// <summary>
@@ -26166,6 +28544,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/passport
         /// </summary>
+        [Description("passport")]
         public const string Passport = "\uf5ab";
 
         /// <summary>
@@ -26177,6 +28556,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/paste
         /// </summary>
+        [Description("paste")]
         public const string Paste = "\uf0ea";
 
         /// <summary>
@@ -26188,6 +28568,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/patreon
         /// </summary>
+        [Description("patreon")]
         public const string Patreon = "\uf3d9";
 
         /// <summary>
@@ -26199,6 +28580,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pause
         /// </summary>
+        [Description("pause")]
         public const string Pause = "\uf04c";
 
         /// <summary>
@@ -26210,6 +28592,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/paw
         /// </summary>
+        [Description("paw")]
         public const string Paw = "\uf1b0";
 
         /// <summary>
@@ -26221,6 +28604,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/paw-claws
         /// </summary>
+        [Description("paw-claws")]
         public const string PawClaws = "\uf702";
 
         /// <summary>
@@ -26232,6 +28616,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/paw-simple
         /// </summary>
+        [Description("paw-simple")]
         public const string PawSimple = "\uf701";
 
         /// <summary>
@@ -26243,6 +28628,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/paypal
         /// </summary>
+        [Description("paypal")]
         public const string Paypal = "\uf1ed";
 
         /// <summary>
@@ -26254,6 +28640,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/peace
         /// </summary>
+        [Description("peace")]
         public const string Peace = "\uf67c";
 
         /// <summary>
@@ -26265,6 +28652,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/peach
         /// </summary>
+        [Description("peach")]
         public const string Peach = "\ue20b";
 
         /// <summary>
@@ -26276,6 +28664,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/peanut
         /// </summary>
+        [Description("peanut")]
         public const string Peanut = "\ue430";
 
         /// <summary>
@@ -26287,6 +28676,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/peanuts
         /// </summary>
+        [Description("peanuts")]
         public const string Peanuts = "\ue431";
 
         /// <summary>
@@ -26298,6 +28688,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/peapod
         /// </summary>
+        [Description("peapod")]
         public const string Peapod = "\ue31c";
 
         /// <summary>
@@ -26309,6 +28700,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pear
         /// </summary>
+        [Description("pear")]
         public const string Pear = "\ue20c";
 
         /// <summary>
@@ -26320,6 +28712,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pedestal
         /// </summary>
+        [Description("pedestal")]
         public const string Pedestal = "\ue20d";
 
         /// <summary>
@@ -26331,6 +28724,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pegasus
         /// </summary>
+        [Description("pegasus")]
         public const string Pegasus = "\uf703";
 
         /// <summary>
@@ -26342,6 +28736,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pen
         /// </summary>
+        [Description("pen")]
         public const string Pen = "\uf304";
 
         /// <summary>
@@ -26353,6 +28748,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pen-circle
         /// </summary>
+        [Description("pen-circle")]
         public const string PenCircle = "\ue20e";
 
         /// <summary>
@@ -26364,6 +28760,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pen-clip
         /// </summary>
+        [Description("pen-clip")]
         public const string PenClip = "\uf305";
 
         /// <summary>
@@ -26375,6 +28772,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pen-clip-slash
         /// </summary>
+        [Description("pen-clip-slash")]
         public const string PenClipSlash = "\ue20f";
 
         /// <summary>
@@ -26386,6 +28784,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pen-fancy
         /// </summary>
+        [Description("pen-fancy")]
         public const string PenFancy = "\uf5ac";
 
         /// <summary>
@@ -26397,6 +28796,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pen-fancy-slash
         /// </summary>
+        [Description("pen-fancy-slash")]
         public const string PenFancySlash = "\ue210";
 
         /// <summary>
@@ -26408,6 +28808,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pen-field
         /// </summary>
+        [Description("pen-field")]
         public const string PenField = "\ue211";
 
         /// <summary>
@@ -26419,6 +28820,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pen-line
         /// </summary>
+        [Description("pen-line")]
         public const string PenLine = "\ue212";
 
         /// <summary>
@@ -26430,6 +28832,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pen-nib
         /// </summary>
+        [Description("pen-nib")]
         public const string PenNib = "\uf5ad";
 
         /// <summary>
@@ -26441,6 +28844,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pen-nib-slash
         /// </summary>
+        [Description("pen-nib-slash")]
         public const string PenNibSlash = "\ue4a1";
 
         /// <summary>
@@ -26452,6 +28856,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pen-paintbrush
         /// </summary>
+        [Description("pen-paintbrush")]
         public const string PenPaintbrush = "\uf618";
 
         /// <summary>
@@ -26463,6 +28868,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pen-ruler
         /// </summary>
+        [Description("pen-ruler")]
         public const string PenRuler = "\uf5ae";
 
         /// <summary>
@@ -26474,6 +28880,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pen-slash
         /// </summary>
+        [Description("pen-slash")]
         public const string PenSlash = "\ue213";
 
         /// <summary>
@@ -26485,6 +28892,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pen-swirl
         /// </summary>
+        [Description("pen-swirl")]
         public const string PenSwirl = "\ue214";
 
         /// <summary>
@@ -26496,6 +28904,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pen-to-square
         /// </summary>
+        [Description("pen-to-square")]
         public const string PenToSquare = "\uf044";
 
         /// <summary>
@@ -26507,6 +28916,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pencil
         /// </summary>
+        [Description("pencil")]
         public const string Pencil = "\uf303";
 
         /// <summary>
@@ -26518,6 +28928,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pencil-mechanical
         /// </summary>
+        [Description("pencil-mechanical")]
         public const string PencilMechanical = "\ue5ca";
 
         /// <summary>
@@ -26529,6 +28940,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pencil-slash
         /// </summary>
+        [Description("pencil-slash")]
         public const string PencilSlash = "\ue215";
 
         /// <summary>
@@ -26540,6 +28952,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/people
         /// </summary>
+        [Description("people")]
         public const string People = "\ue216";
 
         /// <summary>
@@ -26551,6 +28964,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/people-arrows
         /// </summary>
+        [Description("people-arrows")]
         public const string PeopleArrows = "\ue068";
 
         /// <summary>
@@ -26562,6 +28976,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/people-carry-box
         /// </summary>
+        [Description("people-carry-box")]
         public const string PeopleCarryBox = "\uf4ce";
 
         /// <summary>
@@ -26573,6 +28988,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/people-dress
         /// </summary>
+        [Description("people-dress")]
         public const string PeopleDress = "\ue217";
 
         /// <summary>
@@ -26584,6 +29000,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/people-dress-simple
         /// </summary>
+        [Description("people-dress-simple")]
         public const string PeopleDressSimple = "\ue218";
 
         /// <summary>
@@ -26595,6 +29012,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/people-group
         /// </summary>
+        [Description("people-group")]
         public const string PeopleGroup = "\ue533";
 
         /// <summary>
@@ -26606,6 +29024,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/people-line
         /// </summary>
+        [Description("people-line")]
         public const string PeopleLine = "\ue534";
 
         /// <summary>
@@ -26617,6 +29036,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/people-pants
         /// </summary>
+        [Description("people-pants")]
         public const string PeoplePants = "\ue219";
 
         /// <summary>
@@ -26628,6 +29048,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/people-pants-simple
         /// </summary>
+        [Description("people-pants-simple")]
         public const string PeoplePantsSimple = "\ue21a";
 
         /// <summary>
@@ -26639,6 +29060,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/people-pulling
         /// </summary>
+        [Description("people-pulling")]
         public const string PeoplePulling = "\ue535";
 
         /// <summary>
@@ -26650,6 +29072,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/people-robbery
         /// </summary>
+        [Description("people-robbery")]
         public const string PeopleRobbery = "\ue536";
 
         /// <summary>
@@ -26661,6 +29084,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/people-roof
         /// </summary>
+        [Description("people-roof")]
         public const string PeopleRoof = "\ue537";
 
         /// <summary>
@@ -26672,6 +29096,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/people-simple
         /// </summary>
+        [Description("people-simple")]
         public const string PeopleSimple = "\ue21b";
 
         /// <summary>
@@ -26683,6 +29108,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pepper
         /// </summary>
+        [Description("pepper")]
         public const string Pepper = "\ue432";
 
         /// <summary>
@@ -26694,6 +29120,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pepper-hot
         /// </summary>
+        [Description("pepper-hot")]
         public const string PepperHot = "\uf816";
 
         /// <summary>
@@ -26705,6 +29132,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/perbyte
         /// </summary>
+        [Description("perbyte")]
         public const string Perbyte = "\ue083";
 
         /// <summary>
@@ -26716,6 +29144,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/percent
         /// </summary>
+        [Description("percent")]
         public const string Percent = "\u0025";
 
         /// <summary>
@@ -26727,6 +29156,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/period
         /// </summary>
+        [Description("period")]
         public const string Period = "\u002e";
 
         /// <summary>
@@ -26738,6 +29168,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/periscope
         /// </summary>
+        [Description("periscope")]
         public const string Periscope = "\uf3da";
 
         /// <summary>
@@ -26749,6 +29180,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person
         /// </summary>
+        [Description("person")]
         public const string Person = "\uf183";
 
         /// <summary>
@@ -26760,6 +29192,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-arrow-down-to-line
         /// </summary>
+        [Description("person-arrow-down-to-line")]
         public const string PersonArrowDownToLine = "\ue538";
 
         /// <summary>
@@ -26771,6 +29204,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-arrow-up-from-line
         /// </summary>
+        [Description("person-arrow-up-from-line")]
         public const string PersonArrowUpFromLine = "\ue539";
 
         /// <summary>
@@ -26782,6 +29216,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-biking
         /// </summary>
+        [Description("person-biking")]
         public const string PersonBiking = "\uf84a";
 
         /// <summary>
@@ -26793,6 +29228,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-biking-mountain
         /// </summary>
+        [Description("person-biking-mountain")]
         public const string PersonBikingMountain = "\uf84b";
 
         /// <summary>
@@ -26804,6 +29240,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-booth
         /// </summary>
+        [Description("person-booth")]
         public const string PersonBooth = "\uf756";
 
         /// <summary>
@@ -26815,6 +29252,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-breastfeeding
         /// </summary>
+        [Description("person-breastfeeding")]
         public const string PersonBreastfeeding = "\ue53a";
 
         /// <summary>
@@ -26826,6 +29264,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-burst
         /// </summary>
+        [Description("person-burst")]
         public const string PersonBurst = "\ue53b";
 
         /// <summary>
@@ -26837,6 +29276,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-cane
         /// </summary>
+        [Description("person-cane")]
         public const string PersonCane = "\ue53c";
 
         /// <summary>
@@ -26848,6 +29288,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-carry-box
         /// </summary>
+        [Description("person-carry-box")]
         public const string PersonCarryBox = "\uf4cf";
 
         /// <summary>
@@ -26859,6 +29300,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-chalkboard
         /// </summary>
+        [Description("person-chalkboard")]
         public const string PersonChalkboard = "\ue53d";
 
         /// <summary>
@@ -26870,6 +29312,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-circle-check
         /// </summary>
+        [Description("person-circle-check")]
         public const string PersonCircleCheck = "\ue53e";
 
         /// <summary>
@@ -26881,6 +29324,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-circle-exclamation
         /// </summary>
+        [Description("person-circle-exclamation")]
         public const string PersonCircleExclamation = "\ue53f";
 
         /// <summary>
@@ -26892,6 +29336,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-circle-minus
         /// </summary>
+        [Description("person-circle-minus")]
         public const string PersonCircleMinus = "\ue540";
 
         /// <summary>
@@ -26903,6 +29348,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-circle-plus
         /// </summary>
+        [Description("person-circle-plus")]
         public const string PersonCirclePlus = "\ue541";
 
         /// <summary>
@@ -26914,6 +29360,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-circle-question
         /// </summary>
+        [Description("person-circle-question")]
         public const string PersonCircleQuestion = "\ue542";
 
         /// <summary>
@@ -26925,6 +29372,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-circle-xmark
         /// </summary>
+        [Description("person-circle-xmark")]
         public const string PersonCircleXmark = "\ue543";
 
         /// <summary>
@@ -26936,6 +29384,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-digging
         /// </summary>
+        [Description("person-digging")]
         public const string PersonDigging = "\uf85e";
 
         /// <summary>
@@ -26947,6 +29396,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-dolly
         /// </summary>
+        [Description("person-dolly")]
         public const string PersonDolly = "\uf4d0";
 
         /// <summary>
@@ -26958,6 +29408,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-dolly-empty
         /// </summary>
+        [Description("person-dolly-empty")]
         public const string PersonDollyEmpty = "\uf4d1";
 
         /// <summary>
@@ -26969,6 +29420,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-dots-from-line
         /// </summary>
+        [Description("person-dots-from-line")]
         public const string PersonDotsFromLine = "\uf470";
 
         /// <summary>
@@ -26980,6 +29432,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-dress
         /// </summary>
+        [Description("person-dress")]
         public const string PersonDress = "\uf182";
 
         /// <summary>
@@ -26991,6 +29444,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-dress-burst
         /// </summary>
+        [Description("person-dress-burst")]
         public const string PersonDressBurst = "\ue544";
 
         /// <summary>
@@ -27002,6 +29456,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-dress-simple
         /// </summary>
+        [Description("person-dress-simple")]
         public const string PersonDressSimple = "\ue21c";
 
         /// <summary>
@@ -27013,6 +29468,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-drowning
         /// </summary>
+        [Description("person-drowning")]
         public const string PersonDrowning = "\ue545";
 
         /// <summary>
@@ -27024,6 +29480,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-falling
         /// </summary>
+        [Description("person-falling")]
         public const string PersonFalling = "\ue546";
 
         /// <summary>
@@ -27035,6 +29492,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-falling-burst
         /// </summary>
+        [Description("person-falling-burst")]
         public const string PersonFallingBurst = "\ue547";
 
         /// <summary>
@@ -27046,6 +29504,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-from-portal
         /// </summary>
+        [Description("person-from-portal")]
         public const string PersonFromPortal = "\ue023";
 
         /// <summary>
@@ -27057,6 +29516,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-half-dress
         /// </summary>
+        [Description("person-half-dress")]
         public const string PersonHalfDress = "\ue548";
 
         /// <summary>
@@ -27068,6 +29528,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-harassing
         /// </summary>
+        [Description("person-harassing")]
         public const string PersonHarassing = "\ue549";
 
         /// <summary>
@@ -27079,6 +29540,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-hiking
         /// </summary>
+        [Description("person-hiking")]
         public const string PersonHiking = "\uf6ec";
 
         /// <summary>
@@ -27090,6 +29552,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-military-pointing
         /// </summary>
+        [Description("person-military-pointing")]
         public const string PersonMilitaryPointing = "\ue54a";
 
         /// <summary>
@@ -27101,6 +29564,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-military-rifle
         /// </summary>
+        [Description("person-military-rifle")]
         public const string PersonMilitaryRifle = "\ue54b";
 
         /// <summary>
@@ -27112,6 +29576,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-military-to-person
         /// </summary>
+        [Description("person-military-to-person")]
         public const string PersonMilitaryToPerson = "\ue54c";
 
         /// <summary>
@@ -27123,6 +29588,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-pinball
         /// </summary>
+        [Description("person-pinball")]
         public const string PersonPinball = "\ue21d";
 
         /// <summary>
@@ -27134,6 +29600,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-praying
         /// </summary>
+        [Description("person-praying")]
         public const string PersonPraying = "\uf683";
 
         /// <summary>
@@ -27145,6 +29612,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-pregnant
         /// </summary>
+        [Description("person-pregnant")]
         public const string PersonPregnant = "\ue31e";
 
         /// <summary>
@@ -27156,6 +29624,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-rays
         /// </summary>
+        [Description("person-rays")]
         public const string PersonRays = "\ue54d";
 
         /// <summary>
@@ -27167,6 +29636,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-rifle
         /// </summary>
+        [Description("person-rifle")]
         public const string PersonRifle = "\ue54e";
 
         /// <summary>
@@ -27178,6 +29648,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-running
         /// </summary>
+        [Description("person-running")]
         public const string PersonRunning = "\uf70c";
 
         /// <summary>
@@ -27189,6 +29660,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-running-fast
         /// </summary>
+        [Description("person-running-fast")]
         public const string PersonRunningFast = "\ue5ff";
 
         /// <summary>
@@ -27200,6 +29672,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-seat
         /// </summary>
+        [Description("person-seat")]
         public const string PersonSeat = "\ue21e";
 
         /// <summary>
@@ -27211,6 +29684,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-seat-reclined
         /// </summary>
+        [Description("person-seat-reclined")]
         public const string PersonSeatReclined = "\ue21f";
 
         /// <summary>
@@ -27222,6 +29696,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-shelter
         /// </summary>
+        [Description("person-shelter")]
         public const string PersonShelter = "\ue54f";
 
         /// <summary>
@@ -27233,6 +29708,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-sign
         /// </summary>
+        [Description("person-sign")]
         public const string PersonSign = "\uf757";
 
         /// <summary>
@@ -27244,6 +29720,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-simple
         /// </summary>
+        [Description("person-simple")]
         public const string PersonSimple = "\ue220";
 
         /// <summary>
@@ -27255,6 +29732,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-skating
         /// </summary>
+        [Description("person-skating")]
         public const string PersonSkating = "\uf7c5";
 
         /// <summary>
@@ -27266,6 +29744,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-ski-jumping
         /// </summary>
+        [Description("person-ski-jumping")]
         public const string PersonSkiJumping = "\uf7c7";
 
         /// <summary>
@@ -27277,6 +29756,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-ski-lift
         /// </summary>
+        [Description("person-ski-lift")]
         public const string PersonSkiLift = "\uf7c8";
 
         /// <summary>
@@ -27288,6 +29768,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-skiing
         /// </summary>
+        [Description("person-skiing")]
         public const string PersonSkiing = "\uf7c9";
 
         /// <summary>
@@ -27299,6 +29780,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-skiing-nordic
         /// </summary>
+        [Description("person-skiing-nordic")]
         public const string PersonSkiingNordic = "\uf7ca";
 
         /// <summary>
@@ -27310,6 +29792,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-sledding
         /// </summary>
+        [Description("person-sledding")]
         public const string PersonSledding = "\uf7cb";
 
         /// <summary>
@@ -27321,6 +29804,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-snowboarding
         /// </summary>
+        [Description("person-snowboarding")]
         public const string PersonSnowboarding = "\uf7ce";
 
         /// <summary>
@@ -27332,6 +29816,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-snowmobiling
         /// </summary>
+        [Description("person-snowmobiling")]
         public const string PersonSnowmobiling = "\uf7d1";
 
         /// <summary>
@@ -27343,6 +29828,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-swimming
         /// </summary>
+        [Description("person-swimming")]
         public const string PersonSwimming = "\uf5c4";
 
         /// <summary>
@@ -27354,6 +29840,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-through-window
         /// </summary>
+        [Description("person-through-window")]
         public const string PersonThroughWindow = "\ue5a9";
 
         /// <summary>
@@ -27365,6 +29852,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-to-door
         /// </summary>
+        [Description("person-to-door")]
         public const string PersonToDoor = "\ue433";
 
         /// <summary>
@@ -27376,6 +29864,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-to-portal
         /// </summary>
+        [Description("person-to-portal")]
         public const string PersonToPortal = "\ue022";
 
         /// <summary>
@@ -27387,6 +29876,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-walking
         /// </summary>
+        [Description("person-walking")]
         public const string PersonWalking = "\uf554";
 
         /// <summary>
@@ -27398,6 +29888,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-walking-arrow-loop-left
         /// </summary>
+        [Description("person-walking-arrow-loop-left")]
         public const string PersonWalkingArrowLoopLeft = "\ue551";
 
         /// <summary>
@@ -27409,6 +29900,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-walking-arrow-right
         /// </summary>
+        [Description("person-walking-arrow-right")]
         public const string PersonWalkingArrowRight = "\ue552";
 
         /// <summary>
@@ -27420,6 +29912,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-walking-dashed-line-arrow-right
         /// </summary>
+        [Description("person-walking-dashed-line-arrow-right")]
         public const string PersonWalkingDashedLineArrowRight = "\ue553";
 
         /// <summary>
@@ -27431,6 +29924,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-walking-luggage
         /// </summary>
+        [Description("person-walking-luggage")]
         public const string PersonWalkingLuggage = "\ue554";
 
         /// <summary>
@@ -27442,6 +29936,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/person-walking-with-cane
         /// </summary>
+        [Description("person-walking-with-cane")]
         public const string PersonWalkingWithCane = "\uf29d";
 
         /// <summary>
@@ -27453,6 +29948,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/peseta-sign
         /// </summary>
+        [Description("peseta-sign")]
         public const string PesetaSign = "\ue221";
 
         /// <summary>
@@ -27464,6 +29960,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/peso-sign
         /// </summary>
+        [Description("peso-sign")]
         public const string PesoSign = "\ue222";
 
         /// <summary>
@@ -27475,6 +29972,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phabricator
         /// </summary>
+        [Description("phabricator")]
         public const string Phabricator = "\uf3db";
 
         /// <summary>
@@ -27486,6 +29984,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phoenix-framework
         /// </summary>
+        [Description("phoenix-framework")]
         public const string PhoenixFramework = "\uf3dc";
 
         /// <summary>
@@ -27497,6 +29996,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phoenix-squadron
         /// </summary>
+        [Description("phoenix-squadron")]
         public const string PhoenixSquadron = "\uf511";
 
         /// <summary>
@@ -27508,6 +30008,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phone
         /// </summary>
+        [Description("phone")]
         public const string Phone = "\uf095";
 
         /// <summary>
@@ -27519,6 +30020,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phone-arrow-down-left
         /// </summary>
+        [Description("phone-arrow-down-left")]
         public const string PhoneArrowDownLeft = "\ue223";
 
         /// <summary>
@@ -27530,6 +30032,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phone-arrow-right
         /// </summary>
+        [Description("phone-arrow-right")]
         public const string PhoneArrowRight = "\ue5be";
 
         /// <summary>
@@ -27541,6 +30044,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phone-arrow-up-right
         /// </summary>
+        [Description("phone-arrow-up-right")]
         public const string PhoneArrowUpRight = "\ue224";
 
         /// <summary>
@@ -27552,6 +30056,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phone-flip
         /// </summary>
+        [Description("phone-flip")]
         public const string PhoneFlip = "\uf879";
 
         /// <summary>
@@ -27563,6 +30068,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phone-hangup
         /// </summary>
+        [Description("phone-hangup")]
         public const string PhoneHangup = "\ue225";
 
         /// <summary>
@@ -27574,6 +30080,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phone-intercom
         /// </summary>
+        [Description("phone-intercom")]
         public const string PhoneIntercom = "\ue434";
 
         /// <summary>
@@ -27585,6 +30092,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phone-missed
         /// </summary>
+        [Description("phone-missed")]
         public const string PhoneMissed = "\ue226";
 
         /// <summary>
@@ -27596,6 +30104,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phone-office
         /// </summary>
+        [Description("phone-office")]
         public const string PhoneOffice = "\uf67d";
 
         /// <summary>
@@ -27607,6 +30116,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phone-plus
         /// </summary>
+        [Description("phone-plus")]
         public const string PhonePlus = "\uf4d2";
 
         /// <summary>
@@ -27618,6 +30128,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phone-rotary
         /// </summary>
+        [Description("phone-rotary")]
         public const string PhoneRotary = "\uf8d3";
 
         /// <summary>
@@ -27629,6 +30140,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phone-slash
         /// </summary>
+        [Description("phone-slash")]
         public const string PhoneSlash = "\uf3dd";
 
         /// <summary>
@@ -27640,6 +30152,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phone-volume
         /// </summary>
+        [Description("phone-volume")]
         public const string PhoneVolume = "\uf2a0";
 
         /// <summary>
@@ -27651,6 +30164,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/phone-xmark
         /// </summary>
+        [Description("phone-xmark")]
         public const string PhoneXmark = "\ue227";
 
         /// <summary>
@@ -27662,6 +30176,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/photo-film
         /// </summary>
+        [Description("photo-film")]
         public const string PhotoFilm = "\uf87c";
 
         /// <summary>
@@ -27673,6 +30188,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/photo-film-music
         /// </summary>
+        [Description("photo-film-music")]
         public const string PhotoFilmMusic = "\ue228";
 
         /// <summary>
@@ -27684,6 +30200,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/php
         /// </summary>
+        [Description("php")]
         public const string Php = "\uf457";
 
         /// <summary>
@@ -27695,6 +30212,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pi
         /// </summary>
+        [Description("pi")]
         public const string Pi = "\uf67e";
 
         /// <summary>
@@ -27706,6 +30224,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/piano
         /// </summary>
+        [Description("piano")]
         public const string Piano = "\uf8d4";
 
         /// <summary>
@@ -27717,6 +30236,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/piano-keyboard
         /// </summary>
+        [Description("piano-keyboard")]
         public const string PianoKeyboard = "\uf8d5";
 
         /// <summary>
@@ -27728,6 +30248,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pickaxe
         /// </summary>
+        [Description("pickaxe")]
         public const string Pickaxe = "\ue5bf";
 
         /// <summary>
@@ -27739,6 +30260,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pickleball
         /// </summary>
+        [Description("pickleball")]
         public const string Pickleball = "\ue435";
 
         /// <summary>
@@ -27750,6 +30272,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pie
         /// </summary>
+        [Description("pie")]
         public const string Pie = "\uf705";
 
         /// <summary>
@@ -27761,6 +30284,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pied-piper
         /// </summary>
+        [Description("pied-piper")]
         public const string PiedPiper = "\uf2ae";
 
         /// <summary>
@@ -27772,6 +30296,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pied-piper-alt
         /// </summary>
+        [Description("pied-piper-alt")]
         public const string PiedPiperAlt = "\uf1a8";
 
         /// <summary>
@@ -27783,6 +30308,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pied-piper-hat
         /// </summary>
+        [Description("pied-piper-hat")]
         public const string PiedPiperHat = "\uf4e5";
 
         /// <summary>
@@ -27794,6 +30320,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pied-piper-pp
         /// </summary>
+        [Description("pied-piper-pp")]
         public const string PiedPiperPp = "\uf1a7";
 
         /// <summary>
@@ -27805,6 +30332,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pig
         /// </summary>
+        [Description("pig")]
         public const string Pig = "\uf706";
 
         /// <summary>
@@ -27816,6 +30344,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/piggy-bank
         /// </summary>
+        [Description("piggy-bank")]
         public const string PiggyBank = "\uf4d3";
 
         /// <summary>
@@ -27827,6 +30356,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pills
         /// </summary>
+        [Description("pills")]
         public const string Pills = "\uf484";
 
         /// <summary>
@@ -27838,6 +30368,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pinata
         /// </summary>
+        [Description("pinata")]
         public const string Pinata = "\ue3c3";
 
         /// <summary>
@@ -27849,6 +30380,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pinball
         /// </summary>
+        [Description("pinball")]
         public const string Pinball = "\ue229";
 
         /// <summary>
@@ -27860,6 +30392,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pineapple
         /// </summary>
+        [Description("pineapple")]
         public const string Pineapple = "\ue31f";
 
         /// <summary>
@@ -27871,6 +30404,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pinterest
         /// </summary>
+        [Description("pinterest")]
         public const string Pinterest = "\uf0d2";
 
         /// <summary>
@@ -27882,6 +30416,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pinterest-p
         /// </summary>
+        [Description("pinterest-p")]
         public const string PinterestP = "\uf231";
 
         /// <summary>
@@ -27893,6 +30428,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pipe
         /// </summary>
+        [Description("pipe")]
         public const string Pipe = "\u007c";
 
         /// <summary>
@@ -27904,6 +30440,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pipe-circle-check
         /// </summary>
+        [Description("pipe-circle-check")]
         public const string PipeCircleCheck = "\ue436";
 
         /// <summary>
@@ -27915,6 +30452,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pipe-collar
         /// </summary>
+        [Description("pipe-collar")]
         public const string PipeCollar = "\ue437";
 
         /// <summary>
@@ -27926,6 +30464,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pipe-section
         /// </summary>
+        [Description("pipe-section")]
         public const string PipeSection = "\ue438";
 
         /// <summary>
@@ -27937,6 +30476,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pipe-smoking
         /// </summary>
+        [Description("pipe-smoking")]
         public const string PipeSmoking = "\ue3c4";
 
         /// <summary>
@@ -27948,6 +30488,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pipe-valve
         /// </summary>
+        [Description("pipe-valve")]
         public const string PipeValve = "\ue439";
 
         /// <summary>
@@ -27959,6 +30500,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pix
         /// </summary>
+        [Description("pix")]
         public const string Pix = "\ue43a";
 
         /// <summary>
@@ -27970,6 +30512,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pizza
         /// </summary>
+        [Description("pizza")]
         public const string Pizza = "\uf817";
 
         /// <summary>
@@ -27981,6 +30524,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pizza-slice
         /// </summary>
+        [Description("pizza-slice")]
         public const string PizzaSlice = "\uf818";
 
         /// <summary>
@@ -27992,6 +30536,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/place-of-worship
         /// </summary>
+        [Description("place-of-worship")]
         public const string PlaceOfWorship = "\uf67f";
 
         /// <summary>
@@ -28003,6 +30548,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plane
         /// </summary>
+        [Description("plane")]
         public const string Plane = "\uf072";
 
         /// <summary>
@@ -28014,6 +30560,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plane-arrival
         /// </summary>
+        [Description("plane-arrival")]
         public const string PlaneArrival = "\uf5af";
 
         /// <summary>
@@ -28025,6 +30572,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plane-circle-check
         /// </summary>
+        [Description("plane-circle-check")]
         public const string PlaneCircleCheck = "\ue555";
 
         /// <summary>
@@ -28036,6 +30584,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plane-circle-exclamation
         /// </summary>
+        [Description("plane-circle-exclamation")]
         public const string PlaneCircleExclamation = "\ue556";
 
         /// <summary>
@@ -28047,6 +30596,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plane-circle-xmark
         /// </summary>
+        [Description("plane-circle-xmark")]
         public const string PlaneCircleXmark = "\ue557";
 
         /// <summary>
@@ -28058,6 +30608,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plane-departure
         /// </summary>
+        [Description("plane-departure")]
         public const string PlaneDeparture = "\uf5b0";
 
         /// <summary>
@@ -28069,6 +30620,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plane-engines
         /// </summary>
+        [Description("plane-engines")]
         public const string PlaneEngines = "\uf3de";
 
         /// <summary>
@@ -28080,6 +30632,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plane-lock
         /// </summary>
+        [Description("plane-lock")]
         public const string PlaneLock = "\ue558";
 
         /// <summary>
@@ -28091,6 +30644,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plane-prop
         /// </summary>
+        [Description("plane-prop")]
         public const string PlaneProp = "\ue22b";
 
         /// <summary>
@@ -28102,6 +30656,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plane-slash
         /// </summary>
+        [Description("plane-slash")]
         public const string PlaneSlash = "\ue069";
 
         /// <summary>
@@ -28113,6 +30668,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plane-tail
         /// </summary>
+        [Description("plane-tail")]
         public const string PlaneTail = "\ue22c";
 
         /// <summary>
@@ -28124,6 +30680,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plane-up
         /// </summary>
+        [Description("plane-up")]
         public const string PlaneUp = "\ue22d";
 
         /// <summary>
@@ -28135,6 +30692,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plane-up-slash
         /// </summary>
+        [Description("plane-up-slash")]
         public const string PlaneUpSlash = "\ue22e";
 
         /// <summary>
@@ -28146,6 +30704,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/planet-moon
         /// </summary>
+        [Description("planet-moon")]
         public const string PlanetMoon = "\ue01f";
 
         /// <summary>
@@ -28157,6 +30716,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/planet-ringed
         /// </summary>
+        [Description("planet-ringed")]
         public const string PlanetRinged = "\ue020";
 
         /// <summary>
@@ -28168,6 +30728,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plant-wilt
         /// </summary>
+        [Description("plant-wilt")]
         public const string PlantWilt = "\ue5aa";
 
         /// <summary>
@@ -28179,6 +30740,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plate-utensils
         /// </summary>
+        [Description("plate-utensils")]
         public const string PlateUtensils = "\ue43b";
 
         /// <summary>
@@ -28190,6 +30752,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plate-wheat
         /// </summary>
+        [Description("plate-wheat")]
         public const string PlateWheat = "\ue55a";
 
         /// <summary>
@@ -28201,6 +30764,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/play
         /// </summary>
+        [Description("play")]
         public const string Play = "\uf04b";
 
         /// <summary>
@@ -28212,6 +30776,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/play-pause
         /// </summary>
+        [Description("play-pause")]
         public const string PlayPause = "\ue22f";
 
         /// <summary>
@@ -28223,6 +30788,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/playstation
         /// </summary>
+        [Description("playstation")]
         public const string Playstation = "\uf3df";
 
         /// <summary>
@@ -28234,6 +30800,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plug
         /// </summary>
+        [Description("plug")]
         public const string Plug = "\uf1e6";
 
         /// <summary>
@@ -28245,6 +30812,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plug-circle-bolt
         /// </summary>
+        [Description("plug-circle-bolt")]
         public const string PlugCircleBolt = "\ue55b";
 
         /// <summary>
@@ -28256,6 +30824,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plug-circle-check
         /// </summary>
+        [Description("plug-circle-check")]
         public const string PlugCircleCheck = "\ue55c";
 
         /// <summary>
@@ -28267,6 +30836,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plug-circle-exclamation
         /// </summary>
+        [Description("plug-circle-exclamation")]
         public const string PlugCircleExclamation = "\ue55d";
 
         /// <summary>
@@ -28278,6 +30848,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plug-circle-minus
         /// </summary>
+        [Description("plug-circle-minus")]
         public const string PlugCircleMinus = "\ue55e";
 
         /// <summary>
@@ -28289,6 +30860,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plug-circle-plus
         /// </summary>
+        [Description("plug-circle-plus")]
         public const string PlugCirclePlus = "\ue55f";
 
         /// <summary>
@@ -28300,6 +30872,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plug-circle-xmark
         /// </summary>
+        [Description("plug-circle-xmark")]
         public const string PlugCircleXmark = "\ue560";
 
         /// <summary>
@@ -28311,6 +30884,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plus
         /// </summary>
+        [Description("plus")]
         public const string Plus = "\u002b";
 
         /// <summary>
@@ -28322,6 +30896,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plus-large
         /// </summary>
+        [Description("plus-large")]
         public const string PlusLarge = "\ue59e";
 
         /// <summary>
@@ -28333,6 +30908,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/plus-minus
         /// </summary>
+        [Description("plus-minus")]
         public const string PlusMinus = "\ue43c";
 
         /// <summary>
@@ -28344,6 +30920,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/podcast
         /// </summary>
+        [Description("podcast")]
         public const string Podcast = "\uf2ce";
 
         /// <summary>
@@ -28355,6 +30932,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/podium
         /// </summary>
+        [Description("podium")]
         public const string Podium = "\uf680";
 
         /// <summary>
@@ -28366,6 +30944,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/podium-star
         /// </summary>
+        [Description("podium-star")]
         public const string PodiumStar = "\uf758";
 
         /// <summary>
@@ -28377,6 +30956,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/police-box
         /// </summary>
+        [Description("police-box")]
         public const string PoliceBox = "\ue021";
 
         /// <summary>
@@ -28388,6 +30968,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/poll-people
         /// </summary>
+        [Description("poll-people")]
         public const string PollPeople = "\uf759";
 
         /// <summary>
@@ -28399,6 +30980,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pompebled
         /// </summary>
+        [Description("pompebled")]
         public const string Pompebled = "\ue43d";
 
         /// <summary>
@@ -28410,6 +30992,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/poo
         /// </summary>
+        [Description("poo")]
         public const string Poo = "\uf2fe";
 
         /// <summary>
@@ -28421,6 +31004,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/poo-storm
         /// </summary>
+        [Description("poo-storm")]
         public const string PooStorm = "\uf75a";
 
         /// <summary>
@@ -28432,6 +31016,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pool-8-ball
         /// </summary>
+        [Description("pool-8-ball")]
         public const string Pool8Ball = "\ue3c5";
 
         /// <summary>
@@ -28443,6 +31028,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/poop
         /// </summary>
+        [Description("poop")]
         public const string Poop = "\uf619";
 
         /// <summary>
@@ -28454,6 +31040,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/popcorn
         /// </summary>
+        [Description("popcorn")]
         public const string Popcorn = "\uf819";
 
         /// <summary>
@@ -28465,6 +31052,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/popsicle
         /// </summary>
+        [Description("popsicle")]
         public const string Popsicle = "\ue43e";
 
         /// <summary>
@@ -28476,6 +31064,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pot-food
         /// </summary>
+        [Description("pot-food")]
         public const string PotFood = "\ue43f";
 
         /// <summary>
@@ -28487,6 +31076,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/potato
         /// </summary>
+        [Description("potato")]
         public const string Potato = "\ue440";
 
         /// <summary>
@@ -28498,6 +31088,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/power-off
         /// </summary>
+        [Description("power-off")]
         public const string PowerOff = "\uf011";
 
         /// <summary>
@@ -28509,6 +31100,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/prescription
         /// </summary>
+        [Description("prescription")]
         public const string Prescription = "\uf5b1";
 
         /// <summary>
@@ -28520,6 +31112,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/prescription-bottle
         /// </summary>
+        [Description("prescription-bottle")]
         public const string PrescriptionBottle = "\uf485";
 
         /// <summary>
@@ -28531,6 +31124,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/prescription-bottle-medical
         /// </summary>
+        [Description("prescription-bottle-medical")]
         public const string PrescriptionBottleMedical = "\uf486";
 
         /// <summary>
@@ -28542,6 +31136,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/prescription-bottle-pill
         /// </summary>
+        [Description("prescription-bottle-pill")]
         public const string PrescriptionBottlePill = "\ue5c0";
 
         /// <summary>
@@ -28553,6 +31148,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/presentation-screen
         /// </summary>
+        [Description("presentation-screen")]
         public const string PresentationScreen = "\uf685";
 
         /// <summary>
@@ -28564,6 +31160,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pretzel
         /// </summary>
+        [Description("pretzel")]
         public const string Pretzel = "\ue441";
 
         /// <summary>
@@ -28575,6 +31172,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/print
         /// </summary>
+        [Description("print")]
         public const string Print = "\uf02f";
 
         /// <summary>
@@ -28586,6 +31184,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/print-magnifying-glass
         /// </summary>
+        [Description("print-magnifying-glass")]
         public const string PrintMagnifyingGlass = "\uf81a";
 
         /// <summary>
@@ -28597,6 +31196,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/print-slash
         /// </summary>
+        [Description("print-slash")]
         public const string PrintSlash = "\uf686";
 
         /// <summary>
@@ -28608,6 +31208,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/product-hunt
         /// </summary>
+        [Description("product-hunt")]
         public const string ProductHunt = "\uf288";
 
         /// <summary>
@@ -28619,6 +31220,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/projector
         /// </summary>
+        [Description("projector")]
         public const string Projector = "\uf8d6";
 
         /// <summary>
@@ -28630,6 +31232,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pump
         /// </summary>
+        [Description("pump")]
         public const string Pump = "\ue442";
 
         /// <summary>
@@ -28641,6 +31244,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pump-medical
         /// </summary>
+        [Description("pump-medical")]
         public const string PumpMedical = "\ue06a";
 
         /// <summary>
@@ -28652,6 +31256,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pump-soap
         /// </summary>
+        [Description("pump-soap")]
         public const string PumpSoap = "\ue06b";
 
         /// <summary>
@@ -28663,6 +31268,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pumpkin
         /// </summary>
+        [Description("pumpkin")]
         public const string Pumpkin = "\uf707";
 
         /// <summary>
@@ -28674,6 +31280,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/pushed
         /// </summary>
+        [Description("pushed")]
         public const string Pushed = "\uf3e1";
 
         /// <summary>
@@ -28685,6 +31292,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/puzzle
         /// </summary>
+        [Description("puzzle")]
         public const string Puzzle = "\ue443";
 
         /// <summary>
@@ -28696,6 +31304,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/puzzle-piece
         /// </summary>
+        [Description("puzzle-piece")]
         public const string PuzzlePiece = "\uf12e";
 
         /// <summary>
@@ -28707,6 +31316,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/puzzle-piece-simple
         /// </summary>
+        [Description("puzzle-piece-simple")]
         public const string PuzzlePieceSimple = "\ue231";
 
         /// <summary>
@@ -28718,6 +31328,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/python
         /// </summary>
+        [Description("python")]
         public const string Python = "\uf3e2";
 
         /// <summary>
@@ -28729,6 +31340,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/q
         /// </summary>
+        [Description("q")]
         public const string Q = "\u0051";
 
         /// <summary>
@@ -28740,6 +31352,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/qq
         /// </summary>
+        [Description("qq")]
         public const string Qq = "\uf1d6";
 
         /// <summary>
@@ -28751,6 +31364,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/qrcode
         /// </summary>
+        [Description("qrcode")]
         public const string Qrcode = "\uf029";
 
         /// <summary>
@@ -28762,6 +31376,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/question
         /// </summary>
+        [Description("question")]
         public const string Question = "\u003f";
 
         /// <summary>
@@ -28773,6 +31388,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/quinscape
         /// </summary>
+        [Description("quinscape")]
         public const string Quinscape = "\uf459";
 
         /// <summary>
@@ -28784,6 +31400,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/quora
         /// </summary>
+        [Description("quora")]
         public const string Quora = "\uf2c4";
 
         /// <summary>
@@ -28795,6 +31412,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/quote-left
         /// </summary>
+        [Description("quote-left")]
         public const string QuoteLeft = "\uf10d";
 
         /// <summary>
@@ -28806,6 +31424,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/quote-right
         /// </summary>
+        [Description("quote-right")]
         public const string QuoteRight = "\uf10e";
 
         /// <summary>
@@ -28817,6 +31436,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/quotes
         /// </summary>
+        [Description("quotes")]
         public const string Quotes = "\ue234";
 
         /// <summary>
@@ -28828,6 +31448,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/r
         /// </summary>
+        [Description("r")]
         public const string R = "\u0052";
 
         /// <summary>
@@ -28839,6 +31460,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/r-project
         /// </summary>
+        [Description("r-project")]
         public const string RProject = "\uf4f7";
 
         /// <summary>
@@ -28850,6 +31472,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rabbit
         /// </summary>
+        [Description("rabbit")]
         public const string Rabbit = "\uf708";
 
         /// <summary>
@@ -28861,6 +31484,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rabbit-running
         /// </summary>
+        [Description("rabbit-running")]
         public const string RabbitRunning = "\uf709";
 
         /// <summary>
@@ -28872,6 +31496,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/racquet
         /// </summary>
+        [Description("racquet")]
         public const string Racquet = "\uf45a";
 
         /// <summary>
@@ -28883,6 +31508,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/radar
         /// </summary>
+        [Description("radar")]
         public const string Radar = "\ue024";
 
         /// <summary>
@@ -28894,6 +31520,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/radiation
         /// </summary>
+        [Description("radiation")]
         public const string Radiation = "\uf7b9";
 
         /// <summary>
@@ -28905,6 +31532,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/radio
         /// </summary>
+        [Description("radio")]
         public const string Radio = "\uf8d7";
 
         /// <summary>
@@ -28916,6 +31544,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/radio-tuner
         /// </summary>
+        [Description("radio-tuner")]
         public const string RadioTuner = "\uf8d8";
 
         /// <summary>
@@ -28927,6 +31556,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rainbow
         /// </summary>
+        [Description("rainbow")]
         public const string Rainbow = "\uf75b";
 
         /// <summary>
@@ -28938,6 +31568,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/raindrops
         /// </summary>
+        [Description("raindrops")]
         public const string Raindrops = "\uf75c";
 
         /// <summary>
@@ -28949,6 +31580,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ram
         /// </summary>
+        [Description("ram")]
         public const string Ram = "\uf70a";
 
         /// <summary>
@@ -28960,6 +31592,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ramp-loading
         /// </summary>
+        [Description("ramp-loading")]
         public const string RampLoading = "\uf4d4";
 
         /// <summary>
@@ -28971,6 +31604,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ranking-star
         /// </summary>
+        [Description("ranking-star")]
         public const string RankingStar = "\ue561";
 
         /// <summary>
@@ -28982,6 +31616,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/raspberry-pi
         /// </summary>
+        [Description("raspberry-pi")]
         public const string RaspberryPi = "\uf7bb";
 
         /// <summary>
@@ -28993,6 +31628,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ravelry
         /// </summary>
+        [Description("ravelry")]
         public const string Ravelry = "\uf2d9";
 
         /// <summary>
@@ -29004,6 +31640,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/raygun
         /// </summary>
+        [Description("raygun")]
         public const string Raygun = "\ue025";
 
         /// <summary>
@@ -29015,6 +31652,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/react
         /// </summary>
+        [Description("react")]
         public const string React = "\uf41b";
 
         /// <summary>
@@ -29026,6 +31664,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/reacteurope
         /// </summary>
+        [Description("reacteurope")]
         public const string Reacteurope = "\uf75d";
 
         /// <summary>
@@ -29037,6 +31676,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/readme
         /// </summary>
+        [Description("readme")]
         public const string Readme = "\uf4d5";
 
         /// <summary>
@@ -29048,6 +31688,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rebel
         /// </summary>
+        [Description("rebel")]
         public const string Rebel = "\uf1d0";
 
         /// <summary>
@@ -29059,6 +31700,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/receipt
         /// </summary>
+        [Description("receipt")]
         public const string Receipt = "\uf543";
 
         /// <summary>
@@ -29070,6 +31712,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/record-vinyl
         /// </summary>
+        [Description("record-vinyl")]
         public const string RecordVinyl = "\uf8d9";
 
         /// <summary>
@@ -29081,6 +31724,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rectangle
         /// </summary>
+        [Description("rectangle")]
         public const string Rectangle = "\uf2fa";
 
         /// <summary>
@@ -29092,6 +31736,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rectangle-ad
         /// </summary>
+        [Description("rectangle-ad")]
         public const string RectangleAd = "\uf641";
 
         /// <summary>
@@ -29103,6 +31748,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rectangle-barcode
         /// </summary>
+        [Description("rectangle-barcode")]
         public const string RectangleBarcode = "\uf463";
 
         /// <summary>
@@ -29114,6 +31760,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rectangle-code
         /// </summary>
+        [Description("rectangle-code")]
         public const string RectangleCode = "\ue322";
 
         /// <summary>
@@ -29125,6 +31772,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rectangle-history
         /// </summary>
+        [Description("rectangle-history")]
         public const string RectangleHistory = "\ue4a2";
 
         /// <summary>
@@ -29136,6 +31784,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rectangle-history-circle-plus
         /// </summary>
+        [Description("rectangle-history-circle-plus")]
         public const string RectangleHistoryCirclePlus = "\ue4a3";
 
         /// <summary>
@@ -29147,6 +31796,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rectangle-history-circle-user
         /// </summary>
+        [Description("rectangle-history-circle-user")]
         public const string RectangleHistoryCircleUser = "\ue4a4";
 
         /// <summary>
@@ -29158,6 +31808,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rectangle-list
         /// </summary>
+        [Description("rectangle-list")]
         public const string RectangleList = "\uf022";
 
         /// <summary>
@@ -29169,6 +31820,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rectangle-pro
         /// </summary>
+        [Description("rectangle-pro")]
         public const string RectanglePro = "\ue235";
 
         /// <summary>
@@ -29180,6 +31832,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rectangle-terminal
         /// </summary>
+        [Description("rectangle-terminal")]
         public const string RectangleTerminal = "\ue236";
 
         /// <summary>
@@ -29191,6 +31844,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rectangle-vertical
         /// </summary>
+        [Description("rectangle-vertical")]
         public const string RectangleVertical = "\uf2fb";
 
         /// <summary>
@@ -29202,6 +31856,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rectangle-vertical-history
         /// </summary>
+        [Description("rectangle-vertical-history")]
         public const string RectangleVerticalHistory = "\ue237";
 
         /// <summary>
@@ -29213,6 +31868,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rectangle-wide
         /// </summary>
+        [Description("rectangle-wide")]
         public const string RectangleWide = "\uf2fc";
 
         /// <summary>
@@ -29224,6 +31880,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rectangle-xmark
         /// </summary>
+        [Description("rectangle-xmark")]
         public const string RectangleXmark = "\uf410";
 
         /// <summary>
@@ -29235,6 +31892,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rectangles-mixed
         /// </summary>
+        [Description("rectangles-mixed")]
         public const string RectanglesMixed = "\ue323";
 
         /// <summary>
@@ -29246,6 +31904,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/recycle
         /// </summary>
+        [Description("recycle")]
         public const string Recycle = "\uf1b8";
 
         /// <summary>
@@ -29257,6 +31916,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/red-river
         /// </summary>
+        [Description("red-river")]
         public const string RedRiver = "\uf3e3";
 
         /// <summary>
@@ -29268,6 +31928,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/reddit
         /// </summary>
+        [Description("reddit")]
         public const string Reddit = "\uf1a1";
 
         /// <summary>
@@ -29279,6 +31940,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/reddit-alien
         /// </summary>
+        [Description("reddit-alien")]
         public const string RedditAlien = "\uf281";
 
         /// <summary>
@@ -29290,6 +31952,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/redhat
         /// </summary>
+        [Description("redhat")]
         public const string Redhat = "\uf7bc";
 
         /// <summary>
@@ -29301,6 +31964,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/reel
         /// </summary>
+        [Description("reel")]
         public const string Reel = "\ue238";
 
         /// <summary>
@@ -29312,6 +31976,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/refrigerator
         /// </summary>
+        [Description("refrigerator")]
         public const string Refrigerator = "\ue026";
 
         /// <summary>
@@ -29323,6 +31988,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/registered
         /// </summary>
+        [Description("registered")]
         public const string Registered = "\uf25d";
 
         /// <summary>
@@ -29334,6 +32000,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/renren
         /// </summary>
+        [Description("renren")]
         public const string Renren = "\uf18b";
 
         /// <summary>
@@ -29345,6 +32012,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/repeat
         /// </summary>
+        [Description("repeat")]
         public const string Repeat = "\uf363";
 
         /// <summary>
@@ -29356,6 +32024,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/repeat-1
         /// </summary>
+        [Description("repeat-1")]
         public const string Repeat1 = "\uf365";
 
         /// <summary>
@@ -29367,6 +32036,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/reply
         /// </summary>
+        [Description("reply")]
         public const string Reply = "\uf3e5";
 
         /// <summary>
@@ -29378,6 +32048,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/reply-all
         /// </summary>
+        [Description("reply-all")]
         public const string ReplyAll = "\uf122";
 
         /// <summary>
@@ -29389,6 +32060,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/reply-clock
         /// </summary>
+        [Description("reply-clock")]
         public const string ReplyClock = "\ue239";
 
         /// <summary>
@@ -29400,6 +32072,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/replyd
         /// </summary>
+        [Description("replyd")]
         public const string Replyd = "\uf3e6";
 
         /// <summary>
@@ -29411,6 +32084,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/republican
         /// </summary>
+        [Description("republican")]
         public const string Republican = "\uf75e";
 
         /// <summary>
@@ -29422,6 +32096,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/researchgate
         /// </summary>
+        [Description("researchgate")]
         public const string Researchgate = "\uf4f8";
 
         /// <summary>
@@ -29433,6 +32108,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/resolving
         /// </summary>
+        [Description("resolving")]
         public const string Resolving = "\uf3e7";
 
         /// <summary>
@@ -29444,6 +32120,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/restroom
         /// </summary>
+        [Description("restroom")]
         public const string Restroom = "\uf7bd";
 
         /// <summary>
@@ -29455,6 +32132,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/restroom-simple
         /// </summary>
+        [Description("restroom-simple")]
         public const string RestroomSimple = "\ue23a";
 
         /// <summary>
@@ -29466,6 +32144,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/retweet
         /// </summary>
+        [Description("retweet")]
         public const string Retweet = "\uf079";
 
         /// <summary>
@@ -29477,6 +32156,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rev
         /// </summary>
+        [Description("rev")]
         public const string Rev = "\uf5b2";
 
         /// <summary>
@@ -29488,6 +32168,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rhombus
         /// </summary>
+        [Description("rhombus")]
         public const string Rhombus = "\ue23b";
 
         /// <summary>
@@ -29499,6 +32180,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ribbon
         /// </summary>
+        [Description("ribbon")]
         public const string Ribbon = "\uf4d6";
 
         /// <summary>
@@ -29510,6 +32192,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/right
         /// </summary>
+        [Description("right")]
         public const string Right = "\uf356";
 
         /// <summary>
@@ -29521,6 +32204,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/right-from-bracket
         /// </summary>
+        [Description("right-from-bracket")]
         public const string RightFromBracket = "\uf2f5";
 
         /// <summary>
@@ -29532,6 +32216,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/right-from-line
         /// </summary>
+        [Description("right-from-line")]
         public const string RightFromLine = "\uf347";
 
         /// <summary>
@@ -29543,6 +32228,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/right-left
         /// </summary>
+        [Description("right-left")]
         public const string RightLeft = "\uf362";
 
         /// <summary>
@@ -29554,6 +32240,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/right-left-large
         /// </summary>
+        [Description("right-left-large")]
         public const string RightLeftLarge = "\ue5e1";
 
         /// <summary>
@@ -29565,6 +32252,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/right-long
         /// </summary>
+        [Description("right-long")]
         public const string RightLong = "\uf30b";
 
         /// <summary>
@@ -29576,6 +32264,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/right-long-to-line
         /// </summary>
+        [Description("right-long-to-line")]
         public const string RightLongToLine = "\ue444";
 
         /// <summary>
@@ -29587,6 +32276,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/right-to-bracket
         /// </summary>
+        [Description("right-to-bracket")]
         public const string RightToBracket = "\uf2f6";
 
         /// <summary>
@@ -29598,6 +32288,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/right-to-line
         /// </summary>
+        [Description("right-to-line")]
         public const string RightToLine = "\uf34c";
 
         /// <summary>
@@ -29609,6 +32300,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ring
         /// </summary>
+        [Description("ring")]
         public const string Ring = "\uf70b";
 
         /// <summary>
@@ -29620,6 +32312,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ring-diamond
         /// </summary>
+        [Description("ring-diamond")]
         public const string RingDiamond = "\ue5ab";
 
         /// <summary>
@@ -29631,6 +32324,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rings-wedding
         /// </summary>
+        [Description("rings-wedding")]
         public const string RingsWedding = "\uf81b";
 
         /// <summary>
@@ -29642,6 +32336,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/road
         /// </summary>
+        [Description("road")]
         public const string Road = "\uf018";
 
         /// <summary>
@@ -29653,6 +32348,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/road-barrier
         /// </summary>
+        [Description("road-barrier")]
         public const string RoadBarrier = "\ue562";
 
         /// <summary>
@@ -29664,6 +32360,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/road-bridge
         /// </summary>
+        [Description("road-bridge")]
         public const string RoadBridge = "\ue563";
 
         /// <summary>
@@ -29675,6 +32372,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/road-circle-check
         /// </summary>
+        [Description("road-circle-check")]
         public const string RoadCircleCheck = "\ue564";
 
         /// <summary>
@@ -29686,6 +32384,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/road-circle-exclamation
         /// </summary>
+        [Description("road-circle-exclamation")]
         public const string RoadCircleExclamation = "\ue565";
 
         /// <summary>
@@ -29697,6 +32396,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/road-circle-xmark
         /// </summary>
+        [Description("road-circle-xmark")]
         public const string RoadCircleXmark = "\ue566";
 
         /// <summary>
@@ -29708,6 +32408,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/road-lock
         /// </summary>
+        [Description("road-lock")]
         public const string RoadLock = "\ue567";
 
         /// <summary>
@@ -29719,6 +32420,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/road-spikes
         /// </summary>
+        [Description("road-spikes")]
         public const string RoadSpikes = "\ue568";
 
         /// <summary>
@@ -29730,6 +32432,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/robot
         /// </summary>
+        [Description("robot")]
         public const string Robot = "\uf544";
 
         /// <summary>
@@ -29741,6 +32444,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/robot-astromech
         /// </summary>
+        [Description("robot-astromech")]
         public const string RobotAstromech = "\ue2d2";
 
         /// <summary>
@@ -29752,6 +32456,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rocket
         /// </summary>
+        [Description("rocket")]
         public const string Rocket = "\uf135";
 
         /// <summary>
@@ -29763,6 +32468,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rocket-launch
         /// </summary>
+        [Description("rocket-launch")]
         public const string RocketLaunch = "\ue027";
 
         /// <summary>
@@ -29774,6 +32480,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rocketchat
         /// </summary>
+        [Description("rocketchat")]
         public const string Rocketchat = "\uf3e8";
 
         /// <summary>
@@ -29785,6 +32492,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rockrms
         /// </summary>
+        [Description("rockrms")]
         public const string Rockrms = "\uf3e9";
 
         /// <summary>
@@ -29796,6 +32504,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/roller-coaster
         /// </summary>
+        [Description("roller-coaster")]
         public const string RollerCoaster = "\ue324";
 
         /// <summary>
@@ -29807,6 +32516,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rotate
         /// </summary>
+        [Description("rotate")]
         public const string Rotate = "\uf2f1";
 
         /// <summary>
@@ -29818,6 +32528,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rotate-exclamation
         /// </summary>
+        [Description("rotate-exclamation")]
         public const string RotateExclamation = "\ue23c";
 
         /// <summary>
@@ -29829,6 +32540,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rotate-left
         /// </summary>
+        [Description("rotate-left")]
         public const string RotateLeft = "\uf2ea";
 
         /// <summary>
@@ -29840,6 +32552,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rotate-right
         /// </summary>
+        [Description("rotate-right")]
         public const string RotateRight = "\uf2f9";
 
         /// <summary>
@@ -29851,6 +32564,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/route
         /// </summary>
+        [Description("route")]
         public const string Route = "\uf4d7";
 
         /// <summary>
@@ -29862,6 +32576,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/route-highway
         /// </summary>
+        [Description("route-highway")]
         public const string RouteHighway = "\uf61a";
 
         /// <summary>
@@ -29873,6 +32588,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/route-interstate
         /// </summary>
+        [Description("route-interstate")]
         public const string RouteInterstate = "\uf61b";
 
         /// <summary>
@@ -29884,6 +32600,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/router
         /// </summary>
+        [Description("router")]
         public const string Router = "\uf8da";
 
         /// <summary>
@@ -29895,6 +32612,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rss
         /// </summary>
+        [Description("rss")]
         public const string Rss = "\uf09e";
 
         /// <summary>
@@ -29906,6 +32624,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ruble-sign
         /// </summary>
+        [Description("ruble-sign")]
         public const string RubleSign = "\uf158";
 
         /// <summary>
@@ -29917,6 +32636,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rug
         /// </summary>
+        [Description("rug")]
         public const string Rug = "\ue569";
 
         /// <summary>
@@ -29928,6 +32648,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rugby-ball
         /// </summary>
+        [Description("rugby-ball")]
         public const string RugbyBall = "\ue3c6";
 
         /// <summary>
@@ -29939,6 +32660,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ruler
         /// </summary>
+        [Description("ruler")]
         public const string Ruler = "\uf545";
 
         /// <summary>
@@ -29950,6 +32672,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ruler-combined
         /// </summary>
+        [Description("ruler-combined")]
         public const string RulerCombined = "\uf546";
 
         /// <summary>
@@ -29961,6 +32684,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ruler-horizontal
         /// </summary>
+        [Description("ruler-horizontal")]
         public const string RulerHorizontal = "\uf547";
 
         /// <summary>
@@ -29972,6 +32696,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ruler-triangle
         /// </summary>
+        [Description("ruler-triangle")]
         public const string RulerTriangle = "\uf61c";
 
         /// <summary>
@@ -29983,6 +32708,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ruler-vertical
         /// </summary>
+        [Description("ruler-vertical")]
         public const string RulerVertical = "\uf548";
 
         /// <summary>
@@ -29994,6 +32720,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rupee-sign
         /// </summary>
+        [Description("rupee-sign")]
         public const string RupeeSign = "\uf156";
 
         /// <summary>
@@ -30005,6 +32732,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rupiah-sign
         /// </summary>
+        [Description("rupiah-sign")]
         public const string RupiahSign = "\ue23d";
 
         /// <summary>
@@ -30016,6 +32744,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rust
         /// </summary>
+        [Description("rust")]
         public const string Rust = "\ue07a";
 
         /// <summary>
@@ -30027,6 +32756,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/rv
         /// </summary>
+        [Description("rv")]
         public const string Rv = "\uf7be";
 
         /// <summary>
@@ -30038,6 +32768,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/s
         /// </summary>
+        [Description("s")]
         public const string S = "\u0053";
 
         /// <summary>
@@ -30049,6 +32780,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sack
         /// </summary>
+        [Description("sack")]
         public const string Sack = "\uf81c";
 
         /// <summary>
@@ -30060,6 +32792,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sack-dollar
         /// </summary>
+        [Description("sack-dollar")]
         public const string SackDollar = "\uf81d";
 
         /// <summary>
@@ -30071,6 +32804,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sack-xmark
         /// </summary>
+        [Description("sack-xmark")]
         public const string SackXmark = "\ue56a";
 
         /// <summary>
@@ -30082,6 +32816,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/safari
         /// </summary>
+        [Description("safari")]
         public const string Safari = "\uf267";
 
         /// <summary>
@@ -30093,6 +32828,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sailboat
         /// </summary>
+        [Description("sailboat")]
         public const string Sailboat = "\ue445";
 
         /// <summary>
@@ -30104,6 +32840,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/salad
         /// </summary>
+        [Description("salad")]
         public const string Salad = "\uf81e";
 
         /// <summary>
@@ -30115,6 +32852,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/salesforce
         /// </summary>
+        [Description("salesforce")]
         public const string Salesforce = "\uf83b";
 
         /// <summary>
@@ -30126,6 +32864,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/salt-shaker
         /// </summary>
+        [Description("salt-shaker")]
         public const string SaltShaker = "\ue446";
 
         /// <summary>
@@ -30137,6 +32876,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sandwich
         /// </summary>
+        [Description("sandwich")]
         public const string Sandwich = "\uf81f";
 
         /// <summary>
@@ -30148,6 +32888,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sass
         /// </summary>
+        [Description("sass")]
         public const string Sass = "\uf41e";
 
         /// <summary>
@@ -30159,6 +32900,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/satellite
         /// </summary>
+        [Description("satellite")]
         public const string Satellite = "\uf7bf";
 
         /// <summary>
@@ -30170,6 +32912,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/satellite-dish
         /// </summary>
+        [Description("satellite-dish")]
         public const string SatelliteDish = "\uf7c0";
 
         /// <summary>
@@ -30181,6 +32924,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sausage
         /// </summary>
+        [Description("sausage")]
         public const string Sausage = "\uf820";
 
         /// <summary>
@@ -30192,6 +32936,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/saxophone
         /// </summary>
+        [Description("saxophone")]
         public const string Saxophone = "\uf8dc";
 
         /// <summary>
@@ -30203,6 +32948,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/saxophone-fire
         /// </summary>
+        [Description("saxophone-fire")]
         public const string SaxophoneFire = "\uf8db";
 
         /// <summary>
@@ -30214,6 +32960,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scale-balanced
         /// </summary>
+        [Description("scale-balanced")]
         public const string ScaleBalanced = "\uf24e";
 
         /// <summary>
@@ -30225,6 +32972,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scale-unbalanced
         /// </summary>
+        [Description("scale-unbalanced")]
         public const string ScaleUnbalanced = "\uf515";
 
         /// <summary>
@@ -30236,6 +32984,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scale-unbalanced-flip
         /// </summary>
+        [Description("scale-unbalanced-flip")]
         public const string ScaleUnbalancedFlip = "\uf516";
 
         /// <summary>
@@ -30247,6 +32996,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scalpel
         /// </summary>
+        [Description("scalpel")]
         public const string Scalpel = "\uf61d";
 
         /// <summary>
@@ -30258,6 +33008,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scalpel-line-dashed
         /// </summary>
+        [Description("scalpel-line-dashed")]
         public const string ScalpelLineDashed = "\uf61e";
 
         /// <summary>
@@ -30269,6 +33020,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scanner-gun
         /// </summary>
+        [Description("scanner-gun")]
         public const string ScannerGun = "\uf488";
 
         /// <summary>
@@ -30280,6 +33032,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scanner-image
         /// </summary>
+        [Description("scanner-image")]
         public const string ScannerImage = "\uf8f3";
 
         /// <summary>
@@ -30291,6 +33044,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scanner-keyboard
         /// </summary>
+        [Description("scanner-keyboard")]
         public const string ScannerKeyboard = "\uf489";
 
         /// <summary>
@@ -30302,6 +33056,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scanner-touchscreen
         /// </summary>
+        [Description("scanner-touchscreen")]
         public const string ScannerTouchscreen = "\uf48a";
 
         /// <summary>
@@ -30313,6 +33068,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scarecrow
         /// </summary>
+        [Description("scarecrow")]
         public const string Scarecrow = "\uf70d";
 
         /// <summary>
@@ -30324,6 +33080,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scarf
         /// </summary>
+        [Description("scarf")]
         public const string Scarf = "\uf7c1";
 
         /// <summary>
@@ -30335,6 +33092,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/schlix
         /// </summary>
+        [Description("schlix")]
         public const string Schlix = "\uf3ea";
 
         /// <summary>
@@ -30346,6 +33104,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/school
         /// </summary>
+        [Description("school")]
         public const string School = "\uf549";
 
         /// <summary>
@@ -30357,6 +33116,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/school-circle-check
         /// </summary>
+        [Description("school-circle-check")]
         public const string SchoolCircleCheck = "\ue56b";
 
         /// <summary>
@@ -30368,6 +33128,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/school-circle-exclamation
         /// </summary>
+        [Description("school-circle-exclamation")]
         public const string SchoolCircleExclamation = "\ue56c";
 
         /// <summary>
@@ -30379,6 +33140,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/school-circle-xmark
         /// </summary>
+        [Description("school-circle-xmark")]
         public const string SchoolCircleXmark = "\ue56d";
 
         /// <summary>
@@ -30390,6 +33152,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/school-flag
         /// </summary>
+        [Description("school-flag")]
         public const string SchoolFlag = "\ue56e";
 
         /// <summary>
@@ -30401,6 +33164,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/school-lock
         /// </summary>
+        [Description("school-lock")]
         public const string SchoolLock = "\ue56f";
 
         /// <summary>
@@ -30412,6 +33176,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scissors
         /// </summary>
+        [Description("scissors")]
         public const string Scissors = "\uf0c4";
 
         /// <summary>
@@ -30423,6 +33188,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/screen-users
         /// </summary>
+        [Description("screen-users")]
         public const string ScreenUsers = "\uf63d";
 
         /// <summary>
@@ -30434,6 +33200,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/screencast
         /// </summary>
+        [Description("screencast")]
         public const string Screencast = "\ue23e";
 
         /// <summary>
@@ -30445,6 +33212,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/screenpal
         /// </summary>
+        [Description("screenpal")]
         public const string Screenpal = "\ue570";
 
         /// <summary>
@@ -30456,6 +33224,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/screwdriver
         /// </summary>
+        [Description("screwdriver")]
         public const string Screwdriver = "\uf54a";
 
         /// <summary>
@@ -30467,6 +33236,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/screwdriver-wrench
         /// </summary>
+        [Description("screwdriver-wrench")]
         public const string ScrewdriverWrench = "\uf7d9";
 
         /// <summary>
@@ -30478,6 +33248,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scribble
         /// </summary>
+        [Description("scribble")]
         public const string Scribble = "\ue23f";
 
         /// <summary>
@@ -30489,6 +33260,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scribd
         /// </summary>
+        [Description("scribd")]
         public const string Scribd = "\uf28a";
 
         /// <summary>
@@ -30500,6 +33272,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scroll
         /// </summary>
+        [Description("scroll")]
         public const string Scroll = "\uf70e";
 
         /// <summary>
@@ -30511,6 +33284,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scroll-old
         /// </summary>
+        [Description("scroll-old")]
         public const string ScrollOld = "\uf70f";
 
         /// <summary>
@@ -30522,6 +33296,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scroll-torah
         /// </summary>
+        [Description("scroll-torah")]
         public const string ScrollTorah = "\uf6a0";
 
         /// <summary>
@@ -30533,6 +33308,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scrubber
         /// </summary>
+        [Description("scrubber")]
         public const string Scrubber = "\uf2f8";
 
         /// <summary>
@@ -30544,6 +33320,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/scythe
         /// </summary>
+        [Description("scythe")]
         public const string Scythe = "\uf710";
 
         /// <summary>
@@ -30555,6 +33332,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sd-card
         /// </summary>
+        [Description("sd-card")]
         public const string SdCard = "\uf7c2";
 
         /// <summary>
@@ -30566,6 +33344,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sd-cards
         /// </summary>
+        [Description("sd-cards")]
         public const string SdCards = "\ue240";
 
         /// <summary>
@@ -30577,6 +33356,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/seal
         /// </summary>
+        [Description("seal")]
         public const string Seal = "\ue241";
 
         /// <summary>
@@ -30588,6 +33368,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/seal-exclamation
         /// </summary>
+        [Description("seal-exclamation")]
         public const string SealExclamation = "\ue242";
 
         /// <summary>
@@ -30599,6 +33380,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/seal-question
         /// </summary>
+        [Description("seal-question")]
         public const string SealQuestion = "\ue243";
 
         /// <summary>
@@ -30610,6 +33392,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/searchengin
         /// </summary>
+        [Description("searchengin")]
         public const string Searchengin = "\uf3eb";
 
         /// <summary>
@@ -30621,6 +33404,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/seat-airline
         /// </summary>
+        [Description("seat-airline")]
         public const string SeatAirline = "\ue244";
 
         /// <summary>
@@ -30632,6 +33416,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/section
         /// </summary>
+        [Description("section")]
         public const string Section = "\ue447";
 
         /// <summary>
@@ -30643,6 +33428,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/seedling
         /// </summary>
+        [Description("seedling")]
         public const string Seedling = "\uf4d8";
 
         /// <summary>
@@ -30654,6 +33440,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sellcast
         /// </summary>
+        [Description("sellcast")]
         public const string Sellcast = "\uf2da";
 
         /// <summary>
@@ -30665,6 +33452,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sellsy
         /// </summary>
+        [Description("sellsy")]
         public const string Sellsy = "\uf213";
 
         /// <summary>
@@ -30676,6 +33464,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/semicolon
         /// </summary>
+        [Description("semicolon")]
         public const string Semicolon = "\u003b";
 
         /// <summary>
@@ -30687,6 +33476,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/send-back
         /// </summary>
+        [Description("send-back")]
         public const string SendBack = "\uf87e";
 
         /// <summary>
@@ -30698,6 +33488,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/send-backward
         /// </summary>
+        [Description("send-backward")]
         public const string SendBackward = "\uf87f";
 
         /// <summary>
@@ -30709,6 +33500,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sensor
         /// </summary>
+        [Description("sensor")]
         public const string Sensor = "\ue028";
 
         /// <summary>
@@ -30720,6 +33512,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sensor-cloud
         /// </summary>
+        [Description("sensor-cloud")]
         public const string SensorCloud = "\ue02c";
 
         /// <summary>
@@ -30731,6 +33524,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sensor-fire
         /// </summary>
+        [Description("sensor-fire")]
         public const string SensorFire = "\ue02a";
 
         /// <summary>
@@ -30742,6 +33536,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sensor-on
         /// </summary>
+        [Description("sensor-on")]
         public const string SensorOn = "\ue02b";
 
         /// <summary>
@@ -30753,6 +33548,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sensor-triangle-exclamation
         /// </summary>
+        [Description("sensor-triangle-exclamation")]
         public const string SensorTriangleExclamation = "\ue029";
 
         /// <summary>
@@ -30764,6 +33560,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/server
         /// </summary>
+        [Description("server")]
         public const string Server = "\uf233";
 
         /// <summary>
@@ -30775,6 +33572,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/servicestack
         /// </summary>
+        [Description("servicestack")]
         public const string Servicestack = "\uf3ec";
 
         /// <summary>
@@ -30786,6 +33584,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shapes
         /// </summary>
+        [Description("shapes")]
         public const string Shapes = "\uf61f";
 
         /// <summary>
@@ -30797,6 +33596,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/share
         /// </summary>
+        [Description("share")]
         public const string Share = "\uf064";
 
         /// <summary>
@@ -30808,6 +33608,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/share-all
         /// </summary>
+        [Description("share-all")]
         public const string ShareAll = "\uf367";
 
         /// <summary>
@@ -30819,6 +33620,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/share-from-square
         /// </summary>
+        [Description("share-from-square")]
         public const string ShareFromSquare = "\uf14d";
 
         /// <summary>
@@ -30830,6 +33632,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/share-nodes
         /// </summary>
+        [Description("share-nodes")]
         public const string ShareNodes = "\uf1e0";
 
         /// <summary>
@@ -30841,6 +33644,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sheep
         /// </summary>
+        [Description("sheep")]
         public const string Sheep = "\uf711";
 
         /// <summary>
@@ -30852,6 +33656,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sheet-plastic
         /// </summary>
+        [Description("sheet-plastic")]
         public const string SheetPlastic = "\ue571";
 
         /// <summary>
@@ -30863,6 +33668,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shekel-sign
         /// </summary>
+        [Description("shekel-sign")]
         public const string ShekelSign = "\uf20b";
 
         /// <summary>
@@ -30874,6 +33680,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shelves
         /// </summary>
+        [Description("shelves")]
         public const string Shelves = "\uf480";
 
         /// <summary>
@@ -30885,6 +33692,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shelves-empty
         /// </summary>
+        [Description("shelves-empty")]
         public const string ShelvesEmpty = "\ue246";
 
         /// <summary>
@@ -30896,6 +33704,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shield
         /// </summary>
+        [Description("shield")]
         public const string Shield = "\uf132";
 
         /// <summary>
@@ -30907,6 +33716,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shield-cat
         /// </summary>
+        [Description("shield-cat")]
         public const string ShieldCat = "\ue572";
 
         /// <summary>
@@ -30918,6 +33728,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shield-check
         /// </summary>
+        [Description("shield-check")]
         public const string ShieldCheck = "\uf2f7";
 
         /// <summary>
@@ -30929,6 +33740,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shield-cross
         /// </summary>
+        [Description("shield-cross")]
         public const string ShieldCross = "\uf712";
 
         /// <summary>
@@ -30940,6 +33752,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shield-dog
         /// </summary>
+        [Description("shield-dog")]
         public const string ShieldDog = "\ue573";
 
         /// <summary>
@@ -30951,6 +33764,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shield-exclamation
         /// </summary>
+        [Description("shield-exclamation")]
         public const string ShieldExclamation = "\ue247";
 
         /// <summary>
@@ -30962,6 +33776,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shield-halved
         /// </summary>
+        [Description("shield-halved")]
         public const string ShieldHalved = "\uf3ed";
 
         /// <summary>
@@ -30973,6 +33788,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shield-heart
         /// </summary>
+        [Description("shield-heart")]
         public const string ShieldHeart = "\ue574";
 
         /// <summary>
@@ -30984,6 +33800,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shield-keyhole
         /// </summary>
+        [Description("shield-keyhole")]
         public const string ShieldKeyhole = "\ue248";
 
         /// <summary>
@@ -30995,6 +33812,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shield-minus
         /// </summary>
+        [Description("shield-minus")]
         public const string ShieldMinus = "\ue249";
 
         /// <summary>
@@ -31006,6 +33824,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shield-plus
         /// </summary>
+        [Description("shield-plus")]
         public const string ShieldPlus = "\ue24a";
 
         /// <summary>
@@ -31017,6 +33836,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shield-quartered
         /// </summary>
+        [Description("shield-quartered")]
         public const string ShieldQuartered = "\ue575";
 
         /// <summary>
@@ -31028,6 +33848,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shield-slash
         /// </summary>
+        [Description("shield-slash")]
         public const string ShieldSlash = "\ue24b";
 
         /// <summary>
@@ -31039,6 +33860,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shield-virus
         /// </summary>
+        [Description("shield-virus")]
         public const string ShieldVirus = "\ue06c";
 
         /// <summary>
@@ -31050,6 +33872,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shield-xmark
         /// </summary>
+        [Description("shield-xmark")]
         public const string ShieldXmark = "\ue24c";
 
         /// <summary>
@@ -31061,6 +33884,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ship
         /// </summary>
+        [Description("ship")]
         public const string Ship = "\uf21a";
 
         /// <summary>
@@ -31072,6 +33896,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shirt
         /// </summary>
+        [Description("shirt")]
         public const string Shirt = "\uf553";
 
         /// <summary>
@@ -31083,6 +33908,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shirt-long-sleeve
         /// </summary>
+        [Description("shirt-long-sleeve")]
         public const string ShirtLongSleeve = "\ue3c7";
 
         /// <summary>
@@ -31094,6 +33920,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shirt-running
         /// </summary>
+        [Description("shirt-running")]
         public const string ShirtRunning = "\ue3c8";
 
         /// <summary>
@@ -31105,6 +33932,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shirt-tank-top
         /// </summary>
+        [Description("shirt-tank-top")]
         public const string ShirtTankTop = "\ue3c9";
 
         /// <summary>
@@ -31116,6 +33944,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shirtsinbulk
         /// </summary>
+        [Description("shirtsinbulk")]
         public const string Shirtsinbulk = "\uf214";
 
         /// <summary>
@@ -31127,6 +33956,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shish-kebab
         /// </summary>
+        [Description("shish-kebab")]
         public const string ShishKebab = "\uf821";
 
         /// <summary>
@@ -31138,6 +33968,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shoe-prints
         /// </summary>
+        [Description("shoe-prints")]
         public const string ShoePrints = "\uf54b";
 
         /// <summary>
@@ -31149,6 +33980,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shop
         /// </summary>
+        [Description("shop")]
         public const string Shop = "\uf54f";
 
         /// <summary>
@@ -31160,6 +33992,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shop-lock
         /// </summary>
+        [Description("shop-lock")]
         public const string ShopLock = "\ue4a5";
 
         /// <summary>
@@ -31171,6 +34004,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shop-slash
         /// </summary>
+        [Description("shop-slash")]
         public const string ShopSlash = "\ue070";
 
         /// <summary>
@@ -31182,6 +34016,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shopify
         /// </summary>
+        [Description("shopify")]
         public const string Shopify = "\ue057";
 
         /// <summary>
@@ -31193,6 +34028,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shopware
         /// </summary>
+        [Description("shopware")]
         public const string Shopware = "\uf5b5";
 
         /// <summary>
@@ -31204,6 +34040,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shovel
         /// </summary>
+        [Description("shovel")]
         public const string Shovel = "\uf713";
 
         /// <summary>
@@ -31215,6 +34052,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shovel-snow
         /// </summary>
+        [Description("shovel-snow")]
         public const string ShovelSnow = "\uf7c3";
 
         /// <summary>
@@ -31226,6 +34064,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shower
         /// </summary>
+        [Description("shower")]
         public const string Shower = "\uf2cc";
 
         /// <summary>
@@ -31237,6 +34076,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shower-down
         /// </summary>
+        [Description("shower-down")]
         public const string ShowerDown = "\ue24d";
 
         /// <summary>
@@ -31248,6 +34088,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shredder
         /// </summary>
+        [Description("shredder")]
         public const string Shredder = "\uf68a";
 
         /// <summary>
@@ -31259,6 +34100,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shrimp
         /// </summary>
+        [Description("shrimp")]
         public const string Shrimp = "\ue448";
 
         /// <summary>
@@ -31270,6 +34112,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shuffle
         /// </summary>
+        [Description("shuffle")]
         public const string Shuffle = "\uf074";
 
         /// <summary>
@@ -31281,6 +34124,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shutters
         /// </summary>
+        [Description("shutters")]
         public const string Shutters = "\ue449";
 
         /// <summary>
@@ -31292,6 +34136,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shuttle-space
         /// </summary>
+        [Description("shuttle-space")]
         public const string ShuttleSpace = "\uf197";
 
         /// <summary>
@@ -31303,6 +34148,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/shuttlecock
         /// </summary>
+        [Description("shuttlecock")]
         public const string Shuttlecock = "\uf45b";
 
         /// <summary>
@@ -31314,6 +34160,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sickle
         /// </summary>
+        [Description("sickle")]
         public const string Sickle = "\uf822";
 
         /// <summary>
@@ -31325,6 +34172,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sidebar
         /// </summary>
+        [Description("sidebar")]
         public const string Sidebar = "\ue24e";
 
         /// <summary>
@@ -31336,6 +34184,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sidebar-flip
         /// </summary>
+        [Description("sidebar-flip")]
         public const string SidebarFlip = "\ue24f";
 
         /// <summary>
@@ -31347,6 +34196,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sigma
         /// </summary>
+        [Description("sigma")]
         public const string Sigma = "\uf68b";
 
         /// <summary>
@@ -31358,6 +34208,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sign-hanging
         /// </summary>
+        [Description("sign-hanging")]
         public const string SignHanging = "\uf4d9";
 
         /// <summary>
@@ -31369,6 +34220,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signal
         /// </summary>
+        [Description("signal")]
         public const string Signal = "\uf012";
 
         /// <summary>
@@ -31380,6 +34232,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signal-bars
         /// </summary>
+        [Description("signal-bars")]
         public const string SignalBars = "\uf690";
 
         /// <summary>
@@ -31391,6 +34244,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signal-bars-fair
         /// </summary>
+        [Description("signal-bars-fair")]
         public const string SignalBarsFair = "\uf692";
 
         /// <summary>
@@ -31402,6 +34256,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signal-bars-good
         /// </summary>
+        [Description("signal-bars-good")]
         public const string SignalBarsGood = "\uf693";
 
         /// <summary>
@@ -31413,6 +34268,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signal-bars-slash
         /// </summary>
+        [Description("signal-bars-slash")]
         public const string SignalBarsSlash = "\uf694";
 
         /// <summary>
@@ -31424,6 +34280,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signal-bars-weak
         /// </summary>
+        [Description("signal-bars-weak")]
         public const string SignalBarsWeak = "\uf691";
 
         /// <summary>
@@ -31435,6 +34292,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signal-fair
         /// </summary>
+        [Description("signal-fair")]
         public const string SignalFair = "\uf68d";
 
         /// <summary>
@@ -31446,6 +34304,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signal-good
         /// </summary>
+        [Description("signal-good")]
         public const string SignalGood = "\uf68e";
 
         /// <summary>
@@ -31457,6 +34316,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signal-slash
         /// </summary>
+        [Description("signal-slash")]
         public const string SignalSlash = "\uf695";
 
         /// <summary>
@@ -31468,6 +34328,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signal-stream
         /// </summary>
+        [Description("signal-stream")]
         public const string SignalStream = "\uf8dd";
 
         /// <summary>
@@ -31479,6 +34340,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signal-stream-slash
         /// </summary>
+        [Description("signal-stream-slash")]
         public const string SignalStreamSlash = "\ue250";
 
         /// <summary>
@@ -31490,6 +34352,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signal-strong
         /// </summary>
+        [Description("signal-strong")]
         public const string SignalStrong = "\uf68f";
 
         /// <summary>
@@ -31501,6 +34364,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signal-weak
         /// </summary>
+        [Description("signal-weak")]
         public const string SignalWeak = "\uf68c";
 
         /// <summary>
@@ -31512,6 +34376,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signature
         /// </summary>
+        [Description("signature")]
         public const string Signature = "\uf5b7";
 
         /// <summary>
@@ -31523,6 +34388,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signature-lock
         /// </summary>
+        [Description("signature-lock")]
         public const string SignatureLock = "\ue3ca";
 
         /// <summary>
@@ -31534,6 +34400,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signature-slash
         /// </summary>
+        [Description("signature-slash")]
         public const string SignatureSlash = "\ue3cb";
 
         /// <summary>
@@ -31545,6 +34412,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/signs-post
         /// </summary>
+        [Description("signs-post")]
         public const string SignsPost = "\uf277";
 
         /// <summary>
@@ -31556,6 +34424,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sim-card
         /// </summary>
+        [Description("sim-card")]
         public const string SimCard = "\uf7c4";
 
         /// <summary>
@@ -31567,6 +34436,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sim-cards
         /// </summary>
+        [Description("sim-cards")]
         public const string SimCards = "\ue251";
 
         /// <summary>
@@ -31578,6 +34448,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/simplybuilt
         /// </summary>
+        [Description("simplybuilt")]
         public const string Simplybuilt = "\uf215";
 
         /// <summary>
@@ -31589,6 +34460,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sink
         /// </summary>
+        [Description("sink")]
         public const string Sink = "\ue06d";
 
         /// <summary>
@@ -31600,6 +34472,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/siren
         /// </summary>
+        [Description("siren")]
         public const string Siren = "\ue02d";
 
         /// <summary>
@@ -31611,6 +34484,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/siren-on
         /// </summary>
+        [Description("siren-on")]
         public const string SirenOn = "\ue02e";
 
         /// <summary>
@@ -31622,6 +34496,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sistrix
         /// </summary>
+        [Description("sistrix")]
         public const string Sistrix = "\uf3ee";
 
         /// <summary>
@@ -31633,6 +34508,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sitemap
         /// </summary>
+        [Description("sitemap")]
         public const string Sitemap = "\uf0e8";
 
         /// <summary>
@@ -31644,6 +34520,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sith
         /// </summary>
+        [Description("sith")]
         public const string Sith = "\uf512";
 
         /// <summary>
@@ -31655,6 +34532,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sitrox
         /// </summary>
+        [Description("sitrox")]
         public const string Sitrox = "\ue44a";
 
         /// <summary>
@@ -31666,6 +34544,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/skeleton
         /// </summary>
+        [Description("skeleton")]
         public const string Skeleton = "\uf620";
 
         /// <summary>
@@ -31677,6 +34556,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/skeleton-ribs
         /// </summary>
+        [Description("skeleton-ribs")]
         public const string SkeletonRibs = "\ue5cb";
 
         /// <summary>
@@ -31688,6 +34568,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sketch
         /// </summary>
+        [Description("sketch")]
         public const string Sketch = "\uf7c6";
 
         /// <summary>
@@ -31699,6 +34580,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ski-boot
         /// </summary>
+        [Description("ski-boot")]
         public const string SkiBoot = "\ue3cc";
 
         /// <summary>
@@ -31710,6 +34592,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ski-boot-ski
         /// </summary>
+        [Description("ski-boot-ski")]
         public const string SkiBootSki = "\ue3cd";
 
         /// <summary>
@@ -31721,6 +34604,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/skull
         /// </summary>
+        [Description("skull")]
         public const string Skull = "\uf54c";
 
         /// <summary>
@@ -31732,6 +34616,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/skull-cow
         /// </summary>
+        [Description("skull-cow")]
         public const string SkullCow = "\uf8de";
 
         /// <summary>
@@ -31743,6 +34628,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/skull-crossbones
         /// </summary>
+        [Description("skull-crossbones")]
         public const string SkullCrossbones = "\uf714";
 
         /// <summary>
@@ -31754,6 +34640,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/skyatlas
         /// </summary>
+        [Description("skyatlas")]
         public const string Skyatlas = "\uf216";
 
         /// <summary>
@@ -31765,6 +34652,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/skype
         /// </summary>
+        [Description("skype")]
         public const string Skype = "\uf17e";
 
         /// <summary>
@@ -31776,6 +34664,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/slack
         /// </summary>
+        [Description("slack")]
         public const string Slack = "\uf198";
 
         /// <summary>
@@ -31787,6 +34676,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/slash
         /// </summary>
+        [Description("slash")]
         public const string Slash = "\uf715";
 
         /// <summary>
@@ -31798,6 +34688,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/slash-back
         /// </summary>
+        [Description("slash-back")]
         public const string SlashBack = "\u005c";
 
         /// <summary>
@@ -31809,6 +34700,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/slash-forward
         /// </summary>
+        [Description("slash-forward")]
         public const string SlashForward = "\u002f";
 
         /// <summary>
@@ -31820,6 +34712,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sleigh
         /// </summary>
+        [Description("sleigh")]
         public const string Sleigh = "\uf7cc";
 
         /// <summary>
@@ -31831,6 +34724,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/slider
         /// </summary>
+        [Description("slider")]
         public const string Slider = "\ue252";
 
         /// <summary>
@@ -31842,6 +34736,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sliders
         /// </summary>
+        [Description("sliders")]
         public const string Sliders = "\uf1de";
 
         /// <summary>
@@ -31853,6 +34748,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sliders-simple
         /// </summary>
+        [Description("sliders-simple")]
         public const string SlidersSimple = "\ue253";
 
         /// <summary>
@@ -31864,6 +34760,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sliders-up
         /// </summary>
+        [Description("sliders-up")]
         public const string SlidersUp = "\uf3f1";
 
         /// <summary>
@@ -31875,6 +34772,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/slideshare
         /// </summary>
+        [Description("slideshare")]
         public const string Slideshare = "\uf1e7";
 
         /// <summary>
@@ -31886,6 +34784,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/slot-machine
         /// </summary>
+        [Description("slot-machine")]
         public const string SlotMachine = "\ue3ce";
 
         /// <summary>
@@ -31897,6 +34796,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/smog
         /// </summary>
+        [Description("smog")]
         public const string Smog = "\uf75f";
 
         /// <summary>
@@ -31908,6 +34808,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/smoke
         /// </summary>
+        [Description("smoke")]
         public const string Smoke = "\uf760";
 
         /// <summary>
@@ -31919,6 +34820,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/smoking
         /// </summary>
+        [Description("smoking")]
         public const string Smoking = "\uf48d";
 
         /// <summary>
@@ -31930,6 +34832,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/snake
         /// </summary>
+        [Description("snake")]
         public const string Snake = "\uf716";
 
         /// <summary>
@@ -31941,6 +34844,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/snapchat
         /// </summary>
+        [Description("snapchat")]
         public const string Snapchat = "\uf2ab";
 
         /// <summary>
@@ -31952,6 +34856,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/snooze
         /// </summary>
+        [Description("snooze")]
         public const string Snooze = "\uf880";
 
         /// <summary>
@@ -31963,6 +34868,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/snow-blowing
         /// </summary>
+        [Description("snow-blowing")]
         public const string SnowBlowing = "\uf761";
 
         /// <summary>
@@ -31974,6 +34880,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/snowflake
         /// </summary>
+        [Description("snowflake")]
         public const string Snowflake = "\uf2dc";
 
         /// <summary>
@@ -31985,6 +34892,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/snowflake-droplets
         /// </summary>
+        [Description("snowflake-droplets")]
         public const string SnowflakeDroplets = "\ue5c1";
 
         /// <summary>
@@ -31996,6 +34904,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/snowflakes
         /// </summary>
+        [Description("snowflakes")]
         public const string Snowflakes = "\uf7cf";
 
         /// <summary>
@@ -32007,6 +34916,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/snowman
         /// </summary>
+        [Description("snowman")]
         public const string Snowman = "\uf7d0";
 
         /// <summary>
@@ -32018,6 +34928,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/snowman-head
         /// </summary>
+        [Description("snowman-head")]
         public const string SnowmanHead = "\uf79b";
 
         /// <summary>
@@ -32029,6 +34940,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/snowplow
         /// </summary>
+        [Description("snowplow")]
         public const string Snowplow = "\uf7d2";
 
         /// <summary>
@@ -32040,6 +34952,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/soap
         /// </summary>
+        [Description("soap")]
         public const string Soap = "\ue06e";
 
         /// <summary>
@@ -32051,6 +34964,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/socks
         /// </summary>
+        [Description("socks")]
         public const string Socks = "\uf696";
 
         /// <summary>
@@ -32062,6 +34976,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/soft-serve
         /// </summary>
+        [Description("soft-serve")]
         public const string SoftServe = "\ue400";
 
         /// <summary>
@@ -32073,6 +34988,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/solar-panel
         /// </summary>
+        [Description("solar-panel")]
         public const string SolarPanel = "\uf5ba";
 
         /// <summary>
@@ -32084,6 +35000,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/solar-system
         /// </summary>
+        [Description("solar-system")]
         public const string SolarSystem = "\ue02f";
 
         /// <summary>
@@ -32095,6 +35012,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sort
         /// </summary>
+        [Description("sort")]
         public const string Sort = "\uf0dc";
 
         /// <summary>
@@ -32106,6 +35024,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sort-down
         /// </summary>
+        [Description("sort-down")]
         public const string SortDown = "\uf0dd";
 
         /// <summary>
@@ -32117,6 +35036,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sort-up
         /// </summary>
+        [Description("sort-up")]
         public const string SortUp = "\uf0de";
 
         /// <summary>
@@ -32128,6 +35048,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/soundcloud
         /// </summary>
+        [Description("soundcloud")]
         public const string Soundcloud = "\uf1be";
 
         /// <summary>
@@ -32139,6 +35060,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sourcetree
         /// </summary>
+        [Description("sourcetree")]
         public const string Sourcetree = "\uf7d3";
 
         /// <summary>
@@ -32150,6 +35072,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/spa
         /// </summary>
+        [Description("spa")]
         public const string Spa = "\uf5bb";
 
         /// <summary>
@@ -32161,6 +35084,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/space-awesome
         /// </summary>
+        [Description("space-awesome")]
         public const string SpaceAwesome = "\ue5ac";
 
         /// <summary>
@@ -32172,6 +35096,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/space-station-moon
         /// </summary>
+        [Description("space-station-moon")]
         public const string SpaceStationMoon = "\ue033";
 
         /// <summary>
@@ -32183,6 +35108,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/space-station-moon-construction
         /// </summary>
+        [Description("space-station-moon-construction")]
         public const string SpaceStationMoonConstruction = "\ue034";
 
         /// <summary>
@@ -32194,6 +35120,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/spade
         /// </summary>
+        [Description("spade")]
         public const string Spade = "\uf2f4";
 
         /// <summary>
@@ -32205,6 +35132,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/spaghetti-monster-flying
         /// </summary>
+        [Description("spaghetti-monster-flying")]
         public const string SpaghettiMonsterFlying = "\uf67b";
 
         /// <summary>
@@ -32216,6 +35144,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sparkle
         /// </summary>
+        [Description("sparkle")]
         public const string Sparkle = "\ue5d6";
 
         /// <summary>
@@ -32227,6 +35156,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sparkles
         /// </summary>
+        [Description("sparkles")]
         public const string Sparkles = "\uf890";
 
         /// <summary>
@@ -32238,6 +35168,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/speakap
         /// </summary>
+        [Description("speakap")]
         public const string Speakap = "\uf3f3";
 
         /// <summary>
@@ -32249,6 +35180,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/speaker
         /// </summary>
+        [Description("speaker")]
         public const string Speaker = "\uf8df";
 
         /// <summary>
@@ -32260,6 +35192,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/speaker-deck
         /// </summary>
+        [Description("speaker-deck")]
         public const string SpeakerDeck = "\uf83c";
 
         /// <summary>
@@ -32271,6 +35204,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/speakers
         /// </summary>
+        [Description("speakers")]
         public const string Speakers = "\uf8e0";
 
         /// <summary>
@@ -32282,6 +35216,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/spell-check
         /// </summary>
+        [Description("spell-check")]
         public const string SpellCheck = "\uf891";
 
         /// <summary>
@@ -32293,6 +35228,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/spider
         /// </summary>
+        [Description("spider")]
         public const string Spider = "\uf717";
 
         /// <summary>
@@ -32304,6 +35240,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/spider-black-widow
         /// </summary>
+        [Description("spider-black-widow")]
         public const string SpiderBlackWidow = "\uf718";
 
         /// <summary>
@@ -32315,6 +35252,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/spider-web
         /// </summary>
+        [Description("spider-web")]
         public const string SpiderWeb = "\uf719";
 
         /// <summary>
@@ -32326,6 +35264,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/spinner
         /// </summary>
+        [Description("spinner")]
         public const string Spinner = "\uf110";
 
         /// <summary>
@@ -32337,6 +35276,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/spinner-third
         /// </summary>
+        [Description("spinner-third")]
         public const string SpinnerThird = "\uf3f4";
 
         /// <summary>
@@ -32348,6 +35288,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/split
         /// </summary>
+        [Description("split")]
         public const string Split = "\ue254";
 
         /// <summary>
@@ -32359,6 +35300,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/splotch
         /// </summary>
+        [Description("splotch")]
         public const string Splotch = "\uf5bc";
 
         /// <summary>
@@ -32370,6 +35312,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/spoon
         /// </summary>
+        [Description("spoon")]
         public const string Spoon = "\uf2e5";
 
         /// <summary>
@@ -32381,6 +35324,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sportsball
         /// </summary>
+        [Description("sportsball")]
         public const string Sportsball = "\ue44b";
 
         /// <summary>
@@ -32392,6 +35336,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/spotify
         /// </summary>
+        [Description("spotify")]
         public const string Spotify = "\uf1bc";
 
         /// <summary>
@@ -32403,6 +35348,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/spray-can
         /// </summary>
+        [Description("spray-can")]
         public const string SprayCan = "\uf5bd";
 
         /// <summary>
@@ -32414,6 +35360,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/spray-can-sparkles
         /// </summary>
+        [Description("spray-can-sparkles")]
         public const string SprayCanSparkles = "\uf5d0";
 
         /// <summary>
@@ -32425,6 +35372,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sprinkler
         /// </summary>
+        [Description("sprinkler")]
         public const string Sprinkler = "\ue035";
 
         /// <summary>
@@ -32436,6 +35384,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sprinkler-ceiling
         /// </summary>
+        [Description("sprinkler-ceiling")]
         public const string SprinklerCeiling = "\ue44c";
 
         /// <summary>
@@ -32447,6 +35396,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square
         /// </summary>
+        [Description("square")]
         public const string Square = "\uf0c8";
 
         /// <summary>
@@ -32458,6 +35408,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-0
         /// </summary>
+        [Description("square-0")]
         public const string Square0 = "\ue255";
 
         /// <summary>
@@ -32469,6 +35420,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-1
         /// </summary>
+        [Description("square-1")]
         public const string Square1 = "\ue256";
 
         /// <summary>
@@ -32480,6 +35432,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-2
         /// </summary>
+        [Description("square-2")]
         public const string Square2 = "\ue257";
 
         /// <summary>
@@ -32491,6 +35444,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-3
         /// </summary>
+        [Description("square-3")]
         public const string Square3 = "\ue258";
 
         /// <summary>
@@ -32502,6 +35456,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-4
         /// </summary>
+        [Description("square-4")]
         public const string Square4 = "\ue259";
 
         /// <summary>
@@ -32513,6 +35468,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-5
         /// </summary>
+        [Description("square-5")]
         public const string Square5 = "\ue25a";
 
         /// <summary>
@@ -32524,6 +35480,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-6
         /// </summary>
+        [Description("square-6")]
         public const string Square6 = "\ue25b";
 
         /// <summary>
@@ -32535,6 +35492,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-7
         /// </summary>
+        [Description("square-7")]
         public const string Square7 = "\ue25c";
 
         /// <summary>
@@ -32546,6 +35504,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-8
         /// </summary>
+        [Description("square-8")]
         public const string Square8 = "\ue25d";
 
         /// <summary>
@@ -32557,6 +35516,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-9
         /// </summary>
+        [Description("square-9")]
         public const string Square9 = "\ue25e";
 
         /// <summary>
@@ -32568,6 +35528,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-a
         /// </summary>
+        [Description("square-a")]
         public const string SquareA = "\ue25f";
 
         /// <summary>
@@ -32579,6 +35540,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-a-lock
         /// </summary>
+        [Description("square-a-lock")]
         public const string SquareALock = "\ue44d";
 
         /// <summary>
@@ -32590,6 +35552,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-ampersand
         /// </summary>
+        [Description("square-ampersand")]
         public const string SquareAmpersand = "\ue260";
 
         /// <summary>
@@ -32601,6 +35564,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-arrow-down
         /// </summary>
+        [Description("square-arrow-down")]
         public const string SquareArrowDown = "\uf339";
 
         /// <summary>
@@ -32612,6 +35576,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-arrow-down-left
         /// </summary>
+        [Description("square-arrow-down-left")]
         public const string SquareArrowDownLeft = "\ue261";
 
         /// <summary>
@@ -32623,6 +35588,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-arrow-down-right
         /// </summary>
+        [Description("square-arrow-down-right")]
         public const string SquareArrowDownRight = "\ue262";
 
         /// <summary>
@@ -32634,6 +35600,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-arrow-left
         /// </summary>
+        [Description("square-arrow-left")]
         public const string SquareArrowLeft = "\uf33a";
 
         /// <summary>
@@ -32645,6 +35612,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-arrow-right
         /// </summary>
+        [Description("square-arrow-right")]
         public const string SquareArrowRight = "\uf33b";
 
         /// <summary>
@@ -32656,6 +35624,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-arrow-up
         /// </summary>
+        [Description("square-arrow-up")]
         public const string SquareArrowUp = "\uf33c";
 
         /// <summary>
@@ -32667,6 +35636,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-arrow-up-left
         /// </summary>
+        [Description("square-arrow-up-left")]
         public const string SquareArrowUpLeft = "\ue263";
 
         /// <summary>
@@ -32678,6 +35648,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-arrow-up-right
         /// </summary>
+        [Description("square-arrow-up-right")]
         public const string SquareArrowUpRight = "\uf14c";
 
         /// <summary>
@@ -32689,6 +35660,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-b
         /// </summary>
+        [Description("square-b")]
         public const string SquareB = "\ue264";
 
         /// <summary>
@@ -32700,6 +35672,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-behance
         /// </summary>
+        [Description("square-behance")]
         public const string SquareBehance = "\uf1b5";
 
         /// <summary>
@@ -32711,6 +35684,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-bolt
         /// </summary>
+        [Description("square-bolt")]
         public const string SquareBolt = "\ue265";
 
         /// <summary>
@@ -32722,6 +35696,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-c
         /// </summary>
+        [Description("square-c")]
         public const string SquareC = "\ue266";
 
         /// <summary>
@@ -32733,6 +35708,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-caret-down
         /// </summary>
+        [Description("square-caret-down")]
         public const string SquareCaretDown = "\uf150";
 
         /// <summary>
@@ -32744,6 +35720,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-caret-left
         /// </summary>
+        [Description("square-caret-left")]
         public const string SquareCaretLeft = "\uf191";
 
         /// <summary>
@@ -32755,6 +35732,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-caret-right
         /// </summary>
+        [Description("square-caret-right")]
         public const string SquareCaretRight = "\uf152";
 
         /// <summary>
@@ -32766,6 +35744,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-caret-up
         /// </summary>
+        [Description("square-caret-up")]
         public const string SquareCaretUp = "\uf151";
 
         /// <summary>
@@ -32777,6 +35756,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-check
         /// </summary>
+        [Description("square-check")]
         public const string SquareCheck = "\uf14a";
 
         /// <summary>
@@ -32788,6 +35768,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-chevron-down
         /// </summary>
+        [Description("square-chevron-down")]
         public const string SquareChevronDown = "\uf329";
 
         /// <summary>
@@ -32799,6 +35780,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-chevron-left
         /// </summary>
+        [Description("square-chevron-left")]
         public const string SquareChevronLeft = "\uf32a";
 
         /// <summary>
@@ -32810,6 +35792,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-chevron-right
         /// </summary>
+        [Description("square-chevron-right")]
         public const string SquareChevronRight = "\uf32b";
 
         /// <summary>
@@ -32821,6 +35804,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-chevron-up
         /// </summary>
+        [Description("square-chevron-up")]
         public const string SquareChevronUp = "\uf32c";
 
         /// <summary>
@@ -32832,6 +35816,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-code
         /// </summary>
+        [Description("square-code")]
         public const string SquareCode = "\ue267";
 
         /// <summary>
@@ -32843,6 +35828,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-d
         /// </summary>
+        [Description("square-d")]
         public const string SquareD = "\ue268";
 
         /// <summary>
@@ -32854,6 +35840,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-dashed
         /// </summary>
+        [Description("square-dashed")]
         public const string SquareDashed = "\ue269";
 
         /// <summary>
@@ -32865,6 +35852,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-dashed-circle-plus
         /// </summary>
+        [Description("square-dashed-circle-plus")]
         public const string SquareDashedCirclePlus = "\ue5c2";
 
         /// <summary>
@@ -32876,6 +35864,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-divide
         /// </summary>
+        [Description("square-divide")]
         public const string SquareDivide = "\ue26a";
 
         /// <summary>
@@ -32887,6 +35876,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-dollar
         /// </summary>
+        [Description("square-dollar")]
         public const string SquareDollar = "\uf2e9";
 
         /// <summary>
@@ -32898,6 +35888,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-down
         /// </summary>
+        [Description("square-down")]
         public const string SquareDown = "\uf350";
 
         /// <summary>
@@ -32909,6 +35900,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-down-left
         /// </summary>
+        [Description("square-down-left")]
         public const string SquareDownLeft = "\ue26b";
 
         /// <summary>
@@ -32920,6 +35912,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-down-right
         /// </summary>
+        [Description("square-down-right")]
         public const string SquareDownRight = "\ue26c";
 
         /// <summary>
@@ -32931,6 +35924,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-dribbble
         /// </summary>
+        [Description("square-dribbble")]
         public const string SquareDribbble = "\uf397";
 
         /// <summary>
@@ -32942,6 +35936,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-e
         /// </summary>
+        [Description("square-e")]
         public const string SquareE = "\ue26d";
 
         /// <summary>
@@ -32953,6 +35948,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-ellipsis
         /// </summary>
+        [Description("square-ellipsis")]
         public const string SquareEllipsis = "\ue26e";
 
         /// <summary>
@@ -32964,6 +35960,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-ellipsis-vertical
         /// </summary>
+        [Description("square-ellipsis-vertical")]
         public const string SquareEllipsisVertical = "\ue26f";
 
         /// <summary>
@@ -32975,6 +35972,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-envelope
         /// </summary>
+        [Description("square-envelope")]
         public const string SquareEnvelope = "\uf199";
 
         /// <summary>
@@ -32986,6 +35984,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-exclamation
         /// </summary>
+        [Description("square-exclamation")]
         public const string SquareExclamation = "\uf321";
 
         /// <summary>
@@ -32997,6 +35996,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-f
         /// </summary>
+        [Description("square-f")]
         public const string SquareF = "\ue270";
 
         /// <summary>
@@ -33008,6 +36008,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-facebook
         /// </summary>
+        [Description("square-facebook")]
         public const string SquareFacebook = "\uf082";
 
         /// <summary>
@@ -33019,6 +36020,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-font-awesome
         /// </summary>
+        [Description("square-font-awesome")]
         public const string SquareFontAwesome = "\ue5ad";
 
         /// <summary>
@@ -33030,6 +36032,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-font-awesome-stroke
         /// </summary>
+        [Description("square-font-awesome-stroke")]
         public const string SquareFontAwesomeStroke = "\uf35c";
 
         /// <summary>
@@ -33041,6 +36044,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-fragile
         /// </summary>
+        [Description("square-fragile")]
         public const string SquareFragile = "\uf49b";
 
         /// <summary>
@@ -33052,6 +36056,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-full
         /// </summary>
+        [Description("square-full")]
         public const string SquareFull = "\uf45c";
 
         /// <summary>
@@ -33063,6 +36068,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-g
         /// </summary>
+        [Description("square-g")]
         public const string SquareG = "\ue271";
 
         /// <summary>
@@ -33074,6 +36080,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-git
         /// </summary>
+        [Description("square-git")]
         public const string SquareGit = "\uf1d2";
 
         /// <summary>
@@ -33085,6 +36092,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-github
         /// </summary>
+        [Description("square-github")]
         public const string SquareGithub = "\uf092";
 
         /// <summary>
@@ -33096,6 +36104,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-gitlab
         /// </summary>
+        [Description("square-gitlab")]
         public const string SquareGitlab = "\ue5ae";
 
         /// <summary>
@@ -33107,6 +36116,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-google-plus
         /// </summary>
+        [Description("square-google-plus")]
         public const string SquareGooglePlus = "\uf0d4";
 
         /// <summary>
@@ -33118,6 +36128,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-h
         /// </summary>
+        [Description("square-h")]
         public const string SquareH = "\uf0fd";
 
         /// <summary>
@@ -33129,6 +36140,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-hacker-news
         /// </summary>
+        [Description("square-hacker-news")]
         public const string SquareHackerNews = "\uf3af";
 
         /// <summary>
@@ -33140,6 +36152,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-heart
         /// </summary>
+        [Description("square-heart")]
         public const string SquareHeart = "\uf4c8";
 
         /// <summary>
@@ -33151,6 +36164,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-i
         /// </summary>
+        [Description("square-i")]
         public const string SquareI = "\ue272";
 
         /// <summary>
@@ -33162,6 +36176,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-info
         /// </summary>
+        [Description("square-info")]
         public const string SquareInfo = "\uf30f";
 
         /// <summary>
@@ -33173,6 +36188,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-instagram
         /// </summary>
+        [Description("square-instagram")]
         public const string SquareInstagram = "\ue055";
 
         /// <summary>
@@ -33184,6 +36200,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-j
         /// </summary>
+        [Description("square-j")]
         public const string SquareJ = "\ue273";
 
         /// <summary>
@@ -33195,6 +36212,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-js
         /// </summary>
+        [Description("square-js")]
         public const string SquareJs = "\uf3b9";
 
         /// <summary>
@@ -33206,6 +36224,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-k
         /// </summary>
+        [Description("square-k")]
         public const string SquareK = "\ue274";
 
         /// <summary>
@@ -33217,6 +36236,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-kanban
         /// </summary>
+        [Description("square-kanban")]
         public const string SquareKanban = "\ue488";
 
         /// <summary>
@@ -33228,6 +36248,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-l
         /// </summary>
+        [Description("square-l")]
         public const string SquareL = "\ue275";
 
         /// <summary>
@@ -33239,6 +36260,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-lastfm
         /// </summary>
+        [Description("square-lastfm")]
         public const string SquareLastfm = "\uf203";
 
         /// <summary>
@@ -33250,6 +36272,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-left
         /// </summary>
+        [Description("square-left")]
         public const string SquareLeft = "\uf351";
 
         /// <summary>
@@ -33261,6 +36284,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-list
         /// </summary>
+        [Description("square-list")]
         public const string SquareList = "\ue489";
 
         /// <summary>
@@ -33272,6 +36296,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-m
         /// </summary>
+        [Description("square-m")]
         public const string SquareM = "\ue276";
 
         /// <summary>
@@ -33283,6 +36308,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-minus
         /// </summary>
+        [Description("square-minus")]
         public const string SquareMinus = "\uf146";
 
         /// <summary>
@@ -33294,6 +36320,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-n
         /// </summary>
+        [Description("square-n")]
         public const string SquareN = "\ue277";
 
         /// <summary>
@@ -33305,6 +36332,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-nfi
         /// </summary>
+        [Description("square-nfi")]
         public const string SquareNfi = "\ue576";
 
         /// <summary>
@@ -33316,6 +36344,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-o
         /// </summary>
+        [Description("square-o")]
         public const string SquareO = "\ue278";
 
         /// <summary>
@@ -33327,6 +36356,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-odnoklassniki
         /// </summary>
+        [Description("square-odnoklassniki")]
         public const string SquareOdnoklassniki = "\uf264";
 
         /// <summary>
@@ -33338,6 +36368,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-p
         /// </summary>
+        [Description("square-p")]
         public const string SquareP = "\ue279";
 
         /// <summary>
@@ -33349,6 +36380,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-parking
         /// </summary>
+        [Description("square-parking")]
         public const string SquareParking = "\uf540";
 
         /// <summary>
@@ -33360,6 +36392,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-parking-slash
         /// </summary>
+        [Description("square-parking-slash")]
         public const string SquareParkingSlash = "\uf617";
 
         /// <summary>
@@ -33371,6 +36404,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-pen
         /// </summary>
+        [Description("square-pen")]
         public const string SquarePen = "\uf14b";
 
         /// <summary>
@@ -33382,6 +36416,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-person-confined
         /// </summary>
+        [Description("square-person-confined")]
         public const string SquarePersonConfined = "\ue577";
 
         /// <summary>
@@ -33393,6 +36428,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-phone
         /// </summary>
+        [Description("square-phone")]
         public const string SquarePhone = "\uf098";
 
         /// <summary>
@@ -33404,6 +36440,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-phone-flip
         /// </summary>
+        [Description("square-phone-flip")]
         public const string SquarePhoneFlip = "\uf87b";
 
         /// <summary>
@@ -33415,6 +36452,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-phone-hangup
         /// </summary>
+        [Description("square-phone-hangup")]
         public const string SquarePhoneHangup = "\ue27a";
 
         /// <summary>
@@ -33426,6 +36464,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-pied-piper
         /// </summary>
+        [Description("square-pied-piper")]
         public const string SquarePiedPiper = "\ue01e";
 
         /// <summary>
@@ -33437,6 +36476,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-pinterest
         /// </summary>
+        [Description("square-pinterest")]
         public const string SquarePinterest = "\uf0d3";
 
         /// <summary>
@@ -33448,6 +36488,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-plus
         /// </summary>
+        [Description("square-plus")]
         public const string SquarePlus = "\uf0fe";
 
         /// <summary>
@@ -33459,6 +36500,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-poll-horizontal
         /// </summary>
+        [Description("square-poll-horizontal")]
         public const string SquarePollHorizontal = "\uf682";
 
         /// <summary>
@@ -33470,6 +36512,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-poll-vertical
         /// </summary>
+        [Description("square-poll-vertical")]
         public const string SquarePollVertical = "\uf681";
 
         /// <summary>
@@ -33481,6 +36524,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-q
         /// </summary>
+        [Description("square-q")]
         public const string SquareQ = "\ue27b";
 
         /// <summary>
@@ -33492,6 +36536,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-quarters
         /// </summary>
+        [Description("square-quarters")]
         public const string SquareQuarters = "\ue44e";
 
         /// <summary>
@@ -33503,6 +36548,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-question
         /// </summary>
+        [Description("square-question")]
         public const string SquareQuestion = "\uf2fd";
 
         /// <summary>
@@ -33514,6 +36560,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-quote
         /// </summary>
+        [Description("square-quote")]
         public const string SquareQuote = "\ue329";
 
         /// <summary>
@@ -33525,6 +36572,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-r
         /// </summary>
+        [Description("square-r")]
         public const string SquareR = "\ue27c";
 
         /// <summary>
@@ -33536,6 +36584,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-reddit
         /// </summary>
+        [Description("square-reddit")]
         public const string SquareReddit = "\uf1a2";
 
         /// <summary>
@@ -33547,6 +36596,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-right
         /// </summary>
+        [Description("square-right")]
         public const string SquareRight = "\uf352";
 
         /// <summary>
@@ -33558,6 +36608,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-ring
         /// </summary>
+        [Description("square-ring")]
         public const string SquareRing = "\ue44f";
 
         /// <summary>
@@ -33569,6 +36620,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-root
         /// </summary>
+        [Description("square-root")]
         public const string SquareRoot = "\uf697";
 
         /// <summary>
@@ -33580,6 +36632,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-root-variable
         /// </summary>
+        [Description("square-root-variable")]
         public const string SquareRootVariable = "\uf698";
 
         /// <summary>
@@ -33591,6 +36644,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-rss
         /// </summary>
+        [Description("square-rss")]
         public const string SquareRss = "\uf143";
 
         /// <summary>
@@ -33602,6 +36656,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-s
         /// </summary>
+        [Description("square-s")]
         public const string SquareS = "\ue27d";
 
         /// <summary>
@@ -33613,6 +36668,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-share-nodes
         /// </summary>
+        [Description("square-share-nodes")]
         public const string SquareShareNodes = "\uf1e1";
 
         /// <summary>
@@ -33624,6 +36680,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-sliders
         /// </summary>
+        [Description("square-sliders")]
         public const string SquareSliders = "\uf3f0";
 
         /// <summary>
@@ -33635,6 +36692,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-sliders-vertical
         /// </summary>
+        [Description("square-sliders-vertical")]
         public const string SquareSlidersVertical = "\uf3f2";
 
         /// <summary>
@@ -33646,6 +36704,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-small
         /// </summary>
+        [Description("square-small")]
         public const string SquareSmall = "\ue27e";
 
         /// <summary>
@@ -33657,6 +36716,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-snapchat
         /// </summary>
+        [Description("square-snapchat")]
         public const string SquareSnapchat = "\uf2ad";
 
         /// <summary>
@@ -33668,6 +36728,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-star
         /// </summary>
+        [Description("square-star")]
         public const string SquareStar = "\ue27f";
 
         /// <summary>
@@ -33679,6 +36740,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-steam
         /// </summary>
+        [Description("square-steam")]
         public const string SquareSteam = "\uf1b7";
 
         /// <summary>
@@ -33690,6 +36752,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-t
         /// </summary>
+        [Description("square-t")]
         public const string SquareT = "\ue280";
 
         /// <summary>
@@ -33701,6 +36764,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-terminal
         /// </summary>
+        [Description("square-terminal")]
         public const string SquareTerminal = "\ue32a";
 
         /// <summary>
@@ -33712,6 +36776,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-this-way-up
         /// </summary>
+        [Description("square-this-way-up")]
         public const string SquareThisWayUp = "\uf49f";
 
         /// <summary>
@@ -33723,6 +36788,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-tumblr
         /// </summary>
+        [Description("square-tumblr")]
         public const string SquareTumblr = "\uf174";
 
         /// <summary>
@@ -33734,6 +36800,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-twitter
         /// </summary>
+        [Description("square-twitter")]
         public const string SquareTwitter = "\uf081";
 
         /// <summary>
@@ -33745,6 +36812,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-u
         /// </summary>
+        [Description("square-u")]
         public const string SquareU = "\ue281";
 
         /// <summary>
@@ -33756,6 +36824,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-up
         /// </summary>
+        [Description("square-up")]
         public const string SquareUp = "\uf353";
 
         /// <summary>
@@ -33767,6 +36836,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-up-left
         /// </summary>
+        [Description("square-up-left")]
         public const string SquareUpLeft = "\ue282";
 
         /// <summary>
@@ -33778,6 +36848,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-up-right
         /// </summary>
+        [Description("square-up-right")]
         public const string SquareUpRight = "\uf360";
 
         /// <summary>
@@ -33789,6 +36860,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-user
         /// </summary>
+        [Description("square-user")]
         public const string SquareUser = "\ue283";
 
         /// <summary>
@@ -33800,6 +36872,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-v
         /// </summary>
+        [Description("square-v")]
         public const string SquareV = "\ue284";
 
         /// <summary>
@@ -33811,6 +36884,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-viadeo
         /// </summary>
+        [Description("square-viadeo")]
         public const string SquareViadeo = "\uf2aa";
 
         /// <summary>
@@ -33822,6 +36896,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-vimeo
         /// </summary>
+        [Description("square-vimeo")]
         public const string SquareVimeo = "\uf194";
 
         /// <summary>
@@ -33833,6 +36908,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-virus
         /// </summary>
+        [Description("square-virus")]
         public const string SquareVirus = "\ue578";
 
         /// <summary>
@@ -33844,6 +36920,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-w
         /// </summary>
+        [Description("square-w")]
         public const string SquareW = "\ue285";
 
         /// <summary>
@@ -33855,6 +36932,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-whatsapp
         /// </summary>
+        [Description("square-whatsapp")]
         public const string SquareWhatsapp = "\uf40c";
 
         /// <summary>
@@ -33866,6 +36944,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-x
         /// </summary>
+        [Description("square-x")]
         public const string SquareX = "\ue286";
 
         /// <summary>
@@ -33877,6 +36956,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-xing
         /// </summary>
+        [Description("square-xing")]
         public const string SquareXing = "\uf169";
 
         /// <summary>
@@ -33888,6 +36968,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-xmark
         /// </summary>
+        [Description("square-xmark")]
         public const string SquareXmark = "\uf2d3";
 
         /// <summary>
@@ -33899,6 +36980,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-y
         /// </summary>
+        [Description("square-y")]
         public const string SquareY = "\ue287";
 
         /// <summary>
@@ -33910,6 +36992,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-youtube
         /// </summary>
+        [Description("square-youtube")]
         public const string SquareYoutube = "\uf431";
 
         /// <summary>
@@ -33921,6 +37004,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/square-z
         /// </summary>
+        [Description("square-z")]
         public const string SquareZ = "\ue288";
 
         /// <summary>
@@ -33932,6 +37016,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/squarespace
         /// </summary>
+        [Description("squarespace")]
         public const string Squarespace = "\uf5be";
 
         /// <summary>
@@ -33943,6 +37028,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/squid
         /// </summary>
+        [Description("squid")]
         public const string Squid = "\ue450";
 
         /// <summary>
@@ -33954,6 +37040,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/squirrel
         /// </summary>
+        [Description("squirrel")]
         public const string Squirrel = "\uf71a";
 
         /// <summary>
@@ -33965,6 +37052,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stack-exchange
         /// </summary>
+        [Description("stack-exchange")]
         public const string StackExchange = "\uf18d";
 
         /// <summary>
@@ -33976,6 +37064,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stack-overflow
         /// </summary>
+        [Description("stack-overflow")]
         public const string StackOverflow = "\uf16c";
 
         /// <summary>
@@ -33987,6 +37076,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stackpath
         /// </summary>
+        [Description("stackpath")]
         public const string Stackpath = "\uf842";
 
         /// <summary>
@@ -33998,6 +37088,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/staff
         /// </summary>
+        [Description("staff")]
         public const string Staff = "\uf71b";
 
         /// <summary>
@@ -34009,6 +37100,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/staff-snake
         /// </summary>
+        [Description("staff-snake")]
         public const string StaffSnake = "\ue579";
 
         /// <summary>
@@ -34020,6 +37112,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stairs
         /// </summary>
+        [Description("stairs")]
         public const string Stairs = "\ue289";
 
         /// <summary>
@@ -34031,6 +37124,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stamp
         /// </summary>
+        [Description("stamp")]
         public const string Stamp = "\uf5bf";
 
         /// <summary>
@@ -34042,6 +37136,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/standard-definition
         /// </summary>
+        [Description("standard-definition")]
         public const string StandardDefinition = "\ue28a";
 
         /// <summary>
@@ -34053,6 +37148,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stapler
         /// </summary>
+        [Description("stapler")]
         public const string Stapler = "\ue5af";
 
         /// <summary>
@@ -34064,6 +37160,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/star
         /// </summary>
+        [Description("star")]
         public const string Star = "\uf005";
 
         /// <summary>
@@ -34075,6 +37172,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/star-and-crescent
         /// </summary>
+        [Description("star-and-crescent")]
         public const string StarAndCrescent = "\uf699";
 
         /// <summary>
@@ -34086,6 +37184,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/star-christmas
         /// </summary>
+        [Description("star-christmas")]
         public const string StarChristmas = "\uf7d4";
 
         /// <summary>
@@ -34097,6 +37196,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/star-exclamation
         /// </summary>
+        [Description("star-exclamation")]
         public const string StarExclamation = "\uf2f3";
 
         /// <summary>
@@ -34108,6 +37208,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/star-half
         /// </summary>
+        [Description("star-half")]
         public const string StarHalf = "\uf089";
 
         /// <summary>
@@ -34119,6 +37220,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/star-half-stroke
         /// </summary>
+        [Description("star-half-stroke")]
         public const string StarHalfStroke = "\uf5c0";
 
         /// <summary>
@@ -34130,6 +37232,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/star-of-david
         /// </summary>
+        [Description("star-of-david")]
         public const string StarOfDavid = "\uf69a";
 
         /// <summary>
@@ -34141,6 +37244,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/star-of-life
         /// </summary>
+        [Description("star-of-life")]
         public const string StarOfLife = "\uf621";
 
         /// <summary>
@@ -34152,6 +37256,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/star-sharp
         /// </summary>
+        [Description("star-sharp")]
         public const string StarSharp = "\ue28b";
 
         /// <summary>
@@ -34163,6 +37268,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/star-sharp-half
         /// </summary>
+        [Description("star-sharp-half")]
         public const string StarSharpHalf = "\ue28c";
 
         /// <summary>
@@ -34174,6 +37280,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/star-sharp-half-stroke
         /// </summary>
+        [Description("star-sharp-half-stroke")]
         public const string StarSharpHalfStroke = "\ue28d";
 
         /// <summary>
@@ -34185,6 +37292,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/star-shooting
         /// </summary>
+        [Description("star-shooting")]
         public const string StarShooting = "\ue036";
 
         /// <summary>
@@ -34196,6 +37304,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/starfighter
         /// </summary>
+        [Description("starfighter")]
         public const string Starfighter = "\ue037";
 
         /// <summary>
@@ -34207,6 +37316,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/starfighter-twin-ion-engine
         /// </summary>
+        [Description("starfighter-twin-ion-engine")]
         public const string StarfighterTwinIonEngine = "\ue038";
 
         /// <summary>
@@ -34218,6 +37328,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/starfighter-twin-ion-engine-advanced
         /// </summary>
+        [Description("starfighter-twin-ion-engine-advanced")]
         public const string StarfighterTwinIonEngineAdvanced = "\ue28e";
 
         /// <summary>
@@ -34229,6 +37340,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stars
         /// </summary>
+        [Description("stars")]
         public const string Stars = "\uf762";
 
         /// <summary>
@@ -34240,6 +37352,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/starship
         /// </summary>
+        [Description("starship")]
         public const string Starship = "\ue039";
 
         /// <summary>
@@ -34251,6 +37364,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/starship-freighter
         /// </summary>
+        [Description("starship-freighter")]
         public const string StarshipFreighter = "\ue03a";
 
         /// <summary>
@@ -34262,6 +37376,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/staylinked
         /// </summary>
+        [Description("staylinked")]
         public const string Staylinked = "\uf3f5";
 
         /// <summary>
@@ -34273,6 +37388,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/steak
         /// </summary>
+        [Description("steak")]
         public const string Steak = "\uf824";
 
         /// <summary>
@@ -34284,6 +37400,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/steam
         /// </summary>
+        [Description("steam")]
         public const string Steam = "\uf1b6";
 
         /// <summary>
@@ -34295,6 +37412,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/steam-symbol
         /// </summary>
+        [Description("steam-symbol")]
         public const string SteamSymbol = "\uf3f6";
 
         /// <summary>
@@ -34306,6 +37424,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/steering-wheel
         /// </summary>
+        [Description("steering-wheel")]
         public const string SteeringWheel = "\uf622";
 
         /// <summary>
@@ -34317,6 +37436,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sterling-sign
         /// </summary>
+        [Description("sterling-sign")]
         public const string SterlingSign = "\uf154";
 
         /// <summary>
@@ -34328,6 +37448,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stethoscope
         /// </summary>
+        [Description("stethoscope")]
         public const string Stethoscope = "\uf0f1";
 
         /// <summary>
@@ -34339,6 +37460,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sticker-mule
         /// </summary>
+        [Description("sticker-mule")]
         public const string StickerMule = "\uf3f7";
 
         /// <summary>
@@ -34350,6 +37472,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stocking
         /// </summary>
+        [Description("stocking")]
         public const string Stocking = "\uf7d5";
 
         /// <summary>
@@ -34361,6 +37484,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stomach
         /// </summary>
+        [Description("stomach")]
         public const string Stomach = "\uf623";
 
         /// <summary>
@@ -34372,6 +37496,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stop
         /// </summary>
+        [Description("stop")]
         public const string Stop = "\uf04d";
 
         /// <summary>
@@ -34383,6 +37508,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stopwatch
         /// </summary>
+        [Description("stopwatch")]
         public const string Stopwatch = "\uf2f2";
 
         /// <summary>
@@ -34394,6 +37520,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stopwatch-20
         /// </summary>
+        [Description("stopwatch-20")]
         public const string Stopwatch20 = "\ue06f";
 
         /// <summary>
@@ -34405,6 +37532,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/store
         /// </summary>
+        [Description("store")]
         public const string Store = "\uf54e";
 
         /// <summary>
@@ -34416,6 +37544,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/store-lock
         /// </summary>
+        [Description("store-lock")]
         public const string StoreLock = "\ue4a6";
 
         /// <summary>
@@ -34427,6 +37556,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/store-slash
         /// </summary>
+        [Description("store-slash")]
         public const string StoreSlash = "\ue071";
 
         /// <summary>
@@ -34438,6 +37568,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/strava
         /// </summary>
+        [Description("strava")]
         public const string Strava = "\uf428";
 
         /// <summary>
@@ -34449,6 +37580,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/strawberry
         /// </summary>
+        [Description("strawberry")]
         public const string Strawberry = "\ue32b";
 
         /// <summary>
@@ -34460,6 +37592,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/street-view
         /// </summary>
+        [Description("street-view")]
         public const string StreetView = "\uf21d";
 
         /// <summary>
@@ -34471,6 +37604,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stretcher
         /// </summary>
+        [Description("stretcher")]
         public const string Stretcher = "\uf825";
 
         /// <summary>
@@ -34482,6 +37616,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/strikethrough
         /// </summary>
+        [Description("strikethrough")]
         public const string Strikethrough = "\uf0cc";
 
         /// <summary>
@@ -34493,6 +37628,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stripe
         /// </summary>
+        [Description("stripe")]
         public const string Stripe = "\uf429";
 
         /// <summary>
@@ -34504,6 +37640,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stripe-s
         /// </summary>
+        [Description("stripe-s")]
         public const string StripeS = "\uf42a";
 
         /// <summary>
@@ -34515,6 +37652,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stroopwafel
         /// </summary>
+        [Description("stroopwafel")]
         public const string Stroopwafel = "\uf551";
 
         /// <summary>
@@ -34526,6 +37664,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stubber
         /// </summary>
+        [Description("stubber")]
         public const string Stubber = "\ue5c7";
 
         /// <summary>
@@ -34537,6 +37676,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/studiovinari
         /// </summary>
+        [Description("studiovinari")]
         public const string Studiovinari = "\uf3f8";
 
         /// <summary>
@@ -34548,6 +37688,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stumbleupon
         /// </summary>
+        [Description("stumbleupon")]
         public const string Stumbleupon = "\uf1a4";
 
         /// <summary>
@@ -34559,6 +37700,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/stumbleupon-circle
         /// </summary>
+        [Description("stumbleupon-circle")]
         public const string StumbleuponCircle = "\uf1a3";
 
         /// <summary>
@@ -34570,6 +37712,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/subscript
         /// </summary>
+        [Description("subscript")]
         public const string Subscript = "\uf12c";
 
         /// <summary>
@@ -34581,6 +37724,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/suitcase
         /// </summary>
+        [Description("suitcase")]
         public const string Suitcase = "\uf0f2";
 
         /// <summary>
@@ -34592,6 +37736,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/suitcase-medical
         /// </summary>
+        [Description("suitcase-medical")]
         public const string SuitcaseMedical = "\uf0fa";
 
         /// <summary>
@@ -34603,6 +37748,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/suitcase-rolling
         /// </summary>
+        [Description("suitcase-rolling")]
         public const string SuitcaseRolling = "\uf5c1";
 
         /// <summary>
@@ -34614,6 +37760,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sun
         /// </summary>
+        [Description("sun")]
         public const string Sun = "\uf185";
 
         /// <summary>
@@ -34625,6 +37772,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sun-bright
         /// </summary>
+        [Description("sun-bright")]
         public const string SunBright = "\ue28f";
 
         /// <summary>
@@ -34636,6 +37784,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sun-cloud
         /// </summary>
+        [Description("sun-cloud")]
         public const string SunCloud = "\uf763";
 
         /// <summary>
@@ -34647,6 +37796,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sun-dust
         /// </summary>
+        [Description("sun-dust")]
         public const string SunDust = "\uf764";
 
         /// <summary>
@@ -34658,6 +37808,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sun-haze
         /// </summary>
+        [Description("sun-haze")]
         public const string SunHaze = "\uf765";
 
         /// <summary>
@@ -34669,6 +37820,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sun-plant-wilt
         /// </summary>
+        [Description("sun-plant-wilt")]
         public const string SunPlantWilt = "\ue57a";
 
         /// <summary>
@@ -34680,6 +37832,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sunglasses
         /// </summary>
+        [Description("sunglasses")]
         public const string Sunglasses = "\uf892";
 
         /// <summary>
@@ -34691,6 +37844,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sunrise
         /// </summary>
+        [Description("sunrise")]
         public const string Sunrise = "\uf766";
 
         /// <summary>
@@ -34702,6 +37856,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sunset
         /// </summary>
+        [Description("sunset")]
         public const string Sunset = "\uf767";
 
         /// <summary>
@@ -34713,6 +37868,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/superpowers
         /// </summary>
+        [Description("superpowers")]
         public const string Superpowers = "\uf2dd";
 
         /// <summary>
@@ -34724,6 +37880,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/superscript
         /// </summary>
+        [Description("superscript")]
         public const string Superscript = "\uf12b";
 
         /// <summary>
@@ -34735,6 +37892,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/supple
         /// </summary>
+        [Description("supple")]
         public const string Supple = "\uf3f9";
 
         /// <summary>
@@ -34746,6 +37904,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/suse
         /// </summary>
+        [Description("suse")]
         public const string Suse = "\uf7d6";
 
         /// <summary>
@@ -34757,6 +37916,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sushi
         /// </summary>
+        [Description("sushi")]
         public const string Sushi = "\ue48a";
 
         /// <summary>
@@ -34768,6 +37928,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sushi-roll
         /// </summary>
+        [Description("sushi-roll")]
         public const string SushiRoll = "\ue48b";
 
         /// <summary>
@@ -34779,6 +37940,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/swatchbook
         /// </summary>
+        [Description("swatchbook")]
         public const string Swatchbook = "\uf5c3";
 
         /// <summary>
@@ -34790,6 +37952,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/swift
         /// </summary>
+        [Description("swift")]
         public const string Swift = "\uf8e1";
 
         /// <summary>
@@ -34801,6 +37964,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sword
         /// </summary>
+        [Description("sword")]
         public const string Sword = "\uf71c";
 
         /// <summary>
@@ -34812,6 +37976,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sword-laser
         /// </summary>
+        [Description("sword-laser")]
         public const string SwordLaser = "\ue03b";
 
         /// <summary>
@@ -34823,6 +37988,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/sword-laser-alt
         /// </summary>
+        [Description("sword-laser-alt")]
         public const string SwordLaserAlt = "\ue03c";
 
         /// <summary>
@@ -34834,6 +38000,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/swords
         /// </summary>
+        [Description("swords")]
         public const string Swords = "\uf71d";
 
         /// <summary>
@@ -34845,6 +38012,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/swords-laser
         /// </summary>
+        [Description("swords-laser")]
         public const string SwordsLaser = "\ue03d";
 
         /// <summary>
@@ -34856,6 +38024,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/symbols
         /// </summary>
+        [Description("symbols")]
         public const string Symbols = "\uf86e";
 
         /// <summary>
@@ -34867,6 +38036,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/symfony
         /// </summary>
+        [Description("symfony")]
         public const string Symfony = "\uf83d";
 
         /// <summary>
@@ -34878,6 +38048,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/synagogue
         /// </summary>
+        [Description("synagogue")]
         public const string Synagogue = "\uf69b";
 
         /// <summary>
@@ -34889,6 +38060,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/syringe
         /// </summary>
+        [Description("syringe")]
         public const string Syringe = "\uf48e";
 
         /// <summary>
@@ -34900,6 +38072,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/t
         /// </summary>
+        [Description("t")]
         public const string T = "\u0054";
 
         /// <summary>
@@ -34911,6 +38084,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/table
         /// </summary>
+        [Description("table")]
         public const string Table = "\uf0ce";
 
         /// <summary>
@@ -34922,6 +38096,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/table-cells
         /// </summary>
+        [Description("table-cells")]
         public const string TableCells = "\uf00a";
 
         /// <summary>
@@ -34933,6 +38108,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/table-cells-large
         /// </summary>
+        [Description("table-cells-large")]
         public const string TableCellsLarge = "\uf009";
 
         /// <summary>
@@ -34944,6 +38120,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/table-columns
         /// </summary>
+        [Description("table-columns")]
         public const string TableColumns = "\uf0db";
 
         /// <summary>
@@ -34955,6 +38132,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/table-layout
         /// </summary>
+        [Description("table-layout")]
         public const string TableLayout = "\ue290";
 
         /// <summary>
@@ -34966,6 +38144,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/table-list
         /// </summary>
+        [Description("table-list")]
         public const string TableList = "\uf00b";
 
         /// <summary>
@@ -34977,6 +38156,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/table-picnic
         /// </summary>
+        [Description("table-picnic")]
         public const string TablePicnic = "\ue32d";
 
         /// <summary>
@@ -34988,6 +38168,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/table-pivot
         /// </summary>
+        [Description("table-pivot")]
         public const string TablePivot = "\ue291";
 
         /// <summary>
@@ -34999,6 +38180,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/table-rows
         /// </summary>
+        [Description("table-rows")]
         public const string TableRows = "\ue292";
 
         /// <summary>
@@ -35010,6 +38192,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/table-tennis-paddle-ball
         /// </summary>
+        [Description("table-tennis-paddle-ball")]
         public const string TableTennisPaddleBall = "\uf45d";
 
         /// <summary>
@@ -35021,6 +38204,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/table-tree
         /// </summary>
+        [Description("table-tree")]
         public const string TableTree = "\ue293";
 
         /// <summary>
@@ -35032,6 +38216,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tablet
         /// </summary>
+        [Description("tablet")]
         public const string Tablet = "\uf3fb";
 
         /// <summary>
@@ -35043,6 +38228,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tablet-button
         /// </summary>
+        [Description("tablet-button")]
         public const string TabletButton = "\uf10a";
 
         /// <summary>
@@ -35054,6 +38240,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tablet-rugged
         /// </summary>
+        [Description("tablet-rugged")]
         public const string TabletRugged = "\uf48f";
 
         /// <summary>
@@ -35065,6 +38252,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tablet-screen
         /// </summary>
+        [Description("tablet-screen")]
         public const string TabletScreen = "\uf3fc";
 
         /// <summary>
@@ -35076,6 +38264,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tablet-screen-button
         /// </summary>
+        [Description("tablet-screen-button")]
         public const string TabletScreenButton = "\uf3fa";
 
         /// <summary>
@@ -35087,6 +38276,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tablets
         /// </summary>
+        [Description("tablets")]
         public const string Tablets = "\uf490";
 
         /// <summary>
@@ -35098,6 +38288,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tachograph-digital
         /// </summary>
+        [Description("tachograph-digital")]
         public const string TachographDigital = "\uf566";
 
         /// <summary>
@@ -35109,6 +38300,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/taco
         /// </summary>
+        [Description("taco")]
         public const string Taco = "\uf826";
 
         /// <summary>
@@ -35120,6 +38312,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tag
         /// </summary>
+        [Description("tag")]
         public const string Tag = "\uf02b";
 
         /// <summary>
@@ -35131,6 +38324,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tags
         /// </summary>
+        [Description("tags")]
         public const string Tags = "\uf02c";
 
         /// <summary>
@@ -35142,6 +38336,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tally
         /// </summary>
+        [Description("tally")]
         public const string Tally = "\uf69c";
 
         /// <summary>
@@ -35153,6 +38348,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tally-1
         /// </summary>
+        [Description("tally-1")]
         public const string Tally1 = "\ue294";
 
         /// <summary>
@@ -35164,6 +38360,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tally-2
         /// </summary>
+        [Description("tally-2")]
         public const string Tally2 = "\ue295";
 
         /// <summary>
@@ -35175,6 +38372,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tally-3
         /// </summary>
+        [Description("tally-3")]
         public const string Tally3 = "\ue296";
 
         /// <summary>
@@ -35186,6 +38384,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tally-4
         /// </summary>
+        [Description("tally-4")]
         public const string Tally4 = "\ue297";
 
         /// <summary>
@@ -35197,6 +38396,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tamale
         /// </summary>
+        [Description("tamale")]
         public const string Tamale = "\ue451";
 
         /// <summary>
@@ -35208,6 +38408,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tank-water
         /// </summary>
+        [Description("tank-water")]
         public const string TankWater = "\ue452";
 
         /// <summary>
@@ -35219,6 +38420,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tape
         /// </summary>
+        [Description("tape")]
         public const string Tape = "\uf4db";
 
         /// <summary>
@@ -35230,6 +38432,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tarp
         /// </summary>
+        [Description("tarp")]
         public const string Tarp = "\ue57b";
 
         /// <summary>
@@ -35241,6 +38444,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tarp-droplet
         /// </summary>
+        [Description("tarp-droplet")]
         public const string TarpDroplet = "\ue57c";
 
         /// <summary>
@@ -35252,6 +38456,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/taxi
         /// </summary>
+        [Description("taxi")]
         public const string Taxi = "\uf1ba";
 
         /// <summary>
@@ -35263,6 +38468,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/taxi-bus
         /// </summary>
+        [Description("taxi-bus")]
         public const string TaxiBus = "\ue298";
 
         /// <summary>
@@ -35274,6 +38480,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/teamspeak
         /// </summary>
+        [Description("teamspeak")]
         public const string Teamspeak = "\uf4f9";
 
         /// <summary>
@@ -35285,6 +38492,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/teddy-bear
         /// </summary>
+        [Description("teddy-bear")]
         public const string TeddyBear = "\ue3cf";
 
         /// <summary>
@@ -35296,6 +38504,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/teeth
         /// </summary>
+        [Description("teeth")]
         public const string Teeth = "\uf62e";
 
         /// <summary>
@@ -35307,6 +38516,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/teeth-open
         /// </summary>
+        [Description("teeth-open")]
         public const string TeethOpen = "\uf62f";
 
         /// <summary>
@@ -35318,6 +38528,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/telegram
         /// </summary>
+        [Description("telegram")]
         public const string Telegram = "\uf2c6";
 
         /// <summary>
@@ -35329,6 +38540,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/telescope
         /// </summary>
+        [Description("telescope")]
         public const string Telescope = "\ue03e";
 
         /// <summary>
@@ -35340,6 +38552,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/temperature-arrow-down
         /// </summary>
+        [Description("temperature-arrow-down")]
         public const string TemperatureArrowDown = "\ue03f";
 
         /// <summary>
@@ -35351,6 +38564,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/temperature-arrow-up
         /// </summary>
+        [Description("temperature-arrow-up")]
         public const string TemperatureArrowUp = "\ue040";
 
         /// <summary>
@@ -35362,6 +38576,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/temperature-empty
         /// </summary>
+        [Description("temperature-empty")]
         public const string TemperatureEmpty = "\uf2cb";
 
         /// <summary>
@@ -35373,6 +38588,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/temperature-full
         /// </summary>
+        [Description("temperature-full")]
         public const string TemperatureFull = "\uf2c7";
 
         /// <summary>
@@ -35384,6 +38600,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/temperature-half
         /// </summary>
+        [Description("temperature-half")]
         public const string TemperatureHalf = "\uf2c9";
 
         /// <summary>
@@ -35395,6 +38612,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/temperature-high
         /// </summary>
+        [Description("temperature-high")]
         public const string TemperatureHigh = "\uf769";
 
         /// <summary>
@@ -35406,6 +38624,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/temperature-list
         /// </summary>
+        [Description("temperature-list")]
         public const string TemperatureList = "\ue299";
 
         /// <summary>
@@ -35417,6 +38636,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/temperature-low
         /// </summary>
+        [Description("temperature-low")]
         public const string TemperatureLow = "\uf76b";
 
         /// <summary>
@@ -35428,6 +38648,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/temperature-quarter
         /// </summary>
+        [Description("temperature-quarter")]
         public const string TemperatureQuarter = "\uf2ca";
 
         /// <summary>
@@ -35439,6 +38660,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/temperature-snow
         /// </summary>
+        [Description("temperature-snow")]
         public const string TemperatureSnow = "\uf768";
 
         /// <summary>
@@ -35450,6 +38672,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/temperature-sun
         /// </summary>
+        [Description("temperature-sun")]
         public const string TemperatureSun = "\uf76a";
 
         /// <summary>
@@ -35461,6 +38684,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/temperature-three-quarters
         /// </summary>
+        [Description("temperature-three-quarters")]
         public const string TemperatureThreeQuarters = "\uf2c8";
 
         /// <summary>
@@ -35472,6 +38696,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tencent-weibo
         /// </summary>
+        [Description("tencent-weibo")]
         public const string TencentWeibo = "\uf1d5";
 
         /// <summary>
@@ -35483,6 +38708,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tenge-sign
         /// </summary>
+        [Description("tenge-sign")]
         public const string TengeSign = "\uf7d7";
 
         /// <summary>
@@ -35494,6 +38720,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tennis-ball
         /// </summary>
+        [Description("tennis-ball")]
         public const string TennisBall = "\uf45e";
 
         /// <summary>
@@ -35505,6 +38732,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tent
         /// </summary>
+        [Description("tent")]
         public const string Tent = "\ue57d";
 
         /// <summary>
@@ -35516,6 +38744,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tent-arrow-down-to-line
         /// </summary>
+        [Description("tent-arrow-down-to-line")]
         public const string TentArrowDownToLine = "\ue57e";
 
         /// <summary>
@@ -35527,6 +38756,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tent-arrow-left-right
         /// </summary>
+        [Description("tent-arrow-left-right")]
         public const string TentArrowLeftRight = "\ue57f";
 
         /// <summary>
@@ -35538,6 +38768,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tent-arrow-turn-left
         /// </summary>
+        [Description("tent-arrow-turn-left")]
         public const string TentArrowTurnLeft = "\ue580";
 
         /// <summary>
@@ -35549,6 +38780,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tent-arrows-down
         /// </summary>
+        [Description("tent-arrows-down")]
         public const string TentArrowsDown = "\ue581";
 
         /// <summary>
@@ -35560,6 +38792,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tents
         /// </summary>
+        [Description("tents")]
         public const string Tents = "\ue582";
 
         /// <summary>
@@ -35571,6 +38804,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/terminal
         /// </summary>
+        [Description("terminal")]
         public const string Terminal = "\uf120";
 
         /// <summary>
@@ -35582,6 +38816,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/text
         /// </summary>
+        [Description("text")]
         public const string Text = "\uf893";
 
         /// <summary>
@@ -35593,6 +38828,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/text-height
         /// </summary>
+        [Description("text-height")]
         public const string TextHeight = "\uf034";
 
         /// <summary>
@@ -35604,6 +38840,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/text-size
         /// </summary>
+        [Description("text-size")]
         public const string TextSize = "\uf894";
 
         /// <summary>
@@ -35615,6 +38852,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/text-slash
         /// </summary>
+        [Description("text-slash")]
         public const string TextSlash = "\uf87d";
 
         /// <summary>
@@ -35626,6 +38864,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/text-width
         /// </summary>
+        [Description("text-width")]
         public const string TextWidth = "\uf035";
 
         /// <summary>
@@ -35637,6 +38876,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/the-red-yeti
         /// </summary>
+        [Description("the-red-yeti")]
         public const string TheRedYeti = "\uf69d";
 
         /// <summary>
@@ -35648,6 +38888,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/themeco
         /// </summary>
+        [Description("themeco")]
         public const string Themeco = "\uf5c6";
 
         /// <summary>
@@ -35659,6 +38900,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/themeisle
         /// </summary>
+        [Description("themeisle")]
         public const string Themeisle = "\uf2b2";
 
         /// <summary>
@@ -35670,6 +38912,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/thermometer
         /// </summary>
+        [Description("thermometer")]
         public const string Thermometer = "\uf491";
 
         /// <summary>
@@ -35681,6 +38924,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/theta
         /// </summary>
+        [Description("theta")]
         public const string Theta = "\uf69e";
 
         /// <summary>
@@ -35692,6 +38936,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/think-peaks
         /// </summary>
+        [Description("think-peaks")]
         public const string ThinkPeaks = "\uf731";
 
         /// <summary>
@@ -35703,6 +38948,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/thought-bubble
         /// </summary>
+        [Description("thought-bubble")]
         public const string ThoughtBubble = "\ue32e";
 
         /// <summary>
@@ -35714,6 +38960,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/thumbs-down
         /// </summary>
+        [Description("thumbs-down")]
         public const string ThumbsDown = "\uf165";
 
         /// <summary>
@@ -35725,6 +38972,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/thumbs-up
         /// </summary>
+        [Description("thumbs-up")]
         public const string ThumbsUp = "\uf164";
 
         /// <summary>
@@ -35736,6 +38984,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/thumbtack
         /// </summary>
+        [Description("thumbtack")]
         public const string Thumbtack = "\uf08d";
 
         /// <summary>
@@ -35747,6 +38996,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tick
         /// </summary>
+        [Description("tick")]
         public const string Tick = "\ue32f";
 
         /// <summary>
@@ -35758,6 +39008,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ticket
         /// </summary>
+        [Description("ticket")]
         public const string Ticket = "\uf145";
 
         /// <summary>
@@ -35769,6 +39020,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ticket-airline
         /// </summary>
+        [Description("ticket-airline")]
         public const string TicketAirline = "\ue29a";
 
         /// <summary>
@@ -35780,6 +39032,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ticket-simple
         /// </summary>
+        [Description("ticket-simple")]
         public const string TicketSimple = "\uf3ff";
 
         /// <summary>
@@ -35791,6 +39044,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tickets-airline
         /// </summary>
+        [Description("tickets-airline")]
         public const string TicketsAirline = "\ue29b";
 
         /// <summary>
@@ -35802,6 +39056,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tiktok
         /// </summary>
+        [Description("tiktok")]
         public const string Tiktok = "\ue07b";
 
         /// <summary>
@@ -35813,6 +39068,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tilde
         /// </summary>
+        [Description("tilde")]
         public const string Tilde = "\u007e";
 
         /// <summary>
@@ -35824,6 +39080,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/timeline
         /// </summary>
+        [Description("timeline")]
         public const string Timeline = "\ue29c";
 
         /// <summary>
@@ -35835,6 +39092,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/timeline-arrow
         /// </summary>
+        [Description("timeline-arrow")]
         public const string TimelineArrow = "\ue29d";
 
         /// <summary>
@@ -35846,6 +39104,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/timer
         /// </summary>
+        [Description("timer")]
         public const string Timer = "\ue29e";
 
         /// <summary>
@@ -35857,6 +39116,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tire
         /// </summary>
+        [Description("tire")]
         public const string Tire = "\uf631";
 
         /// <summary>
@@ -35868,6 +39128,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tire-flat
         /// </summary>
+        [Description("tire-flat")]
         public const string TireFlat = "\uf632";
 
         /// <summary>
@@ -35879,6 +39140,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tire-pressure-warning
         /// </summary>
+        [Description("tire-pressure-warning")]
         public const string TirePressureWarning = "\uf633";
 
         /// <summary>
@@ -35890,6 +39152,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tire-rugged
         /// </summary>
+        [Description("tire-rugged")]
         public const string TireRugged = "\uf634";
 
         /// <summary>
@@ -35901,6 +39164,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toggle-large-off
         /// </summary>
+        [Description("toggle-large-off")]
         public const string ToggleLargeOff = "\ue5b0";
 
         /// <summary>
@@ -35912,6 +39176,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toggle-large-on
         /// </summary>
+        [Description("toggle-large-on")]
         public const string ToggleLargeOn = "\ue5b1";
 
         /// <summary>
@@ -35923,6 +39188,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toggle-off
         /// </summary>
+        [Description("toggle-off")]
         public const string ToggleOff = "\uf204";
 
         /// <summary>
@@ -35934,6 +39200,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toggle-on
         /// </summary>
+        [Description("toggle-on")]
         public const string ToggleOn = "\uf205";
 
         /// <summary>
@@ -35945,6 +39212,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toilet
         /// </summary>
+        [Description("toilet")]
         public const string Toilet = "\uf7d8";
 
         /// <summary>
@@ -35956,6 +39224,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toilet-paper
         /// </summary>
+        [Description("toilet-paper")]
         public const string ToiletPaper = "\uf71e";
 
         /// <summary>
@@ -35967,6 +39236,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toilet-paper-blank
         /// </summary>
+        [Description("toilet-paper-blank")]
         public const string ToiletPaperBlank = "\uf71f";
 
         /// <summary>
@@ -35978,6 +39248,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toilet-paper-blank-under
         /// </summary>
+        [Description("toilet-paper-blank-under")]
         public const string ToiletPaperBlankUnder = "\ue29f";
 
         /// <summary>
@@ -35989,6 +39260,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toilet-paper-check
         /// </summary>
+        [Description("toilet-paper-check")]
         public const string ToiletPaperCheck = "\ue5b2";
 
         /// <summary>
@@ -36000,6 +39272,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toilet-paper-slash
         /// </summary>
+        [Description("toilet-paper-slash")]
         public const string ToiletPaperSlash = "\ue072";
 
         /// <summary>
@@ -36011,6 +39284,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toilet-paper-under
         /// </summary>
+        [Description("toilet-paper-under")]
         public const string ToiletPaperUnder = "\ue2a0";
 
         /// <summary>
@@ -36022,6 +39296,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toilet-paper-under-slash
         /// </summary>
+        [Description("toilet-paper-under-slash")]
         public const string ToiletPaperUnderSlash = "\ue2a1";
 
         /// <summary>
@@ -36033,6 +39308,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toilet-paper-xmark
         /// </summary>
+        [Description("toilet-paper-xmark")]
         public const string ToiletPaperXmark = "\ue5b3";
 
         /// <summary>
@@ -36044,6 +39320,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toilet-portable
         /// </summary>
+        [Description("toilet-portable")]
         public const string ToiletPortable = "\ue583";
 
         /// <summary>
@@ -36055,6 +39332,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toilets-portable
         /// </summary>
+        [Description("toilets-portable")]
         public const string ToiletsPortable = "\ue584";
 
         /// <summary>
@@ -36066,6 +39344,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tomato
         /// </summary>
+        [Description("tomato")]
         public const string Tomato = "\ue330";
 
         /// <summary>
@@ -36077,6 +39356,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tombstone
         /// </summary>
+        [Description("tombstone")]
         public const string Tombstone = "\uf720";
 
         /// <summary>
@@ -36088,6 +39368,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tombstone-blank
         /// </summary>
+        [Description("tombstone-blank")]
         public const string TombstoneBlank = "\uf721";
 
         /// <summary>
@@ -36099,6 +39380,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toolbox
         /// </summary>
+        [Description("toolbox")]
         public const string Toolbox = "\uf552";
 
         /// <summary>
@@ -36110,6 +39392,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tooth
         /// </summary>
+        [Description("tooth")]
         public const string Tooth = "\uf5c9";
 
         /// <summary>
@@ -36121,6 +39404,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/toothbrush
         /// </summary>
+        [Description("toothbrush")]
         public const string Toothbrush = "\uf635";
 
         /// <summary>
@@ -36132,6 +39416,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/torii-gate
         /// </summary>
+        [Description("torii-gate")]
         public const string ToriiGate = "\uf6a1";
 
         /// <summary>
@@ -36143,6 +39428,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tornado
         /// </summary>
+        [Description("tornado")]
         public const string Tornado = "\uf76f";
 
         /// <summary>
@@ -36154,6 +39440,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tower-broadcast
         /// </summary>
+        [Description("tower-broadcast")]
         public const string TowerBroadcast = "\uf519";
 
         /// <summary>
@@ -36165,6 +39452,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tower-cell
         /// </summary>
+        [Description("tower-cell")]
         public const string TowerCell = "\ue585";
 
         /// <summary>
@@ -36176,6 +39464,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tower-control
         /// </summary>
+        [Description("tower-control")]
         public const string TowerControl = "\ue2a2";
 
         /// <summary>
@@ -36187,6 +39476,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tower-observation
         /// </summary>
+        [Description("tower-observation")]
         public const string TowerObservation = "\ue586";
 
         /// <summary>
@@ -36198,6 +39488,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tractor
         /// </summary>
+        [Description("tractor")]
         public const string Tractor = "\uf722";
 
         /// <summary>
@@ -36209,6 +39500,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trade-federation
         /// </summary>
+        [Description("trade-federation")]
         public const string TradeFederation = "\uf513";
 
         /// <summary>
@@ -36220,6 +39512,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trademark
         /// </summary>
+        [Description("trademark")]
         public const string Trademark = "\uf25c";
 
         /// <summary>
@@ -36231,6 +39524,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/traffic-cone
         /// </summary>
+        [Description("traffic-cone")]
         public const string TrafficCone = "\uf636";
 
         /// <summary>
@@ -36242,6 +39536,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/traffic-light
         /// </summary>
+        [Description("traffic-light")]
         public const string TrafficLight = "\uf637";
 
         /// <summary>
@@ -36253,6 +39548,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/traffic-light-go
         /// </summary>
+        [Description("traffic-light-go")]
         public const string TrafficLightGo = "\uf638";
 
         /// <summary>
@@ -36264,6 +39560,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/traffic-light-slow
         /// </summary>
+        [Description("traffic-light-slow")]
         public const string TrafficLightSlow = "\uf639";
 
         /// <summary>
@@ -36275,6 +39572,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/traffic-light-stop
         /// </summary>
+        [Description("traffic-light-stop")]
         public const string TrafficLightStop = "\uf63a";
 
         /// <summary>
@@ -36286,6 +39584,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trailer
         /// </summary>
+        [Description("trailer")]
         public const string Trailer = "\ue041";
 
         /// <summary>
@@ -36297,6 +39596,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/train
         /// </summary>
+        [Description("train")]
         public const string Train = "\uf238";
 
         /// <summary>
@@ -36308,6 +39608,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/train-subway
         /// </summary>
+        [Description("train-subway")]
         public const string TrainSubway = "\uf239";
 
         /// <summary>
@@ -36319,6 +39620,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/train-subway-tunnel
         /// </summary>
+        [Description("train-subway-tunnel")]
         public const string TrainSubwayTunnel = "\ue2a3";
 
         /// <summary>
@@ -36330,6 +39632,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/train-track
         /// </summary>
+        [Description("train-track")]
         public const string TrainTrack = "\ue453";
 
         /// <summary>
@@ -36341,6 +39644,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/train-tram
         /// </summary>
+        [Description("train-tram")]
         public const string TrainTram = "\ue5b4";
 
         /// <summary>
@@ -36352,6 +39656,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/train-tunnel
         /// </summary>
+        [Description("train-tunnel")]
         public const string TrainTunnel = "\ue454";
 
         /// <summary>
@@ -36363,6 +39668,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/transformer-bolt
         /// </summary>
+        [Description("transformer-bolt")]
         public const string TransformerBolt = "\ue2a4";
 
         /// <summary>
@@ -36374,6 +39680,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/transgender
         /// </summary>
+        [Description("transgender")]
         public const string Transgender = "\uf225";
 
         /// <summary>
@@ -36385,6 +39692,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/transporter
         /// </summary>
+        [Description("transporter")]
         public const string Transporter = "\ue042";
 
         /// <summary>
@@ -36396,6 +39704,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/transporter-1
         /// </summary>
+        [Description("transporter-1")]
         public const string Transporter1 = "\ue043";
 
         /// <summary>
@@ -36407,6 +39716,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/transporter-2
         /// </summary>
+        [Description("transporter-2")]
         public const string Transporter2 = "\ue044";
 
         /// <summary>
@@ -36418,6 +39728,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/transporter-3
         /// </summary>
+        [Description("transporter-3")]
         public const string Transporter3 = "\ue045";
 
         /// <summary>
@@ -36429,6 +39740,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/transporter-4
         /// </summary>
+        [Description("transporter-4")]
         public const string Transporter4 = "\ue2a5";
 
         /// <summary>
@@ -36440,6 +39752,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/transporter-5
         /// </summary>
+        [Description("transporter-5")]
         public const string Transporter5 = "\ue2a6";
 
         /// <summary>
@@ -36451,6 +39764,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/transporter-6
         /// </summary>
+        [Description("transporter-6")]
         public const string Transporter6 = "\ue2a7";
 
         /// <summary>
@@ -36462,6 +39776,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/transporter-7
         /// </summary>
+        [Description("transporter-7")]
         public const string Transporter7 = "\ue2a8";
 
         /// <summary>
@@ -36473,6 +39788,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/transporter-empty
         /// </summary>
+        [Description("transporter-empty")]
         public const string TransporterEmpty = "\ue046";
 
         /// <summary>
@@ -36484,6 +39800,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash
         /// </summary>
+        [Description("trash")]
         public const string Trash = "\uf1f8";
 
         /// <summary>
@@ -36495,6 +39812,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-arrow-up
         /// </summary>
+        [Description("trash-arrow-up")]
         public const string TrashArrowUp = "\uf829";
 
         /// <summary>
@@ -36506,6 +39824,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-can
         /// </summary>
+        [Description("trash-can")]
         public const string TrashCan = "\uf2ed";
 
         /// <summary>
@@ -36517,6 +39836,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-can-arrow-up
         /// </summary>
+        [Description("trash-can-arrow-up")]
         public const string TrashCanArrowUp = "\uf82a";
 
         /// <summary>
@@ -36528,6 +39848,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-can-check
         /// </summary>
+        [Description("trash-can-check")]
         public const string TrashCanCheck = "\ue2a9";
 
         /// <summary>
@@ -36539,6 +39860,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-can-clock
         /// </summary>
+        [Description("trash-can-clock")]
         public const string TrashCanClock = "\ue2aa";
 
         /// <summary>
@@ -36550,6 +39872,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-can-list
         /// </summary>
+        [Description("trash-can-list")]
         public const string TrashCanList = "\ue2ab";
 
         /// <summary>
@@ -36561,6 +39884,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-can-plus
         /// </summary>
+        [Description("trash-can-plus")]
         public const string TrashCanPlus = "\ue2ac";
 
         /// <summary>
@@ -36572,6 +39896,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-can-slash
         /// </summary>
+        [Description("trash-can-slash")]
         public const string TrashCanSlash = "\ue2ad";
 
         /// <summary>
@@ -36583,6 +39908,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-can-undo
         /// </summary>
+        [Description("trash-can-undo")]
         public const string TrashCanUndo = "\uf896";
 
         /// <summary>
@@ -36594,6 +39920,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-can-xmark
         /// </summary>
+        [Description("trash-can-xmark")]
         public const string TrashCanXmark = "\ue2ae";
 
         /// <summary>
@@ -36605,6 +39932,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-check
         /// </summary>
+        [Description("trash-check")]
         public const string TrashCheck = "\ue2af";
 
         /// <summary>
@@ -36616,6 +39944,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-clock
         /// </summary>
+        [Description("trash-clock")]
         public const string TrashClock = "\ue2b0";
 
         /// <summary>
@@ -36627,6 +39956,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-list
         /// </summary>
+        [Description("trash-list")]
         public const string TrashList = "\ue2b1";
 
         /// <summary>
@@ -36638,6 +39968,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-plus
         /// </summary>
+        [Description("trash-plus")]
         public const string TrashPlus = "\ue2b2";
 
         /// <summary>
@@ -36649,6 +39980,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-slash
         /// </summary>
+        [Description("trash-slash")]
         public const string TrashSlash = "\ue2b3";
 
         /// <summary>
@@ -36660,6 +39992,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-undo
         /// </summary>
+        [Description("trash-undo")]
         public const string TrashUndo = "\uf895";
 
         /// <summary>
@@ -36671,6 +40004,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trash-xmark
         /// </summary>
+        [Description("trash-xmark")]
         public const string TrashXmark = "\ue2b4";
 
         /// <summary>
@@ -36682,6 +40016,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/treasure-chest
         /// </summary>
+        [Description("treasure-chest")]
         public const string TreasureChest = "\uf723";
 
         /// <summary>
@@ -36693,6 +40028,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tree
         /// </summary>
+        [Description("tree")]
         public const string Tree = "\uf1bb";
 
         /// <summary>
@@ -36704,6 +40040,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tree-christmas
         /// </summary>
+        [Description("tree-christmas")]
         public const string TreeChristmas = "\uf7db";
 
         /// <summary>
@@ -36715,6 +40052,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tree-city
         /// </summary>
+        [Description("tree-city")]
         public const string TreeCity = "\ue587";
 
         /// <summary>
@@ -36726,6 +40064,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tree-deciduous
         /// </summary>
+        [Description("tree-deciduous")]
         public const string TreeDeciduous = "\uf400";
 
         /// <summary>
@@ -36737,6 +40076,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tree-decorated
         /// </summary>
+        [Description("tree-decorated")]
         public const string TreeDecorated = "\uf7dc";
 
         /// <summary>
@@ -36748,6 +40088,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tree-large
         /// </summary>
+        [Description("tree-large")]
         public const string TreeLarge = "\uf7dd";
 
         /// <summary>
@@ -36759,6 +40100,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tree-palm
         /// </summary>
+        [Description("tree-palm")]
         public const string TreePalm = "\uf82b";
 
         /// <summary>
@@ -36770,6 +40112,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trees
         /// </summary>
+        [Description("trees")]
         public const string Trees = "\uf724";
 
         /// <summary>
@@ -36781,6 +40124,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trello
         /// </summary>
+        [Description("trello")]
         public const string Trello = "\uf181";
 
         /// <summary>
@@ -36792,6 +40136,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/triangle
         /// </summary>
+        [Description("triangle")]
         public const string Triangle = "\uf2ec";
 
         /// <summary>
@@ -36803,6 +40148,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/triangle-exclamation
         /// </summary>
+        [Description("triangle-exclamation")]
         public const string TriangleExclamation = "\uf071";
 
         /// <summary>
@@ -36814,6 +40160,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/triangle-instrument
         /// </summary>
+        [Description("triangle-instrument")]
         public const string TriangleInstrument = "\uf8e2";
 
         /// <summary>
@@ -36825,6 +40172,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/triangle-person-digging
         /// </summary>
+        [Description("triangle-person-digging")]
         public const string TrianglePersonDigging = "\uf85d";
 
         /// <summary>
@@ -36836,6 +40184,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tricycle
         /// </summary>
+        [Description("tricycle")]
         public const string Tricycle = "\ue5c3";
 
         /// <summary>
@@ -36847,6 +40196,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tricycle-adult
         /// </summary>
+        [Description("tricycle-adult")]
         public const string TricycleAdult = "\ue5c4";
 
         /// <summary>
@@ -36858,6 +40208,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trillium
         /// </summary>
+        [Description("trillium")]
         public const string Trillium = "\ue588";
 
         /// <summary>
@@ -36869,6 +40220,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trophy
         /// </summary>
+        [Description("trophy")]
         public const string Trophy = "\uf091";
 
         /// <summary>
@@ -36880,6 +40232,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trophy-star
         /// </summary>
+        [Description("trophy-star")]
         public const string TrophyStar = "\uf2eb";
 
         /// <summary>
@@ -36891,6 +40244,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trowel
         /// </summary>
+        [Description("trowel")]
         public const string Trowel = "\ue589";
 
         /// <summary>
@@ -36902,6 +40256,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trowel-bricks
         /// </summary>
+        [Description("trowel-bricks")]
         public const string TrowelBricks = "\ue58a";
 
         /// <summary>
@@ -36913,6 +40268,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck
         /// </summary>
+        [Description("truck")]
         public const string Truck = "\uf0d1";
 
         /// <summary>
@@ -36924,6 +40280,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-arrow-right
         /// </summary>
+        [Description("truck-arrow-right")]
         public const string TruckArrowRight = "\ue58b";
 
         /// <summary>
@@ -36935,6 +40292,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-bolt
         /// </summary>
+        [Description("truck-bolt")]
         public const string TruckBolt = "\ue3d0";
 
         /// <summary>
@@ -36946,6 +40304,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-clock
         /// </summary>
+        [Description("truck-clock")]
         public const string TruckClock = "\uf48c";
 
         /// <summary>
@@ -36957,6 +40316,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-container
         /// </summary>
+        [Description("truck-container")]
         public const string TruckContainer = "\uf4dc";
 
         /// <summary>
@@ -36968,6 +40328,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-container-empty
         /// </summary>
+        [Description("truck-container-empty")]
         public const string TruckContainerEmpty = "\ue2b5";
 
         /// <summary>
@@ -36979,6 +40340,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-droplet
         /// </summary>
+        [Description("truck-droplet")]
         public const string TruckDroplet = "\ue58c";
 
         /// <summary>
@@ -36990,6 +40352,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-fast
         /// </summary>
+        [Description("truck-fast")]
         public const string TruckFast = "\uf48b";
 
         /// <summary>
@@ -37001,6 +40364,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-field
         /// </summary>
+        [Description("truck-field")]
         public const string TruckField = "\ue58d";
 
         /// <summary>
@@ -37012,6 +40376,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-field-un
         /// </summary>
+        [Description("truck-field-un")]
         public const string TruckFieldUn = "\ue58e";
 
         /// <summary>
@@ -37023,6 +40388,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-flatbed
         /// </summary>
+        [Description("truck-flatbed")]
         public const string TruckFlatbed = "\ue2b6";
 
         /// <summary>
@@ -37034,6 +40400,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-front
         /// </summary>
+        [Description("truck-front")]
         public const string TruckFront = "\ue2b7";
 
         /// <summary>
@@ -37045,6 +40412,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-medical
         /// </summary>
+        [Description("truck-medical")]
         public const string TruckMedical = "\uf0f9";
 
         /// <summary>
@@ -37056,6 +40424,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-monster
         /// </summary>
+        [Description("truck-monster")]
         public const string TruckMonster = "\uf63b";
 
         /// <summary>
@@ -37067,6 +40436,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-moving
         /// </summary>
+        [Description("truck-moving")]
         public const string TruckMoving = "\uf4df";
 
         /// <summary>
@@ -37078,6 +40448,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-pickup
         /// </summary>
+        [Description("truck-pickup")]
         public const string TruckPickup = "\uf63c";
 
         /// <summary>
@@ -37089,6 +40460,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-plane
         /// </summary>
+        [Description("truck-plane")]
         public const string TruckPlane = "\ue58f";
 
         /// <summary>
@@ -37100,6 +40472,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-plow
         /// </summary>
+        [Description("truck-plow")]
         public const string TruckPlow = "\uf7de";
 
         /// <summary>
@@ -37111,6 +40484,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-ramp
         /// </summary>
+        [Description("truck-ramp")]
         public const string TruckRamp = "\uf4e0";
 
         /// <summary>
@@ -37122,6 +40496,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-ramp-box
         /// </summary>
+        [Description("truck-ramp-box")]
         public const string TruckRampBox = "\uf4de";
 
         /// <summary>
@@ -37133,6 +40508,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-ramp-couch
         /// </summary>
+        [Description("truck-ramp-couch")]
         public const string TruckRampCouch = "\uf4dd";
 
         /// <summary>
@@ -37144,6 +40520,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/truck-tow
         /// </summary>
+        [Description("truck-tow")]
         public const string TruckTow = "\ue2b8";
 
         /// <summary>
@@ -37155,6 +40532,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/trumpet
         /// </summary>
+        [Description("trumpet")]
         public const string Trumpet = "\uf8e3";
 
         /// <summary>
@@ -37166,6 +40544,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tty
         /// </summary>
+        [Description("tty")]
         public const string Tty = "\uf1e4";
 
         /// <summary>
@@ -37177,6 +40556,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tty-answer
         /// </summary>
+        [Description("tty-answer")]
         public const string TtyAnswer = "\ue2b9";
 
         /// <summary>
@@ -37188,6 +40568,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tugrik-sign
         /// </summary>
+        [Description("tugrik-sign")]
         public const string TugrikSign = "\ue2ba";
 
         /// <summary>
@@ -37199,6 +40580,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tumblr
         /// </summary>
+        [Description("tumblr")]
         public const string Tumblr = "\uf173";
 
         /// <summary>
@@ -37210,6 +40592,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/turkey
         /// </summary>
+        [Description("turkey")]
         public const string Turkey = "\uf725";
 
         /// <summary>
@@ -37221,6 +40604,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/turkish-lira-sign
         /// </summary>
+        [Description("turkish-lira-sign")]
         public const string TurkishLiraSign = "\ue2bb";
 
         /// <summary>
@@ -37232,6 +40616,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/turn-down
         /// </summary>
+        [Description("turn-down")]
         public const string TurnDown = "\uf3be";
 
         /// <summary>
@@ -37243,6 +40628,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/turn-down-left
         /// </summary>
+        [Description("turn-down-left")]
         public const string TurnDownLeft = "\ue331";
 
         /// <summary>
@@ -37254,6 +40640,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/turn-down-right
         /// </summary>
+        [Description("turn-down-right")]
         public const string TurnDownRight = "\ue455";
 
         /// <summary>
@@ -37265,6 +40652,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/turn-up
         /// </summary>
+        [Description("turn-up")]
         public const string TurnUp = "\uf3bf";
 
         /// <summary>
@@ -37276,6 +40664,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/turntable
         /// </summary>
+        [Description("turntable")]
         public const string Turntable = "\uf8e4";
 
         /// <summary>
@@ -37287,6 +40676,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/turtle
         /// </summary>
+        [Description("turtle")]
         public const string Turtle = "\uf726";
 
         /// <summary>
@@ -37298,6 +40688,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tv
         /// </summary>
+        [Description("tv")]
         public const string Tv = "\uf26c";
 
         /// <summary>
@@ -37309,6 +40700,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tv-music
         /// </summary>
+        [Description("tv-music")]
         public const string TvMusic = "\uf8e6";
 
         /// <summary>
@@ -37320,6 +40712,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/tv-retro
         /// </summary>
+        [Description("tv-retro")]
         public const string TvRetro = "\uf401";
 
         /// <summary>
@@ -37331,6 +40724,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/twitch
         /// </summary>
+        [Description("twitch")]
         public const string Twitch = "\uf1e8";
 
         /// <summary>
@@ -37342,6 +40736,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/twitter
         /// </summary>
+        [Description("twitter")]
         public const string Twitter = "\uf099";
 
         /// <summary>
@@ -37353,6 +40748,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/typewriter
         /// </summary>
+        [Description("typewriter")]
         public const string Typewriter = "\uf8e7";
 
         /// <summary>
@@ -37364,6 +40760,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/typo3
         /// </summary>
+        [Description("typo3")]
         public const string Typo3 = "\uf42b";
 
         /// <summary>
@@ -37375,6 +40772,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/u
         /// </summary>
+        [Description("u")]
         public const string U = "\u0055";
 
         /// <summary>
@@ -37386,6 +40784,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/uber
         /// </summary>
+        [Description("uber")]
         public const string Uber = "\uf402";
 
         /// <summary>
@@ -37397,6 +40796,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ubuntu
         /// </summary>
+        [Description("ubuntu")]
         public const string Ubuntu = "\uf7df";
 
         /// <summary>
@@ -37408,6 +40808,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ufo
         /// </summary>
+        [Description("ufo")]
         public const string Ufo = "\ue047";
 
         /// <summary>
@@ -37419,6 +40820,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ufo-beam
         /// </summary>
+        [Description("ufo-beam")]
         public const string UfoBeam = "\ue048";
 
         /// <summary>
@@ -37430,6 +40832,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/uikit
         /// </summary>
+        [Description("uikit")]
         public const string Uikit = "\uf403";
 
         /// <summary>
@@ -37441,6 +40844,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/umbraco
         /// </summary>
+        [Description("umbraco")]
         public const string Umbraco = "\uf8e8";
 
         /// <summary>
@@ -37452,6 +40856,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/umbrella
         /// </summary>
+        [Description("umbrella")]
         public const string Umbrella = "\uf0e9";
 
         /// <summary>
@@ -37463,6 +40868,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/umbrella-beach
         /// </summary>
+        [Description("umbrella-beach")]
         public const string UmbrellaBeach = "\uf5ca";
 
         /// <summary>
@@ -37474,6 +40880,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/umbrella-simple
         /// </summary>
+        [Description("umbrella-simple")]
         public const string UmbrellaSimple = "\ue2bc";
 
         /// <summary>
@@ -37485,6 +40892,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/uncharted
         /// </summary>
+        [Description("uncharted")]
         public const string Uncharted = "\ue084";
 
         /// <summary>
@@ -37496,6 +40904,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/underline
         /// </summary>
+        [Description("underline")]
         public const string Underline = "\uf0cd";
 
         /// <summary>
@@ -37507,6 +40916,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/unicorn
         /// </summary>
+        [Description("unicorn")]
         public const string Unicorn = "\uf727";
 
         /// <summary>
@@ -37518,6 +40928,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/uniform-martial-arts
         /// </summary>
+        [Description("uniform-martial-arts")]
         public const string UniformMartialArts = "\ue3d1";
 
         /// <summary>
@@ -37529,6 +40940,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/union
         /// </summary>
+        [Description("union")]
         public const string Union = "\uf6a2";
 
         /// <summary>
@@ -37540,6 +40952,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/uniregistry
         /// </summary>
+        [Description("uniregistry")]
         public const string Uniregistry = "\uf404";
 
         /// <summary>
@@ -37551,6 +40964,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/unity
         /// </summary>
+        [Description("unity")]
         public const string Unity = "\ue049";
 
         /// <summary>
@@ -37562,6 +40976,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/universal-access
         /// </summary>
+        [Description("universal-access")]
         public const string UniversalAccess = "\uf29a";
 
         /// <summary>
@@ -37573,6 +40988,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/unlock
         /// </summary>
+        [Description("unlock")]
         public const string Unlock = "\uf09c";
 
         /// <summary>
@@ -37584,6 +41000,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/unlock-keyhole
         /// </summary>
+        [Description("unlock-keyhole")]
         public const string UnlockKeyhole = "\uf13e";
 
         /// <summary>
@@ -37595,6 +41012,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/unsplash
         /// </summary>
+        [Description("unsplash")]
         public const string Unsplash = "\ue07c";
 
         /// <summary>
@@ -37606,6 +41024,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/untappd
         /// </summary>
+        [Description("untappd")]
         public const string Untappd = "\uf405";
 
         /// <summary>
@@ -37617,6 +41036,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/up
         /// </summary>
+        [Description("up")]
         public const string Up = "\uf357";
 
         /// <summary>
@@ -37628,6 +41048,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/up-down
         /// </summary>
+        [Description("up-down")]
         public const string UpDown = "\uf338";
 
         /// <summary>
@@ -37639,6 +41060,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/up-down-left-right
         /// </summary>
+        [Description("up-down-left-right")]
         public const string UpDownLeftRight = "\uf0b2";
 
         /// <summary>
@@ -37650,6 +41072,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/up-from-bracket
         /// </summary>
+        [Description("up-from-bracket")]
         public const string UpFromBracket = "\ue590";
 
         /// <summary>
@@ -37661,6 +41084,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/up-from-dotted-line
         /// </summary>
+        [Description("up-from-dotted-line")]
         public const string UpFromDottedLine = "\ue456";
 
         /// <summary>
@@ -37672,6 +41096,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/up-from-line
         /// </summary>
+        [Description("up-from-line")]
         public const string UpFromLine = "\uf346";
 
         /// <summary>
@@ -37683,6 +41108,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/up-left
         /// </summary>
+        [Description("up-left")]
         public const string UpLeft = "\ue2bd";
 
         /// <summary>
@@ -37694,6 +41120,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/up-long
         /// </summary>
+        [Description("up-long")]
         public const string UpLong = "\uf30c";
 
         /// <summary>
@@ -37705,6 +41132,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/up-right
         /// </summary>
+        [Description("up-right")]
         public const string UpRight = "\ue2be";
 
         /// <summary>
@@ -37716,6 +41144,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/up-right-and-down-left-from-center
         /// </summary>
+        [Description("up-right-and-down-left-from-center")]
         public const string UpRightAndDownLeftFromCenter = "\uf424";
 
         /// <summary>
@@ -37727,6 +41156,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/up-right-from-square
         /// </summary>
+        [Description("up-right-from-square")]
         public const string UpRightFromSquare = "\uf35d";
 
         /// <summary>
@@ -37738,6 +41168,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/up-to-dotted-line
         /// </summary>
+        [Description("up-to-dotted-line")]
         public const string UpToDottedLine = "\ue457";
 
         /// <summary>
@@ -37749,6 +41180,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/up-to-line
         /// </summary>
+        [Description("up-to-line")]
         public const string UpToLine = "\uf34d";
 
         /// <summary>
@@ -37760,6 +41192,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/upload
         /// </summary>
+        [Description("upload")]
         public const string Upload = "\uf093";
 
         /// <summary>
@@ -37771,6 +41204,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ups
         /// </summary>
+        [Description("ups")]
         public const string Ups = "\uf7e0";
 
         /// <summary>
@@ -37782,6 +41216,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/usb
         /// </summary>
+        [Description("usb")]
         public const string Usb = "\uf287";
 
         /// <summary>
@@ -37793,6 +41228,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/usb-drive
         /// </summary>
+        [Description("usb-drive")]
         public const string UsbDrive = "\uf8e9";
 
         /// <summary>
@@ -37804,6 +41240,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user
         /// </summary>
+        [Description("user")]
         public const string User = "\uf007";
 
         /// <summary>
@@ -37815,6 +41252,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-alien
         /// </summary>
+        [Description("user-alien")]
         public const string UserAlien = "\ue04a";
 
         /// <summary>
@@ -37826,6 +41264,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-astronaut
         /// </summary>
+        [Description("user-astronaut")]
         public const string UserAstronaut = "\uf4fb";
 
         /// <summary>
@@ -37837,6 +41276,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-bounty-hunter
         /// </summary>
+        [Description("user-bounty-hunter")]
         public const string UserBountyHunter = "\ue2bf";
 
         /// <summary>
@@ -37848,6 +41288,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-check
         /// </summary>
+        [Description("user-check")]
         public const string UserCheck = "\uf4fc";
 
         /// <summary>
@@ -37859,6 +41300,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-chef
         /// </summary>
+        [Description("user-chef")]
         public const string UserChef = "\ue3d2";
 
         /// <summary>
@@ -37870,6 +41312,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-clock
         /// </summary>
+        [Description("user-clock")]
         public const string UserClock = "\uf4fd";
 
         /// <summary>
@@ -37881,6 +41324,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-cowboy
         /// </summary>
+        [Description("user-cowboy")]
         public const string UserCowboy = "\uf8ea";
 
         /// <summary>
@@ -37892,6 +41336,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-crown
         /// </summary>
+        [Description("user-crown")]
         public const string UserCrown = "\uf6a4";
 
         /// <summary>
@@ -37903,6 +41348,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-doctor
         /// </summary>
+        [Description("user-doctor")]
         public const string UserDoctor = "\uf0f0";
 
         /// <summary>
@@ -37914,6 +41360,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-doctor-hair
         /// </summary>
+        [Description("user-doctor-hair")]
         public const string UserDoctorHair = "\ue458";
 
         /// <summary>
@@ -37925,6 +41372,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-doctor-hair-long
         /// </summary>
+        [Description("user-doctor-hair-long")]
         public const string UserDoctorHairLong = "\ue459";
 
         /// <summary>
@@ -37936,6 +41384,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-doctor-message
         /// </summary>
+        [Description("user-doctor-message")]
         public const string UserDoctorMessage = "\uf82e";
 
         /// <summary>
@@ -37947,6 +41396,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-gear
         /// </summary>
+        [Description("user-gear")]
         public const string UserGear = "\uf4fe";
 
         /// <summary>
@@ -37958,6 +41408,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-graduate
         /// </summary>
+        [Description("user-graduate")]
         public const string UserGraduate = "\uf501";
 
         /// <summary>
@@ -37969,6 +41420,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-group
         /// </summary>
+        [Description("user-group")]
         public const string UserGroup = "\uf500";
 
         /// <summary>
@@ -37980,6 +41432,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-group-crown
         /// </summary>
+        [Description("user-group-crown")]
         public const string UserGroupCrown = "\uf6a5";
 
         /// <summary>
@@ -37991,6 +41444,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-group-simple
         /// </summary>
+        [Description("user-group-simple")]
         public const string UserGroupSimple = "\ue603";
 
         /// <summary>
@@ -38002,6 +41456,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-hair
         /// </summary>
+        [Description("user-hair")]
         public const string UserHair = "\ue45a";
 
         /// <summary>
@@ -38013,6 +41468,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-hair-buns
         /// </summary>
+        [Description("user-hair-buns")]
         public const string UserHairBuns = "\ue3d3";
 
         /// <summary>
@@ -38024,6 +41480,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-hair-long
         /// </summary>
+        [Description("user-hair-long")]
         public const string UserHairLong = "\ue45b";
 
         /// <summary>
@@ -38035,6 +41492,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-hair-mullet
         /// </summary>
+        [Description("user-hair-mullet")]
         public const string UserHairMullet = "\ue45c";
 
         /// <summary>
@@ -38046,6 +41504,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-headset
         /// </summary>
+        [Description("user-headset")]
         public const string UserHeadset = "\uf82d";
 
         /// <summary>
@@ -38057,6 +41516,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-helmet-safety
         /// </summary>
+        [Description("user-helmet-safety")]
         public const string UserHelmetSafety = "\uf82c";
 
         /// <summary>
@@ -38068,6 +41528,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-injured
         /// </summary>
+        [Description("user-injured")]
         public const string UserInjured = "\uf728";
 
         /// <summary>
@@ -38079,6 +41540,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-large
         /// </summary>
+        [Description("user-large")]
         public const string UserLarge = "\uf406";
 
         /// <summary>
@@ -38090,6 +41552,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-large-slash
         /// </summary>
+        [Description("user-large-slash")]
         public const string UserLargeSlash = "\uf4fa";
 
         /// <summary>
@@ -38101,6 +41564,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-lock
         /// </summary>
+        [Description("user-lock")]
         public const string UserLock = "\uf502";
 
         /// <summary>
@@ -38112,6 +41576,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-magnifying-glass
         /// </summary>
+        [Description("user-magnifying-glass")]
         public const string UserMagnifyingGlass = "\ue5c5";
 
         /// <summary>
@@ -38123,6 +41588,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-minus
         /// </summary>
+        [Description("user-minus")]
         public const string UserMinus = "\uf503";
 
         /// <summary>
@@ -38134,6 +41600,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-music
         /// </summary>
+        [Description("user-music")]
         public const string UserMusic = "\uf8eb";
 
         /// <summary>
@@ -38145,6 +41612,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-ninja
         /// </summary>
+        [Description("user-ninja")]
         public const string UserNinja = "\uf504";
 
         /// <summary>
@@ -38156,6 +41624,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-nurse
         /// </summary>
+        [Description("user-nurse")]
         public const string UserNurse = "\uf82f";
 
         /// <summary>
@@ -38167,6 +41636,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-nurse-hair
         /// </summary>
+        [Description("user-nurse-hair")]
         public const string UserNurseHair = "\ue45d";
 
         /// <summary>
@@ -38178,6 +41648,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-nurse-hair-long
         /// </summary>
+        [Description("user-nurse-hair-long")]
         public const string UserNurseHairLong = "\ue45e";
 
         /// <summary>
@@ -38189,6 +41660,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-pen
         /// </summary>
+        [Description("user-pen")]
         public const string UserPen = "\uf4ff";
 
         /// <summary>
@@ -38200,6 +41672,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-pilot
         /// </summary>
+        [Description("user-pilot")]
         public const string UserPilot = "\ue2c0";
 
         /// <summary>
@@ -38211,6 +41684,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-pilot-tie
         /// </summary>
+        [Description("user-pilot-tie")]
         public const string UserPilotTie = "\ue2c1";
 
         /// <summary>
@@ -38222,6 +41696,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-plus
         /// </summary>
+        [Description("user-plus")]
         public const string UserPlus = "\uf234";
 
         /// <summary>
@@ -38233,6 +41708,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-police
         /// </summary>
+        [Description("user-police")]
         public const string UserPolice = "\ue333";
 
         /// <summary>
@@ -38244,6 +41720,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-police-tie
         /// </summary>
+        [Description("user-police-tie")]
         public const string UserPoliceTie = "\ue334";
 
         /// <summary>
@@ -38255,6 +41732,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-robot
         /// </summary>
+        [Description("user-robot")]
         public const string UserRobot = "\ue04b";
 
         /// <summary>
@@ -38266,6 +41744,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-robot-xmarks
         /// </summary>
+        [Description("user-robot-xmarks")]
         public const string UserRobotXmarks = "\ue4a7";
 
         /// <summary>
@@ -38277,6 +41756,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-secret
         /// </summary>
+        [Description("user-secret")]
         public const string UserSecret = "\uf21b";
 
         /// <summary>
@@ -38288,6 +41768,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-shakespeare
         /// </summary>
+        [Description("user-shakespeare")]
         public const string UserShakespeare = "\ue2c2";
 
         /// <summary>
@@ -38299,6 +41780,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-shield
         /// </summary>
+        [Description("user-shield")]
         public const string UserShield = "\uf505";
 
         /// <summary>
@@ -38310,6 +41792,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-slash
         /// </summary>
+        [Description("user-slash")]
         public const string UserSlash = "\uf506";
 
         /// <summary>
@@ -38321,6 +41804,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-tag
         /// </summary>
+        [Description("user-tag")]
         public const string UserTag = "\uf507";
 
         /// <summary>
@@ -38332,6 +41816,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-tie
         /// </summary>
+        [Description("user-tie")]
         public const string UserTie = "\uf508";
 
         /// <summary>
@@ -38343,6 +41828,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-tie-hair
         /// </summary>
+        [Description("user-tie-hair")]
         public const string UserTieHair = "\ue45f";
 
         /// <summary>
@@ -38354,6 +41840,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-tie-hair-long
         /// </summary>
+        [Description("user-tie-hair-long")]
         public const string UserTieHairLong = "\ue460";
 
         /// <summary>
@@ -38365,6 +41852,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-unlock
         /// </summary>
+        [Description("user-unlock")]
         public const string UserUnlock = "\ue058";
 
         /// <summary>
@@ -38376,6 +41864,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-visor
         /// </summary>
+        [Description("user-visor")]
         public const string UserVisor = "\ue04c";
 
         /// <summary>
@@ -38387,6 +41876,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-vneck
         /// </summary>
+        [Description("user-vneck")]
         public const string UserVneck = "\ue461";
 
         /// <summary>
@@ -38398,6 +41888,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-vneck-hair
         /// </summary>
+        [Description("user-vneck-hair")]
         public const string UserVneckHair = "\ue462";
 
         /// <summary>
@@ -38409,6 +41900,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-vneck-hair-long
         /// </summary>
+        [Description("user-vneck-hair-long")]
         public const string UserVneckHairLong = "\ue463";
 
         /// <summary>
@@ -38420,6 +41912,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/user-xmark
         /// </summary>
+        [Description("user-xmark")]
         public const string UserXmark = "\uf235";
 
         /// <summary>
@@ -38431,6 +41924,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/users
         /// </summary>
+        [Description("users")]
         public const string Users = "\uf0c0";
 
         /// <summary>
@@ -38442,6 +41936,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/users-between-lines
         /// </summary>
+        [Description("users-between-lines")]
         public const string UsersBetweenLines = "\ue591";
 
         /// <summary>
@@ -38453,6 +41948,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/users-gear
         /// </summary>
+        [Description("users-gear")]
         public const string UsersGear = "\uf509";
 
         /// <summary>
@@ -38464,6 +41960,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/users-line
         /// </summary>
+        [Description("users-line")]
         public const string UsersLine = "\ue592";
 
         /// <summary>
@@ -38475,6 +41972,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/users-medical
         /// </summary>
+        [Description("users-medical")]
         public const string UsersMedical = "\uf830";
 
         /// <summary>
@@ -38486,6 +41984,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/users-rays
         /// </summary>
+        [Description("users-rays")]
         public const string UsersRays = "\ue593";
 
         /// <summary>
@@ -38497,6 +41996,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/users-rectangle
         /// </summary>
+        [Description("users-rectangle")]
         public const string UsersRectangle = "\ue594";
 
         /// <summary>
@@ -38508,6 +42008,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/users-slash
         /// </summary>
+        [Description("users-slash")]
         public const string UsersSlash = "\ue073";
 
         /// <summary>
@@ -38519,6 +42020,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/users-viewfinder
         /// </summary>
+        [Description("users-viewfinder")]
         public const string UsersViewfinder = "\ue595";
 
         /// <summary>
@@ -38530,6 +42032,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/usps
         /// </summary>
+        [Description("usps")]
         public const string Usps = "\uf7e1";
 
         /// <summary>
@@ -38541,6 +42044,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/ussunnah
         /// </summary>
+        [Description("ussunnah")]
         public const string Ussunnah = "\uf407";
 
         /// <summary>
@@ -38552,6 +42056,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/utensils
         /// </summary>
+        [Description("utensils")]
         public const string Utensils = "\uf2e7";
 
         /// <summary>
@@ -38563,6 +42068,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/utensils-slash
         /// </summary>
+        [Description("utensils-slash")]
         public const string UtensilsSlash = "\ue464";
 
         /// <summary>
@@ -38574,6 +42080,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/utility-pole
         /// </summary>
+        [Description("utility-pole")]
         public const string UtilityPole = "\ue2c3";
 
         /// <summary>
@@ -38585,6 +42092,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/utility-pole-double
         /// </summary>
+        [Description("utility-pole-double")]
         public const string UtilityPoleDouble = "\ue2c4";
 
         /// <summary>
@@ -38596,6 +42104,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/v
         /// </summary>
+        [Description("v")]
         public const string V = "\u0056";
 
         /// <summary>
@@ -38607,6 +42116,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vaadin
         /// </summary>
+        [Description("vaadin")]
         public const string Vaadin = "\uf408";
 
         /// <summary>
@@ -38618,6 +42128,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vacuum
         /// </summary>
+        [Description("vacuum")]
         public const string Vacuum = "\ue04d";
 
         /// <summary>
@@ -38629,6 +42140,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vacuum-robot
         /// </summary>
+        [Description("vacuum-robot")]
         public const string VacuumRobot = "\ue04e";
 
         /// <summary>
@@ -38640,6 +42152,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/value-absolute
         /// </summary>
+        [Description("value-absolute")]
         public const string ValueAbsolute = "\uf6a6";
 
         /// <summary>
@@ -38651,6 +42164,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/van-shuttle
         /// </summary>
+        [Description("van-shuttle")]
         public const string VanShuttle = "\uf5b6";
 
         /// <summary>
@@ -38662,6 +42176,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vault
         /// </summary>
+        [Description("vault")]
         public const string Vault = "\ue2c5";
 
         /// <summary>
@@ -38673,6 +42188,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vector-circle
         /// </summary>
+        [Description("vector-circle")]
         public const string VectorCircle = "\ue2c6";
 
         /// <summary>
@@ -38684,6 +42200,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vector-polygon
         /// </summary>
+        [Description("vector-polygon")]
         public const string VectorPolygon = "\ue2c7";
 
         /// <summary>
@@ -38695,6 +42212,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vector-square
         /// </summary>
+        [Description("vector-square")]
         public const string VectorSquare = "\uf5cb";
 
         /// <summary>
@@ -38706,6 +42224,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vent-damper
         /// </summary>
+        [Description("vent-damper")]
         public const string VentDamper = "\ue465";
 
         /// <summary>
@@ -38717,6 +42236,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/venus
         /// </summary>
+        [Description("venus")]
         public const string Venus = "\uf221";
 
         /// <summary>
@@ -38728,6 +42248,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/venus-double
         /// </summary>
+        [Description("venus-double")]
         public const string VenusDouble = "\uf226";
 
         /// <summary>
@@ -38739,6 +42260,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/venus-mars
         /// </summary>
+        [Description("venus-mars")]
         public const string VenusMars = "\uf228";
 
         /// <summary>
@@ -38750,6 +42272,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vest
         /// </summary>
+        [Description("vest")]
         public const string Vest = "\ue085";
 
         /// <summary>
@@ -38761,6 +42284,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vest-patches
         /// </summary>
+        [Description("vest-patches")]
         public const string VestPatches = "\ue086";
 
         /// <summary>
@@ -38772,6 +42296,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/viacoin
         /// </summary>
+        [Description("viacoin")]
         public const string Viacoin = "\uf237";
 
         /// <summary>
@@ -38783,6 +42308,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/viadeo
         /// </summary>
+        [Description("viadeo")]
         public const string Viadeo = "\uf2a9";
 
         /// <summary>
@@ -38794,6 +42320,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vial
         /// </summary>
+        [Description("vial")]
         public const string Vial = "\uf492";
 
         /// <summary>
@@ -38805,6 +42332,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vial-circle-check
         /// </summary>
+        [Description("vial-circle-check")]
         public const string VialCircleCheck = "\ue596";
 
         /// <summary>
@@ -38816,6 +42344,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vial-virus
         /// </summary>
+        [Description("vial-virus")]
         public const string VialVirus = "\ue597";
 
         /// <summary>
@@ -38827,6 +42356,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vials
         /// </summary>
+        [Description("vials")]
         public const string Vials = "\uf493";
 
         /// <summary>
@@ -38838,6 +42368,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/viber
         /// </summary>
+        [Description("viber")]
         public const string Viber = "\uf409";
 
         /// <summary>
@@ -38849,6 +42380,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/video
         /// </summary>
+        [Description("video")]
         public const string Video = "\uf03d";
 
         /// <summary>
@@ -38860,6 +42392,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/video-arrow-down-left
         /// </summary>
+        [Description("video-arrow-down-left")]
         public const string VideoArrowDownLeft = "\ue2c8";
 
         /// <summary>
@@ -38871,6 +42404,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/video-arrow-up-right
         /// </summary>
+        [Description("video-arrow-up-right")]
         public const string VideoArrowUpRight = "\ue2c9";
 
         /// <summary>
@@ -38882,6 +42416,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/video-plus
         /// </summary>
+        [Description("video-plus")]
         public const string VideoPlus = "\uf4e1";
 
         /// <summary>
@@ -38893,6 +42428,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/video-slash
         /// </summary>
+        [Description("video-slash")]
         public const string VideoSlash = "\uf4e2";
 
         /// <summary>
@@ -38904,6 +42440,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vihara
         /// </summary>
+        [Description("vihara")]
         public const string Vihara = "\uf6a7";
 
         /// <summary>
@@ -38915,6 +42452,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vimeo
         /// </summary>
+        [Description("vimeo")]
         public const string Vimeo = "\uf40a";
 
         /// <summary>
@@ -38926,6 +42464,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vimeo-v
         /// </summary>
+        [Description("vimeo-v")]
         public const string VimeoV = "\uf27d";
 
         /// <summary>
@@ -38937,6 +42476,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vine
         /// </summary>
+        [Description("vine")]
         public const string Vine = "\uf1ca";
 
         /// <summary>
@@ -38948,6 +42488,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/violin
         /// </summary>
+        [Description("violin")]
         public const string Violin = "\uf8ed";
 
         /// <summary>
@@ -38959,6 +42500,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/virus
         /// </summary>
+        [Description("virus")]
         public const string Virus = "\ue074";
 
         /// <summary>
@@ -38970,6 +42512,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/virus-covid
         /// </summary>
+        [Description("virus-covid")]
         public const string VirusCovid = "\ue4a8";
 
         /// <summary>
@@ -38981,6 +42524,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/virus-covid-slash
         /// </summary>
+        [Description("virus-covid-slash")]
         public const string VirusCovidSlash = "\ue4a9";
 
         /// <summary>
@@ -38992,6 +42536,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/virus-slash
         /// </summary>
+        [Description("virus-slash")]
         public const string VirusSlash = "\ue075";
 
         /// <summary>
@@ -39003,6 +42548,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/viruses
         /// </summary>
+        [Description("viruses")]
         public const string Viruses = "\ue076";
 
         /// <summary>
@@ -39014,6 +42560,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vk
         /// </summary>
+        [Description("vk")]
         public const string Vk = "\uf189";
 
         /// <summary>
@@ -39025,6 +42572,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vnv
         /// </summary>
+        [Description("vnv")]
         public const string Vnv = "\uf40b";
 
         /// <summary>
@@ -39036,6 +42584,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/voicemail
         /// </summary>
+        [Description("voicemail")]
         public const string Voicemail = "\uf897";
 
         /// <summary>
@@ -39047,6 +42596,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/volcano
         /// </summary>
+        [Description("volcano")]
         public const string Volcano = "\uf770";
 
         /// <summary>
@@ -39058,6 +42608,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/volleyball
         /// </summary>
+        [Description("volleyball")]
         public const string Volleyball = "\uf45f";
 
         /// <summary>
@@ -39069,6 +42620,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/volume
         /// </summary>
+        [Description("volume")]
         public const string Volume = "\uf6a8";
 
         /// <summary>
@@ -39080,6 +42632,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/volume-high
         /// </summary>
+        [Description("volume-high")]
         public const string VolumeHigh = "\uf028";
 
         /// <summary>
@@ -39091,6 +42644,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/volume-low
         /// </summary>
+        [Description("volume-low")]
         public const string VolumeLow = "\uf027";
 
         /// <summary>
@@ -39102,6 +42656,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/volume-off
         /// </summary>
+        [Description("volume-off")]
         public const string VolumeOff = "\uf026";
 
         /// <summary>
@@ -39113,6 +42668,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/volume-slash
         /// </summary>
+        [Description("volume-slash")]
         public const string VolumeSlash = "\uf2e2";
 
         /// <summary>
@@ -39124,6 +42680,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/volume-xmark
         /// </summary>
+        [Description("volume-xmark")]
         public const string VolumeXmark = "\uf6a9";
 
         /// <summary>
@@ -39135,6 +42692,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vr-cardboard
         /// </summary>
+        [Description("vr-cardboard")]
         public const string VrCardboard = "\uf729";
 
         /// <summary>
@@ -39146,6 +42704,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/vuejs
         /// </summary>
+        [Description("vuejs")]
         public const string Vuejs = "\uf41f";
 
         /// <summary>
@@ -39157,6 +42716,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/w
         /// </summary>
+        [Description("w")]
         public const string W = "\u0057";
 
         /// <summary>
@@ -39168,6 +42728,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/waffle
         /// </summary>
+        [Description("waffle")]
         public const string Waffle = "\ue466";
 
         /// <summary>
@@ -39179,6 +42740,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wagon-covered
         /// </summary>
+        [Description("wagon-covered")]
         public const string WagonCovered = "\uf8ee";
 
         /// <summary>
@@ -39190,6 +42752,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/walker
         /// </summary>
+        [Description("walker")]
         public const string Walker = "\uf831";
 
         /// <summary>
@@ -39201,6 +42764,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/walkie-talkie
         /// </summary>
+        [Description("walkie-talkie")]
         public const string WalkieTalkie = "\uf8ef";
 
         /// <summary>
@@ -39212,6 +42776,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wallet
         /// </summary>
+        [Description("wallet")]
         public const string Wallet = "\uf555";
 
         /// <summary>
@@ -39223,6 +42788,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wand
         /// </summary>
+        [Description("wand")]
         public const string Wand = "\uf72a";
 
         /// <summary>
@@ -39234,6 +42800,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wand-magic
         /// </summary>
+        [Description("wand-magic")]
         public const string WandMagic = "\uf0d0";
 
         /// <summary>
@@ -39245,6 +42812,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wand-magic-sparkles
         /// </summary>
+        [Description("wand-magic-sparkles")]
         public const string WandMagicSparkles = "\ue2ca";
 
         /// <summary>
@@ -39256,6 +42824,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wand-sparkles
         /// </summary>
+        [Description("wand-sparkles")]
         public const string WandSparkles = "\uf72b";
 
         /// <summary>
@@ -39267,6 +42836,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/warehouse
         /// </summary>
+        [Description("warehouse")]
         public const string Warehouse = "\uf494";
 
         /// <summary>
@@ -39278,6 +42848,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/warehouse-full
         /// </summary>
+        [Description("warehouse-full")]
         public const string WarehouseFull = "\uf495";
 
         /// <summary>
@@ -39289,6 +42860,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/washing-machine
         /// </summary>
+        [Description("washing-machine")]
         public const string WashingMachine = "\uf898";
 
         /// <summary>
@@ -39300,6 +42872,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/watch
         /// </summary>
+        [Description("watch")]
         public const string Watch = "\uf2e1";
 
         /// <summary>
@@ -39311,6 +42884,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/watch-apple
         /// </summary>
+        [Description("watch-apple")]
         public const string WatchApple = "\ue2cb";
 
         /// <summary>
@@ -39322,6 +42896,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/watch-calculator
         /// </summary>
+        [Description("watch-calculator")]
         public const string WatchCalculator = "\uf8f0";
 
         /// <summary>
@@ -39333,6 +42908,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/watch-fitness
         /// </summary>
+        [Description("watch-fitness")]
         public const string WatchFitness = "\uf63e";
 
         /// <summary>
@@ -39344,6 +42920,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/watch-smart
         /// </summary>
+        [Description("watch-smart")]
         public const string WatchSmart = "\ue2cc";
 
         /// <summary>
@@ -39355,6 +42932,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/watchman-monitoring
         /// </summary>
+        [Description("watchman-monitoring")]
         public const string WatchmanMonitoring = "\ue087";
 
         /// <summary>
@@ -39366,6 +42944,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/water
         /// </summary>
+        [Description("water")]
         public const string Water = "\uf773";
 
         /// <summary>
@@ -39377,6 +42956,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/water-arrow-down
         /// </summary>
+        [Description("water-arrow-down")]
         public const string WaterArrowDown = "\uf774";
 
         /// <summary>
@@ -39388,6 +42968,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/water-arrow-up
         /// </summary>
+        [Description("water-arrow-up")]
         public const string WaterArrowUp = "\uf775";
 
         /// <summary>
@@ -39399,6 +42980,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/water-ladder
         /// </summary>
+        [Description("water-ladder")]
         public const string WaterLadder = "\uf5c5";
 
         /// <summary>
@@ -39410,6 +42992,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/watermelon-slice
         /// </summary>
+        [Description("watermelon-slice")]
         public const string WatermelonSlice = "\ue337";
 
         /// <summary>
@@ -39421,6 +43004,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wave-pulse
         /// </summary>
+        [Description("wave-pulse")]
         public const string WavePulse = "\uf5f8";
 
         /// <summary>
@@ -39432,6 +43016,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wave-sine
         /// </summary>
+        [Description("wave-sine")]
         public const string WaveSine = "\uf899";
 
         /// <summary>
@@ -39443,6 +43028,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wave-square
         /// </summary>
+        [Description("wave-square")]
         public const string WaveSquare = "\uf83e";
 
         /// <summary>
@@ -39454,6 +43040,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wave-triangle
         /// </summary>
+        [Description("wave-triangle")]
         public const string WaveTriangle = "\uf89a";
 
         /// <summary>
@@ -39465,6 +43052,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/waveform
         /// </summary>
+        [Description("waveform")]
         public const string Waveform = "\uf8f1";
 
         /// <summary>
@@ -39476,6 +43064,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/waveform-lines
         /// </summary>
+        [Description("waveform-lines")]
         public const string WaveformLines = "\uf8f2";
 
         /// <summary>
@@ -39487,6 +43076,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/waze
         /// </summary>
+        [Description("waze")]
         public const string Waze = "\uf83f";
 
         /// <summary>
@@ -39498,6 +43088,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/webhook
         /// </summary>
+        [Description("webhook")]
         public const string Webhook = "\ue5d5";
 
         /// <summary>
@@ -39509,6 +43100,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/weebly
         /// </summary>
+        [Description("weebly")]
         public const string Weebly = "\uf5cc";
 
         /// <summary>
@@ -39520,6 +43112,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/weibo
         /// </summary>
+        [Description("weibo")]
         public const string Weibo = "\uf18a";
 
         /// <summary>
@@ -39531,6 +43124,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/weight-hanging
         /// </summary>
+        [Description("weight-hanging")]
         public const string WeightHanging = "\uf5cd";
 
         /// <summary>
@@ -39542,6 +43136,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/weight-scale
         /// </summary>
+        [Description("weight-scale")]
         public const string WeightScale = "\uf496";
 
         /// <summary>
@@ -39553,6 +43148,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/weixin
         /// </summary>
+        [Description("weixin")]
         public const string Weixin = "\uf1d7";
 
         /// <summary>
@@ -39564,6 +43160,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/whale
         /// </summary>
+        [Description("whale")]
         public const string Whale = "\uf72c";
 
         /// <summary>
@@ -39575,6 +43172,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/whatsapp
         /// </summary>
+        [Description("whatsapp")]
         public const string Whatsapp = "\uf232";
 
         /// <summary>
@@ -39586,6 +43184,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wheat
         /// </summary>
+        [Description("wheat")]
         public const string Wheat = "\uf72d";
 
         /// <summary>
@@ -39597,6 +43196,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wheat-awn
         /// </summary>
+        [Description("wheat-awn")]
         public const string WheatAwn = "\ue2cd";
 
         /// <summary>
@@ -39608,6 +43208,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wheat-awn-circle-exclamation
         /// </summary>
+        [Description("wheat-awn-circle-exclamation")]
         public const string WheatAwnCircleExclamation = "\ue598";
 
         /// <summary>
@@ -39619,6 +43220,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wheat-awn-slash
         /// </summary>
+        [Description("wheat-awn-slash")]
         public const string WheatAwnSlash = "\ue338";
 
         /// <summary>
@@ -39630,6 +43232,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wheat-slash
         /// </summary>
+        [Description("wheat-slash")]
         public const string WheatSlash = "\ue339";
 
         /// <summary>
@@ -39641,6 +43244,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wheelchair
         /// </summary>
+        [Description("wheelchair")]
         public const string Wheelchair = "\uf193";
 
         /// <summary>
@@ -39652,6 +43256,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wheelchair-move
         /// </summary>
+        [Description("wheelchair-move")]
         public const string WheelchairMove = "\ue2ce";
 
         /// <summary>
@@ -39663,6 +43268,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/whiskey-glass
         /// </summary>
+        [Description("whiskey-glass")]
         public const string WhiskeyGlass = "\uf7a0";
 
         /// <summary>
@@ -39674,6 +43280,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/whiskey-glass-ice
         /// </summary>
+        [Description("whiskey-glass-ice")]
         public const string WhiskeyGlassIce = "\uf7a1";
 
         /// <summary>
@@ -39685,6 +43292,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/whistle
         /// </summary>
+        [Description("whistle")]
         public const string Whistle = "\uf460";
 
         /// <summary>
@@ -39696,6 +43304,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/whmcs
         /// </summary>
+        [Description("whmcs")]
         public const string Whmcs = "\uf40d";
 
         /// <summary>
@@ -39707,6 +43316,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wifi
         /// </summary>
+        [Description("wifi")]
         public const string Wifi = "\uf1eb";
 
         /// <summary>
@@ -39718,6 +43328,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wifi-exclamation
         /// </summary>
+        [Description("wifi-exclamation")]
         public const string WifiExclamation = "\ue2cf";
 
         /// <summary>
@@ -39729,6 +43340,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wifi-fair
         /// </summary>
+        [Description("wifi-fair")]
         public const string WifiFair = "\uf6ab";
 
         /// <summary>
@@ -39740,6 +43352,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wifi-slash
         /// </summary>
+        [Description("wifi-slash")]
         public const string WifiSlash = "\uf6ac";
 
         /// <summary>
@@ -39751,6 +43364,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wifi-weak
         /// </summary>
+        [Description("wifi-weak")]
         public const string WifiWeak = "\uf6aa";
 
         /// <summary>
@@ -39762,6 +43376,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wikipedia-w
         /// </summary>
+        [Description("wikipedia-w")]
         public const string WikipediaW = "\uf266";
 
         /// <summary>
@@ -39773,6 +43388,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wind
         /// </summary>
+        [Description("wind")]
         public const string Wind = "\uf72e";
 
         /// <summary>
@@ -39784,6 +43400,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wind-turbine
         /// </summary>
+        [Description("wind-turbine")]
         public const string WindTurbine = "\uf89b";
 
         /// <summary>
@@ -39795,6 +43412,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wind-warning
         /// </summary>
+        [Description("wind-warning")]
         public const string WindWarning = "\uf776";
 
         /// <summary>
@@ -39806,6 +43424,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/window
         /// </summary>
+        [Description("window")]
         public const string Window = "\uf40e";
 
         /// <summary>
@@ -39817,6 +43436,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/window-flip
         /// </summary>
+        [Description("window-flip")]
         public const string WindowFlip = "\uf40f";
 
         /// <summary>
@@ -39828,6 +43448,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/window-frame
         /// </summary>
+        [Description("window-frame")]
         public const string WindowFrame = "\ue04f";
 
         /// <summary>
@@ -39839,6 +43460,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/window-frame-open
         /// </summary>
+        [Description("window-frame-open")]
         public const string WindowFrameOpen = "\ue050";
 
         /// <summary>
@@ -39850,6 +43472,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/window-maximize
         /// </summary>
+        [Description("window-maximize")]
         public const string WindowMaximize = "\uf2d0";
 
         /// <summary>
@@ -39861,6 +43484,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/window-minimize
         /// </summary>
+        [Description("window-minimize")]
         public const string WindowMinimize = "\uf2d1";
 
         /// <summary>
@@ -39872,6 +43496,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/window-restore
         /// </summary>
+        [Description("window-restore")]
         public const string WindowRestore = "\uf2d2";
 
         /// <summary>
@@ -39883,6 +43508,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/windows
         /// </summary>
+        [Description("windows")]
         public const string Windows = "\uf17a";
 
         /// <summary>
@@ -39894,6 +43520,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/windsock
         /// </summary>
+        [Description("windsock")]
         public const string Windsock = "\uf777";
 
         /// <summary>
@@ -39905,6 +43532,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wine-bottle
         /// </summary>
+        [Description("wine-bottle")]
         public const string WineBottle = "\uf72f";
 
         /// <summary>
@@ -39916,6 +43544,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wine-glass
         /// </summary>
+        [Description("wine-glass")]
         public const string WineGlass = "\uf4e3";
 
         /// <summary>
@@ -39927,6 +43556,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wine-glass-crack
         /// </summary>
+        [Description("wine-glass-crack")]
         public const string WineGlassCrack = "\uf4bb";
 
         /// <summary>
@@ -39938,6 +43568,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wine-glass-empty
         /// </summary>
+        [Description("wine-glass-empty")]
         public const string WineGlassEmpty = "\uf5ce";
 
         /// <summary>
@@ -39949,6 +43580,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wirsindhandwerk
         /// </summary>
+        [Description("wirsindhandwerk")]
         public const string Wirsindhandwerk = "\ue2d0";
 
         /// <summary>
@@ -39960,6 +43592,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wix
         /// </summary>
+        [Description("wix")]
         public const string Wix = "\uf5cf";
 
         /// <summary>
@@ -39971,6 +43604,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wizards-of-the-coast
         /// </summary>
+        [Description("wizards-of-the-coast")]
         public const string WizardsOfTheCoast = "\uf730";
 
         /// <summary>
@@ -39982,6 +43616,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wodu
         /// </summary>
+        [Description("wodu")]
         public const string Wodu = "\ue088";
 
         /// <summary>
@@ -39993,6 +43628,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wolf-pack-battalion
         /// </summary>
+        [Description("wolf-pack-battalion")]
         public const string WolfPackBattalion = "\uf514";
 
         /// <summary>
@@ -40004,6 +43640,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/won-sign
         /// </summary>
+        [Description("won-sign")]
         public const string WonSign = "\uf159";
 
         /// <summary>
@@ -40015,6 +43652,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wordpress
         /// </summary>
+        [Description("wordpress")]
         public const string Wordpress = "\uf19a";
 
         /// <summary>
@@ -40026,6 +43664,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wordpress-simple
         /// </summary>
+        [Description("wordpress-simple")]
         public const string WordpressSimple = "\uf411";
 
         /// <summary>
@@ -40037,6 +43676,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/worm
         /// </summary>
+        [Description("worm")]
         public const string Worm = "\ue599";
 
         /// <summary>
@@ -40048,6 +43688,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wpbeginner
         /// </summary>
+        [Description("wpbeginner")]
         public const string Wpbeginner = "\uf297";
 
         /// <summary>
@@ -40059,6 +43700,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wpexplorer
         /// </summary>
+        [Description("wpexplorer")]
         public const string Wpexplorer = "\uf2de";
 
         /// <summary>
@@ -40070,6 +43712,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wpforms
         /// </summary>
+        [Description("wpforms")]
         public const string Wpforms = "\uf298";
 
         /// <summary>
@@ -40081,6 +43724,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wpressr
         /// </summary>
+        [Description("wpressr")]
         public const string Wpressr = "\uf3e4";
 
         /// <summary>
@@ -40092,6 +43736,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wreath
         /// </summary>
+        [Description("wreath")]
         public const string Wreath = "\uf7e2";
 
         /// <summary>
@@ -40103,6 +43748,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wreath-laurel
         /// </summary>
+        [Description("wreath-laurel")]
         public const string WreathLaurel = "\ue5d2";
 
         /// <summary>
@@ -40114,6 +43760,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wrench
         /// </summary>
+        [Description("wrench")]
         public const string Wrench = "\uf0ad";
 
         /// <summary>
@@ -40125,6 +43772,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/wrench-simple
         /// </summary>
+        [Description("wrench-simple")]
         public const string WrenchSimple = "\ue2d1";
 
         /// <summary>
@@ -40136,6 +43784,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/x
         /// </summary>
+        [Description("x")]
         public const string X = "\u0058";
 
         /// <summary>
@@ -40147,6 +43796,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/x-ray
         /// </summary>
+        [Description("x-ray")]
         public const string XRay = "\uf497";
 
         /// <summary>
@@ -40158,6 +43808,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/xbox
         /// </summary>
+        [Description("xbox")]
         public const string Xbox = "\uf412";
 
         /// <summary>
@@ -40169,6 +43820,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/xing
         /// </summary>
+        [Description("xing")]
         public const string Xing = "\uf168";
 
         /// <summary>
@@ -40180,6 +43832,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/xmark
         /// </summary>
+        [Description("xmark")]
         public const string Xmark = "\uf00d";
 
         /// <summary>
@@ -40191,6 +43844,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/xmark-large
         /// </summary>
+        [Description("xmark-large")]
         public const string XmarkLarge = "\ue59b";
 
         /// <summary>
@@ -40202,6 +43856,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/xmark-to-slot
         /// </summary>
+        [Description("xmark-to-slot")]
         public const string XmarkToSlot = "\uf771";
 
         /// <summary>
@@ -40213,6 +43868,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/xmarks-lines
         /// </summary>
+        [Description("xmarks-lines")]
         public const string XmarksLines = "\ue59a";
 
         /// <summary>
@@ -40224,6 +43880,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/y
         /// </summary>
+        [Description("y")]
         public const string Y = "\u0059";
 
         /// <summary>
@@ -40235,6 +43892,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/y-combinator
         /// </summary>
+        [Description("y-combinator")]
         public const string YCombinator = "\uf23b";
 
         /// <summary>
@@ -40246,6 +43904,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/yahoo
         /// </summary>
+        [Description("yahoo")]
         public const string Yahoo = "\uf19e";
 
         /// <summary>
@@ -40257,6 +43916,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/yammer
         /// </summary>
+        [Description("yammer")]
         public const string Yammer = "\uf840";
 
         /// <summary>
@@ -40268,6 +43928,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/yandex
         /// </summary>
+        [Description("yandex")]
         public const string Yandex = "\uf413";
 
         /// <summary>
@@ -40279,6 +43940,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/yandex-international
         /// </summary>
+        [Description("yandex-international")]
         public const string YandexInternational = "\uf414";
 
         /// <summary>
@@ -40290,6 +43952,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/yarn
         /// </summary>
+        [Description("yarn")]
         public const string Yarn = "\uf7e3";
 
         /// <summary>
@@ -40301,6 +43964,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/yelp
         /// </summary>
+        [Description("yelp")]
         public const string Yelp = "\uf1e9";
 
         /// <summary>
@@ -40312,6 +43976,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/yen-sign
         /// </summary>
+        [Description("yen-sign")]
         public const string YenSign = "\uf157";
 
         /// <summary>
@@ -40323,6 +43988,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/yin-yang
         /// </summary>
+        [Description("yin-yang")]
         public const string YinYang = "\uf6ad";
 
         /// <summary>
@@ -40334,6 +44000,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/yoast
         /// </summary>
+        [Description("yoast")]
         public const string Yoast = "\uf2b1";
 
         /// <summary>
@@ -40345,6 +44012,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/youtube
         /// </summary>
+        [Description("youtube")]
         public const string Youtube = "\uf167";
 
         /// <summary>
@@ -40356,6 +44024,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/z
         /// </summary>
+        [Description("z")]
         public const string Z = "\u005a";
 
         /// <summary>
@@ -40367,6 +44036,7 @@ namespace FontAwesome
         /// <para/>
         /// See https://fontawesome.com/icons/zhihu
         /// </summary>
+        [Description("zhihu")]
         public const string Zhihu = "\uf63f";
     }
 }
