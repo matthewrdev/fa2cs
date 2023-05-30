@@ -7,4 +7,5 @@
         /// <para/>
         /// See $link$
         /// </summary>
+        [Description("$name$")]
         public const string $dotnet_name$ = "\u$code$";
