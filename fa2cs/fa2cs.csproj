@@ -28,4 +28,9 @@
   <ItemGroup>
     <Folder Include="Helpers\" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\FontAwesomeIcons.cs">
+      <Link>FontAwesomeIcons.cs</Link>
+    </Compile>
+  </ItemGroup>
 </Project>

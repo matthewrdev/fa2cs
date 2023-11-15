@@ -1,6 +1,6 @@
 # About
 
-**Last Generated for FontAwesome v6.4.0 on May 12, 2023 4:13:18 PM (UTC)**
+**Last Generated for FontAwesome v6.4.2 on Wednesday, November 15, 2023 1:03:57 AM (UTC)**
 
 Use `FontAwesomeIcons.cs` to replace confusing and arcane unicode strings with a clean and descriptive property.
 
