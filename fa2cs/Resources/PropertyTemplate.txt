@@ -8,4 +8,6 @@
         /// See $link$
         /// </summary>
         [Description("$name$")]
+        [SupportedFreeFonts($supported_free_fonts$)]
+        [SupportedProFonts($supported_pro_fonts$)]
         public const string $dotnet_name$ = "\u$code$";

@@ -1,7 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using fa2cs.Helpers;
+﻿using fa2cs.Helpers;
 using fa2cs.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace fa2cs
 {
@@ -24,7 +25,18 @@ namespace fa2cs
                                        .Replace("$dotnet_name$", icon.DotNetName)
                                        .Replace("$introduced_version$", icon.IntroducedVersion)
                                        .Replace("$last_modified_version$", icon.LastModifiedVersion)
-                                       .Replace("$styles$", icon.StylesSummary);
+                                       .Replace("$styles$", icon.StylesSummary)
+                                       
+                                       .Replace("$supported_pro_fonts$", string.Join(", ", icon.ProStyles.Select(s => $"Style.{s}")));
+
+                if (icon.FreeStyles.Any())
+                {
+                    property = property.Replace("$supported_free_fonts$", string.Join(", ", icon.FreeStyles.Select(s => $"Style.{s}")));
+                }
+                else
+                {
+                    property = property.Replace("$supported_free_fonts$", "Style.None");
+                }
 
                 properties.Add(property);
             }
