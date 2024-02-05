@@ -5,9 +5,9 @@ namespace FontAwesome;
 
 public class SupportedFreeFontsAttribute : Attribute
 {
-    public Style[] SupportedFonts { get; }
+    public FAStyle[] SupportedFonts { get; }
 
-    public SupportedFreeFontsAttribute(params Style[] fonts)
+    public SupportedFreeFontsAttribute(params FAStyle[] fonts)
     {
         SupportedFonts = fonts;
     }
@@ -15,17 +15,17 @@ public class SupportedFreeFontsAttribute : Attribute
 
 public class SupportedProFontsAttribute : Attribute
 {
-    public Style[] SupportedFonts { get; }
+    public FAStyle[] SupportedFonts { get; }
 
-    public SupportedProFontsAttribute(params Style[] fonts)
+    public SupportedProFontsAttribute(params FAStyle[] fonts)
     {
         SupportedFonts = fonts;
     }
 }
 
-public enum Style
+public enum FAStyle
 {
-    None,
+    Unsupported,
 	Brands,
 	Light,
 	Regular,

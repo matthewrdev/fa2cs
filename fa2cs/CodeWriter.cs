@@ -26,16 +26,15 @@ namespace fa2cs
                                        .Replace("$introduced_version$", icon.IntroducedVersion)
                                        .Replace("$last_modified_version$", icon.LastModifiedVersion)
                                        .Replace("$styles$", icon.StylesSummary)
-                                       
-                                       .Replace("$supported_pro_fonts$", string.Join(", ", icon.ProStyles.Select(s => $"Style.{s}")));
+                                       .Replace("$supported_pro_fonts$", string.Join(", ", icon.ProStyles.Select(s => $"FAStyle.{s}")));
 
                 if (icon.FreeStyles.Any())
                 {
-                    property = property.Replace("$supported_free_fonts$", string.Join(", ", icon.FreeStyles.Select(s => $"Style.{s}")));
+                    property = property.Replace("$supported_free_fonts$", string.Join(", ", icon.FreeStyles.Select(s => $"FAStyle.{s}")));
                 }
                 else
                 {
-                    property = property.Replace("$supported_free_fonts$", "Style.None");
+                    property = property.Replace("$supported_free_fonts$", "FAStyle.Unsupported");
                 }
 
                 properties.Add(property);
