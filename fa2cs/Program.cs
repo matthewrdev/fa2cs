@@ -1,10 +1,8 @@
-﻿using System;
+﻿using fa2cs.Helpers;
+using fa2cs.Models;
+using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
-using fa2cs.Helpers;
-using fa2cs.Models;
 
 namespace fa2cs
 {
